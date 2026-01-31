@@ -1,27 +1,27 @@
 // GLOBALNE PROMENLJIVE
-let lekoviBaza = {};        // Svi lekovi iz JSON-a
-let selectedDrugs = [];     // Lekovi koje je korisnik izabrao (Korpa)
-let currentModalDrugIndex = null; // Da znamo koji lek da obrišemo
+let lekoviBaza = [];        
+let selectedDrugs = [];     
+let currentModalDrugIndex = null; 
+let currentModalDrugAtc = null; // Za traženje paralela
 
 // 1. UČITAVANJE BAZE
 fetch('lekovi.json')
     .then(response => response.json())
     .then(data => {
-        // Pretvaramo objekat { "ime": [varijante] } u ravnu listu za lakšu pretragu
-        // Ovo olakšava pretragu po EAN kodu
         lekoviBaza = [];
+        // Pretvaramo objekat u niz radi lakše pretrage
         for (const [key, variants] of Object.entries(data)) {
             variants.forEach(variant => {
-                // Dodajemo ključ pretrage u objekat radi lakšeg pristupa
+                // Dodajemo searchKey da bi originalni ključ bio dostupan
                 variant.searchKey = key; 
                 lekoviBaza.push(variant);
             });
         }
-        console.log("Baza učitana. Ukupno varijanti:", lekoviBaza.length);
+        console.log("Baza učitana: " + lekoviBaza.length + " lekova");
     })
-    .catch(err => console.error("Greška baze:", err));
+    .catch(err => console.error("Greška pri učitavanju lekovi.json:", err));
 
-// 2. LOGIKA PRETRAGE (Input Listener)
+// 2. NAPREDNA PRETRAGA (Sortirana i po jačini)
 const searchInput = document.getElementById('searchInput');
 const searchResults = document.getElementById('searchResults');
 
@@ -29,32 +29,47 @@ searchInput.addEventListener('input', function(e) {
     const query = e.target.value.toLowerCase().trim();
     searchResults.innerHTML = '';
     
-    if (query.length < 3) {
+    if (query.length < 2) {
         searchResults.classList.add('hidden');
         return;
     }
 
-    // Filtriranje: Ime sadrži query ILI EAN počinje sa query
-    // Limitiramo na 10 rezultata da ne gušimo UI
-    const matches = lekoviBaza.filter(drug => {
+    // Filtriranje
+    let matches = lekoviBaza.filter(drug => {
         const nameMatch = drug.puno_ime.toLowerCase().includes(query);
         const eanMatch = drug.ean && drug.ean.startsWith(query);
-        return nameMatch || eanMatch;
-    }).slice(0, 10);
+        // Dodajemo i pretragu po jačini (npr "10mg")
+        const doseMatch = drug.jacina && drug.jacina.toLowerCase().includes(query);
+        return nameMatch || eanMatch || doseMatch;
+    });
+
+    // SORTIRANJE PO ABECEDI
+    matches.sort((a, b) => a.puno_ime.localeCompare(b.puno_ime));
+
+    // Limit na 50 rezultata da ne koči
+    matches = matches.slice(0, 50);
 
     if (matches.length > 0) {
         searchResults.classList.remove('hidden');
         matches.forEach(drug => {
             const div = document.createElement('div');
-            div.className = "p-3 border-b border-gray-100 hover:bg-blue-50 cursor-pointer flex justify-between items-center transition";
+            div.className = "p-4 border-b border-gray-100 hover:bg-blue-50 cursor-pointer flex justify-between items-center transition group";
+            
+            // Prikazujemo Ime + Jačinu (Ako postoji)
+            const displayName = drug.jacina 
+                ? `${drug.puno_ime} <span class="text-gray-500 font-normal text-sm ml-1">(${drug.jacina})</span>`
+                : drug.puno_ime;
+
             div.innerHTML = `
                 <div>
-                    <div class="font-bold text-gray-800 text-sm">${drug.puno_ime}</div>
-                    <div class="text-xs text-gray-500">ATC: ${drug.atc} ${drug.ean ? '| EAN: ' + drug.ean : ''}</div>
+                    <div class="font-bold text-gray-800 text-sm group-hover:text-blue-700">${displayName}</div>
+                    <div class="text-xs text-gray-400 mt-0.5 flex gap-2">
+                        <span class="bg-gray-100 px-1.5 rounded text-gray-500">${drug.atc}</span>
+                        ${drug.oblik ? `<span>${drug.oblik}</span>` : ''}
+                    </div>
                 </div>
-                <div class="text-blue-500 font-bold text-xl">+</div>
+                <div class="text-blue-300 group-hover:text-blue-600 font-bold text-xl px-2">+</div>
             `;
-            // Klik na rezultat dodaje lek
             div.onclick = () => selectDrug(drug);
             searchResults.appendChild(div);
         });
@@ -63,36 +78,49 @@ searchInput.addEventListener('input', function(e) {
     }
 });
 
-// 3. DODAVANJE LEKA U LISTU
+// Sakrij rezultate kad se klikne van
+document.addEventListener('click', function(e) {
+    if (!searchInput.contains(e.target) && !searchResults.contains(e.target)) {
+        searchResults.classList.add('hidden');
+    }
+});
+
+// 3. ODABIR LEKA
 function selectDrug(drug) {
-    // Provera duplikata
-    const exists = selectedDrugs.some(d => d.ean === drug.ean && d.puno_ime === drug.puno_ime);
+    // Provera da li već postoji isti lek (po imenu i jačini)
+    const exists = selectedDrugs.some(d => 
+        d.atc === drug.atc && 
+        d.puno_ime === drug.puno_ime && 
+        d.jacina === drug.jacina
+    );
+    
     if (exists) {
-        alert("Ovaj lek je već na spisku.");
+        alert("Ovaj lek je već dodat u listu.");
         searchInput.value = '';
         searchResults.classList.add('hidden');
         return;
     }
 
     selectedDrugs.push(drug);
-    
-    // UI Reset
     searchInput.value = '';
     searchResults.classList.add('hidden');
     
     renderSelectedDrugs();
-    checkInteractions(); // Automatska provera
+    checkInteractions();
 }
 
-// 4. PRIKAZ IZABRANIH LEKOVA
+// 4. RENDERING LISTE
 function renderSelectedDrugs() {
     const container = document.getElementById('selectedDrugsList');
     const wrapper = document.getElementById('selectedContainer');
+    const counter = document.getElementById('drugCounter');
     
     container.innerHTML = '';
+    counter.innerText = selectedDrugs.length;
     
     if (selectedDrugs.length === 0) {
         wrapper.classList.add('hidden');
+        document.getElementById('interactionsContainer').classList.add('hidden');
         return;
     }
     
@@ -100,21 +128,26 @@ function renderSelectedDrugs() {
 
     selectedDrugs.forEach((drug, index) => {
         const item = document.createElement('div');
-        // Stil dugmeta kao u skici (Box sa imenom)
-        item.className = "bg-white border border-blue-200 rounded-xl p-4 shadow-sm flex justify-between items-center cursor-pointer hover:shadow-md transition group";
-        item.onclick = () => openModal(index); // Klik otvara modal
+        item.className = "bg-white border border-blue-100 rounded-xl p-4 shadow-sm flex justify-between items-center cursor-pointer hover:shadow-md hover:border-blue-300 transition group active:scale-[0.99]";
+        item.onclick = () => openModal(index);
+
+        const displayName = drug.jacina 
+            ? `${drug.puno_ime} <span class="text-gray-500 font-normal text-sm">(${drug.jacina})</span>`
+            : drug.puno_ime;
 
         item.innerHTML = `
-            <div class="flex items-center gap-3">
-                <div class="bg-blue-100 text-blue-600 p-2 rounded-lg">
-                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19.428 15.428a2 2 0 00-1.022-.547l-2.387-.477a6 6 0 00-3.86.517l-.318.158a6 6 0 01-3.86.517L6.05 15.21a2 2 0 00-1.806.547M8 4h8l-1 1v5.172a2 2 0 00.586 1.414l5 5c1.26 1.26.367 3.414-1.415 3.414H4.828c-1.782 0-2.674-2.154-1.414-3.414l5-5A2 2 0 009 10.172V5L8 4z"/></svg>
+            <div class="flex items-center gap-3 overflow-hidden">
+                <div class="bg-blue-50 text-blue-600 p-2.5 rounded-lg shrink-0 font-bold text-xs border border-blue-100">
+                    ${index + 1}
                 </div>
-                <div>
-                    <div class="font-bold text-gray-800">${drug.puno_ime}</div>
-                    <div class="text-xs text-gray-400">${drug.inn}</div>
+                <div class="min-w-0">
+                    <div class="font-bold text-gray-800 text-sm truncate">${displayName}</div>
+                    <div class="text-xs text-gray-400 truncate flex gap-1">
+                        <span>${drug.inn || 'INN nepoznat'}</span>
+                    </div>
                 </div>
             </div>
-            <div class="text-gray-300 group-hover:text-blue-500 transition">
+            <div class="text-gray-300 group-hover:text-blue-500 transition pl-2">
                 <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
             </div>
         `;
@@ -122,43 +155,55 @@ function renderSelectedDrugs() {
     });
 }
 
-// 5. MODAL LOGIKA
+// 5. MODAL & PARALELE
 function openModal(index) {
     currentModalDrugIndex = index;
     const drug = selectedDrugs[index];
+    currentModalDrugAtc = drug.atc; // Cuvamo ATC za paralele
+
     const modal = document.getElementById('drugModal');
     const content = document.getElementById('modalContent');
+    const parallelsSec = document.getElementById('parallelsSection');
     
-    // Generisanje sadržaja modala
+    // Resetujemo sekciju za paralele
+    parallelsSec.classList.add('hidden');
+    document.getElementById('parallelsList').innerHTML = '';
+
     let warningHtml = drug.upozorenje_voznja 
-        ? `<div class="bg-red-50 border-l-4 border-red-500 p-3 mb-4 text-red-700 text-sm font-bold flex items-start gap-2">
-             <span>⚠️</span> <span>${drug.upozorenje_voznja}</span>
+        ? `<div class="bg-red-50 border border-red-100 rounded-xl p-4 mb-6 text-red-700 text-sm font-bold flex items-start gap-3">
+             <span class="text-2xl">⚠️</span> <span class="mt-1">${drug.upozorenje_voznja}</span>
            </div>` 
         : '';
 
-    let linksHtml = '<div class="flex gap-2 mt-4">';
-    if(drug.smpc) linksHtml += `<a href="${drug.smpc}" target="_blank" class="flex-1 bg-blue-600 text-white text-center py-3 rounded-lg font-bold text-sm hover:bg-blue-700">📄 SmPC (Lekar)</a>`;
-    if(drug.pil) linksHtml += `<a href="${drug.pil}" target="_blank" class="flex-1 bg-green-500 text-white text-center py-3 rounded-lg font-bold text-sm hover:bg-green-600">💊 Uputstvo</a>`;
+    let linksHtml = '<div class="grid grid-cols-2 gap-3 mt-6">';
+    if(drug.smpc) linksHtml += `<a href="${drug.smpc}" target="_blank" class="flex items-center justify-center gap-2 bg-blue-600 text-white py-3 rounded-xl font-bold text-sm hover:bg-blue-700 transition">📄 SmPC (Lekar)</a>`;
+    if(drug.pil) linksHtml += `<a href="${drug.pil}" target="_blank" class="flex items-center justify-center gap-2 bg-emerald-500 text-white py-3 rounded-xl font-bold text-sm hover:bg-emerald-600 transition">💊 Uputstvo</a>`;
     linksHtml += '</div>';
 
     content.innerHTML = `
-        <h2 class="text-2xl font-bold text-gray-800 mb-1">${drug.puno_ime}</h2>
-        <p class="text-gray-500 text-sm mb-4">INN: ${drug.inn}</p>
+        <div class="mb-6">
+            <h2 class="text-2xl font-bold text-gray-900 leading-tight">${drug.puno_ime}</h2>
+            ${drug.jacina ? `<p class="text-lg text-gray-500 font-medium">${drug.jacina}</p>` : ''}
+            <div class="flex flex-wrap gap-2 mt-2">
+                <span class="px-2 py-1 bg-gray-100 text-gray-600 text-xs rounded font-mono">ATC: ${drug.atc}</span>
+                <span class="px-2 py-1 bg-blue-50 text-blue-700 text-xs rounded font-bold">${drug.rezim}</span>
+            </div>
+        </div>
         
         ${warningHtml}
 
-        <div class="space-y-3 text-sm text-gray-700 bg-gray-50 p-4 rounded-xl">
-            <div class="flex justify-between border-b pb-2">
-                <span>ATC Kod:</span> <span class="font-mono font-bold">${drug.atc}</span>
+        <div class="space-y-0 text-sm text-gray-700 border border-gray-100 rounded-2xl overflow-hidden shadow-sm">
+            <div class="flex justify-between p-4 bg-gray-50 border-b border-gray-100">
+                <span class="text-gray-500">Generički naziv</span> 
+                <span class="font-medium text-right">${drug.inn || '/'}</span>
             </div>
-            <div class="flex justify-between border-b pb-2">
-                <span>Jačina:</span> <span>${drug.jacina}</span>
+            <div class="flex justify-between p-4 bg-white border-b border-gray-100">
+                <span class="text-gray-500">Oblik</span> 
+                <span class="font-medium text-right">${drug.oblik || '/'}</span>
             </div>
-             <div class="flex justify-between border-b pb-2">
-                <span>Oblik:</span> <span>${drug.oblik}</span>
-            </div>
-            <div class="flex justify-between">
-                <span>Režim:</span> <span class="font-bold">${drug.rezim}</span>
+            <div class="flex justify-between p-4 bg-gray-50 border-b border-gray-100">
+                <span class="text-gray-500">EAN/Barkod</span> 
+                <span class="font-mono text-gray-600">${drug.ean || '/'}</span>
             </div>
         </div>
         
@@ -166,40 +211,90 @@ function openModal(index) {
     `;
 
     modal.classList.remove('hidden');
-    // Animacija ulaska
-    setTimeout(() => {
-        modal.firstElementChild.classList.remove('opacity-0'); // Backdrop
-    }, 10);
+}
+
+// Funkcija za prikaz paralela (zamenskih lekova)
+function toggleParallels() {
+    const section = document.getElementById('parallelsSection');
+    const list = document.getElementById('parallelsList');
+    
+    if (!section.classList.contains('hidden')) {
+        section.classList.add('hidden');
+        return;
+    }
+
+    if (!currentModalDrugAtc) return;
+
+    // Filtriramo bazu za isti ATC, ali različito ime (ili isto ime druga doza)
+    let parallels = lekoviBaza.filter(d => d.atc === currentModalDrugAtc);
+    
+    // Sortiramo po abecedi
+    parallels.sort((a, b) => a.puno_ime.localeCompare(b.puno_ime));
+
+    // Uklanjamo duplikate za prikaz (po imenu i jačini)
+    const uniqueParallels = [];
+    const seen = new Set();
+    
+    parallels.forEach(p => {
+        const key = p.puno_ime + p.jacina;
+        if (!seen.has(key)) {
+            seen.add(key);
+            uniqueParallels.push(p);
+        }
+    });
+
+    list.innerHTML = '';
+    if (uniqueParallels.length <= 1) {
+        list.innerHTML = '<p class="text-center text-gray-400 text-sm py-4">Nema pronađenih paralela.</p>';
+    } else {
+        uniqueParallels.forEach(p => {
+            const div = document.createElement('div');
+            div.className = "bg-white p-3 rounded-lg border border-gray-200 text-sm flex justify-between items-center";
+            div.innerHTML = `
+                <div>
+                    <span class="font-bold text-gray-700">${p.puno_ime}</span>
+                    <span class="text-gray-400 ml-1 text-xs">${p.jacina || ''}</span>
+                </div>
+                <span class="text-[10px] px-2 py-0.5 bg-gray-100 rounded text-gray-500">${p.oblik || ''}</span>
+            `;
+            list.appendChild(div);
+        });
+    }
+
+    section.classList.remove('hidden');
+    // Scroll to parallels
+    section.scrollIntoView({ behavior: 'smooth' });
 }
 
 function closeModal() {
-    const modal = document.getElementById('drugModal');
-    modal.classList.add('hidden');
+    document.getElementById('drugModal').classList.add('hidden');
     currentModalDrugIndex = null;
+    currentModalDrugAtc = null;
 }
 
 function removeCurrentDrug() {
     if (currentModalDrugIndex !== null) {
         selectedDrugs.splice(currentModalDrugIndex, 1);
         renderSelectedDrugs();
-        checkInteractions(); // Ponovna provera nakon brisanja
+        checkInteractions();
         closeModal();
     }
 }
 
-// 6. PROVERA INTERAKCIJA (Srce sistema)
+// 6. PROVERA INTERAKCIJA (Popravljena logika)
 async function checkInteractions() {
     const container = document.getElementById('interactionsContainer');
     const severeDiv = document.getElementById('severeInteractions');
     const moderateDiv = document.getElementById('moderateInteractions');
     const noInteractions = document.getElementById('noInteractions');
+    const errorDiv = document.getElementById('errorInteractions');
     const loading = document.getElementById('loadingInteractions');
-    const countBadge = document.getElementById('interactionCount');
 
-    // Reset
+    // Reset UI
     severeDiv.innerHTML = '';
     moderateDiv.innerHTML = '';
     noInteractions.classList.add('hidden');
+    errorDiv.classList.add('hidden');
     
     if (selectedDrugs.length < 2) {
         container.classList.add('hidden');
@@ -209,37 +304,45 @@ async function checkInteractions() {
     container.classList.remove('hidden');
     loading.classList.remove('hidden');
 
-    // 6a. Prikupljanje RxCUI ID-jeva
-    const rxcuiList = [];
-    
-    // Koristimo Promise.all da paralelno dohvatimo ID-jeve za sve lekove
-    const idPromises = selectedDrugs.map(async (drug) => {
-        if (!drug.atc) return null;
-        try {
-            // Cache mehanizam bi bio super ovde, ali za sada basic fetch
-            let res = await fetch(`https://rxnav.nlm.nih.gov/REST/rxcui.json?idtype=ATC&id=${drug.atc}`);
-            let data = await res.json();
-            if (data.idGroup && data.idGroup.rxnormId) {
-                return data.idGroup.rxnormId[0];
-            }
-        } catch (e) { console.error(e); }
-        return null;
-    });
-
-    const ids = (await Promise.all(idPromises)).filter(id => id !== null);
-
-    if (ids.length < 2) {
-        loading.classList.add('hidden');
-        noInteractions.classList.remove('hidden');
-        return;
-    }
-
-    // 6b. Provera interakcija
     try {
+        // 1. DOHVATANJE RXNORM ID-jeva (Mora se mapirati ATC -> RxCUI)
+        const idPromises = selectedDrugs.map(async (drug) => {
+            if (!drug.atc) return null;
+            // API zahteva cist ATC
+            try {
+                // Koristimo API da nadjemo RxCUI na osnovu ATC koda
+                // NAPOMENA: RxNav nekad ne prepozna lokalne ATC kodove, zato hvatamo greske
+                let res = await fetch(`https://rxnav.nlm.nih.gov/REST/rxcui.json?idtype=ATC&id=${drug.atc}`);
+                let data = await res.json();
+                if (data.idGroup && data.idGroup.rxnormId) {
+                    return data.idGroup.rxnormId[0];
+                }
+                return null;
+            } catch (e) { 
+                console.warn("Nije nadjen ID za ATC:", drug.atc);
+                return null; 
+            }
+        });
+
+        const ids = (await Promise.all(idPromises)).filter(id => id !== null);
+
+        if (ids.length < 2) {
+            loading.classList.add('hidden');
+            // Ako nismo nasli bar 2 ID-a, ne mozemo proveriti interakcije
+            // Ali to ne znaci da ih nema, vec da baza ne prepoznaje lekove.
+            // Bolje ispisati da nema poznatih interakcija nego gresku.
+            noInteractions.classList.remove('hidden');
+            return;
+        }
+
+        // 2. PROVERA SA API
         const idsString = ids.join('+');
+        // Koristimo 'https' obavezno
         let res = await fetch(`https://rxnav.nlm.nih.gov/REST/interaction/list.json?rxcuis=${idsString}`);
-        let data = await res.json();
         
+        if (!res.ok) throw new Error("API Error");
+        
+        let data = await res.json();
         let interactions = [];
 
         if (data.fullInteractionTypeGroup) {
@@ -250,7 +353,7 @@ async function checkInteractions() {
                             drug1: pair.interactionConcept[0].minConceptItem.name,
                             drug2: pair.interactionConcept[1].minConceptItem.name,
                             desc: pair.description,
-                            severity: type.severity // "High" ili "N/A" (često moderate)
+                            severity: type.severity // High obicno znaci severe
                         });
                     });
                 });
@@ -258,56 +361,51 @@ async function checkInteractions() {
         }
 
         loading.classList.add('hidden');
-        countBadge.innerText = interactions.length;
 
         if (interactions.length === 0) {
             noInteractions.classList.remove('hidden');
         } else {
-            // Sortiranje: High ide prvo
-            interactions.sort((a, b) => (a.severity === 'High' ? -1 : 1));
+            // Filtriramo da ne prikazujemo istu interakciju dvaput
+            const uniqueInteractions = [];
+            const seen = new Set();
+            interactions.forEach(i => {
+                const key = i.desc; // Koristimo opis kao jedinstveni kljuc
+                if(!seen.has(key)) {
+                    seen.add(key);
+                    uniqueInteractions.push(i);
+                }
+            });
 
-            interactions.forEach(inter => {
+            uniqueInteractions.sort((a, b) => (a.severity === 'High' ? -1 : 1));
+
+            uniqueInteractions.forEach(inter => {
                 const isSevere = inter.severity === 'High';
                 
                 const card = document.createElement('div');
                 card.className = isSevere 
-                    ? "bg-red-50 border-l-4 border-red-600 p-4 rounded-r-xl shadow-sm" 
-                    : "bg-orange-50 border-l-4 border-orange-400 p-4 rounded-r-xl shadow-sm";
+                    ? "bg-red-50 border-l-[6px] border-red-500 p-4 rounded-r-xl shadow-sm mb-2" 
+                    : "bg-amber-50 border-l-[6px] border-amber-400 p-4 rounded-r-xl shadow-sm mb-2";
 
                 card.innerHTML = `
                     <div class="flex justify-between items-start mb-2">
-                        <h3 class="font-bold ${isSevere ? 'text-red-800' : 'text-orange-800'} text-sm">
-                            ${inter.drug1} <span class="text-gray-400 mx-1">↔</span> ${inter.drug2}
+                        <h3 class="font-bold ${isSevere ? 'text-red-800' : 'text-amber-800'} text-sm flex items-center gap-2">
+                            ${isSevere ? '⛔ OZBILJNA INTERAKCIJA' : '⚠️ UMERENA INTERAKCIJA'}
                         </h3>
-                        <span class="text-[10px] uppercase font-bold px-2 py-1 rounded ${isSevere ? 'bg-red-200 text-red-800' : 'bg-orange-200 text-orange-800'}">
-                            ${isSevere ? 'Teška' : 'Umerena'}
-                        </span>
                     </div>
-                    <p class="text-gray-700 text-xs leading-relaxed">${inter.desc}</p>
+                    <div class="text-xs font-bold text-gray-600 mb-1">
+                        ${inter.drug1} + ${inter.drug2}
+                    </div>
+                    <p class="text-gray-700 text-xs leading-relaxed opacity-90">${inter.desc}</p>
                 `;
 
                 if (isSevere) severeDiv.appendChild(card);
                 else moderateDiv.appendChild(card);
             });
-            
-            // Dodajemo naslove ako ima sadržaja
-            if(severeDiv.children.length > 0) {
-                const title = document.createElement('h3');
-                title.className = "text-red-600 font-bold text-sm mt-2 mb-1 pl-1";
-                title.innerText = "⚠️ Teške interakcije";
-                severeDiv.prepend(title);
-            }
-            if(moderateDiv.children.length > 0) {
-                 const title = document.createElement('h3');
-                title.className = "text-orange-500 font-bold text-sm mt-4 mb-1 pl-1";
-                title.innerText = "⚡ Umerene interakcije";
-                moderateDiv.prepend(title);
-            }
         }
 
     } catch (e) {
         console.error(e);
         loading.classList.add('hidden');
-        container.innerHTML += '<p class="text-red-500 text-center text-sm">Greška servera.</p>';
+        errorDiv.classList.remove('hidden');
     }
 }

@@ -3,96 +3,119 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Provera Interakcija Lekova</title>
+    <title>Registar Lekova & Interakcije</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
-        /* Skrivanje scrollbara za čistiji izgled */
         .no-scrollbar::-webkit-scrollbar { display: none; }
         .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+        /* Animacija za modal */
+        .modal-enter { opacity: 0; transform: scale(0.95); }
+        .modal-enter-active { opacity: 1; transform: scale(1); transition: all 0.2s ease-out; }
+        .modal-exit { opacity: 1; transform: scale(1); }
+        .modal-exit-active { opacity: 0; transform: scale(0.95); transition: all 0.2s ease-in; }
     </style>
 </head>
-<body class="bg-gray-100 min-h-screen font-sans">
+<body class="bg-gray-50 min-h-screen font-sans text-gray-800">
 
-    <div class="max-w-md mx-auto bg-white min-h-screen shadow-xl relative pb-20">
+    <div class="max-w-4xl mx-auto bg-white min-h-screen shadow-xl relative pb-20">
         
-        <div class="bg-blue-600 p-5 rounded-b-3xl shadow-md z-10 relative">
-            <h1 class="text-white text-2xl font-bold text-center">Registar & Interakcije</h1>
-            <p class="text-blue-100 text-center text-sm mt-1">Unesite sve lekove iz terapije</p>
+        <div class="bg-gradient-to-r from-blue-600 to-blue-700 p-8 rounded-b-[2.5rem] shadow-lg z-10 relative text-center">
+            <h1 class="text-white text-3xl font-extrabold tracking-tight">Registar & Interakcije</h1>
+            <p class="text-blue-100 text-sm mt-2 font-medium opacity-90">Proverite kompatibilnost vaše terapije</p>
         </div>
 
-        <div class="p-5">
-            <div class="relative mb-6">
-                <label class="block text-gray-700 text-sm font-bold mb-2 ml-1">Dodaj lek u listu</label>
-                <div class="relative">
+        <div class="p-6 md:p-10">
+            <div class="relative mb-8">
+                <label class="block text-gray-600 text-xs font-bold uppercase tracking-wider mb-2 ml-1">Pretraga lekova</label>
+                <div class="relative group">
                     <input type="text" id="searchInput" 
-                           placeholder="Naziv (min 3 slova) ili EAN kod..." 
-                           class="w-full p-4 pl-12 border-2 border-blue-100 rounded-2xl focus:border-blue-500 focus:outline-none shadow-sm text-gray-700 bg-gray-50 transition-all"
+                           placeholder="Npr. Brufen, 400mg, ili EAN kod..." 
+                           class="w-full p-5 pl-14 border-2 border-gray-100 rounded-2xl focus:border-blue-500 focus:ring-4 focus:ring-blue-50 focus:outline-none shadow-sm text-lg text-gray-700 bg-gray-50 transition-all placeholder-gray-400"
                            autocomplete="off">
-                    <svg class="w-6 h-6 text-gray-400 absolute left-3 top-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/></svg>
+                    <svg class="w-7 h-7 text-gray-400 absolute left-4 top-4 group-focus-within:text-blue-500 transition-colors" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/></svg>
+                </div>
+
+                <div id="searchResults" class="hidden absolute z-50 w-full bg-white mt-2 rounded-2xl shadow-2xl border border-gray-100 max-h-80 overflow-y-auto no-scrollbar">
+                    </div>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                <div id="selectedContainer" class="hidden">
+                    <h2 class="text-gray-500 text-xs font-bold uppercase tracking-wider mb-3 ml-1 flex items-center gap-2">
+                        <span>💊 Vaša terapija</span>
+                        <span id="drugCounter" class="bg-blue-100 text-blue-600 px-2 py-0.5 rounded-full text-[10px]">0</span>
+                    </h2>
+                    <div id="selectedDrugsList" class="space-y-3">
+                        </div>
+                </div>
+
+                <div id="interactionsContainer" class="hidden">
+                    <div class="flex items-center justify-between mb-4 border-b border-gray-100 pb-2">
+                        <h2 class="text-gray-800 font-bold text-lg">Analiza Interakcija</h2>
+                        <button onclick="checkInteractions()" class="text-blue-600 text-xs font-bold hover:underline">Osveži</button>
+                    </div>
                     
-                    <div id="searchLoader" class="hidden absolute right-4 top-4">
-                        <svg class="animate-spin h-5 w-5 text-blue-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"><circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle><path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path></svg>
+                    <div id="loadingInteractions" class="hidden text-center py-6">
+                        <div class="inline-block animate-spin rounded-full h-8 w-8 border-4 border-gray-200 border-t-blue-600"></div>
+                        <p class="text-gray-400 text-xs mt-3">Konsultujem bazu...</p>
                     </div>
-                </div>
 
-                <div id="searchResults" class="hidden absolute z-50 w-full bg-white mt-2 rounded-xl shadow-2xl border border-gray-100 max-h-60 overflow-y-auto">
+                    <div id="severeInteractions" class="space-y-3 mb-4"></div>
+                    <div id="moderateInteractions" class="space-y-3"></div>
+                    
+                    <div id="noInteractions" class="hidden bg-green-50 border border-green-200 rounded-xl p-6 text-center shadow-sm">
+                        <div class="text-green-500 text-4xl mb-2">🛡️</div>
+                        <p class="text-green-800 font-bold">Nema poznatih interakcija</p>
+                        <p class="text-green-600 text-xs mt-1">Među izabranim lekovima.</p>
                     </div>
-            </div>
 
-            <div id="selectedContainer" class="hidden mb-8">
-                <h2 class="text-gray-500 text-xs font-bold uppercase tracking-wider mb-3 ml-1">Vaša terapija</h2>
-                <div id="selectedDrugsList" class="space-y-3">
+                    <div id="errorInteractions" class="hidden bg-red-50 border border-red-200 rounded-xl p-4 text-center">
+                         <p class="text-red-600 text-sm">Došlo je do greške pri proveri interakcija. Pokušajte ponovo kasnije.</p>
                     </div>
-            </div>
-
-            <div id="interactionsContainer" class="hidden">
-                <div class="flex items-center justify-between mb-4">
-                    <h2 class="text-gray-800 font-bold text-lg">Analiza Interakcija</h2>
-                    <span id="interactionCount" class="bg-gray-200 text-gray-700 text-xs px-2 py-1 rounded-full">0</span>
-                </div>
-                
-                <div id="loadingInteractions" class="hidden text-center py-4">
-                    <p class="text-blue-500 animate-pulse text-sm">Proveravam baze podataka...</p>
-                </div>
-
-                <div id="severeInteractions" class="space-y-3 mb-4"></div>
-                
-                <div id="moderateInteractions" class="space-y-3"></div>
-
-                <div id="noInteractions" class="hidden bg-green-50 border border-green-200 rounded-xl p-4 text-center">
-                    <div class="text-green-500 text-4xl mb-2">✓</div>
-                    <p class="text-green-800 font-medium">Nisu pronađene poznate interakcije.</p>
                 </div>
             </div>
             
-             <div class="mt-12 text-center pt-6 border-t border-gray-200">
-                <p class="text-gray-400 text-xs mb-3">Aplikacija je besplatna. Podržite razvoj:</p>
+            <div class="mt-16 text-center pt-8 border-t border-gray-100">
                 <a href="https://ko-fi.com/stefanmilenkovic80738" target="_blank" 
-                   class="inline-flex items-center bg-[#FF5E5B] text-white text-sm font-bold py-2 px-5 rounded-full hover:bg-red-600 shadow transition transform active:scale-95">
-                    ☕ Kupi mi kafu
+                   class="inline-flex items-center gap-2 bg-[#FF5E5B] text-white font-bold py-3 px-8 rounded-full hover:bg-red-600 shadow-lg hover:shadow-xl transition transform hover:-translate-y-1 active:scale-95">
+                    <span>☕</span> Časti me kafom
                 </a>
                 
-                <p class="text-gray-400 text-[10px] mt-6 leading-tight mx-4">
-                    Podaci su informativnog karaktera preuzeti automatski. 
-                    Obavezno se konsultujte sa lekarom.
-                </p>
+                <div class="mt-8 mx-auto max-w-2xl text-gray-400 text-[11px] leading-relaxed text-justify bg-gray-50 p-4 rounded-lg border border-gray-100">
+                    <strong>ODRICANJE OD ODGOVORNOSTI:</strong> Ova aplikacija koristi javno dostupne podatke (ALIMS/Data.gov.rs) i automatizovane algoritme za proveru interakcija (RxNav NIH). 
+                    Podaci su isključivo <strong>informativnog karaktera</strong> i ne mogu zameniti stručni savet lekara ili farmaceuta. 
+                    Autor aplikacije se ograđuje od bilo kakve odgovornosti za eventualne netačnosti u podacima ili posledice nastale korišćenjem aplikacije. 
+                    Pre upotrebe bilo kog leka, obavezno pročitajte uputstvo i posavetujte se sa stručnim licem.
+                </div>
             </div>
         </div>
     </div>
 
-    <div id="drugModal" class="fixed inset-0 z-[100] hidden">
-        <div class="absolute inset-0 bg-black/60 backdrop-blur-sm transition-opacity" onclick="closeModal()"></div>
+    <div id="drugModal" class="fixed inset-0 z-[100] hidden flex items-center justify-center p-4">
+        <div class="absolute inset-0 bg-gray-900/40 backdrop-blur-sm transition-opacity" onclick="closeModal()"></div>
         
-        <div class="absolute bottom-0 left-0 right-0 bg-white rounded-t-3xl p-6 min-h-[50vh] max-h-[90vh] overflow-y-auto transform transition-transform duration-300 ease-out">
-            <div class="w-12 h-1 bg-gray-300 rounded-full mx-auto mb-6"></div>
-            
-            <div id="modalContent">
+        <div class="relative bg-white rounded-3xl w-full max-w-2xl max-h-[90vh] overflow-y-auto shadow-2xl transform transition-all scale-100">
+            <div class="sticky top-0 bg-white/95 backdrop-blur z-10 px-6 py-4 border-b border-gray-100 flex justify-between items-center">
+                <h3 class="text-gray-500 text-xs font-bold uppercase tracking-wider">Detalji o leku</h3>
+                <button onclick="closeModal()" class="p-2 bg-gray-100 rounded-full hover:bg-gray-200 transition text-gray-500">✕</button>
+            </div>
+
+            <div class="p-6 md:p-8" id="modalContent">
                 </div>
 
-            <button onclick="removeCurrentDrug()" class="w-full mt-8 bg-red-100 text-red-600 font-bold py-4 rounded-xl hover:bg-red-200 transition flex items-center justify-center gap-2">
-                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"/></svg>
-                Ukloni iz terapije
-            </button>
+            <div id="parallelsSection" class="hidden px-6 pb-6 bg-gray-50 border-t border-gray-100">
+                <h4 class="text-gray-800 font-bold py-4 sticky top-0 bg-gray-50">💊 Paralele (Lekovi sa istim ATC)</h4>
+                <div id="parallelsList" class="grid grid-cols-1 gap-2 max-h-60 overflow-y-auto"></div>
+            </div>
+
+            <div class="p-6 border-t border-gray-100 flex gap-3 bg-white sticky bottom-0">
+                 <button onclick="toggleParallels()" class="flex-1 bg-blue-50 text-blue-700 font-bold py-3.5 rounded-xl hover:bg-blue-100 transition">
+                    🔄 Nađi zamene
+                </button>
+                <button onclick="removeCurrentDrug()" class="flex-1 bg-red-50 text-red-600 font-bold py-3.5 rounded-xl hover:bg-red-100 transition">
+                    🗑️ Ukloni lek
+                </button>
+            </div>
         </div>
     </div>
 
