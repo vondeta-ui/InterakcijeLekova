@@ -1,0 +1,31 @@
+name: Dnevno Azuriranje Baze
+
+on:
+  schedule:
+    - cron: '0 4 * * *' # Svaki dan u 04:00 UTC
+  workflow_dispatch: # Dugme za rucno pokretanje
+
+jobs:
+  update_data:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+          
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+          
+      - name: Generisi novu bazu
+        run: python generate_db.py
+        
+      - name: Sacuvaj promene
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add lekovi.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Dnevni update lekovi.json" && git push)
