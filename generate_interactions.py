@@ -29,8 +29,7 @@ def generate_interactions():
             for l in g:
                 for c in l.get('inn_eng', []): my_components.add(normalize(c))
 
-    final_db = {}
-    food_kw = ["alcohol", "food", "grapefruit", "milk", "dairy", "juice", "caffeine"]
+    final_db = {"interactions": {}, "drug_ids": {}}
 
     for url in DDINTER_URLS:
         try:
@@ -38,17 +37,21 @@ def generate_interactions():
             reader = csv.reader(io.StringIO(r.content.decode('utf-8', errors='ignore')))
             next(reader)
             for row in reader:
+                # row[0]=ID1, row[1]=Name1, row[2]=ID2, row[3]=Name2, row[4]=Level
                 id1, d1, id2, d2, lvl = row[0], normalize(row[1]), row[2], normalize(row[3]), row[4]
                 nivo = "Visok" if lvl in ["Major", "High"] else "Srednji"
                 
+                # Čuvamo ID-eve za svaku našu supstancu radi "Detaljnije" linka
+                if d1 in my_components: final_db["drug_ids"][d1] = id1
+                if d2 in my_components: final_db["drug_ids"][d2] = id2
+
                 if d1 in my_components and d2 in my_components:
-                    final_db[f"{d1}-{d2}"] = {"nivo": nivo, "opis": f"Rizik: {lvl}", "link": f"{id1}-{id2}"}
-                    final_db[f"{d2}-{d1}"] = {"nivo": nivo, "opis": f"Rizik: {lvl}", "link": f"{id2}-{id1}"}
-                elif d1 in my_components and any(f in d2 for f in food_kw):
-                    final_db[f"{d1}-food"] = {"nivo": nivo, "opis": f"INTERAKCIJA SA: {d2.upper()}"}
+                    final_db["interactions"][f"{d1}-{d2}"] = {"nivo": nivo, "opis": f"Rizik: {lvl}", "link": f"{id1}-{id2}"}
+                    final_db["interactions"][f"{d2}-{d1}"] = {"nivo": nivo, "opis": f"Rizik: {lvl}", "link": f"{id2}-{id1}"}
         except: continue
 
     with open('interakcije.json', 'w', encoding='utf-8') as f:
         json.dump(final_db, f, ensure_ascii=False, indent=2)
+    print("✅ Baza generisana sa ID-evima supstanci.")
 
 if __name__ == "__main__": generate_interactions()
