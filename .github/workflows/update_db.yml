@@ -1,45 +1,40 @@
-name: Dnevno Azuriranje Baze
+name: Periodic Database Update
 
 on:
   schedule:
-    # Pokreće se svaki dan u 04:00 UTC (to je 05:00 ili 06:00 po našem vremenu)
-    - cron: '0 4 * * *'
-  workflow_dispatch: # Omogućava da klikneš "Run workflow" ručno kad god hoćeš
+    # Pokreće se svake nedelje u ponoć (00:00 nedeljom)
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+    # Omogućava ti da pokreneš proces ručno preko GitHub sajta
 
 jobs:
-  update-databases:
+  update-data:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write # Dozvola da skripta upiše promene u repozitorijum
-    
+
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+    - name: Checkout koda
+      uses: actions/checkout@v3
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
+    - name: Podešavanje Python-a
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
 
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests
+    - name: Instalacija zavisnosti
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests urllib3
 
-      # KORAK 1: Generisanje baze lekova (ALIMS)
-      - name: Run generate_db.py
-        run: python generate_db.py
+    - name: Pokretanje update_db.py (Mapiranje INN)
+      run: python update_db.py
 
-      # KORAK 2: Generisanje baze interakcija (DDInter)
-      # Ovo mora posle lekova, jer čita 'lekovi.json'
-      - name: Run generate_interactions.py
-        run: python generate_interactions.py
+    - name: Pokretanje generate_interactions.py (Baza interakcija)
+      run: python generate_interactions.py
 
-      # KORAK 3: Čuvanje promena na GitHub-u
-      - name: Commit and Push changes
-        run: |
-          git config --global user.name 'GitHub Action'
-          git config --global user.email 'action@github.com'
-          git add lekovi.json interakcije.json
-          # Provera da li ima promena pre commit-a da ne bi puklo ako nema novosti
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Dnevno ažuriranje: Lekovi i Interakcije" && git push)
+    - name: Commit i Push izmena
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add lekovi.json interakcije.json
+        # Provera da li ima promena pre nego što uradi commit
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Automatsko ažuriranje baze lekova i interakcija [skip ci]" && git push)

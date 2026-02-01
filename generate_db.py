@@ -6,9 +6,9 @@ def clean_and_split_inn(inn_string):
     if not inn_string: return []
     # Razdvajamo po zarezima, rečima "and", simbolima "+" i "&"
     parts = re.split(r',| and | \+ | & ', inn_string.lower())
-    # Čistimo svaki deo od viška razmaka i soli
     cleaned = []
-    removals = [" sodium", " potassium", " hydrochloride", " hcl", " calcium", " sulfate"]
+    # Čistimo soli i sufikse
+    removals = [" sodium", " potassium", " hydrochloride", " hcl", " calcium", " sulfate", " anhydrous"]
     for p in parts:
         p = p.strip()
         for rem in removals:
@@ -18,7 +18,7 @@ def clean_and_split_inn(inn_string):
     return cleaned
 
 def update_lekovi_json():
-    print("🌐 1. Preuzimam Prozorro rečnik za mapiranje INN-ova...")
+    print("🌐 Preuzimam Prozorro rečnik za mapiranje INN-ova...")
     url = "https://medicines-registry.prozorro.gov.ua/api/1.0/registry/atc2inn.json"
     
     try:
@@ -33,14 +33,14 @@ def update_lekovi_json():
                 atc = drug.get('atc')
                 if atc and atc in atc_to_inn:
                     raw_inn = atc_to_inn[atc][0]
-                    # Pretvaramo u listu, npr. ["tenofovir disoproxil", "emtricitabine"]
+                    # Pretvaramo u listu ["tenofovir disoproxil", "emtricitabine"]
                     drug['inn_eng'] = clean_and_split_inn(raw_inn)
                 else:
                     drug['inn_eng'] = []
 
         with open('lekovi.json', 'w', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
-        print("✅ lekovi.json ažuriran (INN liste su generisane).")
+        print("✅ lekovi.json ažuriran sa engleskim INN listama.")
         
     except Exception as e:
         print(f"❌ Greška: {e}")

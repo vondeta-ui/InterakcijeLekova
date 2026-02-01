@@ -26,13 +26,13 @@ DDINTER_URLS = [
 def normalize(name):
     if not name: return ""
     name = name.lower().strip()
-    removals = [" sodium", " potassium", " hydrochloride", " hcl", " calcium", " sulfate", " tablet"]
+    removals = [" sodium", " potassium", " hydrochloride", " hcl", " calcium", " sulfate", " anhydrous"]
     for rem in removals:
         name = name.replace(rem, "")
     return name.strip()
 
 def generate_interactions():
-    print("🚀 POKREĆEM GENERISANJE (Support za multi-komponente)")
+    print("🚀 POKREĆEM GENERISANJE (Sa ID-evima za linkove)")
     
     my_components = set()
     try:
@@ -42,7 +42,6 @@ def generate_interactions():
                 for drug in category:
                     for comp in drug.get('inn_eng', []):
                         my_components.add(normalize(comp))
-        print(f"✅ Učitano {len(my_components)} jedinstvenih komponenti.")
     except: return
 
     final_db = {}
@@ -52,16 +51,22 @@ def generate_interactions():
         try:
             resp = requests.get(url, headers=HEADERS, verify=False, timeout=60)
             if resp.status_code == 200:
-                reader = csv.reader(io.StringIO(resp.content.decode('utf-8', errors='ignore')))
+                content = resp.content.decode('utf-8', errors='ignore')
+                reader = csv.reader(io.StringIO(content))
                 next(reader, None)
                 for row in reader:
                     if len(row) < 5: continue
-                    d1, d2, level = normalize(row[1]), normalize(row[3]), row[4]
+                    # row[0]=ID1, row[1]=Name1, row[2]=ID2, row[3]=Name2, row[4]=Level
+                    id1, d1, id2, d2, level = row[0], normalize(row[1]), row[2], normalize(row[3]), row[4]
                     nivo = "Visok" if level in ["Major", "High"] else "Srednji"
 
                     if d1 in my_components and d2 in my_components:
-                        final_db[f"{d1}-{d2}"] = {"nivo": nivo, "opis_srb": f"Rizik: {level}"}
-                        final_db[f"{d2}-{d1}"] = {"nivo": nivo, "opis_srb": f"Rizik: {level}"}
+                        # Čuvamo i link_id za pretragu na DDInter sajtu
+                        link_id = f"{id1}-{id2}"
+                        final_db[f"{d1}-{d2}"] = {"nivo": nivo, "opis_srb": f"Rizik: {level}", "link_id": link_id}
+                        
+                        link_id_rev = f"{id2}-{id1}"
+                        final_db[f"{d2}-{d1}"] = {"nivo": nivo, "opis_srb": f"Rizik: {level}", "link_id": link_id_rev}
                     
                     elif d1 in my_components and any(f in d2 for f in food_keywords):
                         final_db[f"{d1}-food"] = {"nivo": nivo, "opis_srb": f"Interakcija sa: {d2.upper()}"}
@@ -71,7 +76,7 @@ def generate_interactions():
 
     with open('interakcije.json', 'w', encoding='utf-8') as f:
         json.dump(final_db, f, ensure_ascii=False, indent=2)
-    print(f"🎉 GOTOVO! Pravila sačuvana u interakcije.json.")
+    print("🎉 Završeno! interakcije.json sada sadrži linkove.")
 
 if __name__ == "__main__":
     generate_interactions()
