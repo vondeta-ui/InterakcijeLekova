@@ -6,7 +6,6 @@ function normalize(n) {
     return norm === "paracetamol" ? "acetaminophen" : norm;
 }
 
-// Levenshtein za fuzzy matching
 function levenshtein(a, b) {
     const tmp = [];
     for (let i = 0; i <= a.length; i++) tmp[i] = [i];
@@ -66,7 +65,10 @@ function filtrirajPretragu(upit) {
         lekoviPodaci[g].forEach(lek => {
             if (count < 15 && (lek.puno_ime.toLowerCase().includes(upit.toLowerCase()) || (lek.ean && lek.ean.includes(upit)))) {
                 html += `<div onclick='dodajLek(${JSON.stringify(lek).replace(/'/g, "&apos;")})' class="lek-item p-4 hover:bg-blue-50 cursor-pointer border-b border-gray-50 transition">
-                    <div class="font-bold text-gray-800">${lek.puno_ime} <span class="bg-blue-50 text-blue-600 px-2 py-0.5 rounded text-[10px] ml-1">${lek.jacina || ''}</span></div>
+                    <div class="flex justify-between items-start">
+                        <div class="font-bold text-gray-800">${lek.puno_ime} <span class="bg-blue-50 text-blue-600 px-2 py-0.5 rounded text-[10px] ml-1">${lek.jacina || ''}</span></div>
+                        <span class="text-[9px] font-bold px-1 rounded bg-gray-100 text-gray-500 uppercase ml-2">${lek.rezim || ''}</span>
+                    </div>
                     <div class="text-[10px] text-gray-400 uppercase font-bold">${lek.inn}</div>
                 </div>`;
                 count++;
@@ -95,7 +97,7 @@ function checkInteractions() {
     }));
     for (let i in innMap) {
         if (innMap[i].length > 1) {
-            sD.innerHTML += `<div class="p-4 rounded-xl border bg-red-100 border-red-200 text-red-900 text-sm mb-3 font-bold">⚠️ DUPLIRANA TERAPIJA: ${i.toUpperCase()} se nalazi u: ${[...new Set(innMap[i])].join(', ')}</div>`;
+            sD.innerHTML += `<div class="p-4 rounded-xl border bg-red-100 border-red-200 text-red-900 text-sm mb-3 font-bold">⚠️ DUPLIRANA TERAPIJA: ${i.toUpperCase()} u: ${[...new Set(innMap[i])].join(', ')}</div>`;
         }
     }
 
@@ -128,9 +130,27 @@ function openModal(idx) {
     const lek = izabraniLekovi[idx];
     let innLinksHtml = (lek.inn_eng || []).map(c => {
         const id = getDrugID(c);
-        return id ? `<a href="https://ddinter2.scbdd.com/server/drug-detail/${id}/" target="_blank" class="block bg-blue-50 text-blue-700 p-2 rounded text-xs font-bold mb-1">🔍 Detaljnije: ${c.toUpperCase()} (ENG)</a>` : `<div class="text-xs text-gray-400 p-2 italic">${c.toUpperCase()} (Nema podataka)</div>`;
+        return id ? `<a href="https://ddinter2.scbdd.com/server/drug-detail/${id}/" target="_blank" class="block bg-blue-50 text-blue-700 p-2 rounded text-[10px] font-bold mb-1 hover:bg-blue-100 transition">🔍 Detaljnije: ${c.toUpperCase()} (ENG)</a>` : `<div class="text-[10px] text-gray-400 p-2 italic">${c.toUpperCase()} (Nema podataka)</div>`;
     }).join('');
-    document.getElementById('modalContent').innerHTML = `<h2 class="text-xl font-bold">${lek.puno_ime}</h2><p class="text-blue-600 text-sm font-bold mb-4">${lek.jacina}</p><div class="border-t pt-4"><h4 class="text-[10px] font-bold mb-2 uppercase text-gray-400">Resursi:</h4>${innLinksHtml}</div>`;
+
+    document.getElementById('modalContent').innerHTML = `
+        <h2 class="text-2xl font-black text-gray-800 leading-tight">${lek.puno_ime}</h2>
+        <div class="flex flex-wrap gap-2 mt-2 mb-4">
+            <span class="bg-blue-600 text-white px-2 py-0.5 rounded text-[10px] font-bold uppercase">${lek.rezim || 'N/A'}</span>
+            <span class="bg-gray-200 text-gray-700 px-2 py-0.5 rounded text-[10px] font-bold uppercase">${lek.oblik || 'N/A'}</span>
+            <span class="bg-gray-100 text-blue-600 px-2 py-0.5 rounded text-[10px] font-bold uppercase italic">${lek.atc}</span>
+        </div>
+        <p class="text-blue-600 font-bold text-sm mb-1">${lek.jacina}</p>
+        <p class="text-gray-400 text-xs mb-6 uppercase tracking-wider">${lek.inn}</p>
+        
+        <div class="grid grid-cols-1 gap-4 mt-6 border-t pt-6">
+            <div>
+                <h4 class="text-[10px] font-bold mb-2 uppercase text-gray-400">Eksterni resursi:</h4>
+                ${innLinksHtml}
+                ${lek.smpc ? `<a href="${lek.smpc}" target="_blank" class="block bg-gray-800 text-white text-center p-2 rounded-xl text-xs font-bold mt-2 hover:bg-black transition">📄 Zvanično uputstvo (ALIMS)</a>` : ''}
+            </div>
+        </div>`;
+
     document.getElementById('drugModal').classList.remove('hidden');
     document.getElementById('parallelsSection').classList.add('hidden');
 }
@@ -141,9 +161,14 @@ function toggleParallels() {
     if (!section.classList.contains('hidden')) {
         let html = '';
         for (const g in lekoviPodaci) lekoviPodaci[g].forEach(p => {
-            if (p.atc === lek.atc && p.ean !== lek.ean) html += `<div class="p-3 bg-white border border-gray-100 rounded-xl text-xs font-bold shadow-sm">${p.puno_ime} (${p.jacina})</div>`;
+            if (p.atc === lek.atc && p.ean !== lek.ean) {
+                html += `<div class="p-3 bg-white border border-gray-100 rounded-xl text-xs font-bold shadow-sm flex justify-between items-center">
+                    <span>${p.puno_ime} (${p.jacina})</span>
+                    <span class="text-[9px] text-gray-400 uppercase">${p.rezim || ''}</span>
+                </div>`;
+            }
         });
-        list.innerHTML = html || '<div class="text-xs text-gray-400 p-2">Nema zamena.</div>';
+        list.innerHTML = html || '<div class="text-xs text-gray-400 p-2 italic text-center">Nema zamena sa istim ATC kodom.</div>';
     }
 }
 
@@ -155,7 +180,12 @@ function osveziPrikaz() {
     list.innerHTML = izabraniLekovi.map((l, idx) => {
         const imaPodatke = l.inn_eng && l.inn_eng.some(c => getDrugID(c) !== null);
         return `<div onclick="openModal(${idx})" class="p-4 bg-gray-50 rounded-2xl flex justify-between items-center cursor-pointer border ${imaPodatke ? 'border-transparent hover:border-blue-200' : 'border-red-300 bg-red-50'} transition">
-            <div><div class="font-bold text-sm text-gray-800">${l.puno_ime}</div>${!imaPodatke ? '<div class="text-[9px] text-red-600 font-bold uppercase">⚠️ Nema podataka</div>' : `<div class="text-[10px] text-gray-400 font-bold">${l.atc}</div>`}</div><div class="text-blue-500">→</div></div>`;
+            <div>
+                <div class="font-bold text-sm text-gray-800">${l.puno_ime}</div>
+                ${!imaPodatke ? '<div class="text-[9px] text-red-600 font-bold uppercase">⚠️ Nema podataka</div>' : `<div class="text-[10px] text-gray-400 font-bold">${l.atc}</div>`}
+            </div>
+            <div class="text-blue-500">→</div>
+        </div>`;
     }).join('');
     checkInteractions();
 }
