@@ -2,7 +2,6 @@ let lekoviPodaci = {};
 let interakcijeBaza = {};
 let izabraniLekovi = [];
 
-// 1. Inicijalizacija i učitavanje
 async function inicijalizujAplikaciju() {
     try {
         const [lResp, iResp] = await Promise.all([
@@ -13,10 +12,10 @@ async function inicijalizujAplikaciju() {
         lekoviPodaci = await lResp.json();
         interakcijeBaza = await iResp.json();
 
-        console.log("✅ Podaci učitani. Spreman za pretragu.");
+        console.log("✅ Podaci učitani.");
         
-        // Povezivanje search polja
-        const searchInput = document.querySelector('input[type="text"]'); 
+        // Povezivanje input polja za kucanje
+        const searchInput = document.querySelector('.search-bar input') || document.querySelector('input[type="text"]'); 
         if (searchInput) {
             searchInput.addEventListener('input', (e) => filtrirajLekove(e.target.value));
         }
@@ -25,22 +24,27 @@ async function inicijalizujAplikaciju() {
     }
 }
 
-// 2. Funkcija za pretragu (Search)
 function filtrirajLekove(upit) {
     const kontejner = document.getElementById('lista-lekova');
     if (!kontejner) return;
     
     kontejner.innerHTML = '';
-    if (upit.length < 2) return; // Ne traži ako je manje od 2 slova
+    if (upit.length < 2) return; 
 
     const termin = upit.toLowerCase();
 
-    for (const grupa in lekoviPodaci) {
-        lekoviPodaci[grupa].forEach(lek => {
-            if (lek.naziv.toLowerCase().includes(termin)) {
+    // Prolazimo kroz ključeve (npr. "caffetin", "brufen")
+    for (const kljuc in lekoviPodaci) {
+        lekoviPodaci[kljuc].forEach(lek => {
+            // PROVERA: Koristimo lek.puno_ime umesto lek.naziv
+            if (lek.puno_ime && lek.puno_ime.toLowerCase().includes(termin)) {
                 const btn = document.createElement('button');
-                btn.className = 'lek-rezultat-dugme'; // Prilagodi CSS-u
-                btn.innerText = lek.naziv;
+                btn.className = 'lek-rezultat-dugme'; 
+                btn.style.display = 'block';
+                btn.style.width = '100%';
+                btn.style.textAlign = 'left';
+                btn.style.margin = '5px 0';
+                btn.innerText = lek.puno_ime;
                 btn.onclick = () => dodajLek(lek);
                 kontejner.appendChild(btn);
             }
@@ -48,18 +52,19 @@ function filtrirajLekove(upit) {
     }
 }
 
-// 3. Dodavanje leka i provera
 function dodajLek(lek) {
-    if (!izabraniLekovi.find(l => l.atc === lek.atc)) {
+    // Provera po EAN kodu jer je on najunikatniji u tvojim podacima
+    if (!izabraniLekovi.find(l => l.ean === lek.ean)) {
         izabraniLekovi.push(lek);
         osvežiPrikaz();
-        // Očisti pretragu nakon izbora
-        document.querySelector('input[type="text"]').value = '';
+        
+        // Čišćenje pretrage
+        const inp = document.querySelector('.search-bar input') || document.querySelector('input[type="text"]');
+        if (inp) inp.value = '';
         document.getElementById('lista-lekova').innerHTML = '';
     }
 }
 
-// 4. Provera interakcija (INN-na-INN logika)
 function proveriInterakcije() {
     const panel = document.getElementById('rezultati-provere');
     if (!panel) return;
@@ -69,45 +74,52 @@ function proveriInterakcije() {
 
     for (let i = 0; i < izabraniLekovi.length; i++) {
         const L1 = izabraniLekovi[i];
-        const komponente1 = Array.isArray(L1.inn_eng) ? L1.inn_eng : [L1.inn_eng];
+        const komponente1 = L1.inn_eng || [];
 
         for (let j = i + 1; j < izabraniLekovi.length; j++) {
             const L2 = izabraniLekovi[j];
-            const komponente2 = Array.isArray(L2.inn_eng) ? L2.inn_eng : [L2.inn_eng];
+            const komponente2 = L2.inn_eng || [];
 
             komponente1.forEach(c1 => {
                 komponente2.forEach(c2 => {
-                    const kljuc = `${c1.toLowerCase().trim()}-${c2.toLowerCase().trim()}`;
+                    // Normalizacija za proveru u interakcije.json
+                    const n1 = c1.toLowerCase().trim();
+                    const n2 = c2.toLowerCase().trim();
+                    
+                    const kljuc = `${n1}-${n2}`;
                     if (interakcijeBaza[kljuc]) {
                         pronadjeno.push({
                             nivo: interakcijeBaza[kljuc].nivo,
-                            opis: `<strong>${L1.naziv}</strong> + <strong>${L2.naziv}</strong>: ${interakcijeBaza[kljuc].opis_srb}`
+                            opis: `<strong>${L1.puno_ime}</strong> + <strong>${L2.puno_ime}</strong>: ${interakcijeBaza[kljuc].opis_srb}`
                         });
                     }
                 });
             });
         }
         
-        // Provera za hranu
+        // Hrana
         komponente1.forEach(c => {
             const fKey = `${c.toLowerCase().trim()}-food`;
             if (interakcijeBaza[fKey]) {
                 pronadjeno.push({
                     nivo: interakcijeBaza[fKey].nivo,
-                    opis: `🍏 <strong>${L1.naziv}</strong>: ${interakcijeBaza[fKey].opis_srb}`
+                    opis: `🍏 <strong>${L1.puno_ime}</strong>: ${interakcijeBaza[fKey].opis_srb}`
                 });
             }
         });
     }
-    prikaziRezultate(pronadjeno);
+    renderujRezultate(pronadjeno);
 }
 
-// 5. Prikaz rezultata
-function prikaziRezultate(niz) {
+function renderujRezultate(niz) {
     const panel = document.getElementById('rezultati-provere');
     niz.forEach(it => {
         const div = document.createElement('div');
         div.className = `alert ${it.nivo === 'Visok' ? 'alert-danger' : 'alert-warning'}`;
+        div.style.padding = '10px';
+        div.style.margin = '10px 0';
+        div.style.borderLeft = '5px solid ' + (it.nivo === 'Visok' ? 'red' : 'orange');
+        div.style.backgroundColor = it.nivo === 'Visok' ? '#ffeeee' : '#fff9ee';
         div.innerHTML = it.opis;
         panel.appendChild(div);
     });
@@ -119,8 +131,13 @@ function osvežiPrikaz() {
         lista.innerHTML = '';
         izabraniLekovi.forEach((lek, idx) => {
             const span = document.createElement('span');
-            span.className = 'badge badge-primary m-1';
-            span.innerHTML = `${lek.naziv} <i style="cursor:pointer" onclick="ukloni(${idx})">×</i>`;
+            span.style.background = '#007bff';
+            span.style.color = 'white';
+            span.style.padding = '5px 10px';
+            span.style.borderRadius = '20px';
+            span.style.margin = '5px';
+            span.style.display = 'inline-block';
+            span.innerHTML = `${lek.puno_ime} <span style="cursor:pointer; font-weight:bold" onclick="ukloni(${idx})"> ×</span>`;
             lista.appendChild(span);
         });
     }
