@@ -39,11 +39,9 @@ jobs:
         git config --local user.name "github-actions[bot]"
         git add lekovi.json interakcije.json
         
-        # Provera da li ima promena pre nego što nastavimo
         if [ -n "$(git status --porcelain)" ]; then
           git commit -m "Automatsko ažuriranje baze [skip ci]"
-          # Ključna ispravka: Vraćamo pull --rebase pre push-a
-          # Ovo rešava rejected grešku jer spaja promene sa servera pre slanja
+          # Ključna ispravka: pull --rebase rešava "rejected" grešku na samom serveru
           git pull --rebase origin main
           git push origin main
         else
