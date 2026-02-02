@@ -27,22 +27,22 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests urllib3 mtranslate
 
-    - name: Pokretanje generate_db.py
-      run: python generate_db.py
-
-    - name: Pokretanje generate_interactions.py
-      run: python generate_interactions.py
+    - name: Pokretanje skripti
+      run: |
+        python generate_db.py
+        python generate_interactions.py
 
     - name: Sacuvaj promene
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add lekovi.json interakcije.json
+        git add *.json
         
         if [ -n "$(git status --porcelain)" ]; then
           git commit -m "Automatsko ažuriranje baze [skip ci]"
+          # Ključna naredba: povlači tvoje promene sa laptopa pre nego što pošalje nove
           git pull --rebase origin main
           git push origin main
         else
-          echo "Nema promena za commit."
+          echo "Nema promena."
         fi
