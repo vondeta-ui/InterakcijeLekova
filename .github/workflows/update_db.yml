@@ -38,11 +38,13 @@ jobs:
         git config --local user.name "github-actions[bot]"
         git add *.json
         
+        # Provera da li ima stvarnih promena
         if [ -n "$(git status --porcelain)" ]; then
           git commit -m "Automatsko ažuriranje baze [skip ci]"
-          # Ključna naredba: povlači tvoje promene sa laptopa pre nego što pošalje nove
+          # Pre nego što uradi push, još jednom povlači najnovije stanje (rebase) 
+          # u slučaju da si ti nešto pushovao dok je skripta radila
           git pull --rebase origin main
           git push origin main
         else
-          echo "Nema promena."
+          echo "Nema promena za commit."
         fi
