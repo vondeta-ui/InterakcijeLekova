@@ -36,11 +36,11 @@ jobs:
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git add *.json
-        # Ključna promena: pull --rebase rešava "rejected" grešku
         git pull --rebase origin main
-        if [ -n "$(git status --porcelain)" ]; then
+        # Provera da li ima promena pre commit-a
+        if [[ -n "$(git status --porcelain)" ]]; then
           git commit -m "Automatsko ažuriranje baze [skip ci]"
           git push origin main
         else
-          echo "Nema promena."
+          echo "Nema promena za slanje."
         fi
