@@ -8,16 +8,17 @@ on:
 jobs:
   update-data:
     runs-on: ubuntu-latest
-    # Dodajemo dozvole da bot moze da upisuje promene
     permissions:
       contents: write
 
     steps:
     - name: Checkout koda
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0 # Povlači celu istoriju kako bi pull --rebase radio ispravno
 
     - name: Podešavanje Python-a
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
         python-version: '3.9'
 
@@ -37,10 +38,14 @@ jobs:
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git add lekovi.json interakcije.json
-        # Provera da li ima promena pre commit-a
+        
+        # Provera da li ima promena pre nego što nastavimo
         if [ -n "$(git status --porcelain)" ]; then
           git commit -m "Automatsko ažuriranje baze [skip ci]"
-          git push
+          # Ključna ispravka: Vraćamo pull --rebase pre push-a
+          # Ovo rešava rejected grešku jer spaja promene sa servera pre slanja
+          git pull --rebase origin main
+          git push origin main
         else
           echo "Nema promena za commit."
         fi
