@@ -8,12 +8,13 @@ on:
 jobs:
   update-data:
     runs-on: ubuntu-latest
+    # Dodajemo dozvole da bot moze da upisuje promene
+    permissions:
+      contents: write
 
     steps:
     - name: Checkout koda
       uses: actions/checkout@v3
-      with:
-        fetch-depth: 0 # Povlači celu istoriju za ispravan rebase
 
     - name: Podešavanje Python-a
       uses: actions/setup-python@v4
@@ -31,16 +32,15 @@ jobs:
     - name: Pokretanje generate_interactions.py
       run: python generate_interactions.py
 
-    - name: Commit i Push izmena
+    - name: Sacuvaj promene
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add *.json
-        git pull --rebase origin main
+        git add lekovi.json interakcije.json
         # Provera da li ima promena pre commit-a
-        if [[ -n "$(git status --porcelain)" ]]; then
+        if [ -n "$(git status --porcelain)" ]; then
           git commit -m "Automatsko ažuriranje baze [skip ci]"
-          git push origin main
+          git push
         else
-          echo "Nema promena za slanje."
+          echo "Nema promena za commit."
         fi
