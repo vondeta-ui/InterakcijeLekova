@@ -34,16 +34,20 @@ jobs:
 
     - name: Sacuvaj promene
       run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        # Precizna identifikacija bota
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
+        
         git add *.json
         
         # Provera da li ima stvarnih promena
         if [ -n "$(git status --porcelain)" ]; then
           git commit -m "Automatsko ažuriranje baze [skip ci]"
-          # Pre nego što uradi push, još jednom povlači najnovije stanje (rebase) 
-          # u slučaju da si ti nešto pushovao dok je skripta radila
-          git pull --rebase origin main
+          
+          # Pokušavamo pull sa rebase-om da izbegnemo rejected grešku
+          # Koristimo -X theirs da u slučaju konflikta botovi podaci (novi) imaju prednost
+          git pull --rebase -X theirs origin main
+          
           git push origin main
         else
           echo "Nema promena za commit."
