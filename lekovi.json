@@ -91,16 +91,16 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Strepsils® sa mentolom i ukusom eukaliptusa",
       "pil": "",
       "inn_eng": [
-        "furazidin",
-        "eucalyptus vitaminalis",
         "tilia",
-        "iodine",
         "calendula officinalis",
-        "chlorophyllipt",
-        "comb drug",
-        "hexetidine",
         "decamethoxine",
-        "flores helianthi"
+        "flores helianthi",
+        "chlorophyllipt",
+        "furazidin",
+        "comb drug",
+        "iodine",
+        "eucalyptus vitaminalis",
+        "hexetidine"
       ]
     },
     {
@@ -132,16 +132,16 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=neo-angin®",
       "pil": "",
       "inn_eng": [
-        "furazidin",
-        "eucalyptus vitaminalis",
         "tilia",
-        "iodine",
         "calendula officinalis",
-        "chlorophyllipt",
-        "comb drug",
-        "hexetidine",
         "decamethoxine",
-        "flores helianthi"
+        "flores helianthi",
+        "chlorophyllipt",
+        "furazidin",
+        "comb drug",
+        "iodine",
+        "eucalyptus vitaminalis",
+        "hexetidine"
       ]
     },
     {
@@ -156,16 +156,16 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=neo-angin® bez šećera",
       "pil": "",
       "inn_eng": [
-        "furazidin",
-        "eucalyptus vitaminalis",
         "tilia",
-        "iodine",
         "calendula officinalis",
-        "chlorophyllipt",
-        "comb drug",
-        "hexetidine",
         "decamethoxine",
-        "flores helianthi"
+        "flores helianthi",
+        "chlorophyllipt",
+        "furazidin",
+        "comb drug",
+        "iodine",
+        "eucalyptus vitaminalis",
+        "hexetidine"
       ]
     },
     {
@@ -180,16 +180,16 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=neo-angin® sa ukusom žalfije",
       "pil": "",
       "inn_eng": [
-        "furazidin",
-        "eucalyptus vitaminalis",
         "tilia",
-        "iodine",
         "calendula officinalis",
-        "chlorophyllipt",
-        "comb drug",
-        "hexetidine",
         "decamethoxine",
-        "flores helianthi"
+        "flores helianthi",
+        "chlorophyllipt",
+        "furazidin",
+        "comb drug",
+        "iodine",
+        "eucalyptus vitaminalis",
+        "hexetidine"
       ]
     }
   ],
@@ -224,8 +224,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Gynoflor®",
       "pil": "",
       "inn_eng": [
-        "lactobacillus acidophilus",
-        "estriol"
+        "estriol",
+        "lactobacillus acidophilus"
       ]
     }
   ],
@@ -242,10 +242,10 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=RotaTeq®",
       "pil": "",
       "inn_eng": [
-        "rota virus",
         "pentavalent",
-        "reassorted",
-        "live"
+        "live",
+        "rota virus",
+        "reassorted"
       ]
     }
   ],
@@ -947,8 +947,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Andol®",
       "pil": "",
       "inn_eng": [
-        "acetylsalicylic acid",
-        "comb drug"
+        "comb drug",
+        "acetylsalicylic acid"
       ]
     },
     {
@@ -1012,8 +1012,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Aspirin® 500",
       "pil": "",
       "inn_eng": [
-        "acetylsalicylic acid",
-        "comb drug"
+        "comb drug",
+        "acetylsalicylic acid"
       ]
     },
     {
@@ -1028,8 +1028,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Aspirin® Rapid",
       "pil": "",
       "inn_eng": [
-        "acetylsalicylic acid",
-        "comb drug"
+        "comb drug",
+        "acetylsalicylic acid"
       ]
     },
     {
@@ -1075,8 +1075,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Aspirin® Complex",
       "pil": "",
       "inn_eng": [
-        "pseudoephedrine",
-        "combinations"
+        "combinations",
+        "pseudoephedrine"
       ]
     },
     {
@@ -1091,8 +1091,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Aspirin® Complex Hot",
       "pil": "",
       "inn_eng": [
-        "pseudoephedrine",
-        "combinations"
+        "combinations",
+        "pseudoephedrine"
       ]
     }
   ],
@@ -2271,19 +2271,19 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Ketosteril",
       "pil": "",
       "inn_eng": [
+        "alpha-oxo-valine",
+        "lysine",
         "threonine",
+        "calcium salt",
+        "tyrosine",
+        "s)-isoleucine",
+        "histidine",
+        "alpha-hydroxy-(r",
         "alpha-oxo-phenylalanine",
+        "alpha-oxo-leucine",
         "tryptophan",
         "alpha-oxo-(r",
-        "alpha-oxo-valine",
-        "alpha-hydroxy-(r",
-        "s)-methionine",
-        "tyrosine",
-        "lysine",
-        "calcium salt",
-        "s)-isoleucine",
-        "alpha-oxo-leucine",
-        "histidine"
+        "s)-methionine"
       ]
     }
   ],
@@ -2300,13 +2300,13 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Rowatinex®",
       "pil": "",
       "inn_eng": [
-        "alpha-pinene",
-        "cineol",
-        "borneol",
-        "anethole",
         "fenchone",
         "beta-pinene",
-        "camphene"
+        "camphene",
+        "borneol",
+        "anethole",
+        "cineol",
+        "alpha-pinene"
       ]
     }
   ],
@@ -3422,9 +3422,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Flirkano®",
       "pil": "",
       "inn_eng": [
+        "hydrochlorothiazide",
         "valsartan",
-        "amlodipine",
-        "hydrochlorothiazide"
+        "amlodipine"
       ]
     },
     {
@@ -3439,9 +3439,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Flirkano®",
       "pil": "",
       "inn_eng": [
+        "hydrochlorothiazide",
         "valsartan",
-        "amlodipine",
-        "hydrochlorothiazide"
+        "amlodipine"
       ]
     },
     {
@@ -3456,9 +3456,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Flirkano®",
       "pil": "",
       "inn_eng": [
+        "hydrochlorothiazide",
         "valsartan",
-        "amlodipine",
-        "hydrochlorothiazide"
+        "amlodipine"
       ]
     },
     {
@@ -3473,9 +3473,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Flirkano®",
       "pil": "",
       "inn_eng": [
+        "hydrochlorothiazide",
         "valsartan",
-        "amlodipine",
-        "hydrochlorothiazide"
+        "amlodipine"
       ]
     },
     {
@@ -3490,9 +3490,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Flirkano®",
       "pil": "",
       "inn_eng": [
+        "hydrochlorothiazide",
         "valsartan",
-        "amlodipine",
-        "hydrochlorothiazide"
+        "amlodipine"
       ]
     }
   ],
@@ -3509,9 +3509,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Valtricom®",
       "pil": "",
       "inn_eng": [
+        "hydrochlorothiazide",
         "valsartan",
-        "amlodipine",
-        "hydrochlorothiazide"
+        "amlodipine"
       ]
     },
     {
@@ -3526,9 +3526,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Valtricom®",
       "pil": "",
       "inn_eng": [
+        "hydrochlorothiazide",
         "valsartan",
-        "amlodipine",
-        "hydrochlorothiazide"
+        "amlodipine"
       ]
     },
     {
@@ -3543,9 +3543,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Valtricom®",
       "pil": "",
       "inn_eng": [
+        "hydrochlorothiazide",
         "valsartan",
-        "amlodipine",
-        "hydrochlorothiazide"
+        "amlodipine"
       ]
     },
     {
@@ -3560,9 +3560,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Valtricom®",
       "pil": "",
       "inn_eng": [
+        "hydrochlorothiazide",
         "valsartan",
-        "amlodipine",
-        "hydrochlorothiazide"
+        "amlodipine"
       ]
     }
   ],
@@ -3722,8 +3722,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Amoksiklav®",
       "pil": "",
       "inn_eng": [
-        "beta-lactamase inhibitor",
-        "amoxicillin"
+        "amoxicillin",
+        "beta-lactamase inhibitor"
       ]
     },
     {
@@ -3738,8 +3738,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Amoksiklav®",
       "pil": "",
       "inn_eng": [
-        "beta-lactamase inhibitor",
-        "amoxicillin"
+        "amoxicillin",
+        "beta-lactamase inhibitor"
       ]
     },
     {
@@ -3754,8 +3754,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Amoksiklav® 2X",
       "pil": "",
       "inn_eng": [
-        "beta-lactamase inhibitor",
-        "amoxicillin"
+        "amoxicillin",
+        "beta-lactamase inhibitor"
       ]
     },
     {
@@ -3770,8 +3770,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Amoksiklav® 2X",
       "pil": "",
       "inn_eng": [
-        "beta-lactamase inhibitor",
-        "amoxicillin"
+        "amoxicillin",
+        "beta-lactamase inhibitor"
       ]
     }
   ],
@@ -3788,8 +3788,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Amoxiplus 1,2g",
       "pil": "",
       "inn_eng": [
-        "beta-lactamase inhibitor",
-        "amoxicillin"
+        "amoxicillin",
+        "beta-lactamase inhibitor"
       ]
     }
   ],
@@ -3806,8 +3806,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Augmentin®",
       "pil": "",
       "inn_eng": [
-        "beta-lactamase inhibitor",
-        "amoxicillin"
+        "amoxicillin",
+        "beta-lactamase inhibitor"
       ]
     },
     {
@@ -3822,8 +3822,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Augmentin®",
       "pil": "",
       "inn_eng": [
-        "beta-lactamase inhibitor",
-        "amoxicillin"
+        "amoxicillin",
+        "beta-lactamase inhibitor"
       ]
     }
   ],
@@ -3840,8 +3840,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Betaklav®",
       "pil": "",
       "inn_eng": [
-        "beta-lactamase inhibitor",
-        "amoxicillin"
+        "amoxicillin",
+        "beta-lactamase inhibitor"
       ]
     },
     {
@@ -3856,8 +3856,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Betaklav®",
       "pil": "",
       "inn_eng": [
-        "beta-lactamase inhibitor",
-        "amoxicillin"
+        "amoxicillin",
+        "beta-lactamase inhibitor"
       ]
     },
     {
@@ -3872,8 +3872,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Betaklav®",
       "pil": "",
       "inn_eng": [
-        "beta-lactamase inhibitor",
-        "amoxicillin"
+        "amoxicillin",
+        "beta-lactamase inhibitor"
       ]
     }
   ],
@@ -3890,8 +3890,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=MEDOCLAV®",
       "pil": "",
       "inn_eng": [
-        "beta-lactamase inhibitor",
-        "amoxicillin"
+        "amoxicillin",
+        "beta-lactamase inhibitor"
       ]
     }
   ],
@@ -3908,8 +3908,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Panklav 2X",
       "pil": "",
       "inn_eng": [
-        "beta-lactamase inhibitor",
-        "amoxicillin"
+        "amoxicillin",
+        "beta-lactamase inhibitor"
       ]
     },
     {
@@ -3924,8 +3924,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Panklav 2X",
       "pil": "",
       "inn_eng": [
-        "beta-lactamase inhibitor",
-        "amoxicillin"
+        "amoxicillin",
+        "beta-lactamase inhibitor"
       ]
     },
     {
@@ -3940,8 +3940,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Panklav®",
       "pil": "",
       "inn_eng": [
-        "beta-lactamase inhibitor",
-        "amoxicillin"
+        "amoxicillin",
+        "beta-lactamase inhibitor"
       ]
     },
     {
@@ -3956,8 +3956,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Panklav® forte",
       "pil": "",
       "inn_eng": [
-        "beta-lactamase inhibitor",
-        "amoxicillin"
+        "amoxicillin",
+        "beta-lactamase inhibitor"
       ]
     }
   ],
@@ -4059,8 +4059,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=APTACILIN S",
       "pil": "",
       "inn_eng": [
-        "beta-lactamase inhibitor",
-        "ampicillin"
+        "ampicillin",
+        "beta-lactamase inhibitor"
       ]
     },
     {
@@ -4075,8 +4075,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=APTACILIN S",
       "pil": "",
       "inn_eng": [
-        "beta-lactamase inhibitor",
-        "ampicillin"
+        "ampicillin",
+        "beta-lactamase inhibitor"
       ]
     }
   ],
@@ -4939,8 +4939,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=ARTINIBSA 4%",
       "pil": "",
       "inn_eng": [
-        "articaine",
-        "combinations"
+        "combinations",
+        "articaine"
       ]
     }
   ],
@@ -4957,8 +4957,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=ORABLOC®",
       "pil": "",
       "inn_eng": [
-        "articaine",
-        "combinations"
+        "combinations",
+        "articaine"
       ]
     }
   ],
@@ -4975,8 +4975,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Septanest adrenaline 1/100 000",
       "pil": "",
       "inn_eng": [
-        "articaine",
-        "combinations"
+        "combinations",
+        "articaine"
       ]
     }
   ],
@@ -5105,8 +5105,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Vitamin AD",
       "pil": "",
       "inn_eng": [
-        "retinol",
-        "ergocalciferol"
+        "ergocalciferol",
+        "retinol"
       ]
     },
     {
@@ -5544,8 +5544,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=TOREZ® plus",
       "pil": "",
       "inn_eng": [
-        "ezetimibe",
-        "atorvastatin"
+        "atorvastatin",
+        "ezetimibe"
       ]
     },
     {
@@ -5560,8 +5560,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=TOREZ® plus",
       "pil": "",
       "inn_eng": [
-        "ezetimibe",
-        "atorvastatin"
+        "atorvastatin",
+        "ezetimibe"
       ]
     },
     {
@@ -5576,8 +5576,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=TOREZ® plus",
       "pil": "",
       "inn_eng": [
-        "ezetimibe",
-        "atorvastatin"
+        "atorvastatin",
+        "ezetimibe"
       ]
     },
     {
@@ -5592,8 +5592,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=TOREZ® plus",
       "pil": "",
       "inn_eng": [
-        "ezetimibe",
-        "atorvastatin"
+        "atorvastatin",
+        "ezetimibe"
       ]
     }
   ],
@@ -5704,8 +5704,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Trinomia",
       "pil": "",
       "inn_eng": [
-        "acetylsalicylic acid",
         "atorvastatin",
+        "acetylsalicylic acid",
         "ramipril"
       ]
     },
@@ -5721,8 +5721,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Trinomia",
       "pil": "",
       "inn_eng": [
-        "acetylsalicylic acid",
         "atorvastatin",
+        "acetylsalicylic acid",
         "ramipril"
       ]
     },
@@ -5738,8 +5738,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Trinomia",
       "pil": "",
       "inn_eng": [
-        "acetylsalicylic acid",
         "atorvastatin",
+        "acetylsalicylic acid",
         "ramipril"
       ]
     }
@@ -6636,8 +6636,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Donopa",
       "pil": "",
       "inn_eng": [
-        "nitrogen suboxide",
-        "oxygen"
+        "oxygen",
+        "nitrogen suboxide"
       ]
     }
   ],
@@ -6654,8 +6654,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Placynox",
       "pil": "",
       "inn_eng": [
-        "nitrogen suboxide",
-        "oxygen"
+        "oxygen",
+        "nitrogen suboxide"
       ]
     }
   ],
@@ -7046,8 +7046,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Milgamma® 100",
       "pil": "",
       "inn_eng": [
-        "benfotiamine",
-        "pyridoxine"
+        "pyridoxine",
+        "benfotiamine"
       ]
     },
     {
@@ -7062,9 +7062,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Milgamma® N",
       "pil": "",
       "inn_eng": [
-        "cyanocobalamin",
         "thiamine",
-        "pyridoxine"
+        "pyridoxine",
+        "cyanocobalamin"
       ]
     }
   ],
@@ -7527,8 +7527,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Belogent®",
       "pil": "",
       "inn_eng": [
-        "antibiotics",
-        "betamethasone"
+        "betamethasone",
+        "antibiotics"
       ]
     }
   ],
@@ -7545,8 +7545,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Didermal®",
       "pil": "",
       "inn_eng": [
-        "antibiotics",
-        "betamethasone"
+        "betamethasone",
+        "antibiotics"
       ]
     }
   ],
@@ -7563,8 +7563,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Triderm® krem",
       "pil": "",
       "inn_eng": [
-        "antibiotics",
-        "betamethasone"
+        "betamethasone",
+        "antibiotics"
       ]
     },
     {
@@ -7579,8 +7579,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Triderm® mast",
       "pil": "",
       "inn_eng": [
-        "antibiotics",
-        "betamethasone"
+        "betamethasone",
+        "antibiotics"
       ]
     }
   ],
@@ -8531,8 +8531,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Bisopirin®",
       "pil": "",
       "inn_eng": [
-        "acetylsalicylic acid",
-        "bisoprolol"
+        "bisoprolol",
+        "acetylsalicylic acid"
       ]
     },
     {
@@ -8547,8 +8547,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Bisopirin®",
       "pil": "",
       "inn_eng": [
-        "acetylsalicylic acid",
-        "bisoprolol"
+        "bisoprolol",
+        "acetylsalicylic acid"
       ]
     }
   ],
@@ -8565,8 +8565,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Concor®AM",
       "pil": "",
       "inn_eng": [
-        "amlodipine",
-        "bisoprolol"
+        "bisoprolol",
+        "amlodipine"
       ]
     },
     {
@@ -8581,8 +8581,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Concor®AM",
       "pil": "",
       "inn_eng": [
-        "amlodipine",
-        "bisoprolol"
+        "bisoprolol",
+        "amlodipine"
       ]
     }
   ],
@@ -9874,8 +9874,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=AirBuFo® Forspiro®",
       "pil": "",
       "inn_eng": [
-        "formoterol",
-        "budesonide"
+        "budesonide",
+        "formoterol"
       ]
     },
     {
@@ -9890,8 +9890,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=AirBuFo® Forspiro®",
       "pil": "",
       "inn_eng": [
-        "formoterol",
-        "budesonide"
+        "budesonide",
+        "formoterol"
       ]
     }
   ],
@@ -9908,8 +9908,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Bufomix Easyhaler®",
       "pil": "",
       "inn_eng": [
-        "formoterol",
-        "budesonide"
+        "budesonide",
+        "formoterol"
       ]
     },
     {
@@ -9924,8 +9924,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Bufomix Easyhaler®",
       "pil": "",
       "inn_eng": [
-        "formoterol",
-        "budesonide"
+        "budesonide",
+        "formoterol"
       ]
     },
     {
@@ -9940,8 +9940,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Bufomix Easyhaler®",
       "pil": "",
       "inn_eng": [
-        "formoterol",
-        "budesonide"
+        "budesonide",
+        "formoterol"
       ]
     }
   ],
@@ -9958,8 +9958,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Symbicort®",
       "pil": "",
       "inn_eng": [
-        "formoterol",
-        "budesonide"
+        "budesonide",
+        "formoterol"
       ]
     },
     {
@@ -9974,8 +9974,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Symbicort® Turbuhaler®",
       "pil": "",
       "inn_eng": [
-        "formoterol",
-        "budesonide"
+        "budesonide",
+        "formoterol"
       ]
     },
     {
@@ -9990,8 +9990,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Symbicort® Turbuhaler®",
       "pil": "",
       "inn_eng": [
-        "formoterol",
-        "budesonide"
+        "budesonide",
+        "formoterol"
       ]
     },
     {
@@ -10006,8 +10006,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Symbicort® Turbuhaler®",
       "pil": "",
       "inn_eng": [
-        "formoterol",
-        "budesonide"
+        "budesonide",
+        "formoterol"
       ]
     }
   ],
@@ -10502,8 +10502,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Mysimba®",
       "pil": "",
       "inn_eng": [
-        "naltrexone",
-        "bupropion"
+        "bupropion",
+        "naltrexone"
       ]
     }
   ],
@@ -10889,8 +10889,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=CEFEPIMA BASI",
       "pil": "",
       "inn_eng": [
-        "amikacin",
-        "cefepime"
+        "cefepime",
+        "amikacin"
       ]
     }
   ],
@@ -10907,8 +10907,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Cefepim Kabi",
       "pil": "",
       "inn_eng": [
-        "amikacin",
-        "cefepime"
+        "cefepime",
+        "amikacin"
       ]
     },
     {
@@ -10923,8 +10923,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Cefepim PharmaSwiss",
       "pil": "",
       "inn_eng": [
-        "amikacin",
-        "cefepime"
+        "cefepime",
+        "amikacin"
       ]
     },
     {
@@ -10939,8 +10939,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Cefepim QILU",
       "pil": "",
       "inn_eng": [
-        "amikacin",
-        "cefepime"
+        "cefepime",
+        "amikacin"
       ]
     }
   ],
@@ -10957,8 +10957,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Cefim®",
       "pil": "",
       "inn_eng": [
-        "amikacin",
-        "cefepime"
+        "cefepime",
+        "amikacin"
       ]
     }
   ],
@@ -10975,8 +10975,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Deltacef®",
       "pil": "",
       "inn_eng": [
-        "amikacin",
-        "cefepime"
+        "cefepime",
+        "amikacin"
       ]
     }
   ],
@@ -10993,8 +10993,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Verapime",
       "pil": "",
       "inn_eng": [
-        "amikacin",
-        "cefepime"
+        "cefepime",
+        "amikacin"
       ]
     }
   ],
@@ -11333,8 +11333,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Zavicefta®",
       "pil": "",
       "inn_eng": [
-        "beta-lactamase inhibitor",
-        "ceftazidime"
+        "ceftazidime",
+        "beta-lactamase inhibitor"
       ]
     }
   ],
@@ -11708,16 +11708,16 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Septolete® duo",
       "pil": "",
       "inn_eng": [
-        "furazidin",
-        "eucalyptus vitaminalis",
         "tilia",
-        "iodine",
         "calendula officinalis",
-        "chlorophyllipt",
-        "comb drug",
-        "hexetidine",
         "decamethoxine",
-        "flores helianthi"
+        "flores helianthi",
+        "chlorophyllipt",
+        "furazidin",
+        "comb drug",
+        "iodine",
+        "eucalyptus vitaminalis",
+        "hexetidine"
       ]
     },
     {
@@ -12198,8 +12198,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Prilazid® plus",
       "pil": "",
       "inn_eng": [
-        "cilazapril",
-        "hydrochlorothiazide"
+        "hydrochlorothiazide",
+        "cilazapril"
       ]
     }
   ],
@@ -12415,8 +12415,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=CETRAXAL plus",
       "pil": "",
       "inn_eng": [
-        "antiinfectives",
-        "fluocinolone acetonide"
+        "fluocinolone acetonide",
+        "antiinfectives"
       ]
     }
   ],
@@ -13548,8 +13548,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=REZOLSTA®",
       "pil": "",
       "inn_eng": [
-        "darunavir",
-        "cobicistat"
+        "cobicistat",
+        "darunavir"
       ]
     }
   ],
@@ -13566,10 +13566,10 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Symtuza®",
       "pil": "",
       "inn_eng": [
-        "emtricitabine",
-        "darunavir",
         "tenofovir alafenamide",
-        "cobicistat"
+        "cobicistat",
+        "emtricitabine",
+        "darunavir"
       ]
     }
   ],
@@ -14533,8 +14533,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Panthenol",
       "pil": "",
       "inn_eng": [
-        "comb drug",
-        "dexpanthenol"
+        "dexpanthenol",
+        "comb drug"
       ]
     }
   ],
@@ -14816,10 +14816,10 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=GeloMyrtol® forte",
       "pil": "",
       "inn_eng": [
-        "sweet orange",
         "lemon (66:32:1:1)",
-        "distillate of a mixture of purified essential oils of eucalyptus",
-        "myrtle"
+        "sweet orange",
+        "myrtle",
+        "distillate of a mixture of purified essential oils of eucalyptus"
       ]
     }
   ],
@@ -15174,9 +15174,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Diclofenac Duo 4% Spray Gel",
       "pil": "",
       "inn_eng": [
-        "diclofenac",
+        "combinations",
         "comb drug",
-        "combinations"
+        "diclofenac"
       ]
     },
     {
@@ -15240,9 +15240,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Diklofen®",
       "pil": "",
       "inn_eng": [
-        "diclofenac",
+        "combinations",
         "comb drug",
-        "combinations"
+        "diclofenac"
       ]
     },
     {
@@ -15302,9 +15302,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Diklofen®",
       "pil": "",
       "inn_eng": [
-        "diclofenac",
+        "combinations",
         "comb drug",
-        "combinations"
+        "diclofenac"
       ]
     }
   ],
@@ -15321,9 +15321,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Diklofenak Atb",
       "pil": "",
       "inn_eng": [
-        "diclofenac",
+        "combinations",
         "comb drug",
-        "combinations"
+        "diclofenac"
       ]
     },
     {
@@ -15385,9 +15385,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Feloran®",
       "pil": "",
       "inn_eng": [
-        "diclofenac",
+        "combinations",
         "comb drug",
-        "combinations"
+        "diclofenac"
       ]
     }
   ],
@@ -15404,9 +15404,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Mazenid®",
       "pil": "",
       "inn_eng": [
-        "diclofenac",
+        "combinations",
         "comb drug",
-        "combinations"
+        "diclofenac"
       ]
     },
     {
@@ -15421,9 +15421,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Mazenid® forte",
       "pil": "",
       "inn_eng": [
-        "diclofenac",
+        "combinations",
         "comb drug",
-        "combinations"
+        "diclofenac"
       ]
     }
   ],
@@ -15457,9 +15457,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Olfen®",
       "pil": "",
       "inn_eng": [
-        "diclofenac",
+        "combinations",
         "comb drug",
-        "combinations"
+        "diclofenac"
       ]
     }
   ],
@@ -15491,9 +15491,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Rapten®",
       "pil": "",
       "inn_eng": [
-        "diclofenac",
+        "combinations",
         "comb drug",
-        "combinations"
+        "diclofenac"
       ]
     },
     {
@@ -15508,9 +15508,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Rapten® Forte",
       "pil": "",
       "inn_eng": [
-        "diclofenac",
+        "combinations",
         "comb drug",
-        "combinations"
+        "diclofenac"
       ]
     }
   ],
@@ -15561,9 +15561,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Voltaren® Emulgel®",
       "pil": "",
       "inn_eng": [
-        "diclofenac",
+        "combinations",
         "comb drug",
-        "combinations"
+        "diclofenac"
       ]
     },
     {
@@ -15578,9 +15578,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Voltaren® Forte",
       "pil": "",
       "inn_eng": [
-        "diclofenac",
+        "combinations",
         "comb drug",
-        "combinations"
+        "diclofenac"
       ]
     }
   ],
@@ -15597,8 +15597,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Diclopram®",
       "pil": "",
       "inn_eng": [
-        "diclofenac",
-        "combinations"
+        "combinations",
+        "diclofenac"
       ]
     }
   ],
@@ -16194,8 +16194,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Descari®",
       "pil": "",
       "inn_eng": [
-        "diosmin",
-        "combinations"
+        "combinations",
+        "diosmin"
       ]
     }
   ],
@@ -16212,8 +16212,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Detralex®",
       "pil": "",
       "inn_eng": [
-        "diosmin",
-        "combinations"
+        "combinations",
+        "diosmin"
       ]
     },
     {
@@ -16228,8 +16228,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Detralex®",
       "pil": "",
       "inn_eng": [
-        "diosmin",
-        "combinations"
+        "combinations",
+        "diosmin"
       ]
     }
   ],
@@ -16246,8 +16246,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Venosmin®",
       "pil": "",
       "inn_eng": [
-        "diosmin",
-        "combinations"
+        "combinations",
+        "diosmin"
       ]
     }
   ],
@@ -16298,21 +16298,21 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Iberogast®",
       "pil": "",
       "inn_eng": [
-        "liquid extract of the whole fresh plant",
-        "cumin (carum carvi l.)",
-        "lemon balm (mellissa officinalis l.)",
-        "licorice (glycyrrhiza glabra l.)",
         "angelica (angelica arhangelica l.)",
-        "liquid herb extract",
-        "liquid flower extract",
-        "liquid leaf extract",
-        "viper grass (silybum marianum l.)",
-        "peppermint (mentha piperita l.)",
-        "liquid root extract",
-        "chamomile (matricaria recutita l.)",
-        "rusa (chelidonium majus l.)",
+        "liquid extract of the whole fresh plant",
+        "lemon balm (mellissa officinalis l.)",
+        "cumin (carum carvi l.)",
         "horseradish (iberis amara l.)",
-        "liquid fruit extract"
+        "peppermint (mentha piperita l.)",
+        "chamomile (matricaria recutita l.)",
+        "liquid herb extract",
+        "liquid fruit extract",
+        "liquid leaf extract",
+        "liquid root extract",
+        "licorice (glycyrrhiza glabra l.)",
+        "viper grass (silybum marianum l.)",
+        "liquid flower extract",
+        "rusa (chelidonium majus l.)"
       ]
     }
   ],
@@ -16733,8 +16733,8 @@
       "pil": "",
       "inn_eng": [
         "tenofovir disoproxil",
-        "dolutegravir",
-        "lamivudine"
+        "lamivudine",
+        "dolutegravir"
       ]
     }
   ],
@@ -16751,8 +16751,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Juluca®",
       "pil": "",
       "inn_eng": [
-        "rilpivirine",
-        "dolutegravir"
+        "dolutegravir",
+        "rilpivirine"
       ]
     }
   ],
@@ -16914,8 +16914,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Droksin®",
       "pil": "",
       "inn_eng": [
-        "memantine",
-        "donepezil"
+        "donepezil",
+        "memantine"
       ]
     },
     {
@@ -16930,8 +16930,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Droksin®",
       "pil": "",
       "inn_eng": [
-        "memantine",
-        "donepezil"
+        "donepezil",
+        "memantine"
       ]
     }
   ],
@@ -17086,8 +17086,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Drovelis®",
       "pil": "",
       "inn_eng": [
-        "drospirenone",
-        "estetrol"
+        "estetrol",
+        "drospirenone"
       ]
     }
   ],
@@ -17122,8 +17122,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Cricea®",
       "pil": "",
       "inn_eng": [
-        "drospirenone",
-        "ethinylestradiol"
+        "ethinylestradiol",
+        "drospirenone"
       ]
     }
   ],
@@ -17140,8 +17140,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Crypineo®",
       "pil": "",
       "inn_eng": [
-        "drospirenone",
-        "ethinylestradiol"
+        "ethinylestradiol",
+        "drospirenone"
       ]
     }
   ],
@@ -17158,8 +17158,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=DAYLETTE®",
       "pil": "",
       "inn_eng": [
-        "drospirenone",
-        "ethinylestradiol"
+        "ethinylestradiol",
+        "drospirenone"
       ]
     }
   ],
@@ -17176,8 +17176,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=MIDIANA®",
       "pil": "",
       "inn_eng": [
-        "drospirenone",
-        "ethinylestradiol"
+        "ethinylestradiol",
+        "drospirenone"
       ]
     }
   ],
@@ -17194,8 +17194,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Yasmin®",
       "pil": "",
       "inn_eng": [
-        "drospirenone",
-        "ethinylestradiol"
+        "ethinylestradiol",
+        "drospirenone"
       ]
     }
   ],
@@ -17212,8 +17212,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Yaz®",
       "pil": "",
       "inn_eng": [
-        "drospirenone",
-        "ethinylestradiol"
+        "ethinylestradiol",
+        "drospirenone"
       ]
     }
   ],
@@ -17533,8 +17533,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Datust® Duo",
       "pil": "",
       "inn_eng": [
-        "tamsulosin",
-        "dutasteride"
+        "dutasteride",
+        "tamsulosin"
       ]
     }
   ],
@@ -17566,8 +17566,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Dutaprost® comb",
       "pil": "",
       "inn_eng": [
-        "tamsulosin",
-        "dutasteride"
+        "dutasteride",
+        "tamsulosin"
       ]
     }
   ],
@@ -17633,8 +17633,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=VERION DUO®",
       "pil": "",
       "inn_eng": [
-        "tamsulosin",
-        "dutasteride"
+        "dutasteride",
+        "tamsulosin"
       ]
     }
   ],
@@ -18074,8 +18074,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=ZEPATIER®",
       "pil": "",
       "inn_eng": [
-        "grazoprevir",
-        "elbasvir"
+        "elbasvir",
+        "grazoprevir"
       ]
     }
   ],
@@ -18351,8 +18351,8 @@
       "pil": "",
       "inn_eng": [
         "emtricitabine",
-        "rilpivirine",
-        "tenofovir"
+        "tenofovir",
+        "rilpivirine"
       ]
     }
   ],
@@ -18369,9 +18369,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Biktarvy®",
       "pil": "",
       "inn_eng": [
+        "tenofovir alafenamide",
         "emtricitabine",
-        "bictegravir",
-        "tenofovir alafenamide"
+        "bictegravir"
       ]
     }
   ],
@@ -18510,8 +18510,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Enap® - H",
       "pil": "",
       "inn_eng": [
-        "enalapril",
-        "diuretics"
+        "diuretics",
+        "enalapril"
       ]
     },
     {
@@ -18526,8 +18526,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Enap® - HL",
       "pil": "",
       "inn_eng": [
-        "enalapril",
-        "diuretics"
+        "diuretics",
+        "enalapril"
       ]
     }
   ],
@@ -18574,8 +18574,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Prilenap H®",
       "pil": "",
       "inn_eng": [
-        "enalapril",
-        "diuretics"
+        "diuretics",
+        "enalapril"
       ]
     },
     {
@@ -18590,8 +18590,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Prilenap® HL",
       "pil": "",
       "inn_eng": [
-        "enalapril",
-        "diuretics"
+        "diuretics",
+        "enalapril"
       ]
     }
   ],
@@ -18608,8 +18608,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Enalapril/HCT TEVA",
       "pil": "",
       "inn_eng": [
-        "enalapril",
-        "diuretics"
+        "diuretics",
+        "enalapril"
       ]
     },
     {
@@ -18624,8 +18624,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Enalapril/HCT TEVA",
       "pil": "",
       "inn_eng": [
-        "enalapril",
-        "diuretics"
+        "diuretics",
+        "enalapril"
       ]
     }
   ],
@@ -18642,8 +18642,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Enzix®",
       "pil": "",
       "inn_eng": [
-        "enalapril",
-        "diuretics"
+        "diuretics",
+        "enalapril"
       ]
     },
     {
@@ -18658,8 +18658,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Enzix® duo",
       "pil": "",
       "inn_eng": [
-        "enalapril",
-        "diuretics"
+        "diuretics",
+        "enalapril"
       ]
     },
     {
@@ -18674,8 +18674,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Enzix® duo forte",
       "pil": "",
       "inn_eng": [
-        "enalapril",
-        "diuretics"
+        "diuretics",
+        "enalapril"
       ]
     }
   ],
@@ -19368,8 +19368,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=AMIGREN®",
       "pil": "",
       "inn_eng": [
-        "combinations excl. psycholeptics",
-        "ergotamine"
+        "ergotamine",
+        "combinations excl. psycholeptics"
       ]
     }
   ],
@@ -20285,8 +20285,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Belara®",
       "pil": "",
       "inn_eng": [
-        "chlormadinone",
-        "ethinylestradiol"
+        "ethinylestradiol",
+        "chlormadinone"
       ]
     }
   ],
@@ -20804,8 +20804,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Co-Atoris",
       "pil": "",
       "inn_eng": [
-        "ezetimibe",
-        "atorvastatin"
+        "atorvastatin",
+        "ezetimibe"
       ]
     },
     {
@@ -20820,8 +20820,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Co-Atoris",
       "pil": "",
       "inn_eng": [
-        "ezetimibe",
-        "atorvastatin"
+        "atorvastatin",
+        "ezetimibe"
       ]
     },
     {
@@ -20836,8 +20836,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Co-Atoris",
       "pil": "",
       "inn_eng": [
-        "ezetimibe",
-        "atorvastatin"
+        "atorvastatin",
+        "ezetimibe"
       ]
     },
     {
@@ -20852,8 +20852,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Co-Atoris",
       "pil": "",
       "inn_eng": [
-        "ezetimibe",
-        "atorvastatin"
+        "atorvastatin",
+        "ezetimibe"
       ]
     }
   ],
@@ -22538,8 +22538,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Sinoderm® N",
       "pil": "",
       "inn_eng": [
-        "antibiotics",
-        "fluocinolone acetonide"
+        "fluocinolone acetonide",
+        "antibiotics"
       ]
     }
   ],
@@ -23105,8 +23105,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Pergoveris®",
       "pil": "",
       "inn_eng": [
-        "combinations",
-        "gonadotropins"
+        "gonadotropins",
+        "combinations"
       ]
     },
     {
@@ -23121,8 +23121,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Pergoveris®",
       "pil": "",
       "inn_eng": [
-        "combinations",
-        "gonadotropins"
+        "gonadotropins",
+        "combinations"
       ]
     },
     {
@@ -23137,8 +23137,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Pergoveris®",
       "pil": "",
       "inn_eng": [
-        "combinations",
-        "gonadotropins"
+        "gonadotropins",
+        "combinations"
       ]
     },
     {
@@ -23153,8 +23153,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Pergoveris®",
       "pil": "",
       "inn_eng": [
-        "combinations",
-        "gonadotropins"
+        "gonadotropins",
+        "combinations"
       ]
     }
   ],
@@ -23383,8 +23383,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=DuoResp® Spiromax®",
       "pil": "",
       "inn_eng": [
-        "formoterol",
-        "budesonide"
+        "budesonide",
+        "formoterol"
       ]
     },
     {
@@ -23399,8 +23399,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=DuoResp® Spiromax®",
       "pil": "",
       "inn_eng": [
-        "formoterol",
-        "budesonide"
+        "budesonide",
+        "formoterol"
       ]
     }
   ],
@@ -23417,8 +23417,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=TRIXEO® AEROSPHERE®",
       "pil": "",
       "inn_eng": [
-        "formoterol",
         "budesonide",
+        "formoterol",
         "glycopyrronium bromide"
       ]
     }
@@ -23583,8 +23583,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Monopril® Plus",
       "pil": "",
       "inn_eng": [
-        "fosinopril",
-        "hydrochlorothiazide"
+        "hydrochlorothiazide",
+        "fosinopril"
       ]
     }
   ],
@@ -24445,8 +24445,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Lindynette® 20",
       "pil": "",
       "inn_eng": [
-        "gestodene",
-        "ethinylestradiol"
+        "ethinylestradiol",
+        "gestodene"
       ]
     }
   ],
@@ -24463,8 +24463,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Logest®",
       "pil": "",
       "inn_eng": [
-        "gestodene",
-        "ethinylestradiol"
+        "ethinylestradiol",
+        "gestodene"
       ]
     }
   ],
@@ -24579,8 +24579,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Maviret®",
       "pil": "",
       "inn_eng": [
-        "pibrentasvir",
-        "glecaprevir"
+        "glecaprevir",
+        "pibrentasvir"
       ]
     }
   ],
@@ -25237,12 +25237,12 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=PHYSIONEAL 40 CLEAR-FLEX glukoza 1,36% m/v / 13,6 mg/mL",
       "pil": "",
       "inn_eng": [
-        "sodium lactate",
-        "magnesium chloride",
+        "sodium chloride",
         "sodium bicarbonate",
-        "calcium chloride",
         "glucose",
-        "sodium chloride"
+        "magnesium chloride",
+        "calcium chloride",
+        "sodium lactate"
       ]
     },
     {
@@ -25257,12 +25257,12 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=PHYSIONEAL 40 CLEAR-FLEX glukoza 2,27% m/v / 22,7 mg/mL",
       "pil": "",
       "inn_eng": [
-        "sodium lactate",
-        "magnesium chloride",
+        "sodium chloride",
         "sodium bicarbonate",
-        "calcium chloride",
         "glucose",
-        "sodium chloride"
+        "magnesium chloride",
+        "calcium chloride",
+        "sodium lactate"
       ]
     },
     {
@@ -25277,12 +25277,12 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=PHYSIONEAL 40 CLEAR-FLEX glukoza 3,86% m/v / 38,6 mg/mL",
       "pil": "",
       "inn_eng": [
-        "sodium lactate",
-        "magnesium chloride",
+        "sodium chloride",
         "sodium bicarbonate",
-        "calcium chloride",
         "glucose",
-        "sodium chloride"
+        "magnesium chloride",
+        "calcium chloride",
+        "sodium lactate"
       ]
     },
     {
@@ -25297,12 +25297,12 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Physioneal 40 glukoza 1.36% m/v / 13.6 mg/ml",
       "pil": "",
       "inn_eng": [
-        "sodium lactate",
-        "magnesium chloride",
+        "sodium chloride",
         "sodium bicarbonate",
-        "calcium chloride",
         "glucose",
-        "sodium chloride"
+        "magnesium chloride",
+        "calcium chloride",
+        "sodium lactate"
       ]
     },
     {
@@ -25317,12 +25317,12 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Physioneal 40 glukoza 2.27% m/v / 22.7 mg/ml",
       "pil": "",
       "inn_eng": [
-        "sodium lactate",
-        "magnesium chloride",
+        "sodium chloride",
         "sodium bicarbonate",
-        "calcium chloride",
         "glucose",
-        "sodium chloride"
+        "magnesium chloride",
+        "calcium chloride",
+        "sodium lactate"
       ]
     },
     {
@@ -25337,12 +25337,12 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Physioneal 40 glukoza 3.86% m/v / 38.6 mg/ml",
       "pil": "",
       "inn_eng": [
-        "sodium lactate",
-        "magnesium chloride",
+        "sodium chloride",
         "sodium bicarbonate",
-        "calcium chloride",
         "glucose",
-        "sodium chloride"
+        "magnesium chloride",
+        "calcium chloride",
+        "sodium lactate"
       ]
     }
   ],
@@ -25359,11 +25359,11 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Dianeal PD4",
       "pil": "",
       "inn_eng": [
-        "sodium lactate",
+        "sodium chloride",
+        "glucose",
         "magnesium chloride",
         "calcium chloride",
-        "glucose",
-        "sodium chloride"
+        "sodium lactate"
       ]
     },
     {
@@ -25378,11 +25378,11 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Dianeal PD4",
       "pil": "",
       "inn_eng": [
-        "sodium lactate",
+        "sodium chloride",
+        "glucose",
         "magnesium chloride",
         "calcium chloride",
-        "glucose",
-        "sodium chloride"
+        "sodium lactate"
       ]
     },
     {
@@ -25397,11 +25397,11 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Dianeal PD4",
       "pil": "",
       "inn_eng": [
-        "sodium lactate",
+        "sodium chloride",
+        "glucose",
         "magnesium chloride",
         "calcium chloride",
-        "glucose",
-        "sodium chloride"
+        "sodium lactate"
       ]
     }
   ],
@@ -26000,8 +26000,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Hepathrombin® H",
       "pil": "",
       "inn_eng": [
-        "heparin-sodium",
         "prednisolone",
+        "heparin-sodium",
         "lauromacrogol 400"
       ]
     },
@@ -26017,8 +26017,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Hepathrombin® H",
       "pil": "",
       "inn_eng": [
-        "heparin-sodium",
         "prednisolone",
+        "heparin-sodium",
         "lauromacrogol 400"
       ]
     }
@@ -26053,8 +26053,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Contractubex®",
       "pil": "",
       "inn_eng": [
-        "heparin",
-        "combinations"
+        "combinations",
+        "heparin"
       ]
     }
   ],
@@ -26071,8 +26071,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Sinedol®",
       "pil": "",
       "inn_eng": [
-        "heparin",
-        "combinations"
+        "combinations",
+        "heparin"
       ]
     }
   ],
@@ -26089,8 +26089,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=ImmunoHBs",
       "pil": "",
       "inn_eng": [
-        "hepatitis b immunoglobulin",
-        "human"
+        "human",
+        "hepatitis b immunoglobulin"
       ]
     },
     {
@@ -26105,8 +26105,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=ImmunoHBs",
       "pil": "",
       "inn_eng": [
-        "hepatitis b immunoglobulin",
-        "human"
+        "human",
+        "hepatitis b immunoglobulin"
       ]
     }
   ],
@@ -26224,8 +26224,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Hydrocyclin®",
       "pil": "",
       "inn_eng": [
-        "hydrocortisone",
-        "antibiotics"
+        "antibiotics",
+        "hydrocortisone"
       ]
     }
   ],
@@ -26879,8 +26879,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Fibryga®",
       "pil": "",
       "inn_eng": [
-        "fibrinogen",
-        "human"
+        "human",
+        "fibrinogen"
       ]
     }
   ],
@@ -26931,9 +26931,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Gammanorm",
       "pil": "",
       "inn_eng": [
-        "immunoglobulins",
+        "for extravascular adm.",
         "normal human",
-        "for extravascular adm."
+        "immunoglobulins"
       ]
     }
   ],
@@ -26950,9 +26950,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Hizentra®",
       "pil": "",
       "inn_eng": [
-        "immunoglobulins",
+        "for extravascular adm.",
         "normal human",
-        "for extravascular adm."
+        "immunoglobulins"
       ]
     }
   ],
@@ -26969,9 +26969,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=HyQvia®",
       "pil": "",
       "inn_eng": [
-        "immunoglobulins",
+        "for extravascular adm.",
         "normal human",
-        "for extravascular adm."
+        "immunoglobulins"
       ]
     }
   ],
@@ -26988,9 +26988,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=cutaquig®",
       "pil": "",
       "inn_eng": [
-        "immunoglobulins",
+        "for extravascular adm.",
         "normal human",
-        "for extravascular adm."
+        "immunoglobulins"
       ]
     }
   ],
@@ -27007,9 +27007,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Flebogamma 10% DIF",
       "pil": "",
       "inn_eng": [
-        "immunoglobulins",
+        "for intravascular adm.",
         "normal human",
-        "for intravascular adm."
+        "immunoglobulins"
       ]
     },
     {
@@ -27024,9 +27024,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Flebogamma 5% DIF",
       "pil": "",
       "inn_eng": [
-        "immunoglobulins",
+        "for intravascular adm.",
         "normal human",
-        "for intravascular adm."
+        "immunoglobulins"
       ]
     }
   ],
@@ -27043,9 +27043,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Ig Vena",
       "pil": "",
       "inn_eng": [
-        "immunoglobulins",
+        "for intravascular adm.",
         "normal human",
-        "for intravascular adm."
+        "immunoglobulins"
       ]
     }
   ],
@@ -27062,9 +27062,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Intratect",
       "pil": "",
       "inn_eng": [
-        "immunoglobulins",
+        "for intravascular adm.",
         "normal human",
-        "for intravascular adm."
+        "immunoglobulins"
       ]
     },
     {
@@ -27079,9 +27079,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Intratect",
       "pil": "",
       "inn_eng": [
-        "immunoglobulins",
+        "for intravascular adm.",
         "normal human",
-        "for intravascular adm."
+        "immunoglobulins"
       ]
     }
   ],
@@ -27098,9 +27098,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Kiovig",
       "pil": "",
       "inn_eng": [
-        "immunoglobulins",
+        "for intravascular adm.",
         "normal human",
-        "for intravascular adm."
+        "immunoglobulins"
       ]
     }
   ],
@@ -27117,9 +27117,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Octagam®",
       "pil": "",
       "inn_eng": [
-        "immunoglobulins",
+        "for intravascular adm.",
         "normal human",
-        "for intravascular adm."
+        "immunoglobulins"
       ]
     }
   ],
@@ -27136,9 +27136,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Pentaglobin®",
       "pil": "",
       "inn_eng": [
-        "immunoglobulins",
+        "for intravascular adm.",
         "normal human",
-        "for intravascular adm."
+        "immunoglobulins"
       ]
     }
   ],
@@ -27155,9 +27155,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Privigen®",
       "pil": "",
       "inn_eng": [
-        "immunoglobulins",
+        "for intravascular adm.",
         "normal human",
-        "for intravascular adm."
+        "immunoglobulins"
       ]
     }
   ],
@@ -27174,8 +27174,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Rotarix®",
       "pil": "",
       "inn_eng": [
-        "rota virus",
-        "live attenuated"
+        "live attenuated",
+        "rota virus"
       ]
     }
   ],
@@ -28143,8 +28143,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Rapidol® Nasal",
       "pil": "",
       "inn_eng": [
-        "pseudoephedrine",
-        "combinations"
+        "combinations",
+        "pseudoephedrine"
       ]
     }
   ],
@@ -28292,8 +28292,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Defrinol® Duo",
       "pil": "",
       "inn_eng": [
-        "pseudoephedrine",
-        "combinations"
+        "combinations",
+        "pseudoephedrine"
       ]
     },
     {
@@ -28308,8 +28308,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Defrinol®",
       "pil": "",
       "inn_eng": [
-        "pseudoephedrine",
-        "combinations"
+        "combinations",
+        "pseudoephedrine"
       ]
     },
     {
@@ -28324,8 +28324,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Defrinol®",
       "pil": "",
       "inn_eng": [
-        "pseudoephedrine",
-        "combinations"
+        "combinations",
+        "pseudoephedrine"
       ]
     },
     {
@@ -28340,8 +28340,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Defrinol® forte",
       "pil": "",
       "inn_eng": [
-        "pseudoephedrine",
-        "combinations"
+        "combinations",
+        "pseudoephedrine"
       ]
     }
   ],
@@ -28492,11 +28492,11 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Extraneal",
       "pil": "",
       "inn_eng": [
+        "sodium (s)-lactate",
+        "sodium chloride",
         "magnesium chloride",
         "icodextrin",
-        "calcium chloride",
-        "sodium (s)-lactate",
-        "sodium chloride"
+        "calcium chloride"
       ]
     }
   ],
@@ -28756,8 +28756,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=IMINEM",
       "pil": "",
       "inn_eng": [
-        "imipenem",
-        "cilastatin"
+        "cilastatin",
+        "imipenem"
       ]
     }
   ],
@@ -28774,8 +28774,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Imipenem/Cilastatin Kabi",
       "pil": "",
       "inn_eng": [
-        "imipenem",
-        "cilastatin"
+        "cilastatin",
+        "imipenem"
       ]
     },
     {
@@ -28790,8 +28790,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Imipenem/Cilastatin Quatalia",
       "pil": "",
       "inn_eng": [
-        "imipenem",
-        "cilastatin"
+        "cilastatin",
+        "imipenem"
       ]
     }
   ],
@@ -28808,8 +28808,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Mipecid®",
       "pil": "",
       "inn_eng": [
-        "imipenem",
-        "cilastatin"
+        "cilastatin",
+        "imipenem"
       ]
     }
   ],
@@ -28826,8 +28826,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Nimedine",
       "pil": "",
       "inn_eng": [
-        "imipenem",
-        "cilastatin"
+        "cilastatin",
+        "imipenem"
       ]
     }
   ],
@@ -28844,8 +28844,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=RECARBRIO®",
       "pil": "",
       "inn_eng": [
-        "imipenem",
         "cilastatin",
+        "imipenem",
         "relebactam"
       ]
     }
@@ -28898,9 +28898,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Enerzair®Breezhaler®",
       "pil": "",
       "inn_eng": [
-        "mometasone",
+        "glycopyrronium bromide",
         "indacaterol",
-        "glycopyrronium bromide"
+        "mometasone"
       ]
     }
   ],
@@ -28917,8 +28917,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Atectura®Breezhaler®",
       "pil": "",
       "inn_eng": [
-        "mometasone",
-        "indacaterol"
+        "indacaterol",
+        "mometasone"
       ]
     },
     {
@@ -28933,8 +28933,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Atectura®Breezhaler®",
       "pil": "",
       "inn_eng": [
-        "mometasone",
-        "indacaterol"
+        "indacaterol",
+        "mometasone"
       ]
     }
   ],
@@ -29294,8 +29294,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Ryzodeg® FlexTouch®",
       "pil": "",
       "inn_eng": [
-        "insulin degludec",
-        "insulin aspart"
+        "insulin aspart",
+        "insulin degludec"
       ]
     }
   ],
@@ -29312,8 +29312,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Xultophy®",
       "pil": "",
       "inn_eng": [
-        "insulin degludec",
-        "liraglutide"
+        "liraglutide",
+        "insulin degludec"
       ]
     }
   ],
@@ -29771,8 +29771,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Ipratropijum-bromid/salbutamol PharmaS",
       "pil": "",
       "inn_eng": [
-        "ipratropium bromide",
-        "salbutamol"
+        "salbutamol",
+        "ipratropium bromide"
       ]
     }
   ],
@@ -29819,8 +29819,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Irbenida plus",
       "pil": "",
       "inn_eng": [
-        "irbesartan",
-        "diuretics"
+        "diuretics",
+        "irbesartan"
       ]
     },
     {
@@ -29835,8 +29835,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Irbenida plus",
       "pil": "",
       "inn_eng": [
-        "irbesartan",
-        "diuretics"
+        "diuretics",
+        "irbesartan"
       ]
     }
   ],
@@ -29930,8 +29930,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Rotazar plus",
       "pil": "",
       "inn_eng": [
-        "irbesartan",
-        "diuretics"
+        "diuretics",
+        "irbesartan"
       ]
     },
     {
@@ -29946,8 +29946,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Rotazar plus",
       "pil": "",
       "inn_eng": [
-        "irbesartan",
-        "diuretics"
+        "diuretics",
+        "irbesartan"
       ]
     },
     {
@@ -29962,8 +29962,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Rotazar plus",
       "pil": "",
       "inn_eng": [
-        "irbesartan",
-        "diuretics"
+        "diuretics",
+        "irbesartan"
       ]
     }
   ],
@@ -30172,9 +30172,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Kaftrio®",
       "pil": "",
       "inn_eng": [
-        "elexacaftor",
         "tezacaftor",
-        "ivacaftor"
+        "ivacaftor",
+        "elexacaftor"
       ]
     },
     {
@@ -30189,9 +30189,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Kaftrio®",
       "pil": "",
       "inn_eng": [
-        "elexacaftor",
         "tezacaftor",
-        "ivacaftor"
+        "ivacaftor",
+        "elexacaftor"
       ]
     },
     {
@@ -30206,9 +30206,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Kaftrio®",
       "pil": "",
       "inn_eng": [
-        "elexacaftor",
         "tezacaftor",
-        "ivacaftor"
+        "ivacaftor",
+        "elexacaftor"
       ]
     }
   ],
@@ -30824,8 +30824,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Ideos®",
       "pil": "",
       "inn_eng": [
-        "calcium",
-        "cholecalciferol"
+        "cholecalciferol",
+        "calcium"
       ]
     }
   ],
@@ -30893,11 +30893,11 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Balance 1.5% glukoze, 1.25 mmol/l kalcijuma",
       "pil": "",
       "inn_eng": [
-        "sodium lactate",
+        "sodium chloride",
+        "glucose",
         "magnesium chloride",
         "calcium chloride",
-        "glucose",
-        "sodium chloride"
+        "sodium lactate"
       ]
     },
     {
@@ -30912,11 +30912,11 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Balance 2.3% glukoze, 1.25 mmol/l kalcijuma",
       "pil": "",
       "inn_eng": [
-        "sodium lactate",
+        "sodium chloride",
+        "glucose",
         "magnesium chloride",
         "calcium chloride",
-        "glucose",
-        "sodium chloride"
+        "sodium lactate"
       ]
     },
     {
@@ -30931,11 +30931,11 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Balance 4.25% glukoze, 1.25 mmol/l kalcijuma",
       "pil": "",
       "inn_eng": [
-        "sodium lactate",
+        "sodium chloride",
+        "glucose",
         "magnesium chloride",
         "calcium chloride",
-        "glucose",
-        "sodium chloride"
+        "sodium lactate"
       ]
     }
   ],
@@ -30987,9 +30987,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Ca-C 1000 Calvive®",
       "pil": "",
       "inn_eng": [
-        "ascorbic acid",
         "calcium carbonate",
-        "calcium lactate gluconate"
+        "calcium lactate gluconate",
+        "ascorbic acid"
       ]
     }
   ],
@@ -31074,12 +31074,12 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=multiBic® 2mmol/l kalijuma",
       "pil": "",
       "inn_eng": [
-        "potassium chloride",
-        "magnesium chloride",
-        "calcium chloride",
-        "sodium hydrogen carbonate",
+        "sodium chloride",
         "glucose",
-        "sodium chloride"
+        "magnesium chloride",
+        "sodium hydrogen carbonate",
+        "calcium chloride",
+        "potassium chloride"
       ]
     }
   ],
@@ -33264,8 +33264,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Natrijum hlorid 0.9% IMUNA ENVIBAG",
       "pil": "",
       "inn_eng": [
-        "calcium gluconate",
-        "electrolytes"
+        "electrolytes",
+        "calcium gluconate"
       ]
     },
     {
@@ -33357,9 +33357,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Meralys Comb",
       "pil": "",
       "inn_eng": [
-        "xylometazoline",
         "combinations",
-        "comb drug"
+        "comb drug",
+        "xylometazoline"
       ]
     }
   ],
@@ -33485,9 +33485,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=SNUP® D za decu",
       "pil": "",
       "inn_eng": [
-        "xylometazoline",
         "combinations",
-        "comb drug"
+        "comb drug",
+        "xylometazoline"
       ]
     },
     {
@@ -33502,9 +33502,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=SNUP® D za odrasle",
       "pil": "",
       "inn_eng": [
-        "xylometazoline",
         "combinations",
-        "comb drug"
+        "comb drug",
+        "xylometazoline"
       ]
     }
   ],
@@ -33521,9 +33521,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Septanazal® za decu",
       "pil": "",
       "inn_eng": [
-        "xylometazoline",
         "combinations",
-        "comb drug"
+        "comb drug",
+        "xylometazoline"
       ]
     },
     {
@@ -33538,9 +33538,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Septanazal® za odrasle",
       "pil": "",
       "inn_eng": [
-        "xylometazoline",
         "combinations",
-        "comb drug"
+        "comb drug",
+        "xylometazoline"
       ]
     }
   ],
@@ -33557,9 +33557,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=nasic®",
       "pil": "",
       "inn_eng": [
-        "xylometazoline",
         "combinations",
-        "comb drug"
+        "comb drug",
+        "xylometazoline"
       ]
     },
     {
@@ -33574,9 +33574,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=nasic® za decu",
       "pil": "",
       "inn_eng": [
-        "xylometazoline",
         "combinations",
-        "comb drug"
+        "comb drug",
+        "xylometazoline"
       ]
     }
   ],
@@ -33593,9 +33593,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Otrivin® Plus",
       "pil": "",
       "inn_eng": [
-        "xylometazoline",
         "combinations",
-        "comb drug"
+        "comb drug",
+        "xylometazoline"
       ]
     }
   ],
@@ -34264,8 +34264,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Epivir®",
       "pil": "",
       "inn_eng": [
-        "abacavir",
-        "lamivudine"
+        "lamivudine",
+        "abacavir"
       ]
     }
   ],
@@ -34282,8 +34282,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Zeffix®",
       "pil": "",
       "inn_eng": [
-        "abacavir",
-        "lamivudine"
+        "lamivudine",
+        "abacavir"
       ]
     }
   ],
@@ -34300,8 +34300,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Kivexa®",
       "pil": "",
       "inn_eng": [
-        "abacavir",
-        "lamivudine"
+        "lamivudine",
+        "abacavir"
       ]
     }
   ],
@@ -34318,9 +34318,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Triumeq®",
       "pil": "",
       "inn_eng": [
-        "dolutegravir",
+        "lamivudine",
         "abacavir",
-        "lamivudine"
+        "dolutegravir"
       ]
     }
   ],
@@ -34337,8 +34337,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Delstrigo®",
       "pil": "",
       "inn_eng": [
-        "lamivudine",
         "tenofovir disoproxil",
+        "lamivudine",
         "doravirine"
       ]
     }
@@ -36425,12 +36425,12 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Rowachol®",
       "pil": "",
       "inn_eng": [
-        "alpha-pinene",
-        "borneol",
         "menthone",
-        "levomenthol",
-        "beta-pinene",
         "camphene",
+        "beta-pinene",
+        "borneol",
+        "alpha-pinene",
+        "levomenthol",
         "cineole"
       ]
     }
@@ -36633,8 +36633,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Legravan®",
       "pil": "",
       "inn_eng": [
-        "levonorgestrel",
-        "ethinylestradiol"
+        "ethinylestradiol",
+        "levonorgestrel"
       ]
     }
   ],
@@ -36651,8 +36651,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Microgynon® 30",
       "pil": "",
       "inn_eng": [
-        "levonorgestrel",
-        "ethinylestradiol"
+        "ethinylestradiol",
+        "levonorgestrel"
       ]
     }
   ],
@@ -37043,12 +37043,12 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Calgel®",
       "pil": "",
       "inn_eng": [
-        "eucalyptus vitaminalis",
-        "quercus",
         "salvia officinalis",
-        "hypericum perforatum",
         "comb drug",
-        "capsicum annuum"
+        "capsicum annuum",
+        "eucalyptus vitaminalis",
+        "hypericum perforatum",
+        "quercus"
       ]
     }
   ],
@@ -37117,15 +37117,15 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Sinupret® sirup",
       "pil": "",
       "inn_eng": [
-        "root",
-        "lincura (gentiana lutea l.)",
         "calyx flower",
-        "flower",
-        "herba",
         "zova (sambucus nigra l.)",
-        "primrose (primula veris (l.) and/or primula elatior (l.) hill.)",
+        "verbena (verbena officinalis l.)",
         "sauerkraut (rumex sp.)",
-        "verbena (verbena officinalis l.)"
+        "primrose (primula veris (l.) and/or primula elatior (l.) hill.)",
+        "lincura (gentiana lutea l.)",
+        "herba",
+        "root",
+        "flower"
       ]
     },
     {
@@ -37155,14 +37155,14 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Sinupret® forte",
       "pil": "",
       "inn_eng": [
-        "flower bud powder",
-        "herb powder",
-        "lincura (gentiana lutea l.)",
         "root powder",
-        "verbena (verbena officinalis l.)",
         "flower powder",
-        "primrose (primula veris (l.) and/or primula elatior (l.) hill.)",
+        "verbena (verbena officinalis l.)",
+        "herb powder",
         "sauerkraut (rumex sp.)",
+        "flower bud powder",
+        "lincura (gentiana lutea l.)",
+        "primrose (primula veris (l.) and/or primula elatior (l.) hill.)",
         "elderberry (sambucus nigra l.)"
       ]
     }
@@ -37489,8 +37489,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Lizopril® H",
       "pil": "",
       "inn_eng": [
-        "lisinopril",
-        "diuretics"
+        "diuretics",
+        "lisinopril"
       ]
     },
     {
@@ -37505,8 +37505,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Lizopril® H",
       "pil": "",
       "inn_eng": [
-        "lisinopril",
-        "diuretics"
+        "diuretics",
+        "lisinopril"
       ]
     }
   ],
@@ -37601,8 +37601,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Skopryl plus®",
       "pil": "",
       "inn_eng": [
-        "lisinopril",
-        "diuretics"
+        "diuretics",
+        "lisinopril"
       ]
     }
   ],
@@ -37669,8 +37669,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Iruzid®",
       "pil": "",
       "inn_eng": [
-        "lisinopril",
-        "diuretics"
+        "diuretics",
+        "lisinopril"
       ]
     },
     {
@@ -37685,8 +37685,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Iruzid®",
       "pil": "",
       "inn_eng": [
-        "lisinopril",
-        "diuretics"
+        "diuretics",
+        "lisinopril"
       ]
     },
     {
@@ -37701,8 +37701,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Iruzid®",
       "pil": "",
       "inn_eng": [
-        "lisinopril",
-        "diuretics"
+        "diuretics",
+        "lisinopril"
       ]
     }
   ],
@@ -37719,16 +37719,16 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=LYSOBACT DUO®",
       "pil": "",
       "inn_eng": [
-        "furazidin",
-        "eucalyptus vitaminalis",
         "tilia",
-        "iodine",
         "calendula officinalis",
-        "chlorophyllipt",
-        "comb drug",
-        "hexetidine",
         "decamethoxine",
-        "flores helianthi"
+        "flores helianthi",
+        "chlorophyllipt",
+        "furazidin",
+        "comb drug",
+        "iodine",
+        "eucalyptus vitaminalis",
+        "hexetidine"
       ]
     },
     {
@@ -37743,16 +37743,16 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Lysobact®",
       "pil": "",
       "inn_eng": [
-        "furazidin",
-        "eucalyptus vitaminalis",
         "tilia",
-        "iodine",
         "calendula officinalis",
-        "chlorophyllipt",
-        "comb drug",
-        "hexetidine",
         "decamethoxine",
-        "flores helianthi"
+        "flores helianthi",
+        "chlorophyllipt",
+        "furazidin",
+        "comb drug",
+        "iodine",
+        "eucalyptus vitaminalis",
+        "hexetidine"
       ]
     }
   ],
@@ -37950,8 +37950,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Clarinase®",
       "pil": "",
       "inn_eng": [
-        "pseudoephedrine",
-        "combinations"
+        "combinations",
+        "pseudoephedrine"
       ]
     }
   ],
@@ -38158,8 +38158,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Erynorm plus",
       "pil": "",
       "inn_eng": [
-        "losartan",
-        "diuretics"
+        "diuretics",
+        "losartan"
       ]
     }
   ],
@@ -38238,8 +38238,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Lorista® H",
       "pil": "",
       "inn_eng": [
-        "losartan",
-        "diuretics"
+        "diuretics",
+        "losartan"
       ]
     },
     {
@@ -38254,8 +38254,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Lorista® HD",
       "pil": "",
       "inn_eng": [
-        "losartan",
-        "diuretics"
+        "diuretics",
+        "losartan"
       ]
     }
   ],
@@ -38287,8 +38287,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Losar plus®",
       "pil": "",
       "inn_eng": [
-        "losartan",
-        "diuretics"
+        "diuretics",
+        "losartan"
       ]
     }
   ],
@@ -38864,12 +38864,12 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Pantogar®",
       "pil": "",
       "inn_eng": [
-        "cystine",
-        "medicinal yeast",
-        "p-aminobenzoic acid",
+        "thiamine",
         "calcium pantothenate",
         "keratin",
-        "thiamine"
+        "medicinal yeast",
+        "p-aminobenzoic acid",
+        "cystine"
       ]
     }
   ],
@@ -39227,8 +39227,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Scandonest 2% special",
       "pil": "",
       "inn_eng": [
-        "mepivacaine",
-        "epinephrine"
+        "epinephrine",
+        "mepivacaine"
       ]
     }
   ],
@@ -40296,8 +40296,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Xigduo®",
       "pil": "",
       "inn_eng": [
-        "metformin",
-        "dapagliflozin"
+        "dapagliflozin",
+        "metformin"
       ]
     },
     {
@@ -40312,8 +40312,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Xigduo®",
       "pil": "",
       "inn_eng": [
-        "metformin",
-        "dapagliflozin"
+        "dapagliflozin",
+        "metformin"
       ]
     }
   ],
@@ -40330,8 +40330,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Synjardy®",
       "pil": "",
       "inn_eng": [
-        "empagliflozin",
-        "metformin"
+        "metformin",
+        "empagliflozin"
       ]
     },
     {
@@ -40346,8 +40346,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Synjardy®",
       "pil": "",
       "inn_eng": [
-        "empagliflozin",
-        "metformin"
+        "metformin",
+        "empagliflozin"
       ]
     },
     {
@@ -40362,8 +40362,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Synjardy®",
       "pil": "",
       "inn_eng": [
-        "empagliflozin",
-        "metformin"
+        "metformin",
+        "empagliflozin"
       ]
     },
     {
@@ -40378,8 +40378,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Synjardy®",
       "pil": "",
       "inn_eng": [
-        "empagliflozin",
-        "metformin"
+        "metformin",
+        "empagliflozin"
       ]
     }
   ],
@@ -40838,12 +40838,12 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=BENGAY® Greaseless",
       "pil": "",
       "inn_eng": [
-        "chole medicata",
-        "thiocolchicoside",
-        "formic acid",
-        "comb drug",
         "mono",
-        "camphora"
+        "thiocolchicoside",
+        "comb drug",
+        "formic acid",
+        "camphora",
+        "chole medicata"
       ]
     }
   ],
@@ -42460,8 +42460,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Ryaltris®",
       "pil": "",
       "inn_eng": [
-        "mometasone",
-        "combinations"
+        "combinations",
+        "mometasone"
       ]
     }
   ],
@@ -42478,8 +42478,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Alvokast®",
       "pil": "",
       "inn_eng": [
-        "montelukast",
-        "combinations"
+        "combinations",
+        "montelukast"
       ]
     },
     {
@@ -42494,8 +42494,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Alvokast®",
       "pil": "",
       "inn_eng": [
-        "montelukast",
-        "combinations"
+        "combinations",
+        "montelukast"
       ]
     },
     {
@@ -42510,8 +42510,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Alvokast®",
       "pil": "",
       "inn_eng": [
-        "montelukast",
-        "combinations"
+        "combinations",
+        "montelukast"
       ]
     }
   ],
@@ -42528,8 +42528,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Monkasta®",
       "pil": "",
       "inn_eng": [
-        "montelukast",
-        "combinations"
+        "combinations",
+        "montelukast"
       ]
     },
     {
@@ -42544,8 +42544,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Monkasta®",
       "pil": "",
       "inn_eng": [
-        "montelukast",
-        "combinations"
+        "combinations",
+        "montelukast"
       ]
     },
     {
@@ -42560,8 +42560,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Monkasta®",
       "pil": "",
       "inn_eng": [
-        "montelukast",
-        "combinations"
+        "combinations",
+        "montelukast"
       ]
     }
   ],
@@ -42578,8 +42578,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Singulair®",
       "pil": "",
       "inn_eng": [
-        "montelukast",
-        "combinations"
+        "combinations",
+        "montelukast"
       ]
     },
     {
@@ -42594,8 +42594,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Singulair®",
       "pil": "",
       "inn_eng": [
-        "montelukast",
-        "combinations"
+        "combinations",
+        "montelukast"
       ]
     },
     {
@@ -42610,8 +42610,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Singulair®",
       "pil": "",
       "inn_eng": [
-        "montelukast",
-        "combinations"
+        "combinations",
+        "montelukast"
       ]
     }
   ],
@@ -42628,8 +42628,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=TELUKA®",
       "pil": "",
       "inn_eng": [
-        "montelukast",
-        "combinations"
+        "combinations",
+        "montelukast"
       ]
     }
   ],
@@ -43134,8 +43134,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Isolyte",
       "pil": "",
       "inn_eng": [
-        "calcium gluconate",
-        "electrolytes"
+        "electrolytes",
+        "calcium gluconate"
       ]
     }
   ],
@@ -43248,8 +43248,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Natrii chloridi infundibile compositum (Ringerov rastvor HF)",
       "pil": "",
       "inn_eng": [
-        "calcium gluconate",
-        "electrolytes"
+        "electrolytes",
+        "calcium gluconate"
       ]
     }
   ],
@@ -43315,8 +43315,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Ringer IMUNA ENVIBAG",
       "pil": "",
       "inn_eng": [
-        "calcium gluconate",
-        "electrolytes"
+        "electrolytes",
+        "calcium gluconate"
       ]
     }
   ],
@@ -43333,8 +43333,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Ringerov rastvor B. Braun",
       "pil": "",
       "inn_eng": [
-        "calcium gluconate",
-        "electrolytes"
+        "electrolytes",
+        "calcium gluconate"
       ]
     },
     {
@@ -43349,8 +43349,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Ringerov rastvor Baxter",
       "pil": "",
       "inn_eng": [
-        "calcium gluconate",
-        "electrolytes"
+        "electrolytes",
+        "calcium gluconate"
       ]
     }
   ],
@@ -43367,8 +43367,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Ringer´s solution Fresenius Kabi",
       "pil": "",
       "inn_eng": [
-        "calcium gluconate",
-        "electrolytes"
+        "electrolytes",
+        "calcium gluconate"
       ]
     }
   ],
@@ -43385,8 +43385,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Hartmanov rastvor HF",
       "pil": "",
       "inn_eng": [
-        "calcium gluconate",
-        "electrolytes"
+        "electrolytes",
+        "calcium gluconate"
       ]
     },
     {
@@ -43401,8 +43401,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=HARTMANOV RASTVOR/VIOSER",
       "pil": "",
       "inn_eng": [
-        "calcium gluconate",
-        "electrolytes"
+        "electrolytes",
+        "calcium gluconate"
       ]
     },
     {
@@ -43417,8 +43417,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Hartmanov rastvor B.Braun",
       "pil": "",
       "inn_eng": [
-        "calcium gluconate",
-        "electrolytes"
+        "electrolytes",
+        "calcium gluconate"
       ]
     },
     {
@@ -43433,8 +43433,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Hartmanov rastvor Baxter",
       "pil": "",
       "inn_eng": [
-        "calcium gluconate",
-        "electrolytes"
+        "electrolytes",
+        "calcium gluconate"
       ]
     }
   ],
@@ -43451,8 +43451,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Hartmann´s solution Fresenius Kabi",
       "pil": "",
       "inn_eng": [
-        "calcium gluconate",
-        "electrolytes"
+        "electrolytes",
+        "calcium gluconate"
       ]
     }
   ],
@@ -43469,8 +43469,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Sterofundin® ISO",
       "pil": "",
       "inn_eng": [
-        "calcium gluconate",
-        "electrolytes"
+        "electrolytes",
+        "calcium gluconate"
       ]
     }
   ],
@@ -43908,8 +43908,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Macmiror® Complex",
       "pil": "",
       "inn_eng": [
-        "nystatin",
         "combinations",
+        "nystatin",
         "comb drug"
       ]
     },
@@ -43925,8 +43925,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Macmiror® Complex",
       "pil": "",
       "inn_eng": [
-        "nystatin",
         "combinations",
+        "nystatin",
         "comb drug"
       ]
     }
@@ -44545,8 +44545,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Polygynax®",
       "pil": "",
       "inn_eng": [
-        "nystatin",
         "combinations",
+        "nystatin",
         "comb drug"
       ]
     }
@@ -44918,8 +44918,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Cyclo-Progynova®",
       "pil": "",
       "inn_eng": [
-        "estradiol valerate",
-        "norgestrel"
+        "norgestrel",
+        "estradiol valerate"
       ]
     }
   ],
@@ -45251,8 +45251,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Oxydon®",
       "pil": "",
       "inn_eng": [
-        "oxycodone",
-        "naloxone"
+        "naloxone",
+        "oxycodone"
       ]
     },
     {
@@ -45267,8 +45267,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Oxydon®",
       "pil": "",
       "inn_eng": [
-        "oxycodone",
-        "naloxone"
+        "naloxone",
+        "oxycodone"
       ]
     },
     {
@@ -45283,8 +45283,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Oxydon®",
       "pil": "",
       "inn_eng": [
-        "oxycodone",
-        "naloxone"
+        "naloxone",
+        "oxycodone"
       ]
     }
   ],
@@ -45301,8 +45301,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Targinact",
       "pil": "",
       "inn_eng": [
-        "oxycodone",
-        "naloxone"
+        "naloxone",
+        "oxycodone"
       ]
     },
     {
@@ -45317,8 +45317,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Targinact",
       "pil": "",
       "inn_eng": [
-        "oxycodone",
-        "naloxone"
+        "naloxone",
+        "oxycodone"
       ]
     },
     {
@@ -45333,8 +45333,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Targinact",
       "pil": "",
       "inn_eng": [
-        "oxycodone",
-        "naloxone"
+        "naloxone",
+        "oxycodone"
       ]
     },
     {
@@ -45349,8 +45349,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Targinact",
       "pil": "",
       "inn_eng": [
-        "oxycodone",
-        "naloxone"
+        "naloxone",
+        "oxycodone"
       ]
     }
   ],
@@ -45480,8 +45480,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Octecare®",
       "pil": "",
       "inn_eng": [
-        "octenidine",
-        "combinations"
+        "combinations",
+        "octenidine"
       ]
     }
   ],
@@ -45498,8 +45498,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=octenisept®",
       "pil": "",
       "inn_eng": [
-        "octenidine",
-        "combinations"
+        "combinations",
+        "octenidine"
       ]
     }
   ],
@@ -46052,9 +46052,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Olmexam® Plus",
       "pil": "",
       "inn_eng": [
+        "hydrochlorothiazide",
         "olmesartan medoxomil",
-        "amlodipine",
-        "hydrochlorothiazide"
+        "amlodipine"
       ]
     },
     {
@@ -46069,9 +46069,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Olmexam® Plus",
       "pil": "",
       "inn_eng": [
+        "hydrochlorothiazide",
         "olmesartan medoxomil",
-        "amlodipine",
-        "hydrochlorothiazide"
+        "amlodipine"
       ]
     },
     {
@@ -46086,9 +46086,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Olmexam® Plus",
       "pil": "",
       "inn_eng": [
+        "hydrochlorothiazide",
         "olmesartan medoxomil",
-        "amlodipine",
-        "hydrochlorothiazide"
+        "amlodipine"
       ]
     }
   ],
@@ -46105,8 +46105,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Spiolto® Respimat®",
       "pil": "",
       "inn_eng": [
-        "olodaterol",
-        "tiotropium bromide"
+        "tiotropium bromide",
+        "olodaterol"
       ]
     }
   ],
@@ -46189,8 +46189,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Lappoxo®",
       "pil": "",
       "inn_eng": [
-        "omeprazole",
-        "comb drug"
+        "comb drug",
+        "omeprazole"
       ]
     },
     {
@@ -46205,8 +46205,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Lappoxo®",
       "pil": "",
       "inn_eng": [
-        "omeprazole",
-        "comb drug"
+        "comb drug",
+        "omeprazole"
       ]
     }
   ],
@@ -46223,8 +46223,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Omeprol®",
       "pil": "",
       "inn_eng": [
-        "omeprazole",
-        "comb drug"
+        "comb drug",
+        "omeprazole"
       ]
     },
     {
@@ -46239,8 +46239,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Omeprol®",
       "pil": "",
       "inn_eng": [
-        "omeprazole",
-        "comb drug"
+        "comb drug",
+        "omeprazole"
       ]
     },
     {
@@ -46255,8 +46255,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Omeprol® T",
       "pil": "",
       "inn_eng": [
-        "omeprazole",
-        "comb drug"
+        "comb drug",
+        "omeprazole"
       ]
     }
   ],
@@ -47560,9 +47560,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Capsagamma®  0,05%",
       "pil": "",
       "inn_eng": [
+        "standardized soft fruit extract",
         "capsicum frutescens)",
-        "paprika (capsicum annum var. minimum",
-        "standardized soft fruit extract"
+        "paprika (capsicum annum var. minimum"
       ]
     }
   ],
@@ -49178,8 +49178,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Perigard® Plus",
       "pil": "",
       "inn_eng": [
-        "perindopril",
-        "diuretics"
+        "diuretics",
+        "perindopril"
       ]
     }
   ],
@@ -49273,8 +49273,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Prexanil® Combi",
       "pil": "",
       "inn_eng": [
-        "perindopril",
-        "diuretics"
+        "diuretics",
+        "perindopril"
       ]
     },
     {
@@ -49289,8 +49289,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Prexanil® Combi HD",
       "pil": "",
       "inn_eng": [
-        "perindopril",
-        "diuretics"
+        "diuretics",
+        "perindopril"
       ]
     }
   ],
@@ -49769,9 +49769,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Co-Amlessa®",
       "pil": "",
       "inn_eng": [
-        "perindopril",
+        "amlodipine",
         "indapamide",
-        "amlodipine"
+        "perindopril"
       ]
     },
     {
@@ -49786,9 +49786,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Co-Amlessa®",
       "pil": "",
       "inn_eng": [
-        "perindopril",
+        "amlodipine",
         "indapamide",
-        "amlodipine"
+        "perindopril"
       ]
     },
     {
@@ -49803,9 +49803,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Co-Amlessa®",
       "pil": "",
       "inn_eng": [
-        "perindopril",
+        "amlodipine",
         "indapamide",
-        "amlodipine"
+        "perindopril"
       ]
     },
     {
@@ -49820,9 +49820,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Co-Amlessa®",
       "pil": "",
       "inn_eng": [
-        "perindopril",
+        "amlodipine",
         "indapamide",
-        "amlodipine"
+        "perindopril"
       ]
     },
     {
@@ -49837,9 +49837,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Co-Amlessa®",
       "pil": "",
       "inn_eng": [
-        "perindopril",
+        "amlodipine",
         "indapamide",
-        "amlodipine"
+        "perindopril"
       ]
     }
   ],
@@ -49856,9 +49856,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=TRIPAMLO",
       "pil": "",
       "inn_eng": [
-        "perindopril",
+        "amlodipine",
         "indapamide",
-        "amlodipine"
+        "perindopril"
       ]
     },
     {
@@ -49873,9 +49873,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=TRIPAMLO",
       "pil": "",
       "inn_eng": [
-        "perindopril",
+        "amlodipine",
         "indapamide",
-        "amlodipine"
+        "perindopril"
       ]
     },
     {
@@ -49890,9 +49890,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=TRIPAMLO",
       "pil": "",
       "inn_eng": [
-        "perindopril",
+        "amlodipine",
         "indapamide",
-        "amlodipine"
+        "perindopril"
       ]
     },
     {
@@ -49907,9 +49907,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=TRIPAMLO",
       "pil": "",
       "inn_eng": [
-        "perindopril",
+        "amlodipine",
         "indapamide",
-        "amlodipine"
+        "perindopril"
       ]
     }
   ],
@@ -49926,8 +49926,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Co-Prenessa®",
       "pil": "",
       "inn_eng": [
-        "perindopril",
-        "diuretics"
+        "diuretics",
+        "perindopril"
       ]
     },
     {
@@ -49942,8 +49942,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Co-Prenessa®",
       "pil": "",
       "inn_eng": [
-        "perindopril",
-        "diuretics"
+        "diuretics",
+        "perindopril"
       ]
     },
     {
@@ -49958,8 +49958,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Co-Prenessa®",
       "pil": "",
       "inn_eng": [
-        "perindopril",
-        "diuretics"
+        "diuretics",
+        "perindopril"
       ]
     }
   ],
@@ -49976,8 +49976,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=CoArprenessa",
       "pil": "",
       "inn_eng": [
-        "perindopril",
-        "diuretics"
+        "diuretics",
+        "perindopril"
       ]
     },
     {
@@ -49992,8 +49992,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=CoArprenessa",
       "pil": "",
       "inn_eng": [
-        "perindopril",
-        "diuretics"
+        "diuretics",
+        "perindopril"
       ]
     }
   ],
@@ -50010,8 +50010,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=HYPRESSIN PLUS®",
       "pil": "",
       "inn_eng": [
-        "perindopril",
-        "diuretics"
+        "diuretics",
+        "perindopril"
       ]
     },
     {
@@ -50026,8 +50026,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=HYPRESSIN PLUS®",
       "pil": "",
       "inn_eng": [
-        "perindopril",
-        "diuretics"
+        "diuretics",
+        "perindopril"
       ]
     }
   ],
@@ -50044,8 +50044,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Percarnil® Combo",
       "pil": "",
       "inn_eng": [
-        "perindopril",
-        "diuretics"
+        "diuretics",
+        "perindopril"
       ]
     },
     {
@@ -50060,8 +50060,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Percarnil® Combo",
       "pil": "",
       "inn_eng": [
-        "perindopril",
-        "diuretics"
+        "diuretics",
+        "perindopril"
       ]
     },
     {
@@ -50076,8 +50076,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Percarnil® Combo",
       "pil": "",
       "inn_eng": [
-        "perindopril",
-        "diuretics"
+        "diuretics",
+        "perindopril"
       ]
     },
     {
@@ -50092,9 +50092,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Percarnil® Trio",
       "pil": "",
       "inn_eng": [
-        "perindopril",
+        "amlodipine",
         "indapamide",
-        "amlodipine"
+        "perindopril"
       ]
     },
     {
@@ -50109,9 +50109,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Percarnil® Trio",
       "pil": "",
       "inn_eng": [
-        "perindopril",
+        "amlodipine",
         "indapamide",
-        "amlodipine"
+        "perindopril"
       ]
     },
     {
@@ -50126,9 +50126,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Percarnil® Trio",
       "pil": "",
       "inn_eng": [
-        "perindopril",
+        "amlodipine",
         "indapamide",
-        "amlodipine"
+        "perindopril"
       ]
     },
     {
@@ -50143,9 +50143,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Percarnil® Trio",
       "pil": "",
       "inn_eng": [
-        "perindopril",
+        "amlodipine",
         "indapamide",
-        "amlodipine"
+        "perindopril"
       ]
     }
   ],
@@ -50162,9 +50162,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Coaramlessa",
       "pil": "",
       "inn_eng": [
-        "perindopril",
+        "amlodipine",
         "indapamide",
-        "amlodipine"
+        "perindopril"
       ]
     },
     {
@@ -50179,9 +50179,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Coaramlessa",
       "pil": "",
       "inn_eng": [
-        "perindopril",
+        "amlodipine",
         "indapamide",
-        "amlodipine"
+        "perindopril"
       ]
     },
     {
@@ -50196,9 +50196,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Coaramlessa",
       "pil": "",
       "inn_eng": [
-        "perindopril",
+        "amlodipine",
         "indapamide",
-        "amlodipine"
+        "perindopril"
       ]
     }
   ],
@@ -50215,9 +50215,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Pallorin® Combo",
       "pil": "",
       "inn_eng": [
-        "perindopril",
+        "amlodipine",
         "indapamide",
-        "amlodipine"
+        "perindopril"
       ]
     },
     {
@@ -50232,9 +50232,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Pallorin® Combo",
       "pil": "",
       "inn_eng": [
-        "perindopril",
+        "amlodipine",
         "indapamide",
-        "amlodipine"
+        "perindopril"
       ]
     },
     {
@@ -50249,9 +50249,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Pallorin® Combo",
       "pil": "",
       "inn_eng": [
-        "perindopril",
+        "amlodipine",
         "indapamide",
-        "amlodipine"
+        "perindopril"
       ]
     },
     {
@@ -50266,9 +50266,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Pallorin® Combo",
       "pil": "",
       "inn_eng": [
-        "perindopril",
+        "amlodipine",
         "indapamide",
-        "amlodipine"
+        "perindopril"
       ]
     }
   ],
@@ -50285,9 +50285,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Triplixam®",
       "pil": "",
       "inn_eng": [
-        "perindopril",
+        "amlodipine",
         "indapamide",
-        "amlodipine"
+        "perindopril"
       ]
     },
     {
@@ -50302,9 +50302,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Triplixam®",
       "pil": "",
       "inn_eng": [
-        "perindopril",
+        "amlodipine",
         "indapamide",
-        "amlodipine"
+        "perindopril"
       ]
     },
     {
@@ -50319,9 +50319,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Triplixam®",
       "pil": "",
       "inn_eng": [
-        "perindopril",
+        "amlodipine",
         "indapamide",
-        "amlodipine"
+        "perindopril"
       ]
     },
     {
@@ -50336,9 +50336,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Triplixam®",
       "pil": "",
       "inn_eng": [
-        "perindopril",
+        "amlodipine",
         "indapamide",
-        "amlodipine"
+        "perindopril"
       ]
     }
   ],
@@ -50780,10 +50780,10 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Neiratax®",
       "pil": "",
       "inn_eng": [
-        "cyanocobalamin",
         "pyridoxine",
+        "thiamine",
         "lidocaine",
-        "thiamine"
+        "cyanocobalamin"
       ]
     }
   ],
@@ -50916,9 +50916,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Synflorix®",
       "pil": "",
       "inn_eng": [
-        "haemophilus influenzae",
         "conjugated",
-        "pneumococcus purified polysaccharides antigen"
+        "pneumococcus purified polysaccharides antigen",
+        "haemophilus influenzae"
       ]
     }
   ],
@@ -52616,9 +52616,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Cofact",
       "pil": "",
       "inn_eng": [
-        "vii",
         "coagulation factor ix",
-        "x in combination"
+        "x in combination",
+        "vii"
       ]
     },
     {
@@ -52633,9 +52633,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Cofact",
       "pil": "",
       "inn_eng": [
-        "vii",
         "coagulation factor ix",
-        "x in combination"
+        "x in combination",
+        "vii"
       ]
     }
   ],
@@ -52652,9 +52652,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Octaplex®",
       "pil": "",
       "inn_eng": [
-        "vii",
         "coagulation factor ix",
-        "x in combination"
+        "x in combination",
+        "vii"
       ]
     }
   ],
@@ -52735,8 +52735,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Rinasek®",
       "pil": "",
       "inn_eng": [
-        "pseudoephedrine",
-        "combinations"
+        "combinations",
+        "pseudoephedrine"
       ]
     },
     {
@@ -52751,8 +52751,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Rinasek®",
       "pil": "",
       "inn_eng": [
-        "pseudoephedrine",
-        "combinations"
+        "combinations",
+        "pseudoephedrine"
       ]
     }
   ],
@@ -52942,8 +52942,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Ampril® HD",
       "pil": "",
       "inn_eng": [
-        "ramipril",
-        "diuretics"
+        "diuretics",
+        "ramipril"
       ]
     },
     {
@@ -52958,8 +52958,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Ampril® HL",
       "pil": "",
       "inn_eng": [
-        "ramipril",
-        "diuretics"
+        "diuretics",
+        "ramipril"
       ]
     }
   ],
@@ -53006,8 +53006,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Corace® Plus",
       "pil": "",
       "inn_eng": [
-        "ramipril",
-        "diuretics"
+        "diuretics",
+        "ramipril"
       ]
     },
     {
@@ -53022,8 +53022,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Corace® Plus",
       "pil": "",
       "inn_eng": [
-        "ramipril",
-        "diuretics"
+        "diuretics",
+        "ramipril"
       ]
     }
   ],
@@ -53149,8 +53149,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Prilinda® plus",
       "pil": "",
       "inn_eng": [
-        "ramipril",
-        "diuretics"
+        "diuretics",
+        "ramipril"
       ]
     },
     {
@@ -53165,8 +53165,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Prilinda® plus",
       "pil": "",
       "inn_eng": [
-        "ramipril",
-        "diuretics"
+        "diuretics",
+        "ramipril"
       ]
     }
   ],
@@ -53245,8 +53245,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Tritace® comp",
       "pil": "",
       "inn_eng": [
-        "ramipril",
-        "diuretics"
+        "diuretics",
+        "ramipril"
       ]
     },
     {
@@ -53261,8 +53261,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Tritace® comp LS",
       "pil": "",
       "inn_eng": [
-        "ramipril",
-        "diuretics"
+        "diuretics",
+        "ramipril"
       ]
     }
   ],
@@ -53339,8 +53339,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Vivace Plus L®",
       "pil": "",
       "inn_eng": [
-        "ramipril",
-        "diuretics"
+        "diuretics",
+        "ramipril"
       ]
     },
     {
@@ -53355,8 +53355,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Vivace Plus®",
       "pil": "",
       "inn_eng": [
-        "ramipril",
-        "diuretics"
+        "diuretics",
+        "ramipril"
       ]
     }
   ],
@@ -53687,8 +53687,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=BELKOMBO®",
       "pil": "",
       "inn_eng": [
-        "ramipril",
-        "bisoprolol"
+        "bisoprolol",
+        "ramipril"
       ]
     },
     {
@@ -53703,8 +53703,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=BELKOMBO®",
       "pil": "",
       "inn_eng": [
-        "ramipril",
-        "bisoprolol"
+        "bisoprolol",
+        "ramipril"
       ]
     },
     {
@@ -53719,8 +53719,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=BELKOMBO®",
       "pil": "",
       "inn_eng": [
-        "ramipril",
-        "bisoprolol"
+        "bisoprolol",
+        "ramipril"
       ]
     },
     {
@@ -53735,8 +53735,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=BELKOMBO®",
       "pil": "",
       "inn_eng": [
-        "ramipril",
-        "bisoprolol"
+        "bisoprolol",
+        "ramipril"
       ]
     },
     {
@@ -53751,8 +53751,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=BELKOMBO®",
       "pil": "",
       "inn_eng": [
-        "ramipril",
-        "bisoprolol"
+        "bisoprolol",
+        "ramipril"
       ]
     }
   ],
@@ -53769,8 +53769,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Tensopresal",
       "pil": "",
       "inn_eng": [
-        "ramipril",
-        "bisoprolol"
+        "bisoprolol",
+        "ramipril"
       ]
     },
     {
@@ -53785,8 +53785,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Tensopresal",
       "pil": "",
       "inn_eng": [
-        "ramipril",
-        "bisoprolol"
+        "bisoprolol",
+        "ramipril"
       ]
     },
     {
@@ -53801,8 +53801,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Tensopresal",
       "pil": "",
       "inn_eng": [
-        "ramipril",
-        "bisoprolol"
+        "bisoprolol",
+        "ramipril"
       ]
     },
     {
@@ -53817,8 +53817,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Tensopresal",
       "pil": "",
       "inn_eng": [
-        "ramipril",
-        "bisoprolol"
+        "bisoprolol",
+        "ramipril"
       ]
     },
     {
@@ -53833,8 +53833,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Tensopresal",
       "pil": "",
       "inn_eng": [
-        "ramipril",
-        "bisoprolol"
+        "bisoprolol",
+        "ramipril"
       ]
     },
     {
@@ -53849,8 +53849,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Tensopresal",
       "pil": "",
       "inn_eng": [
-        "ramipril",
-        "bisoprolol"
+        "bisoprolol",
+        "ramipril"
       ]
     }
   ],
@@ -53867,8 +53867,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Triapin®",
       "pil": "",
       "inn_eng": [
-        "felodipine",
-        "ramipril"
+        "ramipril",
+        "felodipine"
       ]
     },
     {
@@ -53883,8 +53883,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Triapin® Mite",
       "pil": "",
       "inn_eng": [
-        "felodipine",
-        "ramipril"
+        "ramipril",
+        "felodipine"
       ]
     }
   ],
@@ -53901,8 +53901,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=TENPRIL DUO®",
       "pil": "",
       "inn_eng": [
-        "ramipril",
-        "diuretics"
+        "diuretics",
+        "ramipril"
       ]
     },
     {
@@ -53917,8 +53917,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=TENPRIL DUO®",
       "pil": "",
       "inn_eng": [
-        "ramipril",
-        "diuretics"
+        "diuretics",
+        "ramipril"
       ]
     }
   ],
@@ -54067,9 +54067,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Ryeqo®",
       "pil": "",
       "inn_eng": [
-        "relugolix",
         "norethisterone",
-        "estradiol"
+        "estradiol",
+        "relugolix"
       ]
     }
   ],
@@ -54199,17 +54199,17 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Pikovit® forte",
       "pil": "",
       "inn_eng": [
-        "riboflavin",
-        "ascorbic acid",
+        "thiamine",
+        "calcium pantothenate",
+        "tocopherol",
         "retinol",
         "nicotinamide",
+        "ascorbic acid",
+        "riboflavin",
         "cyanocobalamin",
-        "tocopherol",
         "pyridoxine",
-        "folic acid",
         "cholecalciferol",
-        "calcium pantothenate",
-        "thiamine"
+        "folic acid"
       ]
     }
   ],
@@ -56422,8 +56422,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=COUPET Combo",
       "pil": "",
       "inn_eng": [
-        "ezetimibe",
-        "rosuvastatin"
+        "rosuvastatin",
+        "ezetimibe"
       ]
     },
     {
@@ -56438,8 +56438,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=COUPET Combo",
       "pil": "",
       "inn_eng": [
-        "ezetimibe",
-        "rosuvastatin"
+        "rosuvastatin",
+        "ezetimibe"
       ]
     },
     {
@@ -56454,8 +56454,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=COUPET Combo",
       "pil": "",
       "inn_eng": [
-        "ezetimibe",
-        "rosuvastatin"
+        "rosuvastatin",
+        "ezetimibe"
       ]
     },
     {
@@ -56470,8 +56470,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=COUPET Combo",
       "pil": "",
       "inn_eng": [
-        "ezetimibe",
-        "rosuvastatin"
+        "rosuvastatin",
+        "ezetimibe"
       ]
     }
   ],
@@ -56627,8 +56627,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Paravano® duo",
       "pil": "",
       "inn_eng": [
-        "ezetimibe",
-        "rosuvastatin"
+        "rosuvastatin",
+        "ezetimibe"
       ]
     },
     {
@@ -56643,8 +56643,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Paravano® duo",
       "pil": "",
       "inn_eng": [
-        "ezetimibe",
-        "rosuvastatin"
+        "rosuvastatin",
+        "ezetimibe"
       ]
     },
     {
@@ -56659,8 +56659,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Paravano® duo",
       "pil": "",
       "inn_eng": [
-        "ezetimibe",
-        "rosuvastatin"
+        "rosuvastatin",
+        "ezetimibe"
       ]
     }
   ],
@@ -56737,8 +56737,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Ropuido® plus",
       "pil": "",
       "inn_eng": [
-        "ezetimibe",
-        "rosuvastatin"
+        "rosuvastatin",
+        "ezetimibe"
       ]
     },
     {
@@ -56753,8 +56753,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Ropuido® plus",
       "pil": "",
       "inn_eng": [
-        "ezetimibe",
-        "rosuvastatin"
+        "rosuvastatin",
+        "ezetimibe"
       ]
     },
     {
@@ -56769,8 +56769,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Ropuido® plus",
       "pil": "",
       "inn_eng": [
-        "ezetimibe",
-        "rosuvastatin"
+        "rosuvastatin",
+        "ezetimibe"
       ]
     },
     {
@@ -56785,8 +56785,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Ropuido® plus",
       "pil": "",
       "inn_eng": [
-        "ezetimibe",
-        "rosuvastatin"
+        "rosuvastatin",
+        "ezetimibe"
       ]
     }
   ],
@@ -57002,8 +57002,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Roxera® Plus",
       "pil": "",
       "inn_eng": [
-        "ezetimibe",
-        "rosuvastatin"
+        "rosuvastatin",
+        "ezetimibe"
       ]
     },
     {
@@ -57018,8 +57018,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Roxera® Plus",
       "pil": "",
       "inn_eng": [
-        "ezetimibe",
-        "rosuvastatin"
+        "rosuvastatin",
+        "ezetimibe"
       ]
     },
     {
@@ -57034,8 +57034,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Roxera® Plus",
       "pil": "",
       "inn_eng": [
-        "ezetimibe",
-        "rosuvastatin"
+        "rosuvastatin",
+        "ezetimibe"
       ]
     },
     {
@@ -57050,8 +57050,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Roxera® Plus",
       "pil": "",
       "inn_eng": [
-        "ezetimibe",
-        "rosuvastatin"
+        "rosuvastatin",
+        "ezetimibe"
       ]
     },
     {
@@ -57066,8 +57066,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Roxera® Plus",
       "pil": "",
       "inn_eng": [
-        "ezetimibe",
-        "rosuvastatin"
+        "rosuvastatin",
+        "ezetimibe"
       ]
     }
   ],
@@ -57116,8 +57116,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Rosuxan®",
       "pil": "",
       "inn_eng": [
-        "acetylsalicylic acid",
-        "rosuvastatin"
+        "rosuvastatin",
+        "acetylsalicylic acid"
       ]
     },
     {
@@ -57132,8 +57132,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Rosuxan®",
       "pil": "",
       "inn_eng": [
-        "acetylsalicylic acid",
-        "rosuvastatin"
+        "rosuvastatin",
+        "acetylsalicylic acid"
       ]
     }
   ],
@@ -57150,8 +57150,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Startina®",
       "pil": "",
       "inn_eng": [
-        "acetylsalicylic acid",
-        "rosuvastatin"
+        "rosuvastatin",
+        "acetylsalicylic acid"
       ]
     },
     {
@@ -57166,8 +57166,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Startina®",
       "pil": "",
       "inn_eng": [
-        "acetylsalicylic acid",
-        "rosuvastatin"
+        "rosuvastatin",
+        "acetylsalicylic acid"
       ]
     },
     {
@@ -57182,8 +57182,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Startina®",
       "pil": "",
       "inn_eng": [
-        "acetylsalicylic acid",
-        "rosuvastatin"
+        "rosuvastatin",
+        "acetylsalicylic acid"
       ]
     }
   ],
@@ -57200,9 +57200,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Roxampex®",
       "pil": "",
       "inn_eng": [
+        "rosuvastatin",
         "perindopril",
-        "amlodipine",
-        "rosuvastatin"
+        "amlodipine"
       ]
     },
     {
@@ -57217,9 +57217,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Roxampex®",
       "pil": "",
       "inn_eng": [
+        "rosuvastatin",
         "perindopril",
-        "amlodipine",
-        "rosuvastatin"
+        "amlodipine"
       ]
     },
     {
@@ -57234,9 +57234,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Roxampex®",
       "pil": "",
       "inn_eng": [
+        "rosuvastatin",
         "perindopril",
-        "amlodipine",
-        "rosuvastatin"
+        "amlodipine"
       ]
     },
     {
@@ -57251,9 +57251,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Roxampex®",
       "pil": "",
       "inn_eng": [
+        "rosuvastatin",
         "perindopril",
-        "amlodipine",
-        "rosuvastatin"
+        "amlodipine"
       ]
     }
   ],
@@ -57270,8 +57270,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Crosuvo Plus®",
       "pil": "",
       "inn_eng": [
-        "ezetimibe",
-        "rosuvastatin"
+        "rosuvastatin",
+        "ezetimibe"
       ]
     },
     {
@@ -57286,8 +57286,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Crosuvo Plus®",
       "pil": "",
       "inn_eng": [
-        "ezetimibe",
-        "rosuvastatin"
+        "rosuvastatin",
+        "ezetimibe"
       ]
     }
   ],
@@ -57304,8 +57304,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Ezrusta®",
       "pil": "",
       "inn_eng": [
-        "ezetimibe",
-        "rosuvastatin"
+        "rosuvastatin",
+        "ezetimibe"
       ]
     },
     {
@@ -57320,8 +57320,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Ezrusta®",
       "pil": "",
       "inn_eng": [
-        "ezetimibe",
-        "rosuvastatin"
+        "rosuvastatin",
+        "ezetimibe"
       ]
     }
   ],
@@ -57338,8 +57338,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Olitor®",
       "pil": "",
       "inn_eng": [
-        "ezetimibe",
-        "rosuvastatin"
+        "rosuvastatin",
+        "ezetimibe"
       ]
     },
     {
@@ -57354,8 +57354,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Olitor®",
       "pil": "",
       "inn_eng": [
-        "ezetimibe",
-        "rosuvastatin"
+        "rosuvastatin",
+        "ezetimibe"
       ]
     }
   ],
@@ -57372,9 +57372,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Roxiper®",
       "pil": "",
       "inn_eng": [
+        "rosuvastatin",
         "perindopril",
-        "indapamide",
-        "rosuvastatin"
+        "indapamide"
       ]
     },
     {
@@ -57389,9 +57389,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Roxiper®",
       "pil": "",
       "inn_eng": [
+        "rosuvastatin",
         "perindopril",
-        "indapamide",
-        "rosuvastatin"
+        "indapamide"
       ]
     },
     {
@@ -57406,9 +57406,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Roxiper®",
       "pil": "",
       "inn_eng": [
+        "rosuvastatin",
         "perindopril",
-        "indapamide",
-        "rosuvastatin"
+        "indapamide"
       ]
     },
     {
@@ -57423,9 +57423,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Roxiper®",
       "pil": "",
       "inn_eng": [
+        "rosuvastatin",
         "perindopril",
-        "indapamide",
-        "rosuvastatin"
+        "indapamide"
       ]
     }
   ],
@@ -57442,8 +57442,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Valarox®",
       "pil": "",
       "inn_eng": [
-        "valsartan",
-        "rosuvastatin"
+        "rosuvastatin",
+        "valsartan"
       ]
     },
     {
@@ -57458,8 +57458,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Valarox®",
       "pil": "",
       "inn_eng": [
-        "valsartan",
-        "rosuvastatin"
+        "rosuvastatin",
+        "valsartan"
       ]
     },
     {
@@ -57474,8 +57474,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Valarox®",
       "pil": "",
       "inn_eng": [
-        "valsartan",
-        "rosuvastatin"
+        "rosuvastatin",
+        "valsartan"
       ]
     },
     {
@@ -57490,8 +57490,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Valarox®",
       "pil": "",
       "inn_eng": [
-        "valsartan",
-        "rosuvastatin"
+        "rosuvastatin",
+        "valsartan"
       ]
     }
   ],
@@ -57636,8 +57636,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Sakubitril/Valsartan HF",
       "pil": "",
       "inn_eng": [
-        "valsartan",
-        "sacubitril"
+        "sacubitril",
+        "valsartan"
       ]
     },
     {
@@ -57652,8 +57652,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Sakubitril/Valsartan HF",
       "pil": "",
       "inn_eng": [
-        "valsartan",
-        "sacubitril"
+        "sacubitril",
+        "valsartan"
       ]
     },
     {
@@ -57668,8 +57668,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Sakubitril/Valsartan HF",
       "pil": "",
       "inn_eng": [
-        "valsartan",
-        "sacubitril"
+        "sacubitril",
+        "valsartan"
       ]
     }
   ],
@@ -58973,8 +58973,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Meteoxane®",
       "pil": "",
       "inn_eng": [
-        "phloroglucinol",
-        "simethicone"
+        "simethicone",
+        "phloroglucinol"
       ]
     }
   ],
@@ -59226,8 +59226,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Treakol®",
       "pil": "",
       "inn_eng": [
-        "fenofibrate",
-        "simvastatin"
+        "simvastatin",
+        "fenofibrate"
       ]
     },
     {
@@ -59242,8 +59242,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Treakol®",
       "pil": "",
       "inn_eng": [
-        "fenofibrate",
-        "simvastatin"
+        "simvastatin",
+        "fenofibrate"
       ]
     }
   ],
@@ -59454,8 +59454,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Harvoni®",
       "pil": "",
       "inn_eng": [
-        "ledipasvir",
-        "sofosbuvir"
+        "sofosbuvir",
+        "ledipasvir"
       ]
     }
   ],
@@ -59520,8 +59520,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Saurus® combo",
       "pil": "",
       "inn_eng": [
-        "tamsulosin",
-        "solifenacin"
+        "solifenacin",
+        "tamsulosin"
       ]
     }
   ],
@@ -59619,8 +59619,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Prostulosin",
       "pil": "",
       "inn_eng": [
-        "tamsulosin",
-        "solifenacin"
+        "solifenacin",
+        "tamsulosin"
       ]
     }
   ],
@@ -59637,8 +59637,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Tancer",
       "pil": "",
       "inn_eng": [
-        "tamsulosin",
-        "solifenacin"
+        "solifenacin",
+        "tamsulosin"
       ]
     }
   ],
@@ -60024,8 +60024,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=ACARIZAX®",
       "pil": "",
       "inn_eng": [
-        "allergen extracts: feather",
-        "house dust mites"
+        "house dust mites",
+        "allergen extracts: feather"
       ]
     }
   ],
@@ -60273,8 +60273,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Bactrim-Eumedica",
       "pil": "",
       "inn_eng": [
-        "sulfamethoxazole",
-        "trimethoprim"
+        "trimethoprim",
+        "sulfamethoxazole"
       ]
     }
   ],
@@ -60291,8 +60291,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Bactrim®",
       "pil": "",
       "inn_eng": [
-        "sulfamethoxazole",
-        "trimethoprim"
+        "trimethoprim",
+        "sulfamethoxazole"
       ]
     }
   ],
@@ -60309,8 +60309,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=ESBESUL®",
       "pil": "",
       "inn_eng": [
-        "sulfamethoxazole",
-        "trimethoprim"
+        "trimethoprim",
+        "sulfamethoxazole"
       ]
     }
   ],
@@ -61998,8 +61998,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Atekago",
       "pil": "",
       "inn_eng": [
-        "tamsulosin",
-        "dutasteride"
+        "dutasteride",
+        "tamsulosin"
       ]
     }
   ],
@@ -62016,8 +62016,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=DUOTAM®",
       "pil": "",
       "inn_eng": [
-        "tamsulosin",
-        "dutasteride"
+        "dutasteride",
+        "tamsulosin"
       ]
     }
   ],
@@ -62034,8 +62034,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Dutamera®",
       "pil": "",
       "inn_eng": [
-        "tamsulosin",
-        "dutasteride"
+        "dutasteride",
+        "tamsulosin"
       ]
     }
   ],
@@ -62052,8 +62052,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Twinpros®",
       "pil": "",
       "inn_eng": [
-        "tamsulosin",
-        "dutasteride"
+        "dutasteride",
+        "tamsulosin"
       ]
     }
   ],
@@ -62070,8 +62070,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Tamsunorm Combi®",
       "pil": "",
       "inn_eng": [
-        "tamsulosin",
-        "solifenacin"
+        "solifenacin",
+        "tamsulosin"
       ]
     }
   ],
@@ -62088,8 +62088,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Zeliftan",
       "pil": "",
       "inn_eng": [
-        "tamsulosin",
-        "solifenacin"
+        "solifenacin",
+        "tamsulosin"
       ]
     }
   ],
@@ -62435,8 +62435,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Micardis® Plus",
       "pil": "",
       "inn_eng": [
-        "telmisartan",
-        "diuretics"
+        "diuretics",
+        "telmisartan"
       ]
     }
   ],
@@ -62483,8 +62483,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=TELMIKOR PLUS®",
       "pil": "",
       "inn_eng": [
-        "telmisartan",
-        "diuretics"
+        "diuretics",
+        "telmisartan"
       ]
     },
     {
@@ -62499,8 +62499,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=TELMIKOR PLUS®",
       "pil": "",
       "inn_eng": [
-        "telmisartan",
-        "diuretics"
+        "diuretics",
+        "telmisartan"
       ]
     },
     {
@@ -62515,8 +62515,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=TELMIKOR PLUS®",
       "pil": "",
       "inn_eng": [
-        "telmisartan",
-        "diuretics"
+        "diuretics",
+        "telmisartan"
       ]
     }
   ],
@@ -62563,8 +62563,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Telmipres® Plus",
       "pil": "",
       "inn_eng": [
-        "telmisartan",
-        "diuretics"
+        "diuretics",
+        "telmisartan"
       ]
     }
   ],
@@ -62679,8 +62679,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Tolucombi®",
       "pil": "",
       "inn_eng": [
-        "telmisartan",
-        "diuretics"
+        "diuretics",
+        "telmisartan"
       ]
     },
     {
@@ -62695,8 +62695,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Tolucombi®",
       "pil": "",
       "inn_eng": [
-        "telmisartan",
-        "diuretics"
+        "diuretics",
+        "telmisartan"
       ]
     },
     {
@@ -62711,8 +62711,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Tolucombi®",
       "pil": "",
       "inn_eng": [
-        "telmisartan",
-        "diuretics"
+        "diuretics",
+        "telmisartan"
       ]
     }
   ],
@@ -62729,8 +62729,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Tolurindo®",
       "pil": "",
       "inn_eng": [
-        "telmisartan",
-        "diuretics"
+        "diuretics",
+        "telmisartan"
       ]
     },
     {
@@ -62745,8 +62745,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Tolurindo®",
       "pil": "",
       "inn_eng": [
-        "telmisartan",
-        "diuretics"
+        "diuretics",
+        "telmisartan"
       ]
     }
   ],
@@ -63520,9 +63520,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=NEURO-VIT®",
       "pil": "",
       "inn_eng": [
-        "cyanocobalamin",
         "thiamine",
-        "pyridoxine"
+        "pyridoxine",
+        "cyanocobalamin"
       ]
     }
   ],
@@ -63539,9 +63539,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Neurobion®",
       "pil": "",
       "inn_eng": [
-        "cyanocobalamin",
         "thiamine",
-        "pyridoxine"
+        "pyridoxine",
+        "cyanocobalamin"
       ]
     },
     {
@@ -63556,9 +63556,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Neurobion® forte",
       "pil": "",
       "inn_eng": [
-        "cyanocobalamin",
         "thiamine",
-        "pyridoxine"
+        "pyridoxine",
+        "cyanocobalamin"
       ]
     }
   ],
@@ -63575,15 +63575,15 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Soluvit N",
       "pil": "",
       "inn_eng": [
-        "riboflavin",
-        "ascorbic acid",
+        "thiamine",
+        "pantothenic acid",
         "nicotinamide",
+        "biotin",
+        "ascorbic acid",
+        "riboflavin",
         "cyanocobalamin",
         "pyridoxine",
-        "folic acid",
-        "biotin",
-        "thiamine",
-        "pantothenic acid"
+        "folic acid"
       ]
     }
   ],
@@ -63600,12 +63600,12 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=B-Complex",
       "pil": "",
       "inn_eng": [
-        "riboflavin",
-        "nicotinamide",
-        "cyanocobalamin",
-        "pyridoxine",
+        "thiamine",
         "calcium pantothenate",
-        "thiamine"
+        "nicotinamide",
+        "riboflavin",
+        "cyanocobalamin",
+        "pyridoxine"
       ]
     }
   ],
@@ -63622,12 +63622,12 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Beviplex®",
       "pil": "",
       "inn_eng": [
-        "riboflavin",
-        "nicotinamide",
-        "cyanocobalamin",
-        "pyridoxine",
+        "thiamine",
         "calcium pantothenate",
-        "thiamine"
+        "nicotinamide",
+        "riboflavin",
+        "cyanocobalamin",
+        "pyridoxine"
       ]
     }
   ],
@@ -64521,8 +64521,8 @@
       "pil": "",
       "inn_eng": [
         "thyrothricin",
-        "chlorhexidine",
-        "lidocaine"
+        "lidocaine",
+        "chlorhexidine"
       ]
     }
   ],
@@ -64556,25 +64556,25 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Nutrineal PD4",
       "pil": "",
       "inn_eng": [
-        "arginine",
-        "glycine",
-        "proline",
-        "tryptophan",
-        "calcium chloride",
-        "valine",
-        "lysine",
-        "isoleucine",
-        "magnesium chloride",
-        "phenylalanine",
-        "threonine",
-        "sodium lactate",
-        "tyrosine",
-        "sodium chloride",
         "methionine",
         "serine",
+        "magnesium chloride",
         "leucine",
+        "sodium lactate",
+        "sodium chloride",
+        "phenylalanine",
+        "valine",
+        "lysine",
         "alanine",
-        "histidine"
+        "isoleucine",
+        "proline",
+        "threonine",
+        "tyrosine",
+        "histidine",
+        "arginine",
+        "tryptophan",
+        "calcium chloride",
+        "glycine"
       ]
     }
   ],
@@ -64909,9 +64909,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Vitalipid N Adult",
       "pil": "",
       "inn_eng": [
-        "retinol",
-        "tocopherol",
         "ergocalciferol",
+        "tocopherol",
+        "retinol",
         "phytomenadione"
       ]
     },
@@ -64927,9 +64927,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Vitalipid N Infant",
       "pil": "",
       "inn_eng": [
-        "retinol",
-        "tocopherol",
         "ergocalciferol",
+        "tocopherol",
+        "retinol",
         "phytomenadione"
       ]
     }
@@ -66523,9 +66523,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Boostrix®",
       "pil": "",
       "inn_eng": [
-        "pertussis",
         "combinations with toxoids",
-        "purified antigen"
+        "purified antigen",
+        "pertussis"
       ]
     }
   ],
@@ -66542,9 +66542,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=ADACEL",
       "pil": "",
       "inn_eng": [
-        "pertussis",
         "combinations with toxoids",
-        "purified antigen"
+        "purified antigen",
+        "pertussis"
       ]
     }
   ],
@@ -66593,9 +66593,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=TorVaxFlu®",
       "pil": "",
       "inn_eng": [
-        "split virus or surface antigen",
-        "influenza",
         "purified antigen",
+        "influenza",
+        "split virus or surface antigen",
         "inactivated"
       ]
     }
@@ -66613,9 +66613,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Influvac®",
       "pil": "",
       "inn_eng": [
-        "split virus or surface antigen",
-        "influenza",
         "purified antigen",
+        "influenza",
+        "split virus or surface antigen",
         "inactivated"
       ]
     },
@@ -66631,9 +66631,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Influvac® Tetra",
       "pil": "",
       "inn_eng": [
-        "split virus or surface antigen",
-        "influenza",
         "purified antigen",
+        "influenza",
+        "split virus or surface antigen",
         "inactivated"
       ]
     }
@@ -66756,9 +66756,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=M-M-RvaxPro®",
       "pil": "",
       "inn_eng": [
-        "measles",
-        "combinations with mumps",
         "live attenuated",
+        "combinations with mumps",
+        "measles",
         "rubella"
       ]
     }
@@ -66776,9 +66776,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Priorix®",
       "pil": "",
       "inn_eng": [
-        "measles",
-        "combinations with mumps",
         "live attenuated",
+        "combinations with mumps",
+        "measles",
         "rubella"
       ]
     }
@@ -66796,9 +66796,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=ALDIPETE-T®",
       "pil": "",
       "inn_eng": [
-        "pertussis",
-        "whole cell",
         "combinations with toxoids",
+        "whole cell",
+        "pertussis",
         "inactivated"
       ]
     }
@@ -66836,8 +66836,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=DITEVAKSAL-T®",
       "pil": "",
       "inn_eng": [
-        "tetanus toxoid",
-        "combinations with diphtheria toxoid"
+        "combinations with diphtheria toxoid",
+        "tetanus toxoid"
       ]
     },
     {
@@ -66852,8 +66852,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=DITEVAKSAL-T® za odrasle",
       "pil": "",
       "inn_eng": [
-        "tetanus toxoid",
-        "combinations with diphtheria toxoid"
+        "combinations with diphtheria toxoid",
+        "tetanus toxoid"
       ]
     }
   ],
@@ -66905,8 +66905,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=VARIVAX®",
       "pil": "",
       "inn_eng": [
-        "varicella",
-        "live attenuated"
+        "live attenuated",
+        "varicella"
       ]
     }
   ],
@@ -66923,8 +66923,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Varilrix®",
       "pil": "",
       "inn_eng": [
-        "varicella",
-        "live attenuated"
+        "live attenuated",
+        "varicella"
       ]
     }
   ],
@@ -67099,9 +67099,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Yanida® trio",
       "pil": "",
       "inn_eng": [
+        "hydrochlorothiazide",
         "valsartan",
-        "amlodipine",
-        "hydrochlorothiazide"
+        "amlodipine"
       ]
     },
     {
@@ -67116,9 +67116,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Yanida® trio",
       "pil": "",
       "inn_eng": [
+        "hydrochlorothiazide",
         "valsartan",
-        "amlodipine",
-        "hydrochlorothiazide"
+        "amlodipine"
       ]
     },
     {
@@ -67133,9 +67133,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Yanida® trio",
       "pil": "",
       "inn_eng": [
+        "hydrochlorothiazide",
         "valsartan",
-        "amlodipine",
-        "hydrochlorothiazide"
+        "amlodipine"
       ]
     },
     {
@@ -67150,8 +67150,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Yanida® plus",
       "pil": "",
       "inn_eng": [
-        "valsartan",
-        "diuretics"
+        "diuretics",
+        "valsartan"
       ]
     },
     {
@@ -67166,8 +67166,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Yanida® plus",
       "pil": "",
       "inn_eng": [
-        "valsartan",
-        "diuretics"
+        "diuretics",
+        "valsartan"
       ]
     },
     {
@@ -67182,8 +67182,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Yanida® plus",
       "pil": "",
       "inn_eng": [
-        "valsartan",
-        "diuretics"
+        "diuretics",
+        "valsartan"
       ]
     }
   ],
@@ -67250,8 +67250,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Co-Diovan®",
       "pil": "",
       "inn_eng": [
-        "valsartan",
-        "diuretics"
+        "diuretics",
+        "valsartan"
       ]
     }
   ],
@@ -67268,8 +67268,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Valsacombi®",
       "pil": "",
       "inn_eng": [
-        "valsartan",
-        "diuretics"
+        "diuretics",
+        "valsartan"
       ]
     },
     {
@@ -67284,8 +67284,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Valsacombi®",
       "pil": "",
       "inn_eng": [
-        "valsartan",
-        "diuretics"
+        "diuretics",
+        "valsartan"
       ]
     },
     {
@@ -67300,8 +67300,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Valsacombi®",
       "pil": "",
       "inn_eng": [
-        "valsartan",
-        "diuretics"
+        "diuretics",
+        "valsartan"
       ]
     },
     {
@@ -67316,8 +67316,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Valsacombi®",
       "pil": "",
       "inn_eng": [
-        "valsartan",
-        "diuretics"
+        "diuretics",
+        "valsartan"
       ]
     },
     {
@@ -67332,8 +67332,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Valsacombi®",
       "pil": "",
       "inn_eng": [
-        "valsartan",
-        "diuretics"
+        "diuretics",
+        "valsartan"
       ]
     }
   ],
@@ -67350,8 +67350,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Valomindo®",
       "pil": "",
       "inn_eng": [
-        "valsartan",
-        "diuretics"
+        "diuretics",
+        "valsartan"
       ]
     },
     {
@@ -67366,8 +67366,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Valomindo®",
       "pil": "",
       "inn_eng": [
-        "valsartan",
-        "diuretics"
+        "diuretics",
+        "valsartan"
       ]
     }
   ],
@@ -67384,8 +67384,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Entresto®",
       "pil": "",
       "inn_eng": [
-        "valsartan",
-        "sacubitril"
+        "sacubitril",
+        "valsartan"
       ]
     },
     {
@@ -67400,8 +67400,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Entresto®",
       "pil": "",
       "inn_eng": [
-        "valsartan",
-        "sacubitril"
+        "sacubitril",
+        "valsartan"
       ]
     },
     {
@@ -67416,8 +67416,8 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=Entresto®",
       "pil": "",
       "inn_eng": [
-        "valsartan",
-        "sacubitril"
+        "sacubitril",
+        "valsartan"
       ]
     }
   ],
@@ -68712,9 +68712,9 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s=VaxigripTetra",
       "pil": "",
       "inn_eng": [
-        "split virus or surface antigen",
-        "influenza",
         "purified antigen",
+        "influenza",
+        "split virus or surface antigen",
         "inactivated"
       ]
     }
