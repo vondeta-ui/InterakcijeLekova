@@ -12,6 +12,8 @@ jobs:
     steps:
     - name: Checkout koda
       uses: actions/checkout@v3
+      with:
+        fetch-depth: 0 # Povlači celu istoriju za ispravan rebase
 
     - name: Podešavanje Python-a
       uses: actions/setup-python@v4
@@ -33,14 +35,12 @@ jobs:
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        # Dodajemo sve izmene u .json fajlovima
         git add *.json
-        # Pull sa rebase osigurava da GitHub Action spoji tvoje manuelne push-ove sa novog PC-a
+        # Ključna promena: pull --rebase rešava "rejected" grešku
         git pull --rebase origin main
-        # Commit i push samo ako ima stvarnih promena
         if [ -n "$(git status --porcelain)" ]; then
           git commit -m "Automatsko ažuriranje baze [skip ci]"
           git push origin main
         else
-          echo "Nema promena za commit."
+          echo "Nema promena."
         fi
