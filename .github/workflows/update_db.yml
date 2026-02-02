@@ -33,7 +33,14 @@ jobs:
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add lekovi.json interakcije.json
-        # Rešava grešku sa slike dodavanjem pull pre push-a
+        # Dodajemo sve izmene u .json fajlovima
+        git add *.json
+        # Pull sa rebase osigurava da GitHub Action spoji tvoje manuelne push-ove sa novog PC-a
         git pull --rebase origin main
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Automatsko ažuriranje baze [skip ci]" && git push)
+        # Commit i push samo ako ima stvarnih promena
+        if [ -n "$(git status --porcelain)" ]; then
+          git commit -m "Automatsko ažuriranje baze [skip ci]"
+          git push origin main
+        else
+          echo "Nema promena za commit."
+        fi
