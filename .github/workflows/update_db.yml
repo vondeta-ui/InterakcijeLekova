@@ -15,7 +15,7 @@ jobs:
     - name: Checkout koda
       uses: actions/checkout@v4
       with:
-        fetch-depth: 0 # Povlači celu istoriju kako bi pull --rebase radio ispravno
+        fetch-depth: 0
 
     - name: Podešavanje Python-a
       uses: actions/setup-python@v5
@@ -41,7 +41,6 @@ jobs:
         
         if [ -n "$(git status --porcelain)" ]; then
           git commit -m "Automatsko ažuriranje baze [skip ci]"
-          # Ključna ispravka: pull --rebase rešava "rejected" grešku na samom serveru
           git pull --rebase origin main
           git push origin main
         else

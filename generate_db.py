@@ -25,7 +25,92 @@ def clean_and_split_inn(inn_string):
         p = p.strip()
         for rem in removals: p = p.replace(rem, "")
         if p in synonyms: p = synonyms[p]
+        if p and len(p) > 2: cleaned.append(p.strip())import requests
+import json
+import re
+import urllib.parse
+from mtranslate import translate
+
+TARGET_URL = "https://data.gov.rs/sr/datasets/r/cfbcda7b-511b-48f2-9f33-c2a7314bfbed"
+ATC_INN_URL = "https://medicines-registry.prozorro.gov.ua/api/1.0/registry/atc2inn.json"
+
+def clean_drug_name(raw_name):
+    if not raw_name: return ""
+    clean = str(raw_name).lower().replace("®", "").replace(",", "")
+    return clean.split(" ")[0].strip()
+
+def clean_and_split_inn(inn_string):
+    if not inn_string: return []
+    parts = re.split(r',| and | \+ | & ', inn_string.lower())
+    cleaned = []
+    removals = [" sodium", " potassium", " hcl", " hydrochloride", " calcium", " sulfate", " anhydrous"]
+    synonyms = {"paracetamol": "acetaminophen"}
+    for p in parts:
+        p = p.strip()
+        for rem in removals: p = p.replace(rem, "")
+        if p in synonyms: p = synonyms[p]
         if p and len(p) > 2: cleaned.append(p.strip())
+    return list(set(cleaned))
+
+def generate_database():
+    print("🌐 Preuzimam podatke...")
+    try:
+        resp = requests.get(TARGET_URL, timeout=60)
+        full_data = resp.json()
+
+        # Rešava 'str' object has no attribute 'get' grešku
+        raw_list = []
+        if isinstance(full_data, list):
+            raw_list = full_data
+        elif isinstance(full_data, dict):
+            for v in full_data.values():
+                if isinstance(v, list):
+                    raw_list = v
+                    break
+
+        atc_to_inn = requests.get(ATC_INN_URL).json().get('data', {})
+        lekovi_baza = {}
+
+        for item in raw_list:
+            try:
+                puno_ime = item.get('nazivLeka', '').strip()
+                atc = item.get('atc', '').strip()
+                sid = item.get('sifraProizvoda', '').strip()
+                ean = str(item.get('ean', '')).strip()
+                
+                if not puno_ime or not atc: continue
+                search_key = clean_drug_name(puno_ime)
+                
+                # INN i ALIMS ID link
+                found_inns = []
+                if atc in atc_to_inn:
+                    for raw in atc_to_inn[atc]: found_inns.extend(clean_and_split_inn(raw))
+                
+                drug_data = {
+                    "puno_ime": puno_ime,
+                    "atc": atc,
+                    "inn": item.get('inn', ''),
+                    "inn_eng": list(set(["acetaminophen" if i == "paracetamol" else i for i in found_inns])),
+                    "sifraProizvoda": sid,
+                    "smpc": f"https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id={sid}" if sid else f"https://www.alims.gov.rs/humani-lekovi/pretraga-humanih-lekova/?s={puno_ime}",
+                    "ean": ean,
+                    "oblik": item.get('oblikIDozaLeka', '').split(';')[0] if ';' in item.get('oblikIDozaLeka', '') else '',
+                    "jacina": item.get('oblikIDozaLeka', '').split(';')[1] if ';' in item.get('oblikIDozaLeka', '') else '',
+                    "rezim": item.get('rezimIzdavanjaLeka', 'N/A')
+                }
+
+                if search_key not in lekovi_baza: lekovi_baza[search_key] = []
+                if not any(x['ean'] == ean for x in lekovi_baza[search_key]):
+                    lekovi_baza[search_key].append(drug_data)
+            except: continue
+
+        with open('lekovi.json', 'w', encoding='utf-8') as f:
+            json.dump(lekovi_baza, f, ensure_ascii=False, indent=2)
+        print("✅ Uspešno!")
+    except Exception as e: print(f"❌ Greška: {e}")
+
+if __name__ == "__main__":
+    generate_database()
     return list(set(cleaned))
 
 def generate_database():
