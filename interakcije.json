@@ -15790,16 +15790,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter252-DDInter1342"
     },
-    "oxazepam-bupropion": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter252"
-    },
-    "bupropion-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter252-DDInter1359"
-    },
     "oxycodone-bupropion": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -20689,16 +20679,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1342-DDInter1244"
-    },
-    "morphine-oxazepam": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1244-DDInter1359"
-    },
-    "oxazepam-morphine": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1359-DDInter1244"
     },
     "morphine-oxcarbazepine": {
       "nivo": "Srednji",
@@ -58560,16 +58540,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1293-DDInter1197"
     },
-    "oxazepam-metoclopramide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1197"
-    },
-    "metoclopramide-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1197-DDInter1359"
-    },
     "oxcarbazepine-metoclopramide": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -66440,16 +66410,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter271-DDInter916"
     },
-    "oxazepam-calcium carbonate": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter1359-DDInter271"
-    },
-    "calcium carbonate-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter271-DDInter1359"
-    },
     "famotidine-relugolix": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -67279,16 +67239,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter725-DDInter1112"
-    },
-    "oxazepam-magaldrate": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter1359-DDInter1112"
-    },
-    "magaldrate-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter1112-DDInter1359"
     },
     "goserelin-simvastatin": {
       "nivo": "Srednji",
@@ -68679,16 +68629,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1088-DDInter268"
-    },
-    "calcitriol-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter268-DDInter1359"
-    },
-    "oxazepam-calcitriol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter268"
     },
     "calcitriol-donepezil": {
       "nivo": "Srednji",
@@ -73850,16 +73790,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1088-DDInter825"
     },
-    "glimepiride-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter825-DDInter1359"
-    },
-    "oxazepam-glimepiride": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter825"
-    },
     "glimepiride-terbinafine": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -74639,16 +74569,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1538-DDInter1158"
-    },
-    "mesalazine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1158-DDInter1359"
-    },
-    "oxazepam-mesalazine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1158"
     },
     "mesalazine-prednisolone": {
       "nivo": "Srednji",
@@ -75939,16 +75859,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1088-DDInter598"
-    },
-    "doxycycline-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter598-DDInter1359"
-    },
-    "oxazepam-doxycycline": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter598"
     },
     "doxycycline-temozolomide": {
       "nivo": "Srednji",
@@ -77319,16 +77229,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1088-DDInter416"
-    },
-    "clotrimazole-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter416-DDInter1359"
-    },
-    "oxazepam-clotrimazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter416"
     },
     "clotrimazole-temozolomide": {
       "nivo": "Srednji",
@@ -81740,16 +81640,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1736-DDInter1164"
     },
-    "metformin-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1164-DDInter1359"
-    },
-    "oxazepam-metformin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1164"
-    },
     "metformin-dacarbazine": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -83489,16 +83379,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter577-DDInter1340"
-    },
-    "omeprazole-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1340-DDInter1359"
-    },
-    "oxazepam-omeprazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1340"
     },
     "omeprazole-dacarbazine": {
       "nivo": "Srednji",
@@ -88819,16 +88699,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter577-DDInter1022"
-    },
-    "lansoprazole-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1022-DDInter1359"
-    },
-    "oxazepam-lansoprazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1022"
     },
     "lansoprazole-dacarbazine": {
       "nivo": "Srednji",
@@ -94709,16 +94579,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1538-DDInter136"
-    },
-    "atropine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter136-DDInter1359"
-    },
-    "oxazepam-atropine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter136"
     },
     "atropine-temozolomide": {
       "nivo": "Srednji",
@@ -102180,16 +102040,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1088-DDInter85"
     },
-    "amphotericin b-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter85-DDInter1359"
-    },
-    "oxazepam-amphotericin b": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter85"
-    },
     "amphotericin b-temozolomide": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -105169,16 +105019,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter577-DDInter885"
-    },
-    "hydrocortisone-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter885-DDInter1359"
-    },
-    "oxazepam-hydrocortisone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter885"
     },
     "hydrocortisone-temozolomide": {
       "nivo": "Srednji",
@@ -111420,16 +111260,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1088-DDInter1736"
     },
-    "loperamide-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1088-DDInter1359"
-    },
-    "oxazepam-loperamide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1088"
-    },
     "loperamide-dacarbazine": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -111889,136 +111719,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter577-DDInter1318"
-    },
-    "pantoprazole-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1388-DDInter1359"
-    },
-    "oxazepam-pantoprazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1388"
-    },
-    "vancomycin-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1916-DDInter1359"
-    },
-    "oxazepam-vancomycin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1916"
-    },
-    "lactulose-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1018-DDInter1359"
-    },
-    "oxazepam-lactulose": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1018"
-    },
-    "prednisone-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1515-DDInter1359"
-    },
-    "oxazepam-prednisone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1515"
-    },
-    "simvastatin-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1675-DDInter1359"
-    },
-    "oxazepam-simvastatin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1675"
-    },
-    "nystatin-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1318-DDInter1359"
-    },
-    "oxazepam-nystatin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1318"
-    },
-    "potassium chloride-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1497-DDInter1359"
-    },
-    "oxazepam-potassium chloride": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1497"
-    },
-    "sulfasalazine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1725-DDInter1359"
-    },
-    "oxazepam-sulfasalazine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1725"
-    },
-    "oxazepam-prednisolone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1513"
-    },
-    "prednisolone-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1513-DDInter1359"
-    },
-    "oxazepam-rosuvastatin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1622"
-    },
-    "rosuvastatin-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1622-DDInter1359"
-    },
-    "oxazepam-rabeprazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1559"
-    },
-    "rabeprazole-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1559-DDInter1359"
-    },
-    "oxazepam-pioglitazone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1472"
-    },
-    "pioglitazone-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1472-DDInter1359"
-    },
-    "oxazepam-clarithromycin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter393"
-    },
-    "clarithromycin-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter393-DDInter1359"
     },
     "pantoprazole-donepezil": {
       "nivo": "Srednji",
@@ -115820,16 +115520,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1342-DDInter577"
     },
-    "oxazepam-ondansetron": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1342"
-    },
-    "ondansetron-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1342-DDInter1359"
-    },
     "dacarbazine-ondansetron": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -117480,16 +117170,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1202-DDInter577"
     },
-    "oxazepam-metronidazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1202"
-    },
-    "metronidazole-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1202-DDInter1359"
-    },
     "temozolomide-metronidazole": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -119099,16 +118779,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter712-DDInter1088"
-    },
-    "oxazepam-famotidine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter712"
-    },
-    "famotidine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter712-DDInter1359"
     },
     "temozolomide-famotidine": {
       "nivo": "Srednji",
@@ -120949,16 +120619,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter20-DDInter577"
-    },
-    "oxazepam-acetylsalicylic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter20"
-    },
-    "acetylsalicylic acid-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter20-DDInter1359"
     },
     "dacarbazine-acetylsalicylic acid": {
       "nivo": "Srednji",
@@ -139390,16 +139050,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter246-DDInter1088"
     },
-    "oxazepam-budesonide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter246"
-    },
-    "budesonide-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter246-DDInter1359"
-    },
     "donepezil-budesonide": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -142189,16 +141839,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter513-DDInter577"
-    },
-    "oxazepam-dexamethasone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter513"
-    },
-    "dexamethasone-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter513-DDInter1359"
     },
     "dacarbazine-dexamethasone": {
       "nivo": "Srednji",
@@ -154860,16 +154500,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1683-DDInter1325"
     },
-    "oxazepam-sodium bicarbonate": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter1359-DDInter1683"
-    },
-    "sodium bicarbonate-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter1683-DDInter1359"
-    },
     "perindopril-sodium bicarbonate": {
       "nivo": "Srednji",
       "opis": "Rizik: Minor",
@@ -160270,16 +159900,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter534-DDInter451"
     },
-    "cyanocobalamin-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter451-DDInter1359"
-    },
-    "oxazepam-cyanocobalamin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter451"
-    },
     "cyanocobalamin-donepezil": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -161619,16 +161239,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1736-DDInter771"
-    },
-    "folic acid-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter771-DDInter1359"
-    },
-    "oxazepam-folic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter771"
     },
     "folic acid-terbinafine": {
       "nivo": "Srednji",
@@ -165840,16 +165450,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter534-DDInter413"
     },
-    "clopidogrel-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter413-DDInter1359"
-    },
-    "oxazepam-clopidogrel": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter413"
-    },
     "clopidogrel-donepezil": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -166709,26 +166309,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter534-DDInter1951"
-    },
-    "warfarin-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1951-DDInter1359"
-    },
-    "oxazepam-warfarin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1951"
-    },
-    "oxazepam-acenocoumarol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter13"
-    },
-    "acenocoumarol-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter13-DDInter1359"
     },
     "folic acid-donepezil": {
       "nivo": "Srednji",
@@ -168969,16 +168549,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter856-DDInter577"
-    },
-    "oxazepam-heparin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter856"
-    },
-    "heparin-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter856-DDInter1359"
     },
     "donepezil-heparin": {
       "nivo": "Srednji",
@@ -172419,16 +171989,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Minor",
       "link": "DDInter1352-DDInter1066"
-    },
-    "lidocaine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1066-DDInter1359"
-    },
-    "oxazepam-lidocaine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1066"
     },
     "lidocaine-oxcarbazepine": {
       "nivo": "Srednji",
@@ -178780,16 +178340,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1331-DDInter883"
     },
-    "oxazepam-hydrochlorothiazide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter883"
-    },
-    "hydrochlorothiazide-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter883-DDInter1359"
-    },
     "oxycodone-hydrochlorothiazide": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -180590,16 +180140,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter68-DDInter1326"
     },
-    "amiloride-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter68-DDInter1359"
-    },
-    "oxazepam-amiloride": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter68"
-    },
     "oxycodone-amiloride": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -182269,16 +181809,6 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter76-DDInter1355"
-    },
-    "oxazepam-amiodarone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter1359-DDInter76"
-    },
-    "amiodarone-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter76-DDInter1359"
     },
     "oxcarbazepine-amiodarone": {
       "nivo": "Srednji",
@@ -187480,16 +187010,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1331-DDInter130"
     },
-    "atenolol-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter130-DDInter1359"
-    },
-    "oxazepam-atenolol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter130"
-    },
     "atenolol-oxycodone": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -190330,16 +189850,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1331-DDInter216"
     },
-    "bisoprolol-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter216-DDInter1359"
-    },
-    "oxazepam-bisoprolol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter216"
-    },
     "oxycodone-bisoprolol": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -193040,16 +192550,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1331-DDInter248"
     },
-    "oxazepam-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter248"
-    },
-    "bumetanide-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1359"
-    },
     "oxycodone-bumetanide": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -194549,16 +194049,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter292-DDInter1326"
-    },
-    "oxazepam-captopril": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter292"
-    },
-    "captopril-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter292-DDInter1359"
     },
     "oxycodone-captopril": {
       "nivo": "Srednji",
@@ -196280,16 +195770,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1352-DDInter561"
     },
-    "diltiazem-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter561-DDInter1359"
-    },
-    "oxazepam-diltiazem": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter561"
-    },
     "diltiazem-oxcarbazepine": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -197760,16 +197240,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1707-DDInter1326"
     },
-    "spironolactone-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1707-DDInter1359"
-    },
-    "oxazepam-spironolactone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1707"
-    },
     "spironolactone-oxycodone": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -198769,16 +198239,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1351-DDInter305"
-    },
-    "oxazepam-carvedilol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter305"
-    },
-    "carvedilol-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter305-DDInter1359"
     },
     "oxycodone-carvedilol": {
       "nivo": "Srednji",
@@ -204290,16 +203750,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1327-DDInter554"
     },
-    "digoxin-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter554-DDInter1359"
-    },
-    "oxazepam-digoxin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter554"
-    },
     "digoxin-paricalcitol": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -205479,16 +204929,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter592-DDInter1326"
-    },
-    "doxazosin-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter592-DDInter1359"
-    },
-    "oxazepam-doxazosin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter592"
     },
     "oxycodone-doxazosin": {
       "nivo": "Srednji",
@@ -206820,16 +206260,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter638-DDInter1326"
     },
-    "enalapril-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter638-DDInter1359"
-    },
-    "oxazepam-enalapril": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter638"
-    },
     "oxycodone-enalapril": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -207790,16 +207220,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1266-DDInter1200"
     },
-    "metoprolol-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1200-DDInter1359"
-    },
-    "oxazepam-metoprolol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1200"
-    },
     "metoprolol-rifampicin": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -208319,16 +207739,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1226-DDInter1326"
-    },
-    "minoxidil-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1226-DDInter1359"
-    },
-    "oxazepam-minoxidil": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1226"
     },
     "minoxidil-paliperidone": {
       "nivo": "Srednji",
@@ -208959,16 +208369,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1271-DDInter1326"
-    },
-    "oxazepam-nebivolol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1271"
-    },
-    "nebivolol-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1271-DDInter1359"
     },
     "paroxetine-nebivolol": {
       "nivo": "Srednji",
@@ -209999,16 +209399,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1431-DDInter1230"
-    },
-    "perindopril-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1431-DDInter1359"
-    },
-    "oxazepam-perindopril": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1431"
     },
     "pegaspargase-perindopril": {
       "nivo": "Srednji",
@@ -211129,16 +210519,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1252-DDInter1759"
-    },
-    "oxazepam-telmisartan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1759"
-    },
-    "telmisartan-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1759-DDInter1359"
     },
     "ramipril-telmisartan": {
       "nivo": "Visok",
@@ -212420,16 +211800,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter989-DDInter1326"
     },
-    "oxazepam-isosorbide dinitrate": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter989"
-    },
-    "isosorbide dinitrate-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter989-DDInter1359"
-    },
     "pentoxifylline-isosorbide dinitrate": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -212679,16 +212049,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter990-DDInter1326"
-    },
-    "oxazepam-isosorbide mononitrate": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter990"
-    },
-    "isosorbide mononitrate-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter990-DDInter1359"
     },
     "pentoxifylline-isosorbide mononitrate": {
       "nivo": "Srednji",
@@ -214120,16 +213480,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1079-DDInter1326"
     },
-    "lisinopril-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1079-DDInter1359"
-    },
-    "oxazepam-lisinopril": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1079"
-    },
     "pegaspargase-lisinopril": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -214589,16 +213939,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1095-DDInter1326"
-    },
-    "losartan-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1095-DDInter1359"
-    },
-    "oxazepam-losartan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1095"
     },
     "losartan-pentoxifylline": {
       "nivo": "Srednji",
@@ -216929,16 +216269,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1295-DDInter1326"
-    },
-    "nimodipine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1295-DDInter1359"
-    },
-    "oxazepam-nimodipine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1295"
     },
     "nimodipine-oxcarbazepine": {
       "nivo": "Srednji",
@@ -220040,16 +219370,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter958-DDInter1539"
     },
-    "propranolol-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter1539-DDInter1359"
-    },
-    "oxazepam-propranolol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter1359-DDInter1539"
-    },
     "propranolol-phenobarbital": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -220539,16 +219859,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter916-DDInter1565"
-    },
-    "ramipril-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1565-DDInter1359"
-    },
-    "oxazepam-ramipril": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1565"
     },
     "ramipril-rasagiline": {
       "nivo": "Srednji",
@@ -223220,16 +222530,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter958-DDInter1809"
     },
-    "timolol-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1809-DDInter1359"
-    },
-    "oxazepam-timolol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1809"
-    },
     "timolol-phenobarbital": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -223619,16 +222919,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter958-DDInter1836"
-    },
-    "torasemide-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1836-DDInter1359"
-    },
-    "oxazepam-torasemide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1836"
     },
     "torasemide-phenobarbital": {
       "nivo": "Srednji",
@@ -224129,16 +223419,6 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter656-DDInter909"
-    },
-    "eplerenone-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter656-DDInter1359"
-    },
-    "oxazepam-eplerenone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter656"
     },
     "eplerenone-phenobarbital": {
       "nivo": "Srednji",
@@ -224810,16 +224090,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter916-DDInter781"
     },
-    "fosinopril-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter781-DDInter1359"
-    },
-    "oxazepam-fosinopril": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter781"
-    },
     "fosinopril-riociguat": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -224909,16 +224179,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter958-DDInter790"
-    },
-    "furosemide-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter790-DDInter1359"
-    },
-    "oxazepam-furosemide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter790"
     },
     "furosemide-riociguat": {
       "nivo": "Srednji",
@@ -225030,16 +224290,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter972-DDInter562"
     },
-    "oxazepam-irbesartan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter972"
-    },
-    "irbesartan-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter972-DDInter1359"
-    },
     "irbesartan-phenobarbital": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -225109,16 +224359,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter958-DDInter916"
-    },
-    "indapamide-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter916-DDInter1359"
-    },
-    "oxazepam-indapamide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter916"
     },
     "indapamide-riociguat": {
       "nivo": "Srednji",
@@ -237180,16 +236420,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter534-DDInter79"
     },
-    "amlodipine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter79-DDInter1359"
-    },
-    "oxazepam-amlodipine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter79"
-    },
     "amlodipine-temozolomide": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -242389,16 +241619,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter534-DDInter336"
-    },
-    "celecoxib-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter336-DDInter1359"
-    },
-    "oxazepam-celecoxib": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter336"
     },
     "celecoxib-temozolomide": {
       "nivo": "Srednji",
@@ -250080,16 +249300,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter534-DDInter1928"
     },
-    "verapamil-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1928-DDInter1359"
-    },
-    "oxazepam-verapamil": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1928"
-    },
     "verapamil-temozolomide": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -256959,56 +256169,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter766-DDInter577"
-    },
-    "pravastatin-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1509-DDInter1359"
-    },
-    "oxazepam-pravastatin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1509"
-    },
-    "valsartan-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1915-DDInter1359"
-    },
-    "oxazepam-valsartan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1915"
-    },
-    "sotalol-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1704-DDInter1359"
-    },
-    "oxazepam-sotalol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1704"
-    },
-    "bosentan-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter223-DDInter1359"
-    },
-    "oxazepam-bosentan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter223"
-    },
-    "oxazepam-ezetimibe": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter707"
-    },
-    "ezetimibe-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter707-DDInter1359"
     },
     "pravastatin-donepezil": {
       "nivo": "Srednji",
@@ -264180,16 +263340,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter716-DDInter1538"
     },
-    "oxazepam-felodipine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter716"
-    },
-    "felodipine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter716-DDInter1359"
-    },
     "dacarbazine-felodipine": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -266510,16 +265660,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter718-DDInter1736"
     },
-    "oxazepam-fenofibrate": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter718"
-    },
-    "fenofibrate-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter718-DDInter1359"
-    },
     "temozolomide-fenofibrate": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -268149,16 +267289,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter900-DDInter1736"
-    },
-    "oxazepam-ibuprofen": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter900"
-    },
-    "ibuprofen-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter900-DDInter1359"
     },
     "temozolomide-ibuprofen": {
       "nivo": "Srednji",
@@ -269910,16 +269040,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter133-DDInter534"
     },
-    "oxazepam-atorvastatin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter133"
-    },
-    "atorvastatin-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter133-DDInter1359"
-    },
     "donepezil-atorvastatin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -271579,16 +270699,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1291-DDInter1538"
-    },
-    "oxazepam-nifedipine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1291"
-    },
-    "nifedipine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1291-DDInter1359"
     },
     "temozolomide-nifedipine": {
       "nivo": "Srednji",
@@ -274939,16 +274049,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter740-DDInter916"
-    },
-    "oxazepam-flecainide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter740"
-    },
-    "flecainide-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter740-DDInter1359"
     },
     "isosorbide dinitrate-flecainide": {
       "nivo": "Srednji",
@@ -285970,16 +285070,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter569-DDInter1326"
     },
-    "oxazepam-diphenhydramine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter569"
-    },
-    "diphenhydramine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter569-DDInter1359"
-    },
     "oxcarbazepine-diphenhydramine": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -293890,16 +292980,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1884-DDInter743"
     },
-    "fluconazole-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter743-DDInter1359"
-    },
-    "oxazepam-fluconazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter743"
-    },
     "fluconazole-dacarbazine": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -298520,16 +297600,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1538-DDInter537"
     },
-    "diclofenac-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter537-DDInter1359"
-    },
-    "oxazepam-diclofenac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter537"
-    },
     "diclofenac-dacarbazine": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -300490,26 +299560,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter766-DDInter534"
     },
-    "oxazepam-tacrolimus": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1735"
-    },
-    "tacrolimus-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1735-DDInter1359"
-    },
-    "oxazepam-fluticasone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter766"
-    },
-    "fluticasone-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter766-DDInter1359"
-    },
     "gentamicin-donepezil": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -301619,16 +300669,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1191-DDInter1538"
-    },
-    "oxazepam-methylprednisolone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1191"
-    },
-    "methylprednisolone-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1191-DDInter1359"
     },
     "dacarbazine-methylprednisolone": {
       "nivo": "Srednji",
@@ -303890,16 +302930,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter398-DDInter534"
     },
-    "oxazepam-clindamycin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter398"
-    },
-    "clindamycin-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter398-DDInter1359"
-    },
     "tacrolimus-clindamycin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -304859,16 +303889,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter736-DDInter1538"
-    },
-    "oxazepam-finasteride": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter736"
-    },
-    "finasteride-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter736-DDInter1359"
     },
     "temozolomide-finasteride": {
       "nivo": "Srednji",
@@ -307199,16 +306219,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1327-DDInter692"
-    },
-    "oxazepam-ethinylestradiol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter1359-DDInter692"
-    },
-    "ethinylestradiol-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter692-DDInter1359"
     },
     "levonorgestrel-oxcarbazepine": {
       "nivo": "Visok",
@@ -311489,16 +310499,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter243-DDInter1326"
-    },
-    "oxazepam-bromocriptine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter243"
-    },
-    "bromocriptine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter243-DDInter1359"
     },
     "oxcarbazepine-bromocriptine": {
       "nivo": "Srednji",
@@ -316589,16 +315589,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1745-DDInter1230"
-    },
-    "tamsulosin-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1745-DDInter1359"
-    },
-    "oxazepam-tamsulosin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1745"
     },
     "oxycodone-tamsulosin": {
       "nivo": "Srednji",
@@ -321870,16 +320860,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1667-DDInter909"
     },
-    "oxazepam-silodosin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1667"
-    },
-    "silodosin-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1667-DDInter1359"
-    },
     "phenobarbital-silodosin": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -322349,16 +321329,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1767-DDInter853"
-    },
-    "oxazepam-terazosin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1767"
-    },
-    "terazosin-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1767-DDInter1359"
     },
     "thalidomide-terazosin": {
       "nivo": "Srednji",
@@ -323109,16 +322079,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1971-DDInter909"
-    },
-    "oxazepam-zonisamide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1971"
-    },
-    "zonisamide-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1971-DDInter1359"
     },
     "zonisamide-phenobarbital": {
       "nivo": "Srednji",
@@ -329010,16 +327970,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter534-DDInter679"
     },
-    "estradiol-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter679-DDInter1359"
-    },
-    "oxazepam-estradiol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter679"
-    },
     "estradiol-donepezil": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -330110,16 +329060,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter534-DDInter1266"
     },
-    "naproxen-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1266-DDInter1359"
-    },
-    "oxazepam-naproxen": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1266"
-    },
     "naproxen-temozolomide": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -330919,36 +329859,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter237-DDInter534"
-    },
-    "sildenafil-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1666-DDInter1359"
-    },
-    "oxazepam-sildenafil": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1666"
-    },
-    "testosterone-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1775-DDInter1359"
-    },
-    "oxazepam-testosterone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1775"
-    },
-    "oxazepam-tolterodine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1832"
-    },
-    "tolterodine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1832-DDInter1359"
     },
     "sildenafil-donepezil": {
       "nivo": "Srednji",
@@ -339630,16 +338540,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter534-DDInter1064"
     },
-    "levothyroxine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1064-DDInter1359"
-    },
-    "oxazepam-levothyroxine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1064"
-    },
     "levothyroxine-donepezil": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -340749,16 +339649,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter381-DDInter534"
-    },
-    "oxazepam-paricalcitol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1394"
-    },
-    "paricalcitol-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1394-DDInter1359"
     },
     "octreotide-temozolomide": {
       "nivo": "Srednji",
@@ -364510,16 +363400,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1605-DDInter1350"
     },
-    "oseltamivir-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1350-DDInter1359"
-    },
-    "oxazepam-oseltamivir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1350"
-    },
     "oseltamivir-salmeterol": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -365489,16 +364369,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1360-DDInter1247"
-    },
-    "moxifloxacin-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1247-DDInter1359"
-    },
-    "oxazepam-moxifloxacin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1247"
     },
     "moxifloxacin-desloratadine": {
       "nivo": "Srednji",
@@ -368210,16 +367080,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter534-DDInter323"
     },
-    "cefotaxime-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter323-DDInter1359"
-    },
-    "oxazepam-cefotaxime": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter323"
-    },
     "cefotaxime-carboplatin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -369039,16 +367899,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter722-DDInter384"
-    },
-    "ciprofloxacin-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter384-DDInter1359"
-    },
-    "oxazepam-ciprofloxacin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter384"
     },
     "ciprofloxacin-sirolimus": {
       "nivo": "Srednji",
@@ -370630,16 +369480,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1360-DDInter1303"
     },
-    "nitrofurantoin-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1303-DDInter1359"
-    },
-    "oxazepam-nitrofurantoin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1303"
-    },
     "nitrofurantoin-sirolimus": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -371099,16 +369939,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1143-DDInter1019"
-    },
-    "lamivudine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1019-DDInter1359"
-    },
-    "oxazepam-lamivudine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1019"
     },
     "lamivudine-dacarbazine": {
       "nivo": "Srednji",
@@ -371899,36 +370729,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter326-DDInter534"
-    },
-    "piperacillin-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1474-DDInter1359"
-    },
-    "oxazepam-piperacillin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1474"
-    },
-    "trimethoprim-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1874-DDInter1359"
-    },
-    "oxazepam-trimethoprim": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1874"
-    },
-    "ritonavir-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1607-DDInter1359"
-    },
-    "oxazepam-ritonavir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1607"
     },
     "oseltamivir-donepezil": {
       "nivo": "Srednji",
@@ -373780,16 +372580,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1313-DDInter1397"
     },
-    "oxazepam-norfloxacin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1313"
-    },
-    "norfloxacin-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1313-DDInter1359"
-    },
     "norfloxacin-ofloxacin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -374719,16 +373509,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter335-DDInter534"
-    },
-    "oxazepam-cefuroxime": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter335"
-    },
-    "cefuroxime-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter335-DDInter1359"
     },
     "donepezil-cefuroxime": {
       "nivo": "Srednji",
@@ -375879,16 +374659,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1325-DDInter1884"
-    },
-    "oxazepam-ofloxacin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1325"
-    },
-    "ofloxacin-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1325-DDInter1359"
     },
     "sirolimus-ofloxacin": {
       "nivo": "Srednji",
@@ -377100,16 +375870,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter334-DDInter534"
     },
-    "oxazepam-ceftriaxone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter334"
-    },
-    "ceftriaxone-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter334-DDInter1359"
-    },
     "donepezil-ceftriaxone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -378109,16 +376869,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter314-DDInter534"
-    },
-    "oxazepam-cefazolin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter314"
-    },
-    "cefazolin-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter314-DDInter1359"
     },
     "sirolimus-cefazolin": {
       "nivo": "Srednji",
@@ -430830,16 +429580,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1094-DDInter1352"
     },
-    "oxazepam-lorlatinib": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1094"
-    },
-    "lorlatinib-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1094-DDInter1359"
-    },
     "palbociclib-lorlatinib": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -445000,16 +443740,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1017-DDInter1789"
     },
-    "oxazepam-thalidomide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1789"
-    },
-    "thalidomide-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1789-DDInter1359"
-    },
     "thalidomide-phenobarbital": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -450410,16 +449140,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1017-DDInter906"
     },
-    "oxazepam-ifosfamide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter906"
-    },
-    "ifosfamide-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter906-DDInter1359"
-    },
     "thiopental-ifosfamide": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -455280,16 +454000,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1332-DDInter1355"
     },
-    "oxaliplatin-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1355-DDInter1359"
-    },
-    "oxazepam-oxaliplatin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1355"
-    },
     "oxaliplatin-pilocarpine": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -455659,16 +454369,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter534-DDInter456"
-    },
-    "cyclophosphamide-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter456-DDInter1359"
-    },
-    "oxazepam-cyclophosphamide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter456"
     },
     "cyclophosphamide-temozolomide": {
       "nivo": "Srednji",
@@ -456180,16 +454880,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1143-DDInter757"
     },
-    "fluorouracil-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter757-DDInter1359"
-    },
-    "oxazepam-fluorouracil": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter757"
-    },
     "fluorouracil-fulvestrant": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -456599,16 +455289,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1538-DDInter1174"
-    },
-    "methotrexate-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1174-DDInter1359"
-    },
-    "oxazepam-methotrexate": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1174"
     },
     "methotrexate-bimatoprost": {
       "nivo": "Srednji",
@@ -458410,16 +457090,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1538-DDInter973"
     },
-    "irinotecan-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter973-DDInter1359"
-    },
-    "oxazepam-irinotecan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter973"
-    },
     "irinotecan-temozolomide": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -458739,16 +457409,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1538-DDInter702"
-    },
-    "etoposide-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter702-DDInter1359"
-    },
-    "oxazepam-etoposide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter702"
     },
     "etoposide-fexofenadine": {
       "nivo": "Srednji",
@@ -459599,146 +458259,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter578-DDInter534"
-    },
-    "goserelin-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter839-DDInter1359"
-    },
-    "oxazepam-goserelin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter839"
-    },
-    "bortezomib-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter222-DDInter1359"
-    },
-    "oxazepam-bortezomib": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter222"
-    },
-    "vinorelbine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1939-DDInter1359"
-    },
-    "oxazepam-vinorelbine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1939"
-    },
-    "sorafenib-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1702-DDInter1359"
-    },
-    "oxazepam-sorafenib": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1702"
-    },
-    "cisplatin-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter387-DDInter1359"
-    },
-    "oxazepam-cisplatin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter387"
-    },
-    "erlotinib-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter667-DDInter1359"
-    },
-    "oxazepam-erlotinib": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter667"
-    },
-    "vincristine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1937-DDInter1359"
-    },
-    "oxazepam-vincristine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1937"
-    },
-    "imatinib-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter909-DDInter1359"
-    },
-    "oxazepam-imatinib": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter909"
-    },
-    "tamoxifen-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1744-DDInter1359"
-    },
-    "oxazepam-tamoxifen": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1744"
-    },
-    "oxazepam-temozolomide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1762"
-    },
-    "temozolomide-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1762-DDInter1359"
-    },
-    "oxazepam-carboplatin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter298"
-    },
-    "carboplatin-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter298-DDInter1359"
-    },
-    "oxazepam-exemestane": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter705"
-    },
-    "exemestane-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter705-DDInter1359"
-    },
-    "oxazepam-capecitabine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter285"
-    },
-    "capecitabine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter285-DDInter1359"
-    },
-    "oxazepam-paclitaxel": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1377"
-    },
-    "paclitaxel-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1377-DDInter1359"
     },
     "lenalidomide-donepezil": {
       "nivo": "Srednji",
@@ -461070,16 +459590,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter460-DDInter534"
     },
-    "oxazepam-cytarabine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter460"
-    },
-    "cytarabine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter460-DDInter1359"
-    },
     "sirolimus-cytarabine": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -462209,16 +460719,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter596-DDInter534"
-    },
-    "oxazepam-doxorubicin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter596"
-    },
-    "doxorubicin-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter596-DDInter1359"
     },
     "bimatoprost-doxorubicin": {
       "nivo": "Srednji",
@@ -464140,16 +462640,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1033-DDInter1538"
     },
-    "oxazepam-leflunomide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1033"
-    },
-    "leflunomide-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1033-DDInter1359"
-    },
     "bimatoprost-leflunomide": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -466070,16 +464560,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter578-DDInter1143"
     },
-    "oxazepam-docetaxel": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter578"
-    },
-    "docetaxel-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter578-DDInter1359"
-    },
     "donepezil-docetaxel": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -467499,16 +465979,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1326-DDInter162"
-    },
-    "baclofen-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter162-DDInter1359"
-    },
-    "oxazepam-baclofen": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter162"
     },
     "baclofen-oxcarbazepine": {
       "nivo": "Srednji",
@@ -469160,16 +467630,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter1185-DDInter1821"
     },
-    "tizanidine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1821-DDInter1359"
-    },
-    "oxazepam-tizanidine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1821"
-    },
     "tizanidine-phenobarbital": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -470700,16 +469160,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1538-DDInter1010"
     },
-    "ketorolac-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1010-DDInter1359"
-    },
-    "oxazepam-ketorolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1010"
-    },
     "ketorolac-bimatoprost": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -471419,16 +469869,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter534-DDInter42"
-    },
-    "alendronic acid-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter42-DDInter1359"
-    },
-    "oxazepam-alendronic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter42"
     },
     "alendronic acid-donepezil": {
       "nivo": "Srednji",
@@ -472570,16 +471010,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1538-DDInter1143"
     },
-    "meloxicam-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1143-DDInter1359"
-    },
-    "oxazepam-meloxicam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1143"
-    },
     "meloxicam-bimatoprost": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -472769,26 +471199,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1009-DDInter534"
-    },
-    "zoledronic acid-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1968-DDInter1359"
-    },
-    "oxazepam-zoledronic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1968"
-    },
-    "allopurinol-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter48-DDInter1359"
-    },
-    "oxazepam-allopurinol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter48"
     },
     "zoledronic acid-donepezil": {
       "nivo": "Srednji",
@@ -473449,16 +471859,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1009-DDInter1538"
-    },
-    "oxazepam-ketoprofen": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1009"
-    },
-    "ketoprofen-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1009-DDInter1359"
     },
     "remifentanil-ketoprofen": {
       "nivo": "Srednji",
@@ -474330,16 +472730,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter722-DDInter1326"
     },
-    "fentanyl-oxazepam": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter722-DDInter1359"
-    },
-    "oxazepam-fentanyl": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1359-DDInter722"
-    },
     "oxcarbazepine-fentanyl": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -474639,16 +473029,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter488-DDInter14"
-    },
-    "acetaminophen-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter14-DDInter1359"
-    },
-    "oxazepam-acetaminophen": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter1359-DDInter14"
     },
     "acetaminophen-phenobarbital": {
       "nivo": "Srednji",
@@ -475239,16 +473619,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1331-DDInter1841"
-    },
-    "tramadol-oxazepam": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1841-DDInter1359"
-    },
-    "oxazepam-tramadol": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1359-DDInter1841"
     },
     "tramadol-oxcarbazepine": {
       "nivo": "Srednji",
@@ -476880,16 +475250,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter43-DDInter1326"
     },
-    "alfentanil-oxazepam": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter43-DDInter1359"
-    },
-    "oxazepam-alfentanil": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1359-DDInter43"
-    },
     "oxcarbazepine-alfentanil": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -477599,16 +475959,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter343-DDInter1326"
-    },
-    "cetirizine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter343-DDInter1359"
-    },
-    "oxazepam-cetirizine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter343"
     },
     "cetirizine-oxcarbazepine": {
       "nivo": "Srednji",
@@ -479090,16 +477440,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1331-DDInter78"
     },
-    "amitriptyline-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter78-DDInter1359"
-    },
-    "oxazepam-amitriptyline": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter78"
-    },
     "amitriptyline-oxcarbazepine": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -479659,16 +477999,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1331-DDInter1538"
-    },
-    "propofol-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1538-DDInter1359"
-    },
-    "oxazepam-propofol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1538"
     },
     "oxycodone-propofol": {
       "nivo": "Srednji",
@@ -480280,16 +478610,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1331-DDInter118"
     },
-    "oxazepam-aripiprazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter118"
-    },
-    "aripiprazole-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter118-DDInter1359"
-    },
     "oxcarbazepine-aripiprazole": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -480589,16 +478909,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter123-DDInter1212"
-    },
-    "oxazepam-articaine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter123"
-    },
-    "articaine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter123-DDInter1359"
     },
     "carbamazepine-avapritinib": {
       "nivo": "Visok",
@@ -480919,16 +479229,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1442-DDInter1212"
-    },
-    "oxazepam-phenobarbital": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1442"
-    },
-    "phenobarbital-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1442-DDInter1359"
     },
     "oxycodone-phenobarbital": {
       "nivo": "Visok",
@@ -481420,16 +479720,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter211-DDInter1326"
     },
-    "biperiden-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter211-DDInter1359"
-    },
-    "oxazepam-biperiden": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter211"
-    },
     "oxcarbazepine-biperiden": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -481679,16 +479969,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1212-DDInter249"
-    },
-    "bupivacaine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter249-DDInter1359"
-    },
-    "oxazepam-bupivacaine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter249"
     },
     "buprenorphine-berotralstat": {
       "nivo": "Srednji",
@@ -482109,16 +480389,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1331-DDInter251"
-    },
-    "oxazepam-buprenorphine": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1359-DDInter251"
-    },
-    "buprenorphine-oxazepam": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter251-DDInter1359"
     },
     "oxcarbazepine-buprenorphine": {
       "nivo": "Visok",
@@ -482840,16 +481110,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter293-DDInter1326"
     },
-    "carbamazepine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter293-DDInter1359"
-    },
-    "oxazepam-carbamazepine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter293"
-    },
     "carbamazepine-oxcarbazepine": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -483330,16 +481590,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1054-DDInter1326"
     },
-    "oxazepam-levodopa": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1054"
-    },
-    "levodopa-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1054-DDInter1359"
-    },
     "levodopa-paliperidone": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -483589,16 +481839,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1153-DDInter1212"
-    },
-    "oxazepam-mepivacaine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1153"
-    },
-    "mepivacaine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1153-DDInter1359"
     },
     "cariprazine-berotralstat": {
       "nivo": "Srednji",
@@ -483959,16 +482199,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter300-DDInter1326"
-    },
-    "oxazepam-cariprazine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter300"
-    },
-    "cariprazine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter300-DDInter1359"
     },
     "oxcarbazepine-cariprazine": {
       "nivo": "Srednji",
@@ -484610,16 +482840,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1331-DDInter388"
     },
-    "citalopram-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter388-DDInter1359"
-    },
-    "oxazepam-citalopram": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter388"
-    },
     "citalopram-oxcarbazepine": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -485259,16 +483479,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1331-DDInter410"
-    },
-    "oxazepam-clomipramine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter410"
-    },
-    "clomipramine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter410-DDInter1359"
     },
     "oxcarbazepine-clomipramine": {
       "nivo": "Srednji",
@@ -486420,16 +484630,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1331-DDInter419"
     },
-    "clozapine-oxazepam": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter419-DDInter1359"
-    },
-    "oxazepam-clozapine": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1359-DDInter419"
-    },
     "clozapine-oxcarbazepine": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -487290,16 +485490,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1331-DDInter511"
     },
-    "oxazepam-desvenlafaxine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter511"
-    },
-    "desvenlafaxine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter511-DDInter1359"
-    },
     "oxcarbazepine-desvenlafaxine": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -487779,16 +485969,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter520-DDInter1326"
-    },
-    "dexmedetomidine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter520-DDInter1359"
-    },
-    "oxazepam-dexmedetomidine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter520"
     },
     "dexmedetomidine-oxcarbazepine": {
       "nivo": "Srednji",
@@ -488640,16 +486820,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter600-DDInter1326"
     },
-    "doxylamine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter600-DDInter1359"
-    },
-    "oxazepam-doxylamine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter600"
-    },
     "doxylamine-oxcarbazepine": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -489149,16 +487319,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1331-DDInter1166"
-    },
-    "methadone-oxazepam": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1166-DDInter1359"
-    },
-    "oxazepam-methadone": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1359-DDInter1166"
     },
     "methadone-oxcarbazepine": {
       "nivo": "Visok",
@@ -489709,16 +487869,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1326-DDInter1913"
-    },
-    "valproic acid-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1913-DDInter1359"
-    },
-    "oxazepam-valproic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1913"
     },
     "valproic acid-oxcarbazepine": {
       "nivo": "Srednji",
@@ -490470,16 +488620,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1331-DDInter608"
     },
-    "duloxetine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter608-DDInter1359"
-    },
-    "oxazepam-duloxetine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter608"
-    },
     "duloxetine-oxcarbazepine": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -490850,16 +488990,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1046-DDInter1230"
     },
-    "oxazepam-levetiracetam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1046"
-    },
-    "levetiracetam-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1046-DDInter1359"
-    },
     "oxcarbazepine-levetiracetam": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -491180,16 +489310,6 @@
       "opis": "Rizik: Minor",
       "link": "DDInter1212-DDInter1791"
     },
-    "theophylline-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter1791-DDInter1359"
-    },
-    "oxazepam-theophylline": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter1359-DDInter1791"
-    },
     "theophylline-riluzole": {
       "nivo": "Srednji",
       "opis": "Rizik: Minor",
@@ -491429,16 +489549,6 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter1366-DDInter1326"
-    },
-    "oxycodone-oxazepam": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1366-DDInter1359"
-    },
-    "oxazepam-oxycodone": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1359-DDInter1366"
     },
     "oxycodone-oxcarbazepine": {
       "nivo": "Visok",
@@ -491859,16 +489969,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1326-DDInter1516"
-    },
-    "pregabalin-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1516-DDInter1359"
-    },
-    "oxazepam-pregabalin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1516"
     },
     "pregabalin-oxcarbazepine": {
       "nivo": "Srednji",
@@ -492790,16 +490890,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1331-DDInter1851"
     },
-    "trazodone-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1851-DDInter1359"
-    },
-    "oxazepam-trazodone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1851"
-    },
     "trazodone-oxcarbazepine": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -493210,16 +491300,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter1690-DDInter1307"
     },
-    "oxazepam-sodium oxybate": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1359-DDInter1690"
-    },
-    "sodium oxybate-oxazepam": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1690-DDInter1359"
-    },
     "oxcarbazepine-sodium oxybate": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -493460,16 +491540,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1212-DDInter1834"
     },
-    "topiramate-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1834-DDInter1359"
-    },
-    "oxazepam-topiramate": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1834"
-    },
     "topiramate-paliperidone": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -493659,16 +491729,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1326-DDInter1619"
-    },
-    "ropinirole-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1619-DDInter1359"
-    },
-    "oxazepam-ropinirole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1619"
     },
     "ropinirole-oxcarbazepine": {
       "nivo": "Srednji",
@@ -494039,16 +492099,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1331-DDInter1605"
-    },
-    "risperidone-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1605-DDInter1359"
-    },
-    "oxazepam-risperidone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1605"
     },
     "risperidone-oxcarbazepine": {
       "nivo": "Srednji",
@@ -494429,16 +492479,6 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter1718-DDInter1326"
-    },
-    "sufentanil-oxazepam": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1718-DDInter1359"
-    },
-    "oxazepam-sufentanil": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1359-DDInter1718"
     },
     "sufentanil-oxcarbazepine": {
       "nivo": "Srednji",
@@ -495260,16 +493300,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1381-DDInter1326"
     },
-    "oxazepam-paliperidone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1381"
-    },
-    "paliperidone-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1381-DDInter1359"
-    },
     "oxcarbazepine-paliperidone": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -495870,16 +493900,6 @@
       "opis": "Rizik: Minor",
       "link": "DDInter1020-DDInter1326"
     },
-    "lamotrigine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1020-DDInter1359"
-    },
-    "oxazepam-lamotrigine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1020"
-    },
     "lamotrigine-oxcarbazepine": {
       "nivo": "Srednji",
       "opis": "Rizik: Minor",
@@ -496119,16 +494139,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1053-DDInter1326"
-    },
-    "oxazepam-levocetirizine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1053"
-    },
-    "levocetirizine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1053-DDInter1359"
     },
     "oxcarbazepine-levocetirizine": {
       "nivo": "Srednji",
@@ -496660,16 +494670,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1104-DDInter1326"
     },
-    "oxazepam-lurasidone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1104"
-    },
-    "lurasidone-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1104-DDInter1359"
-    },
     "oxcarbazepine-lurasidone": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -496949,16 +494949,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1331-DDInter1124"
-    },
-    "oxazepam-maprotiline": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1124"
-    },
-    "maprotiline-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1124-DDInter1359"
     },
     "oxcarbazepine-maprotiline": {
       "nivo": "Srednji",
@@ -497580,16 +495570,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1230-DDInter1326"
     },
-    "mirtazapine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1230-DDInter1359"
-    },
-    "oxazepam-mirtazapine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1230"
-    },
     "mirtazapine-oxcarbazepine": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -497909,16 +495889,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1046-DDInter1326"
-    },
-    "olanzapine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1326-DDInter1359"
-    },
-    "oxazepam-olanzapine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1326"
     },
     "olanzapine-oxcarbazepine": {
       "nivo": "Srednji",
@@ -498340,16 +496310,6 @@
       "opis": "Rizik: Minor",
       "link": "DDInter1051-DDInter1360"
     },
-    "oxcarbazepine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1360-DDInter1359"
-    },
-    "oxazepam-oxcarbazepine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1360"
-    },
     "paroxetine-oxcarbazepine": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -498580,16 +496540,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1397-DDInter853"
     },
-    "paroxetine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1397-DDInter1359"
-    },
-    "oxazepam-paroxetine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1397"
-    },
     "paroxetine-phenobarbital": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -498799,16 +496749,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter853-DDInter1505"
-    },
-    "pramipexole-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1505-DDInter1359"
-    },
-    "oxazepam-pramipexole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1505"
     },
     "pramipexole-phenobarbital": {
       "nivo": "Srednji",
@@ -499030,16 +496970,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1553-DDInter1185"
     },
-    "oxazepam-quetiapine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1553"
-    },
-    "quetiapine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1553-DDInter1359"
-    },
     "quetiapine-rasagiline": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -499250,16 +497180,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter915-DDInter1572"
     },
-    "oxazepam-rasagiline": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1572"
-    },
-    "rasagiline-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1572-DDInter1359"
-    },
     "phenobarbital-rasagiline": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -499469,16 +497389,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1307-DDInter1579"
-    },
-    "oxazepam-remifentanil": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1359-DDInter1579"
-    },
-    "remifentanil-oxazepam": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1579-DDInter1359"
     },
     "remifentanil-sertraline": {
       "nivo": "Visok",
@@ -499880,16 +497790,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter915-DDInter1662"
     },
-    "oxazepam-sertraline": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1662"
-    },
-    "sertraline-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1662-DDInter1359"
-    },
     "sertraline-relugolix": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -500050,16 +497950,6 @@
       "opis": "Rizik: Minor",
       "link": "DDInter1307-DDInter1664"
     },
-    "oxazepam-sevoflurane": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter1359-DDInter1664"
-    },
-    "sevoflurane-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter1664-DDInter1359"
-    },
     "sevoflurane-relugolix": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -500209,16 +498099,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1746-DDInter915"
-    },
-    "oxazepam-tapentadol": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1359-DDInter1746"
-    },
-    "tapentadol-oxazepam": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1746-DDInter1359"
     },
     "thiopental-tapentadol": {
       "nivo": "Srednji",
@@ -500440,16 +498320,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter915-DDInter1927"
     },
-    "venlafaxine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1927-DDInter1359"
-    },
-    "oxazepam-venlafaxine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1927"
-    },
     "venlafaxine-phenobarbital": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -500650,16 +498520,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter853-DDInter1970"
     },
-    "zolpidem-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1970-DDInter1359"
-    },
-    "oxazepam-zolpidem": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1970"
-    },
     "desflurane-nitrous oxide": {
       "nivo": "Srednji",
       "opis": "Rizik: Minor",
@@ -500669,16 +498529,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Minor",
       "link": "DDInter1307-DDInter503"
-    },
-    "oxazepam-desflurane": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter1359-DDInter503"
-    },
-    "desflurane-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter503-DDInter1359"
     },
     "chlorpromazine-entacapone": {
       "nivo": "Srednji",
@@ -500729,16 +498579,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter853-DDInter646"
-    },
-    "entacapone-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter646-DDInter1359"
-    },
-    "oxazepam-entacapone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter646"
     },
     "nicotine-ergotamine": {
       "nivo": "Srednji",
@@ -500840,16 +498680,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter915-DDInter672"
     },
-    "oxazepam-escitalopram": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter672"
-    },
-    "escitalopram-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter672-DDInter1359"
-    },
     "phenobarbital-escitalopram": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -500940,16 +498770,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter673-DDInter853"
     },
-    "oxazepam-esketamine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter673"
-    },
-    "esketamine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter673-DDInter1359"
-    },
     "phenobarbital-esketamine": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -501019,26 +498839,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter893-DDInter695"
-    },
-    "ethosuximide-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter695-DDInter1359"
-    },
-    "oxazepam-ethosuximide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter695"
-    },
-    "oxazepam-flumazenil": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter748"
-    },
-    "flumazenil-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter748-DDInter1359"
     },
     "fluoxetine-indacaterol": {
       "nivo": "Srednji",
@@ -501150,16 +498950,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter915-DDInter760"
     },
-    "fluphenazine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter760-DDInter1359"
-    },
-    "oxazepam-fluphenazine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter760"
-    },
     "fluphenazine-phenobarbital": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -501230,16 +499020,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter893-DDInter791"
     },
-    "oxazepam-gabapentin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter791"
-    },
-    "gabapentin-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter791-DDInter1359"
-    },
     "gabapentin-phenobarbital": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -501300,16 +499080,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter915-DDInter853"
     },
-    "haloperidol-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter853-DDInter1359"
-    },
-    "oxazepam-haloperidol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter853"
-    },
     "haloperidol-relugolix": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -501360,16 +499130,6 @@
       "opis": "Rizik: Minor",
       "link": "DDInter1485-DDInter1442"
     },
-    "oxazepam-aminophylline": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter1359-DDInter74"
-    },
-    "aminophylline-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter74-DDInter1359"
-    },
     "thiopental-aminophylline": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -501399,16 +499159,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter562-DDInter363"
-    },
-    "chlorpromazine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter363-DDInter1359"
-    },
-    "oxazepam-chlorpromazine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter363"
     },
     "chlorpromazine-phenobarbital": {
       "nivo": "Srednji",
@@ -501449,16 +499199,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Minor",
       "link": "DDInter1442-DDInter1185"
-    },
-    "oxazepam-levobupivacaine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter1051"
-    },
-    "levobupivacaine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1051-DDInter1359"
     },
     "levobupivacaine-phenobarbital": {
       "nivo": "Srednji",
@@ -501850,16 +499590,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter534-DDInter1290"
     },
-    "nicotine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1290-DDInter1359"
-    },
-    "oxazepam-nicotine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1290"
-    },
     "nicotine-salmeterol": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -502079,16 +499809,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1236-DDInter1092"
-    },
-    "lorazepam-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1092-DDInter1359"
-    },
-    "oxazepam-lorazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1092"
     },
     "lorazepam-bimatoprost": {
       "nivo": "Srednji",
@@ -504710,16 +502430,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter534-DDInter54"
     },
-    "alprazolam-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter54-DDInter1359"
-    },
-    "oxazepam-alprazolam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter54"
-    },
     "alprazolam-donepezil": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -505170,16 +502880,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1538-DDInter1189"
     },
-    "methylphenidate-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1189-DDInter1359"
-    },
-    "oxazepam-methylphenidate": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1189"
-    },
     "methylphenidate-desloratadine": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -505530,16 +503230,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1538-DDInter1091"
     },
-    "loratadine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1091-DDInter1359"
-    },
-    "oxazepam-loratadine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1091"
-    },
     "loratadine-rivastigmine": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -505709,16 +503399,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1236-DDInter758"
-    },
-    "fluoxetine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter758-DDInter1359"
-    },
-    "oxazepam-fluoxetine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter758"
     },
     "fluoxetine-desloratadine": {
       "nivo": "Srednji",
@@ -506620,16 +504300,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1538-DDInter1028"
     },
-    "latanoprost-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1028-DDInter1359"
-    },
-    "oxazepam-latanoprost": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1028"
-    },
     "latanoprost-rivastigmine": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -506769,16 +504439,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter74-DDInter1851"
-    },
-    "midazolam-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1212-DDInter1359"
-    },
-    "oxazepam-midazolam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1212"
     },
     "nitric oxide-sufentanil": {
       "nivo": "Srednji",
@@ -507159,16 +504819,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1332-DDInter1236"
-    },
-    "modafinil-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1236-DDInter1359"
-    },
-    "oxazepam-modafinil": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1236"
     },
     "modafinil-bimatoprost": {
       "nivo": "Srednji",
@@ -507690,16 +505340,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter576-DDInter1605"
     },
-    "disulfiram-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter576-DDInter1359"
-    },
-    "oxazepam-disulfiram": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter576"
-    },
     "lorazepam-diazepam": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -507829,16 +505469,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter534-DDInter1596"
-    },
-    "diazepam-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter534-DDInter1359"
-    },
-    "oxazepam-diazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter534"
     },
     "diazepam-donepezil": {
       "nivo": "Srednji",
@@ -508000,66 +505630,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter964-DDInter534"
     },
-    "zolmitriptan-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1359"
-    },
-    "oxazepam-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1969"
-    },
-    "montelukast-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1242-DDInter1359"
-    },
-    "oxazepam-montelukast": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1242"
-    },
-    "sevelamer-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1663-DDInter1359"
-    },
-    "oxazepam-sevelamer": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1663"
-    },
-    "oxazepam-salmeterol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1635"
-    },
-    "salmeterol-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1635-DDInter1359"
-    },
-    "oxazepam-desloratadine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter506"
-    },
-    "desloratadine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter506-DDInter1359"
-    },
-    "oxazepam-rivastigmine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1610"
-    },
-    "rivastigmine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1610-DDInter1359"
-    },
     "lorazepam-donepezil": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -508219,16 +505789,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter583-DDInter722"
-    },
-    "oxazepam-donepezil": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter583"
-    },
-    "donepezil-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter583-DDInter1359"
     },
     "donepezil-bimatoprost": {
       "nivo": "Srednji",
@@ -508950,16 +506510,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter732-DDInter1538"
     },
-    "oxazepam-fexofenadine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter732"
-    },
-    "fexofenadine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter732-DDInter1359"
-    },
     "fexofenadine-rivastigmine": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -509129,16 +506679,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1185-DDInter1397"
-    },
-    "oxazepam-methyldopa": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1185"
-    },
-    "methyldopa-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1185-DDInter1359"
     },
     "methyldopa-sertraline": {
       "nivo": "Srednji",
@@ -509810,16 +507350,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1632-DDInter534"
     },
-    "oxazepam-salbutamol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1632"
-    },
-    "salbutamol-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1632-DDInter1359"
-    },
     "amantadine-salbutamol": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -510259,16 +507789,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter411-DDInter534"
-    },
-    "oxazepam-clonazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter411"
-    },
-    "clonazepam-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter411-DDInter1359"
     },
     "donepezil-clonazepam": {
       "nivo": "Srednji",
@@ -511170,16 +508690,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1301-DDInter1538"
     },
-    "oxazepam-nitrazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1301"
-    },
-    "nitrazepam-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1301-DDInter1359"
-    },
     "salmeterol-nitrazepam": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -511299,16 +508809,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter893-DDInter1236"
-    },
-    "oxazepam-hydroxychloroquine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter893"
-    },
-    "hydroxychloroquine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter893-DDInter1359"
     },
     "memantine-hydroxychloroquine": {
       "nivo": "Srednji",
@@ -511609,16 +509109,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter19-DDInter534"
-    },
-    "oxazepam-acetylcysteine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter19"
-    },
-    "acetylcysteine-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter19-DDInter1359"
     },
     "donepezil-acetylcysteine": {
       "nivo": "Srednji",
@@ -514331,7 +511821,6 @@
     "lorazepam": "DDInter1092",
     "meropenem": "DDInter1157",
     "nimodipine": "DDInter1295",
-    "oxazepam": "DDInter1359",
     "paroxetine": "DDInter1397",
     "peginterferon alfa-2a": "DDInter1407",
     "pirfenidone": "DDInter1477",
