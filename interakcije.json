@@ -44950,176 +44950,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1366-DDInter1886"
     },
-    "calcium carbonate-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter271-DDInter1031"
-    },
-    "ledipasvir-calcium carbonate": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1031-DDInter271"
-    },
-    "dexlansoprazole-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter519-DDInter1031"
-    },
-    "ledipasvir-dexlansoprazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1031-DDInter519"
-    },
-    "ledipasvir-eliglustat": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1031-DDInter629"
-    },
-    "eliglustat-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter629-DDInter1031"
-    },
-    "esomeprazole-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter676-DDInter1031"
-    },
-    "ledipasvir-esomeprazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1031-DDInter676"
-    },
-    "famotidine-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter712-DDInter1031"
-    },
-    "ledipasvir-famotidine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1031-DDInter712"
-    },
-    "lansoprazole-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1022-DDInter1031"
-    },
-    "ledipasvir-lansoprazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1031-DDInter1022"
-    },
-    "linagliptin-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1070-DDInter1031"
-    },
-    "ledipasvir-linagliptin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1031-DDInter1070"
-    },
-    "loperamide-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1088-DDInter1031"
-    },
-    "ledipasvir-loperamide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1031-DDInter1088"
-    },
-    "magaldrate-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1112-DDInter1031"
-    },
-    "ledipasvir-magaldrate": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1031-DDInter1112"
-    },
-    "omeprazole-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1340-DDInter1031"
-    },
-    "ledipasvir-omeprazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1031-DDInter1340"
-    },
-    "pantoprazole-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1388-DDInter1031"
-    },
-    "ledipasvir-pantoprazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1031-DDInter1388"
-    },
-    "prucalopride-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter1544-DDInter1031"
-    },
-    "ledipasvir-prucalopride": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter1031-DDInter1544"
-    },
-    "rabeprazole-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1559-DDInter1031"
-    },
-    "ledipasvir-rabeprazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1031-DDInter1559"
-    },
-    "rifaximin-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1593-DDInter1031"
-    },
-    "ledipasvir-rifaximin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1031-DDInter1593"
-    },
-    "rosuvastatin-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1622-DDInter1031"
-    },
-    "ledipasvir-rosuvastatin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1031-DDInter1622"
-    },
-    "saxagliptin-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1646-DDInter1031"
-    },
-    "ledipasvir-saxagliptin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1031-DDInter1646"
-    },
-    "simvastatin-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1675-DDInter1031"
-    },
-    "ledipasvir-simvastatin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1031-DDInter1675"
-    },
     "levothyroxine-calcium carbonate": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -69400,6 +69230,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter62-DDInter268"
     },
+    "calcitriol-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter268-DDInter402"
+    },
+    "clobetasol-calcitriol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter268"
+    },
     "calcitriol-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -69790,16 +69630,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1513-DDInter1509"
     },
-    "pravastatin-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1509-DDInter449"
-    },
-    "cromoglicic acid-pravastatin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1509"
-    },
     "pravastatin-rabeprazole": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -69899,16 +69729,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1725-DDInter1915"
-    },
-    "valsartan-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1915-DDInter449"
-    },
-    "cromoglicic acid-valsartan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1915"
     },
     "valsartan-rosuvastatin": {
       "nivo": "Srednji",
@@ -70790,16 +70610,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1277-DDInter1092"
     },
-    "lorazepam-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1092-DDInter449"
-    },
-    "cromoglicic acid-lorazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1092"
-    },
     "lorazepam-rosuvastatin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -70950,16 +70760,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1725-DDInter1841"
     },
-    "tramadol-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1841-DDInter449"
-    },
-    "cromoglicic acid-tramadol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1841"
-    },
     "tramadol-rosuvastatin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -71069,16 +70869,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1725-DDInter743"
-    },
-    "fluconazole-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter743-DDInter449"
-    },
-    "cromoglicic acid-fluconazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter743"
     },
     "fluconazole-pioglitazone": {
       "nivo": "Srednji",
@@ -71369,16 +71159,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1277-DDInter670"
-    },
-    "erythromycin-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter670-DDInter449"
-    },
-    "cromoglicic acid-erythromycin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter670"
     },
     "erythromycin-miconazole": {
       "nivo": "Srednji",
@@ -72690,16 +72470,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter705-DDInter1388"
     },
-    "pantoprazole-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1388-DDInter449"
-    },
-    "cromoglicic acid-pantoprazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1388"
-    },
     "pantoprazole-cinacalcet": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -73010,6 +72780,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter511-DDInter1388"
     },
+    "pantoprazole-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1388-DDInter402"
+    },
+    "clobetasol-pantoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1388"
+    },
     "pantoprazole-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -73230,16 +73010,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1277-DDInter388"
     },
-    "citalopram-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter388-DDInter449"
-    },
-    "cromoglicic acid-citalopram": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter388"
-    },
     "citalopram-rosuvastatin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -73379,16 +73149,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1725-DDInter1247"
-    },
-    "moxifloxacin-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1247-DDInter449"
-    },
-    "cromoglicic acid-moxifloxacin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1247"
     },
     "moxifloxacin-rosuvastatin": {
       "nivo": "Srednji",
@@ -76470,6 +76230,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter62-DDInter598"
     },
+    "doxycycline-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter598-DDInter402"
+    },
+    "clobetasol-doxycycline": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter598"
+    },
     "doxycycline-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -77510,16 +77280,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter883-DDInter416"
     },
-    "clotrimazole-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter416-DDInter449"
-    },
-    "cromoglicic acid-clotrimazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter416"
-    },
     "clotrimazole-isosorbide mononitrate": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -77820,6 +77580,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter964-DDInter416"
     },
+    "clotrimazole-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter416-DDInter402"
+    },
+    "clobetasol-clotrimazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter416"
+    },
     "clotrimazole-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -78110,16 +77880,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1277-DDInter1200"
     },
-    "metoprolol-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1200-DDInter449"
-    },
-    "cromoglicic acid-metoprolol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1200"
-    },
     "metoprolol-rosuvastatin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -78380,16 +78140,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1725-DDInter1834"
     },
-    "topiramate-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1834-DDInter449"
-    },
-    "cromoglicic acid-topiramate": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1834"
-    },
     "topiramate-rosuvastatin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -78499,16 +78249,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter20-DDInter1791"
-    },
-    "theophylline-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1791-DDInter449"
-    },
-    "cromoglicic acid-theophylline": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1791"
     },
     "theophylline-pioglitazone": {
       "nivo": "Srednji",
@@ -79820,6 +79560,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter62-DDInter1244"
     },
+    "morphine-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1244-DDInter402"
+    },
+    "clobetasol-morphine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1244"
+    },
     "morphine-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -80240,16 +79990,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter712-DDInter1913"
     },
-    "valproic acid-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1913-DDInter449"
-    },
-    "cromoglicic acid-valproic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1913"
-    },
     "valproic acid-rosuvastatin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -80639,16 +80379,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1277-DDInter14"
-    },
-    "acetaminophen-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter14-DDInter449"
-    },
-    "cromoglicic acid-acetaminophen": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter14"
     },
     "acetaminophen-amoxicillin": {
       "nivo": "Srednji",
@@ -83670,16 +83400,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter705-DDInter1340"
     },
-    "omeprazole-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1340-DDInter449"
-    },
-    "cromoglicic acid-omeprazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1340"
-    },
     "omeprazole-cinacalcet": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -84010,6 +83730,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter511-DDInter1340"
     },
+    "omeprazole-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1340-DDInter402"
+    },
+    "clobetasol-omeprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1340"
+    },
     "omeprazole-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -84290,16 +84020,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1277-DDInter343"
     },
-    "cetirizine-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter343-DDInter449"
-    },
-    "cromoglicic acid-cetirizine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter343"
-    },
     "cetirizine-rosuvastatin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -84539,16 +84259,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter712-DDInter561"
-    },
-    "diltiazem-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter561-DDInter449"
-    },
-    "cromoglicic acid-diltiazem": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter561"
     },
     "diltiazem-rosuvastatin": {
       "nivo": "Srednji",
@@ -85490,16 +85200,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter712-DDInter79"
     },
-    "amlodipine-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter79-DDInter449"
-    },
-    "cromoglicic acid-amlodipine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter79"
-    },
     "amlodipine-amoxicillin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -85719,16 +85419,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter712-DDInter554"
-    },
-    "digoxin-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter554-DDInter449"
-    },
-    "cromoglicic acid-digoxin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter554"
     },
     "digoxin-rosuvastatin": {
       "nivo": "Srednji",
@@ -86919,16 +86609,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1277-DDInter1970"
-    },
-    "zolpidem-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1970-DDInter449"
-    },
-    "cromoglicic acid-zolpidem": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1970"
     },
     "zolpidem-rosuvastatin": {
       "nivo": "Srednji",
@@ -89020,16 +88700,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter705-DDInter1022"
     },
-    "lansoprazole-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1022-DDInter449"
-    },
-    "cromoglicic acid-lansoprazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1022"
-    },
     "lansoprazole-letrozole": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -89450,6 +89120,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter511-DDInter1022"
     },
+    "lansoprazole-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter402"
+    },
+    "clobetasol-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1022"
+    },
     "lansoprazole-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -89719,16 +89399,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter20-DDInter1064"
-    },
-    "levothyroxine-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1064-DDInter449"
-    },
-    "cromoglicic acid-levothyroxine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1064"
     },
     "levothyroxine-amoxicillin": {
       "nivo": "Srednji",
@@ -90029,16 +89699,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1202-DDInter1091"
-    },
-    "loratadine-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1091-DDInter449"
-    },
-    "cromoglicic acid-loratadine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1091"
     },
     "loratadine-rosuvastatin": {
       "nivo": "Srednji",
@@ -90849,16 +90509,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter712-DDInter336"
-    },
-    "celecoxib-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter336-DDInter449"
-    },
-    "cromoglicic acid-celecoxib": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter336"
     },
     "celecoxib-rosuvastatin": {
       "nivo": "Srednji",
@@ -91900,16 +91550,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1318-DDInter1607"
     },
-    "ritonavir-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1607-DDInter449"
-    },
-    "cromoglicic acid-ritonavir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1607"
-    },
     "ritonavir-ursodeoxycholic acid": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -92529,6 +92169,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter62-DDInter1916"
+    },
+    "vancomycin-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1916-DDInter402"
+    },
+    "clobetasol-vancomycin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1916"
     },
     "vancomycin-fluticasone": {
       "nivo": "Srednji",
@@ -93840,16 +93490,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1202-DDInter1174"
     },
-    "methotrexate-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1174-DDInter449"
-    },
-    "cromoglicic acid-methotrexate": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1174"
-    },
     "methotrexate-miconazole": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -94059,16 +93699,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter712-DDInter293"
-    },
-    "carbamazepine-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter293-DDInter449"
-    },
-    "cromoglicic acid-carbamazepine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter293"
     },
     "carbamazepine-rosuvastatin": {
       "nivo": "Srednji",
@@ -95420,16 +95050,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter712-DDInter638"
     },
-    "enalapril-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter638-DDInter449"
-    },
-    "cromoglicic acid-enalapril": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter638"
-    },
     "enalapril-rosuvastatin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -95649,16 +95269,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1202-DDInter537"
-    },
-    "diclofenac-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter537-DDInter449"
-    },
-    "cromoglicic acid-diclofenac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter537"
     },
     "diclofenac-rosuvastatin": {
       "nivo": "Srednji",
@@ -96710,16 +96320,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter707-DDInter1855"
     },
-    "triamcinolone-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1855-DDInter449"
-    },
-    "cromoglicic acid-triamcinolone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1855"
-    },
     "triamcinolone-cinacalcet": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -96839,6 +96439,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1906-DDInter1855"
+    },
+    "triamcinolone-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1855-DDInter402"
+    },
+    "clobetasol-triamcinolone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1855"
     },
     "triamcinolone-fluticasone": {
       "nivo": "Srednji",
@@ -97269,16 +96879,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1202-DDInter42"
-    },
-    "alendronic acid-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter42-DDInter449"
-    },
-    "cromoglicic acid-alendronic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter42"
     },
     "alendronic acid-amoxicillin": {
       "nivo": "Srednji",
@@ -98050,16 +97650,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1610-DDInter1515"
     },
-    "prednisone-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1515-DDInter449"
-    },
-    "cromoglicic acid-prednisone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1515"
-    },
     "prednisone-cinacalcet": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -98309,6 +97899,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter62-DDInter1515"
+    },
+    "prednisone-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1515-DDInter402"
+    },
+    "clobetasol-prednisone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1515"
     },
     "prednisone-fluticasone": {
       "nivo": "Srednji",
@@ -99120,16 +98720,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1202-DDInter1028"
     },
-    "latanoprost-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1028-DDInter449"
-    },
-    "cromoglicic acid-latanoprost": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1028"
-    },
     "latanoprost-rosuvastatin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -99459,16 +99049,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter712-DDInter1928"
-    },
-    "verapamil-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1928-DDInter449"
-    },
-    "cromoglicic acid-verapamil": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1928"
     },
     "verapamil-rosuvastatin": {
       "nivo": "Srednji",
@@ -100660,16 +100240,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter883-DDInter652"
     },
-    "epinephrine-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter652-DDInter449"
-    },
-    "cromoglicic acid-epinephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter652"
-    },
     "epinephrine-isosorbide mononitrate": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -100999,16 +100569,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1725-DDInter1730"
-    },
-    "sumatriptan-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1730-DDInter449"
-    },
-    "cromoglicic acid-sumatriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1730"
     },
     "sumatriptan-rosuvastatin": {
       "nivo": "Srednji",
@@ -102700,16 +102260,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1951-DDInter1318"
     },
-    "warfarin-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1951-DDInter449"
-    },
-    "cromoglicic acid-warfarin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1951"
-    },
     "warfarin-calcium chloride": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -103720,16 +103270,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1202-DDInter1019"
     },
-    "lamivudine-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1019-DDInter449"
-    },
-    "cromoglicic acid-lamivudine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1019"
-    },
     "lamivudine-rosuvastatin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -103929,16 +103469,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1277-DDInter1397"
-    },
-    "paroxetine-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1397-DDInter449"
-    },
-    "cromoglicic acid-paroxetine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1397"
     },
     "paroxetine-rosuvastatin": {
       "nivo": "Srednji",
@@ -104209,16 +103739,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1202-DDInter1079"
-    },
-    "lisinopril-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1079-DDInter449"
-    },
-    "cromoglicic acid-lisinopril": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1079"
     },
     "lisinopril-rosuvastatin": {
       "nivo": "Srednji",
@@ -105509,6 +105029,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1797-DDInter885"
+    },
+    "hydrocortisone-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter885-DDInter402"
+    },
+    "clobetasol-hydrocortisone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter885"
     },
     "hydrocortisone-fluticasone": {
       "nivo": "Srednji",
@@ -107160,16 +106690,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1277-DDInter413"
     },
-    "clopidogrel-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter413-DDInter449"
-    },
-    "cromoglicic acid-clopidogrel": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter413"
-    },
     "clopidogrel-rosuvastatin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -108430,6 +107950,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter62-DDInter1497"
     },
+    "potassium chloride-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1497-DDInter402"
+    },
+    "clobetasol-potassium chloride": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1497"
+    },
     "potassium chloride-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -109340,16 +108870,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1202-DDInter1266"
     },
-    "naproxen-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1266-DDInter449"
-    },
-    "cromoglicic acid-naproxen": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1266"
-    },
     "naproxen-amoxicillin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -110100,16 +109620,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1277-DDInter722"
     },
-    "fentanyl-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter722-DDInter449"
-    },
-    "cromoglicic acid-fentanyl": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter722"
-    },
     "fentanyl-rosuvastatin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -110669,16 +110179,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1277-DDInter534"
-    },
-    "diazepam-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter534-DDInter449"
-    },
-    "cromoglicic acid-diazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter534"
     },
     "diazepam-rosuvastatin": {
       "nivo": "Srednji",
@@ -111590,16 +111090,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter707-DDInter1088"
     },
-    "loperamide-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1088-DDInter449"
-    },
-    "cromoglicic acid-loperamide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1088"
-    },
     "loperamide-cinacalcet": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -111849,6 +111339,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter62-DDInter1088"
+    },
+    "loperamide-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1088-DDInter402"
+    },
+    "clobetasol-loperamide": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1088"
     },
     "loperamide-fluticasone": {
       "nivo": "Srednji",
@@ -113040,16 +112540,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1277-DDInter1513"
     },
-    "prednisolone-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1513-DDInter449"
-    },
-    "cromoglicic acid-prednisolone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1513"
-    },
     "prednisolone-isosorbide mononitrate": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -113249,6 +112739,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1912-DDInter1513"
+    },
+    "prednisolone-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1513-DDInter402"
+    },
+    "clobetasol-prednisolone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1513"
     },
     "prednisolone-fluticasone": {
       "nivo": "Srednji",
@@ -115970,16 +115470,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1277-DDInter1342"
     },
-    "ondansetron-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1342-DDInter449"
-    },
-    "cromoglicic acid-ondansetron": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1342"
-    },
     "ondansetron-cinacalcet": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -116189,6 +115679,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter62-DDInter1342"
+    },
+    "ondansetron-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1342-DDInter402"
+    },
+    "clobetasol-ondansetron": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1342"
     },
     "ondansetron-fluticasone": {
       "nivo": "Srednji",
@@ -117860,6 +117360,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1797-DDInter1202"
     },
+    "metronidazole-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1202-DDInter402"
+    },
+    "clobetasol-metronidazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1202"
+    },
     "metronidazole-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -117959,16 +117469,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1012-DDInter1513"
-    },
-    "ketotifen-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1012-DDInter449"
-    },
-    "cromoglicic acid-ketotifen": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1012"
     },
     "ketotifen-clarithromycin": {
       "nivo": "Srednji",
@@ -119330,16 +118830,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter883-DDInter712"
     },
-    "famotidine-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter712-DDInter449"
-    },
-    "cromoglicic acid-famotidine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter712"
-    },
     "famotidine-letrozole": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -119710,6 +119200,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter62-DDInter712"
     },
+    "famotidine-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter712-DDInter402"
+    },
+    "clobetasol-famotidine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter712"
+    },
     "famotidine-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -119769,16 +119269,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1635-DDInter1725"
-    },
-    "salmeterol-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1635-DDInter449"
-    },
-    "cromoglicic acid-salmeterol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1635"
     },
     "salmeterol-rosuvastatin": {
       "nivo": "Srednji",
@@ -121260,16 +120750,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter883-DDInter20"
     },
-    "acetylsalicylic acid-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter20-DDInter449"
-    },
-    "cromoglicic acid-acetylsalicylic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter20"
-    },
     "acetylsalicylic acid-letrozole": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -121790,6 +121270,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter964-DDInter20"
     },
+    "acetylsalicylic acid-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter20-DDInter402"
+    },
+    "clobetasol-acetylsalicylic acid": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter20"
+    },
     "acetylsalicylic acid-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -122060,16 +121550,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1277-DDInter732"
     },
-    "fexofenadine-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter732-DDInter449"
-    },
-    "cromoglicic acid-fexofenadine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter732"
-    },
     "fexofenadine-rosuvastatin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -122319,16 +121799,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1191-DDInter1202"
-    },
-    "methylprednisolone-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1191-DDInter449"
-    },
-    "cromoglicic acid-methylprednisolone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1191"
     },
     "methylprednisolone-rosuvastatin": {
       "nivo": "Srednji",
@@ -124130,16 +123600,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter596-DDInter20"
     },
-    "doxorubicin-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter596-DDInter449"
-    },
-    "cromoglicic acid-doxorubicin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter596"
-    },
     "doxorubicin-amoxicillin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -124339,16 +123799,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter883-DDInter1202"
-    },
-    "hydrochlorothiazide-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter883-DDInter449"
-    },
-    "cromoglicic acid-hydrochlorothiazide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter883"
     },
     "hydrochlorothiazide-rosuvastatin": {
       "nivo": "Srednji",
@@ -124590,16 +124040,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1632-DDInter1277"
     },
-    "salbutamol-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1632-DDInter449"
-    },
-    "cromoglicic acid-salbutamol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1632"
-    },
     "salbutamol-amoxicillin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -124679,116 +124119,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1906-DDInter1632"
-    },
-    "allopurinol-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter48-DDInter449"
-    },
-    "cromoglicic acid-allopurinol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter48"
-    },
-    "montelukast-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1242-DDInter449"
-    },
-    "cromoglicic acid-montelukast": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1242"
-    },
-    "duloxetine-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter608-DDInter449"
-    },
-    "cromoglicic acid-duloxetine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter608"
-    },
-    "simvastatin-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1675-DDInter449"
-    },
-    "cromoglicic acid-simvastatin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1675"
-    },
-    "nystatin-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1318-DDInter449"
-    },
-    "cromoglicic acid-nystatin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1318"
-    },
-    "olopatadine-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1332-DDInter449"
-    },
-    "cromoglicic acid-olopatadine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1332"
-    },
-    "telmisartan-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1759-DDInter449"
-    },
-    "cromoglicic acid-telmisartan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1759"
-    },
-    "ezetimibe-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter707-DDInter449"
-    },
-    "cromoglicic acid-ezetimibe": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter707"
-    },
-    "cromoglicic acid-levetiracetam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1046"
-    },
-    "levetiracetam-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1046-DDInter449"
-    },
-    "cromoglicic acid-clarithromycin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter393"
-    },
-    "clarithromycin-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter393-DDInter449"
-    },
-    "cromoglicic acid-fluticasone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter766"
-    },
-    "fluticasone-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter766-DDInter449"
     },
     "pantoprazole-letrozole": {
       "nivo": "Srednji",
@@ -125239,16 +124569,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1009-DDInter1202"
-    },
-    "cromoglicic acid-ketoprofen": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1009"
-    },
-    "ketoprofen-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1009-DDInter449"
     },
     "ketoprofen-rosuvastatin": {
       "nivo": "Srednji",
@@ -126740,16 +126060,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1-DDInter20"
     },
-    "cromoglicic acid-abacavir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1"
-    },
-    "abacavir-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1-DDInter449"
-    },
     "abacavir-amoxicillin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -126949,16 +126259,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter900-DDInter1202"
-    },
-    "cromoglicic acid-ibuprofen": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter900"
-    },
-    "ibuprofen-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter900-DDInter449"
     },
     "ibuprofen-rosuvastatin": {
       "nivo": "Srednji",
@@ -128730,6 +128030,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter893-DDInter83"
     },
+    "amoxicillin-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter83-DDInter402"
+    },
+    "clobetasol-amoxicillin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter83"
+    },
     "amoxicillin-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -128999,16 +128309,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter411-DDInter712"
-    },
-    "cromoglicic acid-clonazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter411"
-    },
-    "clonazepam-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter411-DDInter449"
     },
     "clonazepam-rosuvastatin": {
       "nivo": "Srednji",
@@ -130060,16 +129360,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1662-DDInter1277"
     },
-    "cromoglicic acid-sertraline": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1662"
-    },
-    "sertraline-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1662-DDInter449"
-    },
     "rosuvastatin-sertraline": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -130419,16 +129709,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter856-DDInter1277"
-    },
-    "cromoglicic acid-heparin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter856"
-    },
-    "heparin-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter856-DDInter449"
     },
     "amoxicillin-heparin": {
       "nivo": "Srednji",
@@ -131079,16 +130359,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter335-DDInter1202"
-    },
-    "cromoglicic acid-cefuroxime": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter335"
-    },
-    "cefuroxime-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter335-DDInter449"
     },
     "rosuvastatin-cefuroxime": {
       "nivo": "Srednji",
@@ -132260,16 +131530,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1559-DDInter705"
     },
-    "cromoglicic acid-rabeprazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1559"
-    },
-    "rabeprazole-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1559-DDInter449"
-    },
     "cinacalcet-rabeprazole": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -132469,6 +131729,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter511-DDInter1559"
+    },
+    "rabeprazole-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1559-DDInter402"
+    },
+    "clobetasol-rabeprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1559"
     },
     "rabeprazole-fluticasone": {
       "nivo": "Srednji",
@@ -134980,16 +134250,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter252-DDInter1632"
     },
-    "cromoglicic acid-bupropion": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter252"
-    },
-    "bupropion-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter252-DDInter449"
-    },
     "letrozole-bupropion": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -135440,6 +134700,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter964-DDInter252"
     },
+    "bupropion-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter252-DDInter402"
+    },
+    "clobetasol-bupropion": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter252"
+    },
     "bupropion-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -135859,16 +135129,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1325-DDInter1277"
-    },
-    "cromoglicic acid-ofloxacin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1325"
-    },
-    "ofloxacin-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1325-DDInter449"
     },
     "rosuvastatin-ofloxacin": {
       "nivo": "Srednji",
@@ -139610,16 +138870,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter246-DDInter883"
     },
-    "cromoglicic acid-budesonide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter246"
-    },
-    "budesonide-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter246-DDInter449"
-    },
     "letrozole-budesonide": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -140009,6 +139259,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter62-DDInter246"
+    },
+    "budesonide-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter246-DDInter402"
+    },
+    "clobetasol-budesonide": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter246"
     },
     "budesonide-fluticasone": {
       "nivo": "Srednji",
@@ -141100,16 +140360,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1197-DDInter1277"
     },
-    "cromoglicic acid-metoclopramide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1197"
-    },
-    "metoclopramide-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1197-DDInter449"
-    },
     "isosorbide mononitrate-metoclopramide": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -141419,6 +140669,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter62-DDInter1197"
+    },
+    "metoclopramide-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1197-DDInter402"
+    },
+    "clobetasol-metoclopramide": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1197"
     },
     "metoclopramide-fluticasone": {
       "nivo": "Srednji",
@@ -142400,16 +141660,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter513-DDInter791"
     },
-    "cromoglicic acid-dexamethasone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter513"
-    },
-    "dexamethasone-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter513-DDInter449"
-    },
     "letrozole-dexamethasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -142729,6 +141979,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter964-DDInter513"
+    },
+    "dexamethasone-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter513-DDInter402"
+    },
+    "clobetasol-dexamethasone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter513"
     },
     "dexamethasone-fluticasone": {
       "nivo": "Srednji",
@@ -144300,16 +143560,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1906-DDInter705"
     },
-    "cromoglicic acid-ursodeoxycholic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter1906"
-    },
-    "ursodeoxycholic acid-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1906-DDInter449"
-    },
     "isosorbide mononitrate-ursodeoxycholic acid": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -145060,16 +144310,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter19-DDInter20"
     },
-    "cromoglicic acid-acetylcysteine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter449-DDInter19"
-    },
-    "acetylcysteine-cromoglicic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter19-DDInter449"
-    },
     "amoxicillin-acetylcysteine": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -145339,6 +144579,46 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter964-DDInter1197"
+    },
+    "simvastatin-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1675-DDInter402"
+    },
+    "clobetasol-simvastatin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1675"
+    },
+    "nystatin-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1318-DDInter402"
+    },
+    "clobetasol-nystatin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1318"
+    },
+    "sulfasalazine-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1725-DDInter402"
+    },
+    "clobetasol-sulfasalazine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1725"
+    },
+    "clarithromycin-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter393-DDInter402"
+    },
+    "clobetasol-clarithromycin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter393"
     },
     "palonosetron-fluticasone": {
       "nivo": "Srednji",
@@ -154410,56 +153690,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1802-DDInter1366"
     },
-    "apixaban-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter108-DDInter1031"
-    },
-    "ledipasvir-apixaban": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1031-DDInter108"
-    },
-    "ledipasvir-edoxaban": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1031-DDInter621"
-    },
-    "edoxaban-ledipasvir": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter621-DDInter1031"
-    },
-    "rivaroxaban-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1609-DDInter1031"
-    },
-    "ledipasvir-rivaroxaban": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1031-DDInter1609"
-    },
-    "sodium bicarbonate-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1683-DDInter1031"
-    },
-    "ledipasvir-sodium bicarbonate": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1031-DDInter1683"
-    },
-    "ticagrelor-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1802-DDInter1031"
-    },
-    "ledipasvir-ticagrelor": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1031-DDInter1802"
-    },
     "warfarin-sofosbuvir": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -162110,6 +161340,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter62-DDInter771"
     },
+    "folic acid-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter771-DDInter402"
+    },
+    "clobetasol-folic acid": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter771"
+    },
     "folic acid-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -164630,6 +163870,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter62-DDInter1951"
     },
+    "warfarin-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1951-DDInter402"
+    },
+    "clobetasol-warfarin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1951"
+    },
     "warfarin-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -166479,6 +165729,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter964-DDInter413"
+    },
+    "clopidogrel-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter413-DDInter402"
+    },
+    "clobetasol-clopidogrel": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter413"
     },
     "clopidogrel-fluticasone": {
       "nivo": "Srednji",
@@ -169869,6 +169129,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter964-DDInter856"
+    },
+    "heparin-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter856-DDInter402"
+    },
+    "clobetasol-heparin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter856"
     },
     "heparin-fluticasone": {
       "nivo": "Srednji",
@@ -207300,56 +206570,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1366-DDInter1915"
     },
-    "atorvastatin-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter133-DDInter1031"
-    },
-    "ledipasvir-atorvastatin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1031-DDInter133"
-    },
-    "digoxin-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter554-DDInter1031"
-    },
-    "ledipasvir-digoxin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1031-DDInter554"
-    },
-    "pitavastatin-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1479-DDInter1031"
-    },
-    "ledipasvir-pitavastatin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1031-DDInter1479"
-    },
-    "pravastatin-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1509-DDInter1031"
-    },
-    "ledipasvir-pravastatin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1031-DDInter1509"
-    },
-    "ranolazine-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1570-DDInter1031"
-    },
-    "ledipasvir-ranolazine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1031-DDInter1570"
-    },
     "levothyroxine-dobutamine": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -226070,6 +225290,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter511-DDInter1509"
     },
+    "pravastatin-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1509-DDInter402"
+    },
+    "clobetasol-pravastatin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1509"
+    },
     "pravastatin-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -226629,6 +225859,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter511-DDInter1915"
+    },
+    "valsartan-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1915-DDInter402"
+    },
+    "clobetasol-valsartan": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1915"
     },
     "valsartan-fluticasone": {
       "nivo": "Srednji",
@@ -227359,6 +226599,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter511-DDInter1565"
+    },
+    "ramipril-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1565-DDInter402"
+    },
+    "clobetasol-ramipril": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1565"
     },
     "ramipril-fluticasone": {
       "nivo": "Srednji",
@@ -230380,6 +229630,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter511-DDInter1200"
     },
+    "metoprolol-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1200-DDInter402"
+    },
+    "clobetasol-metoprolol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1200"
+    },
     "metoprolol-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -231789,6 +231049,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1301-DDInter1066"
+    },
+    "lidocaine-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1066-DDInter402"
+    },
+    "clobetasol-lidocaine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1066"
     },
     "lidocaine-fluticasone": {
       "nivo": "Srednji",
@@ -234390,6 +233660,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter511-DDInter130"
     },
+    "atenolol-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter130-DDInter402"
+    },
+    "clobetasol-atenolol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter130"
+    },
     "atenolol-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -235659,6 +234939,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter964-DDInter561"
+    },
+    "diltiazem-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter561-DDInter402"
+    },
+    "clobetasol-diltiazem": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter561"
     },
     "pravastatin-minoxidil": {
       "nivo": "Srednji",
@@ -237830,6 +237120,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter964-DDInter79"
     },
+    "amlodipine-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter79-DDInter402"
+    },
+    "clobetasol-amlodipine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter79"
+    },
     "amlodipine-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -239120,6 +238420,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter964-DDInter554"
     },
+    "digoxin-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter554-DDInter402"
+    },
+    "clobetasol-digoxin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter554"
+    },
     "digoxin-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -240139,6 +239449,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter62-DDInter1707"
+    },
+    "spironolactone-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1707-DDInter402"
+    },
+    "clobetasol-spironolactone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1707"
     },
     "spironolactone-fluticasone": {
       "nivo": "Srednji",
@@ -242889,6 +242209,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter511-DDInter336"
+    },
+    "celecoxib-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter336-DDInter402"
+    },
+    "clobetasol-celecoxib": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter336"
     },
     "celecoxib-fluticasone": {
       "nivo": "Srednji",
@@ -245660,6 +244990,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter511-DDInter1539"
     },
+    "propranolol-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1539-DDInter402"
+    },
+    "clobetasol-propranolol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1539"
+    },
     "propranolol-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -246810,6 +246150,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter964-DDInter638"
     },
+    "enalapril-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter638-DDInter402"
+    },
+    "clobetasol-enalapril": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter638"
+    },
     "enalapril-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -247949,6 +247299,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter893-DDInter592"
+    },
+    "doxazosin-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter592-DDInter402"
+    },
+    "clobetasol-doxazosin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter592"
     },
     "doxazosin-fluticasone": {
       "nivo": "Srednji",
@@ -251580,6 +250940,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter511-DDInter1095"
     },
+    "losartan-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1095-DDInter402"
+    },
+    "clobetasol-losartan": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1095"
+    },
     "losartan-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -252739,6 +252109,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter62-DDInter790"
+    },
+    "furosemide-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter790-DDInter402"
+    },
+    "clobetasol-furosemide": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter790"
     },
     "furosemide-fluticasone": {
       "nivo": "Srednji",
@@ -254319,6 +253699,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter511-DDInter1079"
+    },
+    "lisinopril-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1079-DDInter402"
+    },
+    "clobetasol-lisinopril": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1079"
     },
     "lisinopril-fluticasone": {
       "nivo": "Srednji",
@@ -258149,6 +257539,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1301-DDInter989"
+    },
+    "isosorbide dinitrate-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter989-DDInter402"
+    },
+    "clobetasol-isosorbide dinitrate": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter989"
     },
     "isosorbide dinitrate-fluticasone": {
       "nivo": "Srednji",
@@ -262830,6 +262230,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter62-DDInter883"
     },
+    "hydrochlorothiazide-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter883-DDInter402"
+    },
+    "clobetasol-hydrochlorothiazide": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter883"
+    },
     "hydrochlorothiazide-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -263730,6 +263140,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter62-DDInter990"
     },
+    "isosorbide mononitrate-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter990-DDInter402"
+    },
+    "clobetasol-isosorbide mononitrate": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter990"
+    },
     "isosorbide mononitrate-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -264569,6 +263989,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter62-DDInter716"
+    },
+    "felodipine-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter716-DDInter402"
+    },
+    "clobetasol-felodipine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter716"
     },
     "felodipine-fluticasone": {
       "nivo": "Srednji",
@@ -265619,6 +265049,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter62-DDInter972"
+    },
+    "irbesartan-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter972-DDInter402"
+    },
+    "clobetasol-irbesartan": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter972"
     },
     "irbesartan-fluticasone": {
       "nivo": "Srednji",
@@ -266999,6 +266439,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter511-DDInter718"
+    },
+    "fenofibrate-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter718-DDInter402"
+    },
+    "clobetasol-fenofibrate": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter718"
     },
     "fenofibrate-fluticasone": {
       "nivo": "Srednji",
@@ -268559,6 +268009,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter62-DDInter900"
+    },
+    "ibuprofen-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter900-DDInter402"
+    },
+    "clobetasol-ibuprofen": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter900"
     },
     "ibuprofen-fluticasone": {
       "nivo": "Srednji",
@@ -270549,6 +270009,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter964-DDInter133"
+    },
+    "atorvastatin-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter133-DDInter402"
+    },
+    "clobetasol-atorvastatin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter133"
     },
     "atorvastatin-fluticasone": {
       "nivo": "Srednji",
@@ -273709,6 +273179,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter511-DDInter305"
+    },
+    "carvedilol-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter305-DDInter402"
+    },
+    "clobetasol-carvedilol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter305"
     },
     "carvedilol-fluticasone": {
       "nivo": "Srednji",
@@ -278980,6 +278460,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter964-DDInter972"
     },
+    "ezetimibe-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter707-DDInter402"
+    },
+    "clobetasol-ezetimibe": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter707"
+    },
     "bosentan-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -283970,16 +283460,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1303-DDInter351"
     },
-    "chloramphenicol-obinutuzumab": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter351-DDInter1320"
-    },
-    "obinutuzumab-chloramphenicol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1320-DDInter351"
-    },
     "chloramphenicol-ocrelizumab": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -288109,16 +287589,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1768-DDInter1366"
-    },
-    "erythromycin-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter670-DDInter1031"
-    },
-    "ledipasvir-erythromycin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1031-DDInter670"
     },
     "ritonavir-fluticasone": {
       "nivo": "Visok",
@@ -293450,6 +292920,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1191-DDInter1092"
     },
+    "lorazepam-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1092-DDInter402"
+    },
+    "clobetasol-lorazepam": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1092"
+    },
     "lorazepam-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -293469,6 +292949,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1853-DDInter1841"
+    },
+    "tramadol-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1841-DDInter402"
+    },
+    "clobetasol-tramadol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1841"
     },
     "tramadol-fluticasone": {
       "nivo": "Srednji",
@@ -294200,6 +293690,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter964-DDInter743"
     },
+    "fluconazole-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter743-DDInter402"
+    },
+    "clobetasol-fluconazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter743"
+    },
     "oseltamivir-terbinafine": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -294640,6 +294140,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1046-DDInter670"
     },
+    "erythromycin-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter670-DDInter402"
+    },
+    "clobetasol-erythromycin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter670"
+    },
     "caffeine-gentamicin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -294679,6 +294189,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1768-DDInter1666"
+    },
+    "sildenafil-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1666-DDInter402"
+    },
+    "clobetasol-sildenafil": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1666"
     },
     "sildenafil-fluticasone": {
       "nivo": "Srednji",
@@ -294769,6 +294289,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter736-DDInter157"
+    },
+    "azithromycin-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter157-DDInter402"
+    },
+    "clobetasol-azithromycin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter157"
     },
     "azithromycin-fluticasone": {
       "nivo": "Srednji",
@@ -294890,6 +294420,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter736-DDInter388"
     },
+    "citalopram-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter388-DDInter402"
+    },
+    "clobetasol-citalopram": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter388"
+    },
     "citalopram-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -294989,6 +294529,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1735-DDInter1619"
+    },
+    "ropinirole-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1619-DDInter402"
+    },
+    "clobetasol-ropinirole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1619"
     },
     "ropinirole-fluticasone": {
       "nivo": "Srednji",
@@ -295099,6 +294649,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter913-DDInter1927"
+    },
+    "venlafaxine-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1927-DDInter402"
+    },
+    "clobetasol-venlafaxine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1927"
     },
     "venlafaxine-fluticasone": {
       "nivo": "Srednji",
@@ -295440,6 +295000,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter736-DDInter14"
     },
+    "acetaminophen-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter14-DDInter402"
+    },
+    "clobetasol-acetaminophen": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter14"
+    },
     "acetaminophen-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -295520,6 +295090,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter766-DDInter78"
     },
+    "methadone-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1166-DDInter402"
+    },
+    "clobetasol-methadone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1166"
+    },
     "methadone-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -295549,6 +295129,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1853-DDInter1326"
+    },
+    "olanzapine-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1326-DDInter402"
+    },
+    "clobetasol-olanzapine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1326"
     },
     "olanzapine-fluticasone": {
       "nivo": "Srednji",
@@ -295700,6 +295290,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter736-DDInter343"
     },
+    "cetirizine-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter343-DDInter402"
+    },
+    "clobetasol-cetirizine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter343"
+    },
     "cetirizine-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -295779,6 +295379,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1853-DDInter1230"
+    },
+    "mirtazapine-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1230-DDInter402"
+    },
+    "clobetasol-mirtazapine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1230"
     },
     "mirtazapine-fluticasone": {
       "nivo": "Srednji",
@@ -295880,6 +295490,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter736-DDInter54"
     },
+    "alprazolam-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter54-DDInter402"
+    },
+    "clobetasol-alprazolam": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter54"
+    },
     "alprazolam-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -295909,6 +295529,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1735-DDInter1505"
+    },
+    "pramipexole-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1505-DDInter402"
+    },
+    "clobetasol-pramipexole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1505"
     },
     "pramipexole-fluticasone": {
       "nivo": "Srednji",
@@ -296019,6 +295649,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter913-DDInter1970"
+    },
+    "zolpidem-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1970-DDInter402"
+    },
+    "clobetasol-zolpidem": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1970"
     },
     "zolpidem-fluticasone": {
       "nivo": "Srednji",
@@ -296480,6 +296120,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter736-DDInter1064"
     },
+    "levothyroxine-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1064-DDInter402"
+    },
+    "clobetasol-levothyroxine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1064"
+    },
     "levothyroxine-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -296529,6 +296179,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1191-DDInter1091"
+    },
+    "loratadine-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1091-DDInter402"
+    },
+    "clobetasol-loratadine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1091"
     },
     "loratadine-fluticasone": {
       "nivo": "Srednji",
@@ -296599,6 +296259,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1191-DDInter758"
+    },
+    "fluoxetine-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter758-DDInter402"
+    },
+    "clobetasol-fluoxetine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter758"
     },
     "fluoxetine-fluticasone": {
       "nivo": "Srednji",
@@ -297520,6 +297190,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1735-DDInter1366"
     },
+    "oxycodone-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1366-DDInter402"
+    },
+    "clobetasol-oxycodone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1366"
+    },
     "oxycodone-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -297569,6 +297249,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1768-DDInter1607"
+    },
+    "ritonavir-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1607-DDInter402"
+    },
+    "clobetasol-ritonavir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1607"
     },
     "oxaliplatin-fluticasone": {
       "nivo": "Srednji",
@@ -297730,6 +297420,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter736-DDInter384"
     },
+    "ciprofloxacin-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter384-DDInter402"
+    },
+    "clobetasol-ciprofloxacin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter384"
+    },
     "vincristine-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -297819,6 +297519,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1174-DDInter1468"
+    },
+    "methotrexate-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1174-DDInter402"
+    },
+    "clobetasol-methotrexate": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1174"
     },
     "methotrexate-fluticasone": {
       "nivo": "Srednji",
@@ -298920,6 +298630,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter893-DDInter537"
     },
+    "diclofenac-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter537-DDInter402"
+    },
+    "clobetasol-diclofenac": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter537"
+    },
     "diclofenac-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -298989,6 +298709,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1853-DDInter1775"
+    },
+    "testosterone-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1775-DDInter402"
+    },
+    "clobetasol-testosterone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1775"
     },
     "testosterone-fluticasone": {
       "nivo": "Srednji",
@@ -299150,6 +298880,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter736-DDInter42"
     },
+    "alendronic acid-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter42-DDInter402"
+    },
+    "clobetasol-alendronic acid": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter42"
+    },
     "alendronic acid-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -299300,6 +299040,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1853-DDInter1821"
     },
+    "tizanidine-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1821-DDInter402"
+    },
+    "clobetasol-tizanidine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1821"
+    },
     "tizanidine-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -299339,6 +299089,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1735-DDInter1303"
+    },
+    "nitrofurantoin-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1303-DDInter402"
+    },
+    "clobetasol-nitrofurantoin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1303"
     },
     "nitrofurantoin-fluticasone": {
       "nivo": "Srednji",
@@ -299400,6 +299160,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1191-DDInter1019"
     },
+    "lamivudine-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1019-DDInter402"
+    },
+    "clobetasol-lamivudine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1019"
+    },
     "lamivudine-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -299449,6 +299219,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1735-DDInter1397"
+    },
+    "paroxetine-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1397-DDInter402"
+    },
+    "clobetasol-paroxetine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1397"
     },
     "paroxetine-fluticasone": {
       "nivo": "Srednji",
@@ -299509,6 +299289,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1853-DDInter1605"
+    },
+    "risperidone-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1605-DDInter402"
+    },
+    "clobetasol-risperidone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1605"
     },
     "risperidone-fluticasone": {
       "nivo": "Srednji",
@@ -299579,6 +299369,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter736-DDInter699"
+    },
+    "etodolac-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter699-DDInter402"
+    },
+    "clobetasol-etodolac": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter699"
     },
     "etodolac-fluticasone": {
       "nivo": "Srednji",
@@ -299800,6 +299600,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter118-DDInter1853"
     },
+    "tretinoin-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1853-DDInter402"
+    },
+    "clobetasol-tretinoin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1853"
+    },
     "tretinoin-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -299980,6 +299790,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter736-DDInter679"
     },
+    "estradiol-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter679-DDInter402"
+    },
+    "clobetasol-estradiol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter679"
+    },
     "estradiol-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -300099,6 +299919,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter736-DDInter1266"
+    },
+    "naproxen-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1266-DDInter402"
+    },
+    "clobetasol-naproxen": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1266"
     },
     "naproxen-fluticasone": {
       "nivo": "Srednji",
@@ -300350,6 +300180,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter736-DDInter722"
     },
+    "fentanyl-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter722-DDInter402"
+    },
+    "clobetasol-fentanyl": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter722"
+    },
     "fentanyl-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -300479,6 +300319,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter736-DDInter534"
+    },
+    "diazepam-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter534-DDInter402"
+    },
+    "clobetasol-diazepam": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter534"
     },
     "diazepam-fluticasone": {
       "nivo": "Srednji",
@@ -300980,6 +300830,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1797-DDInter1735"
     },
+    "tacrolimus-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1735-DDInter402"
+    },
+    "clobetasol-tacrolimus": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1735"
+    },
     "tacrolimus-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -301209,6 +301069,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter736-DDInter732"
+    },
+    "fexofenadine-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter732-DDInter402"
+    },
+    "clobetasol-fexofenadine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter732"
     },
     "fexofenadine-fluticasone": {
       "nivo": "Srednji",
@@ -301820,6 +301690,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1797-DDInter1191"
     },
+    "methylprednisolone-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1191-DDInter402"
+    },
+    "clobetasol-methylprednisolone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1191"
+    },
     "methylprednisolone-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -302170,6 +302050,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1008-DDInter791"
     },
+    "gabapentin-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter791-DDInter402"
+    },
+    "clobetasol-gabapentin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter791"
+    },
     "gabapentin-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -302249,6 +302139,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter736-DDInter596"
+    },
+    "doxorubicin-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter596-DDInter402"
+    },
+    "clobetasol-doxorubicin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter596"
     },
     "doxorubicin-fluticasone": {
       "nivo": "Srednji",
@@ -302369,6 +302269,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter736-DDInter1632"
+    },
+    "salbutamol-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1632-DDInter402"
+    },
+    "clobetasol-salbutamol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1632"
     },
     "letrozole-fluticasone": {
       "nivo": "Srednji",
@@ -302570,6 +302480,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1767-DDInter1008"
     },
+    "ketoconazole-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1008-DDInter402"
+    },
+    "clobetasol-ketoconazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1008"
+    },
     "pimecrolimus-tolterodine": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -302579,6 +302499,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1832-DDInter1468"
+    },
+    "tolterodine-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1832-DDInter402"
+    },
+    "clobetasol-tolterodine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1832"
     },
     "tolterodine-fluticasone": {
       "nivo": "Srednji",
@@ -302599,6 +302529,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1789-DDInter1853"
+    },
+    "thalidomide-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1789-DDInter402"
+    },
+    "clobetasol-thalidomide": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1789"
     },
     "thalidomide-fluticasone": {
       "nivo": "Srednji",
@@ -302699,6 +302639,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter398-DDInter1"
+    },
+    "abacavir-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1-DDInter402"
+    },
+    "clobetasol-abacavir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1"
     },
     "abacavir-fluticasone": {
       "nivo": "Srednji",
@@ -302820,6 +302770,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter736-DDInter411"
     },
+    "clonazepam-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter411-DDInter402"
+    },
+    "clobetasol-clonazepam": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter411"
+    },
     "clonazepam-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -302900,6 +302860,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1465-DDInter1853"
     },
+    "pilocarpine-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1465-DDInter402"
+    },
+    "clobetasol-pilocarpine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1465"
+    },
     "pilocarpine-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -302909,6 +302879,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter766-DDInter1465"
+    },
+    "leflunomide-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1033-DDInter402"
+    },
+    "clobetasol-leflunomide": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1033"
     },
     "leflunomide-fluticasone": {
       "nivo": "Srednji",
@@ -302949,6 +302929,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1662-DDInter1853"
+    },
+    "sertraline-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1662-DDInter402"
+    },
+    "clobetasol-sertraline": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1662"
     },
     "sertraline-fluticasone": {
       "nivo": "Srednji",
@@ -303039,6 +303029,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter398-DDInter335"
+    },
+    "cefuroxime-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter335-DDInter402"
+    },
+    "clobetasol-cefuroxime": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter335"
     },
     "cefuroxime-fluticasone": {
       "nivo": "Srednji",
@@ -303219,6 +303219,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1325-DDInter1768"
+    },
+    "ofloxacin-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1325-DDInter402"
+    },
+    "clobetasol-ofloxacin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1325"
     },
     "ofloxacin-fluticasone": {
       "nivo": "Srednji",
@@ -304149,6 +304159,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter893-DDInter398"
+    },
+    "clindamycin-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter398-DDInter402"
+    },
+    "clobetasol-clindamycin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter398"
     },
     "clindamycin-fluticasone": {
       "nivo": "Srednji",
@@ -305240,6 +305260,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1553-DDInter1768"
     },
+    "quetiapine-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1553-DDInter402"
+    },
+    "clobetasol-quetiapine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1553"
+    },
     "quetiapine-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -305289,6 +305319,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter410-DDInter736"
+    },
+    "clomipramine-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter410-DDInter402"
+    },
+    "clobetasol-clomipramine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter410"
     },
     "gentamicin-docetaxel": {
       "nivo": "Srednji",
@@ -305550,6 +305590,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter893-DDInter1191"
     },
+    "hydroxychloroquine-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter893-DDInter402"
+    },
+    "clobetasol-hydroxychloroquine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter893"
+    },
     "hydroxychloroquine-fluticasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -305659,6 +305709,96 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter766-DDInter19"
+    },
+    "bortezomib-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter222-DDInter402"
+    },
+    "clobetasol-bortezomib": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter222"
+    },
+    "adapalene-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter28-DDInter402"
+    },
+    "clobetasol-adapalene": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter28"
+    },
+    "pimecrolimus-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1468-DDInter402"
+    },
+    "clobetasol-pimecrolimus": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1468"
+    },
+    "zoledronic acid-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1968-DDInter402"
+    },
+    "clobetasol-zoledronic acid": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1968"
+    },
+    "allopurinol-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter48-DDInter402"
+    },
+    "clobetasol-allopurinol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter48"
+    },
+    "montelukast-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1242-DDInter402"
+    },
+    "clobetasol-montelukast": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1242"
+    },
+    "duloxetine-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter608-DDInter402"
+    },
+    "clobetasol-duloxetine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter608"
+    },
+    "desloratadine-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter506-DDInter402"
+    },
+    "clobetasol-desloratadine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter506"
+    },
+    "clobetasol-fluticasone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter766"
+    },
+    "fluticasone-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter766-DDInter402"
     },
     "bortezomib-fluticasone": {
       "nivo": "Srednji",
@@ -317069,16 +317209,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1971-DDInter1366"
-    },
-    "silodosin-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1667-DDInter1031"
-    },
-    "ledipasvir-silodosin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1031-DDInter1667"
     },
     "levonorgestrel-ritonavir": {
       "nivo": "Srednji",
@@ -353260,46 +353390,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter1946-DDInter1366"
     },
-    "afatinib-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter32-DDInter1031"
-    },
-    "ledipasvir-afatinib": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1031-DDInter32"
-    },
-    "ledipasvir-alpelisib": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1031-DDInter53"
-    },
-    "alpelisib-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter53-DDInter1031"
-    },
-    "cobimetinib-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter425-DDInter1031"
-    },
-    "ledipasvir-cobimetinib": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1031-DDInter425"
-    },
-    "colchicine-ledipasvir": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter431-DDInter1031"
-    },
-    "ledipasvir-colchicine": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1031-DDInter431"
-    },
     "enzalutamide-sofosbuvir": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -353309,76 +353399,6 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter1695-DDInter649"
-    },
-    "erlotinib-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter667-DDInter1031"
-    },
-    "ledipasvir-erlotinib": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1031-DDInter667"
-    },
-    "etoposide-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter702-DDInter1031"
-    },
-    "ledipasvir-etoposide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1031-DDInter702"
-    },
-    "everolimus-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter704-DDInter1031"
-    },
-    "ledipasvir-everolimus": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1031-DDInter704"
-    },
-    "fexofenadine-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter732-DDInter1031"
-    },
-    "ledipasvir-fexofenadine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1031-DDInter732"
-    },
-    "indacaterol-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter915-DDInter1031"
-    },
-    "ledipasvir-indacaterol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter1031-DDInter915"
-    },
-    "lapatinib-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1024-DDInter1031"
-    },
-    "ledipasvir-lapatinib": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1031-DDInter1024"
-    },
-    "lenalidomide-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1035-DDInter1031"
-    },
-    "ledipasvir-lenalidomide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1031-DDInter1035"
     },
     "sofosbuvir-lorlatinib": {
       "nivo": "Visok",
@@ -353390,16 +353410,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter1094-DDInter1695"
     },
-    "maraviroc-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1125-DDInter1031"
-    },
-    "ledipasvir-maraviroc": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1031-DDInter1125"
-    },
     "modafinil-sofosbuvir": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -353409,16 +353419,6 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter1695-DDInter1236"
-    },
-    "nilotinib-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1293-DDInter1031"
-    },
-    "ledipasvir-nilotinib": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1031-DDInter1293"
     },
     "oxcarbazepine-sofosbuvir": {
       "nivo": "Visok",
@@ -353430,16 +353430,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter1695-DDInter1360"
     },
-    "posaconazole-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1494-DDInter1031"
-    },
-    "ledipasvir-posaconazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1031-DDInter1494"
-    },
     "rifampicin-sofosbuvir": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -353449,66 +353439,6 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter1695-DDInter1590"
-    },
-    "ledipasvir-rimegepant": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1031-DDInter1598"
-    },
-    "rimegepant-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1598-DDInter1031"
-    },
-    "sirolimus-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1678-DDInter1031"
-    },
-    "ledipasvir-sirolimus": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1031-DDInter1678"
-    },
-    "ledipasvir-sodium zirconium cyclosilicate": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1031-DDInter1694"
-    },
-    "sodium zirconium cyclosilicate-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1694-DDInter1031"
-    },
-    "ledipasvir-talazoparib": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1031-DDInter1742"
-    },
-    "talazoparib-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1742-DDInter1031"
-    },
-    "teriflunomide-ledipasvir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1771-DDInter1031"
-    },
-    "ledipasvir-teriflunomide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1031-DDInter1771"
-    },
-    "ledipasvir-venetoclax": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1031-DDInter1926"
-    },
-    "venetoclax-ledipasvir": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1926-DDInter1031"
     },
     "ritonavir-aminophylline": {
       "nivo": "Srednji",
@@ -360399,16 +360329,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1313-DDInter1969"
-    },
-    "valganciclovir-obinutuzumab": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1912-DDInter1320"
-    },
-    "obinutuzumab-valganciclovir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1320-DDInter1912"
     },
     "ofloxacin-aminophylline": {
       "nivo": "Srednji",
@@ -384440,16 +384360,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter1293-DDInter27"
     },
-    "adalimumab-obinutuzumab": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter27-DDInter1320"
-    },
-    "obinutuzumab-adalimumab": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1320-DDInter27"
-    },
     "adalimumab-ocrelizumab": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -386979,16 +386889,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1293-DDInter41"
-    },
-    "alemtuzumab-obinutuzumab": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter41-DDInter1320"
-    },
-    "obinutuzumab-alemtuzumab": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1320-DDInter41"
     },
     "alemtuzumab-ocrelizumab": {
       "nivo": "Srednji",
@@ -393760,16 +393660,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1293-DDInter150"
     },
-    "azathioprine-obinutuzumab": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter150-DDInter1320"
-    },
-    "obinutuzumab-azathioprine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1320-DDInter150"
-    },
     "azathioprine-ocrelizumab": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -394799,16 +394689,6 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter165-DDInter1293"
-    },
-    "obinutuzumab-baricitinib": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1320-DDInter165"
-    },
-    "baricitinib-obinutuzumab": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter165-DDInter1320"
     },
     "baricitinib-ocrelizumab": {
       "nivo": "Visok",
@@ -403050,16 +402930,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter281-DDInter1293"
     },
-    "canakinumab-obinutuzumab": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter281-DDInter1320"
-    },
-    "obinutuzumab-canakinumab": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1320-DDInter281"
-    },
     "canakinumab-ocrelizumab": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -408000,16 +407870,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter1293-DDInter392"
     },
-    "cladribine-obinutuzumab": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter392-DDInter1320"
-    },
-    "obinutuzumab-cladribine": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1320-DDInter392"
-    },
     "cladribine-ocrelizumab": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -409249,16 +409109,6 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter1293-DDInter419"
-    },
-    "clozapine-obinutuzumab": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter419-DDInter1320"
-    },
-    "obinutuzumab-clozapine": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1320-DDInter419"
     },
     "clozapine-ofatumumab": {
       "nivo": "Visok",
@@ -415540,16 +415390,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter500-DDInter1293"
     },
-    "denosumab-obinutuzumab": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter500-DDInter1320"
-    },
-    "obinutuzumab-denosumab": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1320-DDInter500"
-    },
     "denosumab-ocrelizumab": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -416529,16 +416369,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter564-DDInter1293"
-    },
-    "dimethyl fumarate-obinutuzumab": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter564-DDInter1320"
-    },
-    "obinutuzumab-dimethyl fumarate": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1320-DDInter564"
     },
     "dimethyl fumarate-ocrelizumab": {
       "nivo": "Srednji",
@@ -429770,16 +429600,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter1296-DDInter1033"
     },
-    "leflunomide-obinutuzumab": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1033-DDInter1320"
-    },
-    "obinutuzumab-leflunomide": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1320-DDInter1033"
-    },
     "leflunomide-ocrelizumab": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -433510,16 +433330,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter1293-DDInter1268"
     },
-    "natalizumab-obinutuzumab": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1268-DDInter1320"
-    },
-    "obinutuzumab-natalizumab": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1320-DDInter1268"
-    },
     "natalizumab-ocrelizumab": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -434619,156 +434429,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1926-DDInter1296"
-    },
-    "etanercept-obinutuzumab": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter687-DDInter1320"
-    },
-    "obinutuzumab-etanercept": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1320-DDInter687"
-    },
-    "filgrastim-obinutuzumab": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter735-DDInter1320"
-    },
-    "obinutuzumab-filgrastim": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1320-DDInter735"
-    },
-    "fingolimod-obinutuzumab": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter737-DDInter1320"
-    },
-    "obinutuzumab-fingolimod": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1320-DDInter737"
-    },
-    "golimumab-obinutuzumab": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter837-DDInter1320"
-    },
-    "obinutuzumab-golimumab": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1320-DDInter837"
-    },
-    "infliximab-obinutuzumab": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter923-DDInter1320"
-    },
-    "obinutuzumab-infliximab": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1320-DDInter923"
-    },
-    "obinutuzumab-lactobacillus acidophilus": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1320-DDInter1017"
-    },
-    "lactobacillus acidophilus-obinutuzumab": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1017-DDInter1320"
-    },
-    "obinutuzumab-ocrelizumab": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1320-DDInter1321"
-    },
-    "ocrelizumab-obinutuzumab": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1321-DDInter1320"
-    },
-    "obinutuzumab-olaparib": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1320-DDInter1327"
-    },
-    "olaparib-obinutuzumab": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1327-DDInter1320"
-    },
-    "pegfilgrastim-obinutuzumab": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1405-DDInter1320"
-    },
-    "obinutuzumab-pegfilgrastim": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1320-DDInter1405"
-    },
-    "roflumilast-obinutuzumab": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1614-DDInter1320"
-    },
-    "obinutuzumab-roflumilast": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1320-DDInter1614"
-    },
-    "obinutuzumab-siponimod": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1320-DDInter1676"
-    },
-    "siponimod-obinutuzumab": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1676-DDInter1320"
-    },
-    "teriflunomide-obinutuzumab": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1771-DDInter1320"
-    },
-    "obinutuzumab-teriflunomide": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1320-DDInter1771"
-    },
-    "tofacitinib-obinutuzumab": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1825-DDInter1320"
-    },
-    "obinutuzumab-tofacitinib": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1320-DDInter1825"
-    },
-    "obinutuzumab-upadacitinib": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1320-DDInter1901"
-    },
-    "upadacitinib-obinutuzumab": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1901-DDInter1320"
-    },
-    "ustekinumab-obinutuzumab": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1907-DDInter1320"
-    },
-    "obinutuzumab-ustekinumab": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1320-DDInter1907"
     },
     "cytarabine-ocrelizumab": {
       "nivo": "Srednji",
@@ -514437,7 +514097,6 @@
     "talazoparib": "DDInter1742",
     "daptomycin": "DDInter477",
     "tigecycline": "DDInter1805",
-    "cromoglicic acid": "DDInter449",
     "ursodeoxycholic acid": "DDInter1906",
     "lacosamide": "DDInter1014",
     "grazoprevir": "DDInter841",
@@ -514445,7 +514104,6 @@
     "elexacaftor": "DDInter628",
     "lenalidomide": "DDInter1035",
     "pitavastatin": "DDInter1479",
-    "ledipasvir": "DDInter1031",
     "imiglucerase": "DDInter910",
     "miglustat": "DDInter1218",
     "guselkumab": "DDInter849",
@@ -514486,6 +514144,7 @@
     "finasteride": "DDInter736",
     "acenocoumarol": "DDInter13",
     "nitrazepam": "DDInter1301",
+    "clobetasol": "DDInter402",
     "pimecrolimus": "DDInter1468",
     "oseltamivir": "DDInter1350",
     "adapalene": "DDInter28",
@@ -514526,7 +514185,6 @@
     "azacitidine": "DDInter148",
     "daratumumab": "DDInter478",
     "trastuzumab deruxtecan": "DDInter1847",
-    "obinutuzumab": "DDInter1320",
     "ofatumumab": "DDInter1324",
     "aflibercept": "DDInter33",
     "trifluridine": "DDInter1868",
