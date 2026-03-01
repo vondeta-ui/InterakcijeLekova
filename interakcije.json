@@ -283460,6 +283460,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1303-DDInter351"
     },
+    "chloramphenicol-obinutuzumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter351-DDInter1320"
+    },
+    "obinutuzumab-chloramphenicol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1320-DDInter351"
+    },
     "chloramphenicol-ocrelizumab": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -360330,6 +360340,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1313-DDInter1969"
     },
+    "valganciclovir-obinutuzumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1912-DDInter1320"
+    },
+    "obinutuzumab-valganciclovir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1320-DDInter1912"
+    },
     "ofloxacin-aminophylline": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -384360,6 +384380,16 @@
       "opis": "Rizik: Major",
       "link": "DDInter1293-DDInter27"
     },
+    "adalimumab-obinutuzumab": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter27-DDInter1320"
+    },
+    "obinutuzumab-adalimumab": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1320-DDInter27"
+    },
     "adalimumab-ocrelizumab": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -386889,6 +386919,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1293-DDInter41"
+    },
+    "alemtuzumab-obinutuzumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter41-DDInter1320"
+    },
+    "obinutuzumab-alemtuzumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1320-DDInter41"
     },
     "alemtuzumab-ocrelizumab": {
       "nivo": "Srednji",
@@ -393660,6 +393700,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1293-DDInter150"
     },
+    "azathioprine-obinutuzumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter150-DDInter1320"
+    },
+    "obinutuzumab-azathioprine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1320-DDInter150"
+    },
     "azathioprine-ocrelizumab": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -394689,6 +394739,16 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter165-DDInter1293"
+    },
+    "obinutuzumab-baricitinib": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1320-DDInter165"
+    },
+    "baricitinib-obinutuzumab": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter165-DDInter1320"
     },
     "baricitinib-ocrelizumab": {
       "nivo": "Visok",
@@ -402930,6 +402990,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter281-DDInter1293"
     },
+    "canakinumab-obinutuzumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter281-DDInter1320"
+    },
+    "obinutuzumab-canakinumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1320-DDInter281"
+    },
     "canakinumab-ocrelizumab": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -407870,6 +407940,16 @@
       "opis": "Rizik: Major",
       "link": "DDInter1293-DDInter392"
     },
+    "cladribine-obinutuzumab": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter392-DDInter1320"
+    },
+    "obinutuzumab-cladribine": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1320-DDInter392"
+    },
     "cladribine-ocrelizumab": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -409109,6 +409189,16 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter1293-DDInter419"
+    },
+    "clozapine-obinutuzumab": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter419-DDInter1320"
+    },
+    "obinutuzumab-clozapine": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1320-DDInter419"
     },
     "clozapine-ofatumumab": {
       "nivo": "Visok",
@@ -415390,6 +415480,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter500-DDInter1293"
     },
+    "denosumab-obinutuzumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter500-DDInter1320"
+    },
+    "obinutuzumab-denosumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1320-DDInter500"
+    },
     "denosumab-ocrelizumab": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -416369,6 +416469,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter564-DDInter1293"
+    },
+    "dimethyl fumarate-obinutuzumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter564-DDInter1320"
+    },
+    "obinutuzumab-dimethyl fumarate": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1320-DDInter564"
     },
     "dimethyl fumarate-ocrelizumab": {
       "nivo": "Srednji",
@@ -429600,6 +429710,16 @@
       "opis": "Rizik: Major",
       "link": "DDInter1296-DDInter1033"
     },
+    "leflunomide-obinutuzumab": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1033-DDInter1320"
+    },
+    "obinutuzumab-leflunomide": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1320-DDInter1033"
+    },
     "leflunomide-ocrelizumab": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -433330,6 +433450,16 @@
       "opis": "Rizik: Major",
       "link": "DDInter1293-DDInter1268"
     },
+    "natalizumab-obinutuzumab": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1268-DDInter1320"
+    },
+    "obinutuzumab-natalizumab": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1320-DDInter1268"
+    },
     "natalizumab-ocrelizumab": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -434429,6 +434559,156 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1926-DDInter1296"
+    },
+    "etanercept-obinutuzumab": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter687-DDInter1320"
+    },
+    "obinutuzumab-etanercept": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1320-DDInter687"
+    },
+    "filgrastim-obinutuzumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter735-DDInter1320"
+    },
+    "obinutuzumab-filgrastim": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1320-DDInter735"
+    },
+    "fingolimod-obinutuzumab": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter737-DDInter1320"
+    },
+    "obinutuzumab-fingolimod": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1320-DDInter737"
+    },
+    "golimumab-obinutuzumab": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter837-DDInter1320"
+    },
+    "obinutuzumab-golimumab": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1320-DDInter837"
+    },
+    "infliximab-obinutuzumab": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter923-DDInter1320"
+    },
+    "obinutuzumab-infliximab": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1320-DDInter923"
+    },
+    "obinutuzumab-lactobacillus acidophilus": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1320-DDInter1017"
+    },
+    "lactobacillus acidophilus-obinutuzumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1017-DDInter1320"
+    },
+    "obinutuzumab-ocrelizumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1320-DDInter1321"
+    },
+    "ocrelizumab-obinutuzumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1321-DDInter1320"
+    },
+    "obinutuzumab-olaparib": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1320-DDInter1327"
+    },
+    "olaparib-obinutuzumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1327-DDInter1320"
+    },
+    "pegfilgrastim-obinutuzumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1405-DDInter1320"
+    },
+    "obinutuzumab-pegfilgrastim": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1320-DDInter1405"
+    },
+    "roflumilast-obinutuzumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1614-DDInter1320"
+    },
+    "obinutuzumab-roflumilast": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1320-DDInter1614"
+    },
+    "obinutuzumab-siponimod": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1320-DDInter1676"
+    },
+    "siponimod-obinutuzumab": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1676-DDInter1320"
+    },
+    "teriflunomide-obinutuzumab": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1771-DDInter1320"
+    },
+    "obinutuzumab-teriflunomide": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1320-DDInter1771"
+    },
+    "tofacitinib-obinutuzumab": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1825-DDInter1320"
+    },
+    "obinutuzumab-tofacitinib": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1320-DDInter1825"
+    },
+    "obinutuzumab-upadacitinib": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1320-DDInter1901"
+    },
+    "upadacitinib-obinutuzumab": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1901-DDInter1320"
+    },
+    "ustekinumab-obinutuzumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1907-DDInter1320"
+    },
+    "obinutuzumab-ustekinumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1320-DDInter1907"
     },
     "cytarabine-ocrelizumab": {
       "nivo": "Srednji",
@@ -514185,6 +514465,7 @@
     "azacitidine": "DDInter148",
     "daratumumab": "DDInter478",
     "trastuzumab deruxtecan": "DDInter1847",
+    "obinutuzumab": "DDInter1320",
     "ofatumumab": "DDInter1324",
     "aflibercept": "DDInter33",
     "trifluridine": "DDInter1868",
