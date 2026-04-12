@@ -1710,16 +1710,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter672-DDInter712"
     },
-    "etodolac-famotidine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter699-DDInter712"
-    },
-    "famotidine-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter712-DDInter699"
-    },
     "famotidine-fingolimod": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -6340,16 +6330,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter885-DDInter687"
     },
-    "hydrocortisone-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter885-DDInter699"
-    },
-    "etodolac-hydrocortisone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter885"
-    },
     "hydrocortisone-felodipine": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -8979,16 +8959,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter679-DDInter1164"
-    },
-    "metformin-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1164-DDInter699"
-    },
-    "etodolac-metformin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1164"
     },
     "metformin-everolimus": {
       "nivo": "Srednji",
@@ -18030,16 +18000,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter647-DDInter1158"
     },
-    "mesalazine-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1158-DDInter699"
-    },
-    "etodolac-mesalazine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1158"
-    },
     "mesalazine-flurbiprofen": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -18919,16 +18879,6 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter1855-DDInter687"
-    },
-    "triamcinolone-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1855-DDInter699"
-    },
-    "etodolac-triamcinolone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1855"
     },
     "triamcinolone-felodipine": {
       "nivo": "Srednji",
@@ -21579,16 +21529,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Minor",
       "link": "DDInter20-DDInter676"
-    },
-    "etodolac-acetylsalicylic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter20"
-    },
-    "acetylsalicylic acid-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter20-DDInter699"
     },
     "acetylsalicylic acid-felodipine": {
       "nivo": "Srednji",
@@ -24820,16 +24760,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter513-DDInter687"
     },
-    "etodolac-dexamethasone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter513"
-    },
-    "dexamethasone-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter513-DDInter699"
-    },
     "dexamethasone-everolimus": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -26630,16 +26560,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter195-DDInter687"
     },
-    "betamethasone-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter195-DDInter699"
-    },
-    "etodolac-betamethasone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter195"
-    },
     "betamethasone-felodipine": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -27669,116 +27589,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter204-DDInter1675"
-    },
-    "aprepitant-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter112-DDInter205"
-    },
-    "bictegravir-aprepitant": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter112"
-    },
-    "calcium carbonate-bictegravir": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter271-DDInter205"
-    },
-    "bictegravir-calcium carbonate": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter205-DDInter271"
-    },
-    "calcium gluconate-bictegravir": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter276-DDInter205"
-    },
-    "bictegravir-calcium gluconate": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter205-DDInter276"
-    },
-    "clarithromycin-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter393-DDInter205"
-    },
-    "bictegravir-clarithromycin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter393"
-    },
-    "dexamethasone-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter513-DDInter205"
-    },
-    "bictegravir-dexamethasone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter513"
-    },
-    "eliglustat-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter629-DDInter205"
-    },
-    "bictegravir-eliglustat": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter629"
-    },
-    "magaldrate-bictegravir": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1112-DDInter205"
-    },
-    "bictegravir-magaldrate": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter205-DDInter1112"
-    },
-    "magnesium chloride-bictegravir": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1114-DDInter205"
-    },
-    "bictegravir-magnesium chloride": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter205-DDInter1114"
-    },
-    "pioglitazone-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1472-DDInter205"
-    },
-    "bictegravir-pioglitazone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter1472"
-    },
-    "prednisolone-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1513-DDInter205"
-    },
-    "bictegravir-prednisolone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter1513"
-    },
-    "prednisone-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1515-DDInter205"
-    },
-    "bictegravir-prednisone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter1515"
     },
     "biperiden-metoclopramide": {
       "nivo": "Srednji",
@@ -30479,16 +30289,6 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter246-DDInter687"
-    },
-    "etodolac-budesonide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter246"
-    },
-    "budesonide-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter246-DDInter699"
     },
     "felodipine-budesonide": {
       "nivo": "Srednji",
@@ -47410,16 +47210,6 @@
       "opis": "Rizik: Minor",
       "link": "DDInter676-DDInter825"
     },
-    "glimepiride-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter825-DDInter699"
-    },
-    "etodolac-glimepiride": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter825"
-    },
     "glimepiride-everolimus": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -48259,16 +48049,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1581-DDInter577"
-    },
-    "etodolac-repaglinide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1581"
-    },
-    "repaglinide-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1581-DDInter699"
     },
     "repaglinide-heparin": {
       "nivo": "Srednji",
@@ -50619,16 +50399,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1916-DDInter647"
-    },
-    "vancomycin-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1916-DDInter699"
-    },
-    "etodolac-vancomycin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1916"
     },
     "vancomycin-everolimus": {
       "nivo": "Visok",
@@ -54740,16 +54510,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1263-DDInter667"
     },
-    "naltrexone-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1263-DDInter699"
-    },
-    "etodolac-naltrexone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1263"
-    },
     "naltrexone-febuxostat": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -56179,16 +55939,6 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter672-DDInter1055"
-    },
-    "etodolac-levofloxacin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1055"
-    },
-    "levofloxacin-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1055-DDInter699"
     },
     "etoposide-levofloxacin": {
       "nivo": "Srednji",
@@ -62860,16 +62610,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter1515-DDInter687"
     },
-    "prednisone-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1515-DDInter699"
-    },
-    "etodolac-prednisone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1515"
-    },
     "prednisone-felodipine": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -65220,16 +64960,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter648-DDInter1725"
     },
-    "etodolac-sulfasalazine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1725"
-    },
-    "sulfasalazine-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1725-DDInter699"
-    },
     "flurbiprofen-sulfasalazine": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -65930,16 +65660,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter1497-DDInter656"
     },
-    "etodolac-potassium chloride": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1497"
-    },
-    "potassium chloride-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1497-DDInter699"
-    },
     "fluphenazine-potassium chloride": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -66209,16 +65929,6 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter1513-DDInter687"
-    },
-    "etodolac-prednisolone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1513"
-    },
-    "prednisolone-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1513-DDInter699"
     },
     "clotrimazole-everolimus": {
       "nivo": "Srednji",
@@ -68369,16 +68079,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1236-DDInter268"
-    },
-    "calcitriol-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter268-DDInter699"
-    },
-    "etodolac-calcitriol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter268"
     },
     "calcitriol-tretinoin": {
       "nivo": "Srednji",
@@ -75550,16 +75250,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1236-DDInter598"
     },
-    "doxycycline-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter598-DDInter699"
-    },
-    "etodolac-doxycycline": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter598"
-    },
     "doxycycline-potassium chloride": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -76999,16 +76689,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter885-DDInter416"
-    },
-    "clotrimazole-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter416-DDInter699"
-    },
-    "etodolac-clotrimazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter416"
     },
     "clotrimazole-potassium chloride": {
       "nivo": "Srednji",
@@ -106260,156 +105940,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter272-DDInter1236"
     },
-    "pantoprazole-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1388-DDInter699"
-    },
-    "etodolac-pantoprazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1388"
-    },
-    "morphine-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1244-DDInter699"
-    },
-    "etodolac-morphine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1244"
-    },
-    "omeprazole-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1340-DDInter699"
-    },
-    "etodolac-omeprazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1340"
-    },
-    "lansoprazole-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1022-DDInter699"
-    },
-    "etodolac-lansoprazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1022"
-    },
-    "lactulose-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1018-DDInter699"
-    },
-    "etodolac-lactulose": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1018"
-    },
-    "simvastatin-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1675-DDInter699"
-    },
-    "etodolac-simvastatin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1675"
-    },
-    "nystatin-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1318-DDInter699"
-    },
-    "etodolac-nystatin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1318"
-    },
-    "etodolac-granisetron": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter840"
-    },
-    "granisetron-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter840-DDInter699"
-    },
-    "etodolac-ondansetron": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1342"
-    },
-    "ondansetron-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1342-DDInter699"
-    },
-    "etodolac-rosuvastatin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1622"
-    },
-    "rosuvastatin-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1622-DDInter699"
-    },
-    "etodolac-rabeprazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1559"
-    },
-    "rabeprazole-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1559-DDInter699"
-    },
-    "etodolac-pioglitazone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1472"
-    },
-    "pioglitazone-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1472-DDInter699"
-    },
-    "etodolac-clarithromycin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter393"
-    },
-    "clarithromycin-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter393-DDInter699"
-    },
-    "etodolac-metoclopramide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1197"
-    },
-    "metoclopramide-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1197-DDInter699"
-    },
-    "etodolac-ursodeoxycholic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1906"
-    },
-    "ursodeoxycholic acid-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1906-DDInter699"
-    },
     "vancomycin-tretinoin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -127330,16 +126860,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter83-DDInter1236"
     },
-    "etodolac-amoxicillin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter83"
-    },
-    "amoxicillin-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter83-DDInter699"
-    },
     "tretinoin-amoxicillin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -133859,16 +133379,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter252-DDInter1236"
-    },
-    "etodolac-bupropion": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter252"
-    },
-    "bupropion-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter252-DDInter699"
     },
     "tretinoin-bupropion": {
       "nivo": "Srednji",
@@ -146130,16 +145640,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter672-DDInter56"
     },
-    "alteplase-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter56-DDInter699"
-    },
-    "etodolac-alteplase": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter56"
-    },
     "alteplase-fluoxetine": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -147159,16 +146659,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter108-DDInter687"
-    },
-    "etodolac-apixaban": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter699-DDInter108"
-    },
-    "apixaban-etodolac": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter108-DDInter699"
     },
     "felodipine-apixaban": {
       "nivo": "Srednji",
@@ -148219,36 +147709,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Minor",
       "link": "DDInter204-DDInter1951"
-    },
-    "eltrombopag-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter631-DDInter205"
-    },
-    "bictegravir-eltrombopag": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter631"
-    },
-    "bictegravir-ferrous fumarate": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter205-DDInter725"
-    },
-    "ferrous fumarate-bictegravir": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter725-DDInter205"
-    },
-    "ticagrelor-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1802-DDInter205"
-    },
-    "bictegravir-ticagrelor": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter1802"
     },
     "bisoprolol-selexipag": {
       "nivo": "Srednji",
@@ -149760,16 +149220,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter672-DDInter379"
     },
-    "etodolac-cilostazol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter379"
-    },
-    "cilostazol-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter379-DDInter699"
-    },
     "cilostazol-fingolimod": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -151000,16 +150450,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter672-DDInter413"
     },
-    "etodolac-clopidogrel": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter413"
-    },
-    "clopidogrel-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter413-DDInter699"
-    },
     "fluconazole-clopidogrel": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -151699,16 +151139,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter470-DDInter672"
-    },
-    "etodolac-dalteparin": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter699-DDInter470"
-    },
-    "dalteparin-etodolac": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter470-DDInter699"
     },
     "fluoxetine-dalteparin": {
       "nivo": "Srednji",
@@ -152759,16 +152189,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter621-DDInter672"
-    },
-    "etodolac-edoxaban": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter699-DDInter621"
-    },
-    "edoxaban-etodolac": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter621-DDInter699"
     },
     "felodipine-edoxaban": {
       "nivo": "Visok",
@@ -154690,16 +154110,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1951-DDInter687"
     },
-    "warfarin-etodolac": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1951-DDInter699"
-    },
-    "etodolac-warfarin": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter699-DDInter1951"
-    },
     "warfarin-etoposide": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -156470,16 +155880,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1508-DDInter672"
     },
-    "etodolac-prasugrel": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter699-DDInter1508"
-    },
-    "prasugrel-etodolac": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1508-DDInter699"
-    },
     "fluoxetine-prasugrel": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -156979,16 +156379,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1609-DDInter687"
-    },
-    "etodolac-rivaroxaban": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter699-DDInter1609"
-    },
-    "rivaroxaban-etodolac": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1609-DDInter699"
     },
     "felodipine-rivaroxaban": {
       "nivo": "Srednji",
@@ -157810,16 +157200,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter672-DDInter1764"
     },
-    "tenecteplase-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1764-DDInter699"
-    },
-    "etodolac-tenecteplase": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1764"
-    },
     "tenecteplase-fluoxetine": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -157989,16 +157369,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1802-DDInter672"
-    },
-    "etodolac-ticagrelor": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1802"
-    },
-    "ticagrelor-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1802-DDInter699"
     },
     "everolimus-ticagrelor": {
       "nivo": "Srednji",
@@ -158300,16 +157670,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter645-DDInter672"
     },
-    "etodolac-enoxaparin": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter699-DDInter645"
-    },
-    "enoxaparin-etodolac": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter645-DDInter699"
-    },
     "flurbiprofen-enoxaparin": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -158409,26 +157769,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter672-DDInter856"
-    },
-    "fondaparinux-etodolac": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter775-DDInter699"
-    },
-    "etodolac-fondaparinux": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter699-DDInter775"
-    },
-    "etodolac-heparin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter856"
-    },
-    "heparin-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter856-DDInter699"
     },
     "fluoxetine-fondaparinux": {
       "nivo": "Srednji",
@@ -159399,16 +158739,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1236-DDInter451"
-    },
-    "cyanocobalamin-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter451-DDInter699"
-    },
-    "etodolac-cyanocobalamin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter451"
     },
     "cyanocobalamin-olopatadine": {
       "nivo": "Srednji",
@@ -164089,16 +163419,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter13-DDInter1605"
-    },
-    "folic acid-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter771-DDInter699"
-    },
-    "etodolac-folic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter771"
     },
     "warfarin-tretinoin": {
       "nivo": "Srednji",
@@ -173440,16 +172760,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1291-DDInter687"
     },
-    "etodolac-nifedipine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1291"
-    },
-    "nifedipine-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1291-DDInter699"
-    },
     "nifedipine-fingolimod": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -175079,16 +174389,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter672-DDInter900"
-    },
-    "etodolac-ibuprofen": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter900"
-    },
-    "ibuprofen-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter900-DDInter699"
     },
     "ibuprofen-everolimus": {
       "nivo": "Visok",
@@ -177750,16 +177050,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter672-DDInter883"
     },
-    "etodolac-hydrochlorothiazide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter883"
-    },
-    "hydrochlorothiazide-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter883-DDInter699"
-    },
     "fluorouracil-hydrochlorothiazide": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -179599,16 +178889,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter672-DDInter68"
-    },
-    "amiloride-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter68-DDInter699"
-    },
-    "etodolac-amiloride": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter68"
     },
     "fluoxetine-amiloride": {
       "nivo": "Srednji",
@@ -183110,16 +182390,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter79-DDInter687"
     },
-    "amlodipine-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter79-DDInter699"
-    },
-    "etodolac-amlodipine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter79"
-    },
     "amlodipine-everolimus": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -186380,16 +185650,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter665-DDInter130"
     },
-    "atenolol-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter130-DDInter699"
-    },
-    "etodolac-atenolol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter130"
-    },
     "atenolol-felodipine": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -188780,106 +188040,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter204-DDInter1736"
     },
-    "amiodarone-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter76-DDInter205"
-    },
-    "bictegravir-amiodarone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter76"
-    },
-    "bosentan-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter223-DDInter205"
-    },
-    "bictegravir-bosentan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter223"
-    },
-    "carvedilol-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter305-DDInter205"
-    },
-    "bictegravir-carvedilol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter305"
-    },
-    "diltiazem-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter561-DDInter205"
-    },
-    "bictegravir-diltiazem": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter561"
-    },
-    "felodipine-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter716-DDInter205"
-    },
-    "bictegravir-felodipine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter716"
-    },
-    "nifedipine-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1291-DDInter205"
-    },
-    "bictegravir-nifedipine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter1291"
-    },
-    "propafenone-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1534-DDInter205"
-    },
-    "bictegravir-propafenone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter1534"
-    },
-    "ranolazine-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1570-DDInter205"
-    },
-    "bictegravir-ranolazine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter1570"
-    },
-    "spironolactone-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1707-DDInter205"
-    },
-    "bictegravir-spironolactone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter1707"
-    },
-    "verapamil-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1928-DDInter205"
-    },
-    "bictegravir-verapamil": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter1928"
-    },
     "bisoprolol-biperiden": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -189219,16 +188379,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter665-DDInter216"
-    },
-    "bisoprolol-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter216-DDInter699"
-    },
-    "etodolac-bisoprolol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter216"
     },
     "bisoprolol-felodipine": {
       "nivo": "Srednji",
@@ -191990,16 +191140,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter688-DDInter248"
     },
-    "etodolac-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter248"
-    },
-    "bumetanide-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter699"
-    },
     "fluoxetine-bumetanide": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -193540,16 +192680,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter292-DDInter656"
     },
-    "etodolac-captopril": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter292"
-    },
-    "captopril-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter292-DDInter699"
-    },
     "captopril-everolimus": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -194939,16 +194069,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter695-DDInter561"
-    },
-    "diltiazem-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter561-DDInter699"
-    },
-    "etodolac-diltiazem": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter561"
     },
     "diltiazem-etoposide": {
       "nivo": "Srednji",
@@ -196750,16 +195870,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter672-DDInter1707"
     },
-    "spironolactone-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1707-DDInter699"
-    },
-    "etodolac-spironolactone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1707"
-    },
     "spironolactone-fluoxetine": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -197609,16 +196719,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter305-DDInter665"
-    },
-    "etodolac-carvedilol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter305"
-    },
-    "carvedilol-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter305-DDInter699"
     },
     "felodipine-carvedilol": {
       "nivo": "Srednji",
@@ -198799,16 +197899,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter649-DDInter336"
-    },
-    "celecoxib-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter336-DDInter699"
-    },
-    "etodolac-celecoxib": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter336"
     },
     "fluconazole-celecoxib": {
       "nivo": "Srednji",
@@ -200609,16 +199699,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Minor",
       "link": "DDInter672-DDInter1928"
-    },
-    "verapamil-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1928-DDInter699"
-    },
-    "etodolac-verapamil": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1928"
     },
     "verapamil-everolimus": {
       "nivo": "Visok",
@@ -203230,16 +202310,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter554-DDInter670"
     },
-    "digoxin-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter554-DDInter699"
-    },
-    "etodolac-digoxin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter554"
-    },
     "digoxin-fingolimod": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -205820,16 +204890,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter656-DDInter638"
     },
-    "enalapril-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter638-DDInter699"
-    },
-    "etodolac-enalapril": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter638"
-    },
     "enalapril-everolimus": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -207890,16 +206950,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1271-DDInter665"
     },
-    "etodolac-nebivolol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1271"
-    },
-    "nebivolol-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1271-DDInter699"
-    },
     "felodipine-nebivolol": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -209389,16 +208439,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter648-DDInter1915"
-    },
-    "valsartan-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1915-DDInter699"
-    },
-    "etodolac-valsartan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1915"
     },
     "valsartan-everolimus": {
       "nivo": "Srednji",
@@ -213180,16 +212220,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1079-DDInter656"
     },
-    "lisinopril-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1079-DDInter699"
-    },
-    "etodolac-lisinopril": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1079"
-    },
     "lisinopril-everolimus": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -213719,16 +212749,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter562-DDInter1095"
-    },
-    "losartan-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1095-DDInter699"
-    },
-    "etodolac-losartan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1095"
     },
     "fluphenazine-losartan": {
       "nivo": "Srednji",
@@ -214799,16 +213819,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Minor",
       "link": "DDInter672-DDInter1200"
-    },
-    "metoprolol-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1200-DDInter699"
-    },
-    "etodolac-metoprolol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1200"
     },
     "metoprolol-gadobenic acid": {
       "nivo": "Srednji",
@@ -215989,16 +214999,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1295-DDInter687"
-    },
-    "nimodipine-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1295-DDInter699"
-    },
-    "etodolac-nimodipine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1295"
     },
     "nimodipine-fingolimod": {
       "nivo": "Srednji",
@@ -217660,16 +216660,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1426-DDInter656"
     },
-    "etodolac-pentoxifylline": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1426"
-    },
-    "pentoxifylline-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1426-DDInter699"
-    },
     "pentoxifylline-felodipine": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -217899,16 +216889,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter562-DDInter1431"
-    },
-    "etodolac-perindopril": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1431"
-    },
-    "perindopril-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1431-DDInter699"
     },
     "perindopril-everolimus": {
       "nivo": "Srednji",
@@ -219170,16 +218150,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter649-DDInter1539"
     },
-    "propranolol-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1539-DDInter699"
-    },
-    "etodolac-propranolol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1539"
-    },
     "propranolol-gadobenic acid": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -219679,16 +218649,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter656-DDInter1565"
-    },
-    "ramipril-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1565-DDInter699"
-    },
-    "etodolac-ramipril": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1565"
     },
     "ramipril-everolimus": {
       "nivo": "Srednji",
@@ -221340,16 +220300,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter672-DDInter1704"
     },
-    "sotalol-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1704-DDInter699"
-    },
-    "etodolac-sotalol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1704"
-    },
     "sotalol-felodipine": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -222060,16 +221010,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter562-DDInter1759"
     },
-    "etodolac-telmisartan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1759"
-    },
-    "telmisartan-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1759-DDInter699"
-    },
     "fluphenazine-telmisartan": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -222269,16 +221209,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter665-DDInter1809"
-    },
-    "timolol-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1809-DDInter699"
-    },
-    "etodolac-timolol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1809"
     },
     "timolol-felodipine": {
       "nivo": "Srednji",
@@ -222729,16 +221659,6 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter688-DDInter1836"
-    },
-    "torasemide-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1836-DDInter699"
-    },
-    "etodolac-torasemide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1836"
     },
     "fluconazole-torasemide": {
       "nivo": "Srednji",
@@ -223280,16 +222200,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter562-DDInter656"
     },
-    "eplerenone-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter656-DDInter699"
-    },
-    "etodolac-eplerenone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter656"
-    },
     "fluconazole-eplerenone": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -223469,56 +222379,6 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter688-DDInter790"
-    },
-    "etodolac-felodipine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter716"
-    },
-    "felodipine-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter716-DDInter699"
-    },
-    "fosinopril-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter781-DDInter699"
-    },
-    "etodolac-fosinopril": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter781"
-    },
-    "furosemide-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter790-DDInter699"
-    },
-    "etodolac-furosemide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter790"
-    },
-    "etodolac-indapamide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter916"
-    },
-    "indapamide-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter916-DDInter699"
-    },
-    "etodolac-irbesartan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter972"
-    },
-    "irbesartan-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter972-DDInter699"
     },
     "fosinopril-everolimus": {
       "nivo": "Srednji",
@@ -246810,16 +245670,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1236-DDInter592"
     },
-    "doxazosin-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter592-DDInter699"
-    },
-    "etodolac-doxazosin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter592"
-    },
     "doxazosin-irinotecan": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -253849,76 +252699,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter990-DDInter1236"
-    },
-    "pravastatin-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1509-DDInter699"
-    },
-    "etodolac-pravastatin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1509"
-    },
-    "lidocaine-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1066-DDInter699"
-    },
-    "etodolac-lidocaine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1066"
-    },
-    "etodolac-tadalafil": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1736"
-    },
-    "tadalafil-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1736-DDInter699"
-    },
-    "etodolac-isosorbide dinitrate": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter989"
-    },
-    "isosorbide dinitrate-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter989-DDInter699"
-    },
-    "etodolac-ezetimibe": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter707"
-    },
-    "ezetimibe-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter707-DDInter699"
-    },
-    "etodolac-isosorbide mononitrate": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter990"
-    },
-    "isosorbide mononitrate-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter990-DDInter699"
-    },
-    "etodolac-fenofibrate": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter718"
-    },
-    "fenofibrate-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter718-DDInter699"
     },
     "valsartan-tretinoin": {
       "nivo": "Srednji",
@@ -269240,16 +268020,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter133-DDInter1605"
     },
-    "etodolac-atorvastatin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter133"
-    },
-    "atorvastatin-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter133-DDInter699"
-    },
     "tretinoin-atorvastatin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -280100,16 +278870,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter66-DDInter647"
     },
-    "amikacin-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter66-DDInter699"
-    },
-    "etodolac-amikacin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter66"
-    },
     "amikacin-everolimus": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -281190,46 +279950,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter204-DDInter1735"
     },
-    "chloramphenicol-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter351-DDInter205"
-    },
-    "bictegravir-chloramphenicol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter351"
-    },
-    "erythromycin-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter670-DDInter205"
-    },
-    "bictegravir-erythromycin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter670"
-    },
-    "fluconazole-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter743-DDInter205"
-    },
-    "bictegravir-fluconazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter743"
-    },
-    "ketoconazole-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1008-DDInter205"
-    },
-    "bictegravir-ketoconazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter1008"
-    },
     "biperiden-diphenhydramine": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -281879,16 +280599,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter672-DDInter537"
-    },
-    "diclofenac-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter537-DDInter699"
-    },
-    "etodolac-diclofenac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter537"
     },
     "diclofenac-everolimus": {
       "nivo": "Visok",
@@ -289570,16 +288280,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter1191-DDInter687"
     },
-    "etodolac-methylprednisolone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1191"
-    },
-    "methylprednisolone-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1191-DDInter699"
-    },
     "methylprednisolone-fingolimod": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -291290,16 +289990,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1735-DDInter695"
     },
-    "etodolac-tacrolimus": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter699-DDInter1735"
-    },
-    "tacrolimus-etodolac": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1735-DDInter699"
-    },
     "etoposide-tacrolimus": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -292399,16 +291089,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter695-DDInter743"
-    },
-    "etodolac-gentamicin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter815"
-    },
-    "gentamicin-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter815-DDInter699"
     },
     "fluconazole-etoposide": {
       "nivo": "Srednji",
@@ -294009,16 +292689,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1019-DDInter670"
-    },
-    "erythromycin-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter670-DDInter699"
-    },
-    "etodolac-erythromycin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter670"
     },
     "erythromycin-olopatadine": {
       "nivo": "Srednji",
@@ -299340,66 +298010,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter766-DDInter1236"
     },
-    "fluconazole-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter743-DDInter699"
-    },
-    "etodolac-fluconazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter743"
-    },
-    "etodolac-terbinafine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1768"
-    },
-    "terbinafine-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1768-DDInter699"
-    },
-    "etodolac-ketoconazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1008"
-    },
-    "ketoconazole-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1008-DDInter699"
-    },
-    "etodolac-finasteride": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter736"
-    },
-    "finasteride-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter736-DDInter699"
-    },
-    "etodolac-clobetasol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter402"
-    },
-    "clobetasol-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter402-DDInter699"
-    },
-    "etodolac-fluticasone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter766"
-    },
-    "fluticasone-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter766-DDInter699"
-    },
     "adapalene-tretinoin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -303839,16 +302449,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter398-DDInter1236"
-    },
-    "etodolac-clindamycin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter398"
-    },
-    "clindamycin-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter398-DDInter699"
     },
     "tretinoin-clindamycin": {
       "nivo": "Srednji",
@@ -310930,16 +309530,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter204-DDInter1971"
     },
-    "vemurafenib-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1925-DDInter205"
-    },
-    "bictegravir-vemurafenib": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter1925"
-    },
     "biperiden-bromocriptine": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -315930,16 +314520,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter604-DDInter687"
     },
-    "etodolac-drospirenone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter604"
-    },
-    "drospirenone-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter604-DDInter699"
-    },
     "flurbiprofen-drospirenone": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -317349,16 +315929,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1266-DDInter507"
-    },
-    "etodolac-naproxen": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1266"
-    },
-    "naproxen-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1266-DDInter699"
     },
     "naproxen-everolimus": {
       "nivo": "Visok",
@@ -328380,66 +326950,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1767-DDInter1236"
     },
-    "sildenafil-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1666-DDInter699"
-    },
-    "etodolac-sildenafil": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1666"
-    },
-    "sumatriptan-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1730-DDInter699"
-    },
-    "etodolac-sumatriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1730"
-    },
-    "tamsulosin-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1745-DDInter699"
-    },
-    "etodolac-tamsulosin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1745"
-    },
-    "etodolac-tolterodine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1832"
-    },
-    "tolterodine-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1832-DDInter699"
-    },
-    "etodolac-dutasteride": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter611"
-    },
-    "dutasteride-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter611-DDInter699"
-    },
-    "etodolac-terazosin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1767"
-    },
-    "terazosin-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1767-DDInter699"
-    },
     "tamsulosin-irinotecan": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -329079,16 +327589,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter679-DDInter1605"
-    },
-    "etodolac-estradiol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter679"
-    },
-    "estradiol-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter679-DDInter699"
     },
     "irinotecan-estradiol": {
       "nivo": "Srednji",
@@ -335440,16 +333940,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter492-DDInter687"
     },
-    "etodolac-deflazacort": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter492"
-    },
-    "deflazacort-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter492-DDInter699"
-    },
     "fingolimod-deflazacort": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -336259,16 +334749,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter672-DDInter507"
-    },
-    "desmopressin-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter507-DDInter699"
-    },
-    "etodolac-desmopressin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter507"
     },
     "desmopressin-fluoxetine": {
       "nivo": "Srednji",
@@ -339679,16 +338159,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1236-DDInter1064"
-    },
-    "levothyroxine-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1064-DDInter699"
-    },
-    "etodolac-levothyroxine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1064"
     },
     "levothyroxine-irinotecan": {
       "nivo": "Srednji",
@@ -345730,126 +344200,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter189-DDInter1252"
     },
-    "abiraterone-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter8-DDInter205"
-    },
-    "bictegravir-abiraterone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter8"
-    },
-    "afatinib-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter32-DDInter205"
-    },
-    "bictegravir-afatinib": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter32"
-    },
-    "bictegravir-apalutamide": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter205-DDInter107"
-    },
-    "apalutamide-bictegravir": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter107-DDInter205"
-    },
-    "azithromycin-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter157-DDInter205"
-    },
-    "bictegravir-azithromycin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter157"
-    },
-    "bictegravir-brigatinib": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter233"
-    },
-    "brigatinib-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter233-DDInter205"
-    },
-    "ciprofloxacin-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter384-DDInter205"
-    },
-    "bictegravir-ciprofloxacin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter384"
-    },
-    "cobimetinib-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter425-DDInter205"
-    },
-    "bictegravir-cobimetinib": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter425"
-    },
-    "crizotinib-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter448-DDInter205"
-    },
-    "bictegravir-crizotinib": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter448"
-    },
-    "dabrafenib-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter462-DDInter205"
-    },
-    "bictegravir-dabrafenib": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter462"
-    },
-    "bictegravir-darolutamide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter481"
-    },
-    "darolutamide-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter481-DDInter205"
-    },
-    "bictegravir-entrectinib": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter648"
-    },
-    "entrectinib-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter648-DDInter205"
-    },
-    "enzalutamide-bictegravir": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter649-DDInter205"
-    },
-    "bictegravir-enzalutamide": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter205-DDInter649"
-    },
     "emtricitabine-eribulin": {
       "nivo": "Srednji",
       "opis": "Rizik: Minor",
@@ -345859,26 +344209,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Minor",
       "link": "DDInter666-DDInter637"
-    },
-    "gefitinib-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter810-DDInter205"
-    },
-    "bictegravir-gefitinib": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter810"
-    },
-    "imatinib-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter909-DDInter205"
-    },
-    "bictegravir-imatinib": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter909"
     },
     "interferon beta-1a-emtricitabine": {
       "nivo": "Srednji",
@@ -345900,36 +344230,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter637-DDInter948"
     },
-    "itraconazole-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter995-DDInter205"
-    },
-    "bictegravir-itraconazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter995"
-    },
-    "ivacaftor-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter997-DDInter205"
-    },
-    "bictegravir-ivacaftor": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter997"
-    },
-    "lapatinib-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1024-DDInter205"
-    },
-    "bictegravir-lapatinib": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter1024"
-    },
     "emtricitabine-leflunomide": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -345939,136 +344239,6 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter1033-DDInter637"
-    },
-    "midostaurin-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1214-DDInter205"
-    },
-    "bictegravir-midostaurin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter1214"
-    },
-    "nilotinib-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1293-DDInter205"
-    },
-    "bictegravir-nilotinib": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter1293"
-    },
-    "olaparib-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1327-DDInter205"
-    },
-    "bictegravir-olaparib": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter1327"
-    },
-    "osimertinib-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1352-DDInter205"
-    },
-    "bictegravir-osimertinib": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter1352"
-    },
-    "oxcarbazepine-bictegravir": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1360-DDInter205"
-    },
-    "bictegravir-oxcarbazepine": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter205-DDInter1360"
-    },
-    "palbociclib-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1379-DDInter205"
-    },
-    "bictegravir-palbociclib": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter1379"
-    },
-    "pazopanib-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1400-DDInter205"
-    },
-    "bictegravir-pazopanib": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter1400"
-    },
-    "posaconazole-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1494-DDInter205"
-    },
-    "bictegravir-posaconazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter1494"
-    },
-    "regorafenib-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1576-DDInter205"
-    },
-    "bictegravir-regorafenib": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter1576"
-    },
-    "ribociclib-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1588-DDInter205"
-    },
-    "bictegravir-ribociclib": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter1588"
-    },
-    "sorafenib-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1702-DDInter205"
-    },
-    "bictegravir-sorafenib": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter1702"
-    },
-    "tamoxifen-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1744-DDInter205"
-    },
-    "bictegravir-tamoxifen": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter1744"
-    },
-    "voriconazole-bictegravir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1946-DDInter205"
-    },
-    "bictegravir-voriconazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter205-DDInter1946"
     },
     "nitrofurantoin-biperiden": {
       "nivo": "Srednji",
@@ -348050,16 +346220,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter647-DDInter378"
     },
-    "cidofovir-etodolac": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter378-DDInter699"
-    },
-    "etodolac-cidofovir": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter699-DDInter378"
-    },
     "cidofovir-flurbiprofen": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -348509,16 +346669,6 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter672-DDInter384"
-    },
-    "ciprofloxacin-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter384-DDInter699"
-    },
-    "etodolac-ciprofloxacin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter384"
     },
     "ciprofloxacin-etoposide": {
       "nivo": "Srednji",
@@ -350749,16 +348899,6 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter448-DDInter1946"
-    },
-    "daptomycin-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter477-DDInter699"
-    },
-    "etodolac-daptomycin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter477"
     },
     "daptomycin-ketoprofen": {
       "nivo": "Srednji",
@@ -357020,16 +355160,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter672-DDInter1247"
     },
-    "moxifloxacin-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1247-DDInter699"
-    },
-    "etodolac-moxifloxacin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1247"
-    },
     "moxifloxacin-etoposide": {
       "nivo": "Srednji",
       "opis": "Rizik: Minor",
@@ -359920,16 +358050,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter672-DDInter1313"
     },
-    "etodolac-norfloxacin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1313"
-    },
-    "norfloxacin-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1313-DDInter699"
-    },
     "etoposide-norfloxacin": {
       "nivo": "Srednji",
       "opis": "Rizik: Minor",
@@ -360449,16 +358569,6 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter672-DDInter1325"
-    },
-    "etodolac-ofloxacin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1325"
-    },
-    "ofloxacin-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1325-DDInter699"
     },
     "etoposide-ofloxacin": {
       "nivo": "Srednji",
@@ -362690,16 +360800,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1822-DDInter647"
     },
-    "tobramycin-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1822-DDInter699"
-    },
-    "etodolac-tobramycin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1822"
-    },
     "tobramycin-everolimus": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -363379,16 +361479,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter647-DDInter668"
-    },
-    "entecavir-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter647-DDInter699"
-    },
-    "etodolac-entecavir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter647"
     },
     "entecavir-flurbiprofen": {
       "nivo": "Srednji",
@@ -364849,16 +362939,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1236-DDInter157"
-    },
-    "azithromycin-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter157-DDInter699"
-    },
-    "etodolac-azithromycin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter157"
     },
     "azithromycin-olopatadine": {
       "nivo": "Srednji",
@@ -371390,26 +369470,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1325-DDInter1236"
     },
-    "oseltamivir-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1350-DDInter699"
-    },
-    "etodolac-oseltamivir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1350"
-    },
-    "ertapenem-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter668-DDInter699"
-    },
-    "etodolac-ertapenem": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter668"
-    },
     "tobramycin-irinotecan": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -374570,16 +372630,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter335-DDInter1236"
     },
-    "etodolac-cefuroxime": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter335"
-    },
-    "cefuroxime-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter335-DDInter699"
-    },
     "olopatadine-cefuroxime": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -375389,16 +373439,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter327-DDInter1397"
-    },
-    "etodolac-cefprozil": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter327"
-    },
-    "cefprozil-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter327-DDInter699"
     },
     "fentanyl-cefprozil": {
       "nivo": "Srednji",
@@ -376949,16 +374989,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter334-DDInter1605"
-    },
-    "etodolac-ceftriaxone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter334"
-    },
-    "ceftriaxone-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter334-DDInter699"
     },
     "irinotecan-ceftriaxone": {
       "nivo": "Srednji",
@@ -382160,16 +380190,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter9-DDInter687"
     },
-    "etodolac-acalabrutinib": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter699-DDInter9"
-    },
-    "acalabrutinib-etodolac": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter9-DDInter699"
-    },
     "filgrastim-acalabrutinib": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -385019,16 +383039,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1848-DDInter687"
-    },
-    "etodolac-trastuzumab emtansine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1848"
-    },
-    "trastuzumab emtansine-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1848-DDInter699"
     },
     "etoposide-trastuzumab emtansine": {
       "nivo": "Srednji",
@@ -394420,16 +392430,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter165-DDInter687"
     },
-    "etodolac-baricitinib": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter165"
-    },
-    "baricitinib-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter165-DDInter699"
-    },
     "etoposide-baricitinib": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -398470,16 +396470,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter228-DDInter687"
     },
-    "etodolac-brentuximab vedotin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter228"
-    },
-    "brentuximab vedotin-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter228-DDInter699"
-    },
     "etoposide-brentuximab vedotin": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -401829,16 +399819,6 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter262-DDInter672"
-    },
-    "etodolac-cabozantinib": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter699-DDInter262"
-    },
-    "cabozantinib-etodolac": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter262-DDInter699"
     },
     "etoposide-cabozantinib": {
       "nivo": "Srednji",
@@ -413080,16 +411060,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter484-DDInter695"
     },
-    "etodolac-dasatinib": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter699-DDInter484"
-    },
-    "dasatinib-etodolac": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter484-DDInter699"
-    },
     "etoposide-dasatinib": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -420950,16 +418920,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter1174-DDInter687"
     },
-    "methotrexate-etodolac": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1174-DDInter699"
-    },
-    "etodolac-methotrexate": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter699-DDInter1174"
-    },
     "methotrexate-etoposide": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -425430,16 +423390,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter667-DDInter947"
     },
-    "interferon beta-1a-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter947-DDInter699"
-    },
-    "etodolac-interferon beta-1a": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter947"
-    },
     "interferon beta-1a-febuxostat": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -425869,16 +423819,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter667-DDInter948"
-    },
-    "interferon beta-1b-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter948-DDInter699"
-    },
-    "etodolac-interferon beta-1b": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter948"
     },
     "interferon beta-1b-febuxostat": {
       "nivo": "Srednji",
@@ -429439,16 +427379,6 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter1033-DDInter687"
-    },
-    "etodolac-leflunomide": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter699-DDInter1033"
-    },
-    "leflunomide-etodolac": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1033-DDInter699"
     },
     "etoposide-leflunomide": {
       "nivo": "Visok",
@@ -436680,16 +434610,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter1355-DDInter687"
     },
-    "oxaliplatin-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1355-DDInter699"
-    },
-    "etodolac-oxaliplatin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1355"
-    },
     "oxaliplatin-etoposide": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -438430,16 +436350,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter1404-DDInter687"
     },
-    "pegaspargase-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1404-DDInter699"
-    },
-    "etodolac-pegaspargase": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1404"
-    },
     "pegaspargase-febuxostat": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -439280,16 +437190,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter1414-DDInter687"
     },
-    "pemetrexed-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1414-DDInter699"
-    },
-    "etodolac-pemetrexed": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1414"
-    },
     "pemetrexed-etoposide": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -440050,16 +437950,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1678-DDInter695"
     },
-    "etodolac-sirolimus": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter699-DDInter1678"
-    },
-    "sirolimus-etodolac": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1678-DDInter699"
-    },
     "etoposide-sirolimus": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -440409,16 +438299,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1576-DDInter672"
-    },
-    "etodolac-regorafenib": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter699-DDInter1576"
-    },
-    "regorafenib-etodolac": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1576-DDInter699"
     },
     "fluoxetine-regorafenib": {
       "nivo": "Srednji",
@@ -441739,16 +439619,6 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter1628-DDInter687"
-    },
-    "etodolac-ruxolitinib": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1628"
-    },
-    "ruxolitinib-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1628-DDInter699"
     },
     "etoposide-ruxolitinib": {
       "nivo": "Srednji",
@@ -444260,16 +442130,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter1771-DDInter687"
     },
-    "etodolac-teriflunomide": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter699-DDInter1771"
-    },
-    "teriflunomide-etodolac": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1771-DDInter699"
-    },
     "etoposide-teriflunomide": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -445680,16 +443540,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter1825-DDInter687"
     },
-    "etodolac-tofacitinib": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1825"
-    },
-    "tofacitinib-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1825-DDInter699"
-    },
     "etoposide-tofacitinib": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -446019,16 +443869,6 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter1840-DDInter687"
-    },
-    "etodolac-trabectedin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1840"
-    },
-    "trabectedin-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1840-DDInter699"
     },
     "etoposide-trabectedin": {
       "nivo": "Srednji",
@@ -448769,26 +446609,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter695-DDInter923"
-    },
-    "etodolac-everolimus": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter699-DDInter704"
-    },
-    "everolimus-etodolac": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter704-DDInter699"
-    },
-    "etodolac-ibrutinib": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter699-DDInter899"
-    },
-    "ibrutinib-etodolac": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter899-DDInter699"
     },
     "etoposide-cytarabine": {
       "nivo": "Srednji",
@@ -458100,86 +455920,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter285-DDInter1236"
     },
-    "goserelin-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter839-DDInter699"
-    },
-    "etodolac-goserelin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter839"
-    },
-    "bortezomib-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter222-DDInter699"
-    },
-    "etodolac-bortezomib": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter222"
-    },
-    "gemcitabine-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter811-DDInter699"
-    },
-    "etodolac-gemcitabine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter811"
-    },
-    "fluorouracil-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter757-DDInter699"
-    },
-    "etodolac-fluorouracil": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter757"
-    },
-    "tamoxifen-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1744-DDInter699"
-    },
-    "etodolac-tamoxifen": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1744"
-    },
-    "etodolac-carboplatin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter298"
-    },
-    "carboplatin-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter298-DDInter699"
-    },
-    "etodolac-letrozole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1040"
-    },
-    "letrozole-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1040-DDInter699"
-    },
-    "etodolac-paclitaxel": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1377"
-    },
-    "paclitaxel-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1377-DDInter699"
-    },
     "lorazepam-irinotecan": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -461430,16 +459170,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter150-DDInter1236"
     },
-    "etodolac-azathioprine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter150"
-    },
-    "azathioprine-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter150-DDInter699"
-    },
     "fentanyl-azathioprine": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -462099,16 +459829,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter596-DDInter1397"
-    },
-    "etodolac-doxorubicin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter596"
-    },
-    "doxorubicin-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter596-DDInter699"
     },
     "irinotecan-doxorubicin": {
       "nivo": "Srednji",
@@ -465970,16 +463690,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter578-DDInter1605"
     },
-    "etodolac-docetaxel": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter578"
-    },
-    "docetaxel-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter578-DDInter699"
-    },
     "irinotecan-docetaxel": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -466670,16 +464380,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter672-DDInter1010"
     },
-    "ketorolac-etodolac": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1010-DDInter699"
-    },
-    "etodolac-ketorolac": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter699-DDInter1010"
-    },
     "ketorolac-fluoxetine": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -466829,16 +464529,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter500-DDInter42"
-    },
-    "alendronic acid-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter42-DDInter699"
-    },
-    "etodolac-alendronic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter42"
     },
     "alendronic acid-flurbiprofen": {
       "nivo": "Srednji",
@@ -467029,16 +464719,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter142-DDInter500"
-    },
-    "etodolac-avapritinib": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter699-DDInter142"
-    },
-    "avapritinib-etodolac": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter142-DDInter699"
     },
     "flurbiprofen-avapritinib": {
       "nivo": "Visok",
@@ -467750,16 +465430,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter300-DDInter1821"
     },
-    "citalopram-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter388-DDInter699"
-    },
-    "etodolac-citalopram": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter388"
-    },
     "citalopram-flurbiprofen": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -467799,16 +465469,6 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter1821-DDInter388"
-    },
-    "etodolac-clomipramine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter410"
-    },
-    "clomipramine-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter410-DDInter699"
     },
     "flurbiprofen-clomipramine": {
       "nivo": "Srednji",
@@ -467950,16 +465610,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1485-DDInter431"
     },
-    "etodolac-deferasirox": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter699-DDInter488"
-    },
-    "deferasirox-etodolac": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter488-DDInter699"
-    },
     "flurbiprofen-deferasirox": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -468059,16 +465709,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter500-DDInter1968"
-    },
-    "etodolac-desvenlafaxine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter511"
-    },
-    "desvenlafaxine-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter511-DDInter699"
     },
     "flurbiprofen-desvenlafaxine": {
       "nivo": "Srednji",
@@ -468170,16 +465810,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1821-DDInter1913"
     },
-    "etodolac-donepezil": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter699-DDInter583"
-    },
-    "donepezil-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter583-DDInter699"
-    },
     "flurbiprofen-donepezil": {
       "nivo": "Srednji",
       "opis": "Rizik: Minor",
@@ -468219,16 +465849,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter583-DDInter1821"
-    },
-    "duloxetine-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter608-DDInter699"
-    },
-    "etodolac-duloxetine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter608"
     },
     "duloxetine-flurbiprofen": {
       "nivo": "Srednji",
@@ -468330,16 +465950,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1821-DDInter1516"
     },
-    "fluoxetine-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter758-DDInter699"
-    },
-    "etodolac-fluoxetine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter758"
-    },
     "fluoxetine-flurbiprofen": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -468440,16 +466050,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1381-DDInter1821"
     },
-    "etodolac-iopromide": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter699-DDInter964"
-    },
-    "iopromide-etodolac": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter964-DDInter699"
-    },
     "flurbiprofen-iopromide": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -468499,16 +466099,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter672-DDInter1009"
-    },
-    "etodolac-ketoprofen": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1009"
-    },
-    "ketoprofen-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1009-DDInter699"
     },
     "flurbiprofen-ketoprofen": {
       "nivo": "Srednji",
@@ -468670,16 +466260,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter672-DDInter1143"
     },
-    "etodolac-meloxicam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1143"
-    },
-    "meloxicam-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1143-DDInter699"
-    },
     "fluoxetine-meloxicam": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -468800,16 +466380,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1821-DDInter1326"
     },
-    "etodolac-iohexol": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter699-DDInter960"
-    },
-    "iohexol-etodolac": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter960-DDInter699"
-    },
     "flurbiprofen-iohexol": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -468839,16 +466409,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1360-DDInter1821"
-    },
-    "paroxetine-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1397-DDInter699"
-    },
-    "etodolac-paroxetine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1397"
     },
     "flurbiprofen-paroxetine": {
       "nivo": "Srednji",
@@ -468919,16 +466479,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1635-DDInter1821"
-    },
-    "etodolac-sertraline": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1662"
-    },
-    "sertraline-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1662-DDInter699"
     },
     "flurbiprofen-sertraline": {
       "nivo": "Srednji",
@@ -469190,16 +466740,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1821-DDInter1970"
     },
-    "venlafaxine-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1927-DDInter699"
-    },
-    "etodolac-venlafaxine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1927"
-    },
     "venlafaxine-flurbiprofen": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -469210,16 +466750,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter763-DDInter1927"
     },
-    "etodolac-zanubrutinib": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter699-DDInter1959"
-    },
-    "zanubrutinib-etodolac": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1959-DDInter699"
-    },
     "flurbiprofen-zanubrutinib": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -469229,16 +466759,6 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter1959-DDInter763"
-    },
-    "zoledronic acid-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1968-DDInter699"
-    },
-    "etodolac-zoledronic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter1968"
     },
     "zoledronic acid-flurbiprofen": {
       "nivo": "Srednji",
@@ -469260,16 +466780,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter958-DDInter1968"
     },
-    "etodolac-escitalopram": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter672"
-    },
-    "escitalopram-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter672-DDInter699"
-    },
     "flurbiprofen-escitalopram": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -469279,26 +466789,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter672-DDInter763"
-    },
-    "flurbiprofen-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter763-DDInter699"
-    },
-    "etodolac-flurbiprofen": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter699-DDInter763"
-    },
-    "etodolac-iodixanol": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter699-DDInter958"
-    },
-    "iodixanol-etodolac": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter958-DDInter699"
     },
     "aminophylline-febuxostat": {
       "nivo": "Srednji",
@@ -469409,16 +466899,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1236-DDInter162"
-    },
-    "baclofen-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter162-DDInter699"
-    },
-    "etodolac-baclofen": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter162"
     },
     "baclofen-meloxicam": {
       "nivo": "Srednji",
@@ -469539,16 +467019,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1821-DDInter1290"
-    },
-    "nicotine-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1290-DDInter699"
-    },
-    "etodolac-nicotine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1290"
     },
     "nicotine-meloxicam": {
       "nivo": "Srednji",
@@ -469760,16 +467230,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1010-DDInter1913"
     },
-    "valproic acid-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1913-DDInter699"
-    },
-    "etodolac-valproic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1913"
-    },
     "valproic acid-meloxicam": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -469860,16 +467320,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter763-DDInter14"
     },
-    "acetaminophen-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter14-DDInter699"
-    },
-    "etodolac-acetaminophen": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter14"
-    },
     "acetaminophen-meloxicam": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -469919,16 +467369,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1010-DDInter78"
-    },
-    "amitriptyline-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter78-DDInter699"
-    },
-    "etodolac-amitriptyline": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter78"
     },
     "amitriptyline-meloxicam": {
       "nivo": "Srednji",
@@ -469999,16 +467439,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1010-DDInter343"
-    },
-    "cetirizine-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter343-DDInter699"
-    },
-    "etodolac-cetirizine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter343"
     },
     "cetirizine-meloxicam": {
       "nivo": "Srednji",
@@ -470169,16 +467599,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1010-DDInter54"
-    },
-    "alprazolam-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter54-DDInter699"
-    },
-    "etodolac-alprazolam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter54"
     },
     "alprazolam-meloxicam": {
       "nivo": "Srednji",
@@ -470849,16 +468269,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter293-DDInter48"
-    },
-    "carbamazepine-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter293-DDInter699"
-    },
-    "etodolac-carbamazepine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter293"
     },
     "carbamazepine-meloxicam": {
       "nivo": "Srednji",
@@ -471830,346 +469240,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1236-DDInter1821"
     },
-    "lorazepam-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1092-DDInter699"
-    },
-    "etodolac-lorazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1092"
-    },
-    "tramadol-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1841-DDInter699"
-    },
-    "etodolac-tramadol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1841"
-    },
-    "pregabalin-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1516-DDInter699"
-    },
-    "etodolac-pregabalin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1516"
-    },
-    "ropinirole-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1619-DDInter699"
-    },
-    "etodolac-ropinirole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1619"
-    },
-    "topiramate-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1834-DDInter699"
-    },
-    "etodolac-topiramate": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1834"
-    },
-    "zolmitriptan-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter699"
-    },
-    "etodolac-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1969"
-    },
-    "olanzapine-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1326-DDInter699"
-    },
-    "etodolac-olanzapine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1326"
-    },
-    "mirtazapine-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1230-DDInter699"
-    },
-    "etodolac-mirtazapine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1230"
-    },
-    "pramipexole-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1505-DDInter699"
-    },
-    "etodolac-pramipexole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1505"
-    },
-    "methylphenidate-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1189-DDInter699"
-    },
-    "etodolac-methylphenidate": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1189"
-    },
-    "zolpidem-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1970-DDInter699"
-    },
-    "etodolac-zolpidem": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1970"
-    },
-    "allopurinol-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter48-DDInter699"
-    },
-    "etodolac-allopurinol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter48"
-    },
-    "loratadine-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1091-DDInter699"
-    },
-    "etodolac-loratadine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1091"
-    },
-    "montelukast-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1242-DDInter699"
-    },
-    "etodolac-montelukast": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1242"
-    },
-    "entacapone-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter646-DDInter699"
-    },
-    "etodolac-entacapone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter646"
-    },
-    "oxycodone-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1366-DDInter699"
-    },
-    "etodolac-oxycodone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1366"
-    },
-    "lamotrigine-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1020-DDInter699"
-    },
-    "etodolac-lamotrigine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1020"
-    },
-    "latanoprost-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1028-DDInter699"
-    },
-    "etodolac-latanoprost": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1028"
-    },
-    "trazodone-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1851-DDInter699"
-    },
-    "etodolac-trazodone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1851"
-    },
-    "tizanidine-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1821-DDInter699"
-    },
-    "etodolac-tizanidine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1821"
-    },
-    "risperidone-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1605-DDInter699"
-    },
-    "etodolac-risperidone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1605"
-    },
-    "modafinil-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1236-DDInter699"
-    },
-    "etodolac-modafinil": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1236"
-    },
-    "etodolac-fentanyl": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter722"
-    },
-    "fentanyl-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter722-DDInter699"
-    },
-    "etodolac-salmeterol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1635"
-    },
-    "salmeterol-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1635-DDInter699"
-    },
-    "etodolac-fexofenadine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter732"
-    },
-    "fexofenadine-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter732-DDInter699"
-    },
-    "etodolac-desloratadine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter506"
-    },
-    "desloratadine-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter506-DDInter699"
-    },
-    "etodolac-formoterol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter776"
-    },
-    "formoterol-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter776-DDInter699"
-    },
-    "etodolac-gabapentin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter791"
-    },
-    "gabapentin-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter791-DDInter699"
-    },
-    "etodolac-memantine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1146"
-    },
-    "memantine-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1146-DDInter699"
-    },
-    "etodolac-zopiclone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1972"
-    },
-    "zopiclone-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1972-DDInter699"
-    },
-    "etodolac-levetiracetam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1046"
-    },
-    "levetiracetam-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1046-DDInter699"
-    },
-    "etodolac-quetiapine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1553"
-    },
-    "quetiapine-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1553-DDInter699"
-    },
-    "etodolac-aripiprazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter118"
-    },
-    "aripiprazole-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter118-DDInter699"
-    },
-    "etodolac-hydroxychloroquine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter893"
-    },
-    "hydroxychloroquine-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter893-DDInter699"
-    },
     "zoledronic acid-olopatadine": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -472680,16 +469750,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter534-DDInter763"
     },
-    "etodolac-diazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter534"
-    },
-    "diazepam-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter534-DDInter699"
-    },
     "meloxicam-diazepam": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -472769,16 +469829,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter60-DDInter1821"
-    },
-    "etodolac-amantadine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter60"
-    },
-    "amantadine-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter60-DDInter699"
     },
     "meloxicam-amantadine": {
       "nivo": "Srednji",
@@ -473089,16 +470139,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1632-DDInter763"
-    },
-    "etodolac-salbutamol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1632"
-    },
-    "salbutamol-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1632-DDInter699"
     },
     "meloxicam-salbutamol": {
       "nivo": "Srednji",
@@ -473529,16 +470569,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter411-DDInter763"
-    },
-    "etodolac-clonazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter411"
-    },
-    "clonazepam-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter411-DDInter699"
     },
     "meloxicam-clonazepam": {
       "nivo": "Srednji",
@@ -514046,7 +511076,6 @@
     "erlotinib": "DDInter667",
     "erythromycin": "DDInter670",
     "escitalopram": "DDInter672",
-    "etodolac": "DDInter699",
     "fingolimod": "DDInter737",
     "flecainide": "DDInter740",
     "fluconazole": "DDInter743",
@@ -514344,7 +511373,6 @@
     "montelukast": "DDInter1242",
     "relugolix": "DDInter1577",
     "ezetimibe": "DDInter707",
-    "bictegravir": "DDInter205",
     "emtricitabine": "DDInter637",
     "fludeoxyglucose (18f)": "DDInter746",
     "capecitabine": "DDInter285",
