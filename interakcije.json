@@ -27590,6 +27590,116 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter204-DDInter1675"
     },
+    "aprepitant-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter112-DDInter205"
+    },
+    "bictegravir-aprepitant": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter112"
+    },
+    "calcium carbonate-bictegravir": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter271-DDInter205"
+    },
+    "bictegravir-calcium carbonate": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter205-DDInter271"
+    },
+    "calcium gluconate-bictegravir": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter276-DDInter205"
+    },
+    "bictegravir-calcium gluconate": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter205-DDInter276"
+    },
+    "clarithromycin-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter393-DDInter205"
+    },
+    "bictegravir-clarithromycin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter393"
+    },
+    "dexamethasone-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter513-DDInter205"
+    },
+    "bictegravir-dexamethasone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter513"
+    },
+    "eliglustat-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter629-DDInter205"
+    },
+    "bictegravir-eliglustat": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter629"
+    },
+    "magaldrate-bictegravir": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1112-DDInter205"
+    },
+    "bictegravir-magaldrate": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter205-DDInter1112"
+    },
+    "magnesium chloride-bictegravir": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1114-DDInter205"
+    },
+    "bictegravir-magnesium chloride": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter205-DDInter1114"
+    },
+    "pioglitazone-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1472-DDInter205"
+    },
+    "bictegravir-pioglitazone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter1472"
+    },
+    "prednisolone-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1513-DDInter205"
+    },
+    "bictegravir-prednisolone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter1513"
+    },
+    "prednisone-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1515-DDInter205"
+    },
+    "bictegravir-prednisone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter1515"
+    },
     "biperiden-metoclopramide": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -147710,6 +147820,36 @@
       "opis": "Rizik: Minor",
       "link": "DDInter204-DDInter1951"
     },
+    "eltrombopag-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter631-DDInter205"
+    },
+    "bictegravir-eltrombopag": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter631"
+    },
+    "bictegravir-ferrous fumarate": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter205-DDInter725"
+    },
+    "ferrous fumarate-bictegravir": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter725-DDInter205"
+    },
+    "ticagrelor-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1802-DDInter205"
+    },
+    "bictegravir-ticagrelor": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter1802"
+    },
     "bisoprolol-selexipag": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -188039,6 +188179,106 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter204-DDInter1736"
+    },
+    "amiodarone-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter76-DDInter205"
+    },
+    "bictegravir-amiodarone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter76"
+    },
+    "bosentan-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter223-DDInter205"
+    },
+    "bictegravir-bosentan": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter223"
+    },
+    "carvedilol-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter305-DDInter205"
+    },
+    "bictegravir-carvedilol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter305"
+    },
+    "diltiazem-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter561-DDInter205"
+    },
+    "bictegravir-diltiazem": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter561"
+    },
+    "felodipine-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter716-DDInter205"
+    },
+    "bictegravir-felodipine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter716"
+    },
+    "nifedipine-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1291-DDInter205"
+    },
+    "bictegravir-nifedipine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter1291"
+    },
+    "propafenone-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1534-DDInter205"
+    },
+    "bictegravir-propafenone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter1534"
+    },
+    "ranolazine-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1570-DDInter205"
+    },
+    "bictegravir-ranolazine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter1570"
+    },
+    "spironolactone-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1707-DDInter205"
+    },
+    "bictegravir-spironolactone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter1707"
+    },
+    "verapamil-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1928-DDInter205"
+    },
+    "bictegravir-verapamil": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter1928"
     },
     "bisoprolol-biperiden": {
       "nivo": "Srednji",
@@ -279950,6 +280190,46 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter204-DDInter1735"
     },
+    "chloramphenicol-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter351-DDInter205"
+    },
+    "bictegravir-chloramphenicol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter351"
+    },
+    "erythromycin-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter670-DDInter205"
+    },
+    "bictegravir-erythromycin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter670"
+    },
+    "fluconazole-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter743-DDInter205"
+    },
+    "bictegravir-fluconazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter743"
+    },
+    "ketoconazole-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1008-DDInter205"
+    },
+    "bictegravir-ketoconazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter1008"
+    },
     "biperiden-diphenhydramine": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -309529,6 +309809,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter204-DDInter1971"
+    },
+    "vemurafenib-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1925-DDInter205"
+    },
+    "bictegravir-vemurafenib": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter1925"
     },
     "biperiden-bromocriptine": {
       "nivo": "Srednji",
@@ -344200,6 +344490,126 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter189-DDInter1252"
     },
+    "abiraterone-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter8-DDInter205"
+    },
+    "bictegravir-abiraterone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter8"
+    },
+    "afatinib-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter32-DDInter205"
+    },
+    "bictegravir-afatinib": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter32"
+    },
+    "bictegravir-apalutamide": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter205-DDInter107"
+    },
+    "apalutamide-bictegravir": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter107-DDInter205"
+    },
+    "azithromycin-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter157-DDInter205"
+    },
+    "bictegravir-azithromycin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter157"
+    },
+    "bictegravir-brigatinib": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter233"
+    },
+    "brigatinib-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter233-DDInter205"
+    },
+    "ciprofloxacin-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter384-DDInter205"
+    },
+    "bictegravir-ciprofloxacin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter384"
+    },
+    "cobimetinib-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter425-DDInter205"
+    },
+    "bictegravir-cobimetinib": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter425"
+    },
+    "crizotinib-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter448-DDInter205"
+    },
+    "bictegravir-crizotinib": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter448"
+    },
+    "dabrafenib-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter462-DDInter205"
+    },
+    "bictegravir-dabrafenib": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter462"
+    },
+    "bictegravir-darolutamide": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter481"
+    },
+    "darolutamide-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter481-DDInter205"
+    },
+    "bictegravir-entrectinib": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter648"
+    },
+    "entrectinib-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter648-DDInter205"
+    },
+    "enzalutamide-bictegravir": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter649-DDInter205"
+    },
+    "bictegravir-enzalutamide": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter205-DDInter649"
+    },
     "emtricitabine-eribulin": {
       "nivo": "Srednji",
       "opis": "Rizik: Minor",
@@ -344209,6 +344619,26 @@
       "nivo": "Srednji",
       "opis": "Rizik: Minor",
       "link": "DDInter666-DDInter637"
+    },
+    "gefitinib-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter810-DDInter205"
+    },
+    "bictegravir-gefitinib": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter810"
+    },
+    "imatinib-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter909-DDInter205"
+    },
+    "bictegravir-imatinib": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter909"
     },
     "interferon beta-1a-emtricitabine": {
       "nivo": "Srednji",
@@ -344230,6 +344660,36 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter637-DDInter948"
     },
+    "itraconazole-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter995-DDInter205"
+    },
+    "bictegravir-itraconazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter995"
+    },
+    "ivacaftor-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter997-DDInter205"
+    },
+    "bictegravir-ivacaftor": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter997"
+    },
+    "lapatinib-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1024-DDInter205"
+    },
+    "bictegravir-lapatinib": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter1024"
+    },
     "emtricitabine-leflunomide": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -344239,6 +344699,136 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter1033-DDInter637"
+    },
+    "midostaurin-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1214-DDInter205"
+    },
+    "bictegravir-midostaurin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter1214"
+    },
+    "nilotinib-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1293-DDInter205"
+    },
+    "bictegravir-nilotinib": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter1293"
+    },
+    "olaparib-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1327-DDInter205"
+    },
+    "bictegravir-olaparib": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter1327"
+    },
+    "osimertinib-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1352-DDInter205"
+    },
+    "bictegravir-osimertinib": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter1352"
+    },
+    "oxcarbazepine-bictegravir": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1360-DDInter205"
+    },
+    "bictegravir-oxcarbazepine": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter205-DDInter1360"
+    },
+    "palbociclib-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1379-DDInter205"
+    },
+    "bictegravir-palbociclib": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter1379"
+    },
+    "pazopanib-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1400-DDInter205"
+    },
+    "bictegravir-pazopanib": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter1400"
+    },
+    "posaconazole-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1494-DDInter205"
+    },
+    "bictegravir-posaconazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter1494"
+    },
+    "regorafenib-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1576-DDInter205"
+    },
+    "bictegravir-regorafenib": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter1576"
+    },
+    "ribociclib-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1588-DDInter205"
+    },
+    "bictegravir-ribociclib": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter1588"
+    },
+    "sorafenib-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1702-DDInter205"
+    },
+    "bictegravir-sorafenib": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter1702"
+    },
+    "tamoxifen-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1744-DDInter205"
+    },
+    "bictegravir-tamoxifen": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter1744"
+    },
+    "voriconazole-bictegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1946-DDInter205"
+    },
+    "bictegravir-voriconazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter205-DDInter1946"
     },
     "nitrofurantoin-biperiden": {
       "nivo": "Srednji",
@@ -511373,6 +511963,7 @@
     "montelukast": "DDInter1242",
     "relugolix": "DDInter1577",
     "ezetimibe": "DDInter707",
+    "bictegravir": "DDInter205",
     "emtricitabine": "DDInter637",
     "fludeoxyglucose (18f)": "DDInter746",
     "capecitabine": "DDInter285",
