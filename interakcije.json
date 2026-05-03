@@ -900,186 +900,6 @@
       "opis": "Rizik: Minor",
       "link": "DDInter1340-DDInter1066"
     },
-    "phenylephrine-dapagliflozin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter474"
-    },
-    "dapagliflozin-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter474-DDInter1453"
-    },
-    "phenylephrine-dulaglutide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter607"
-    },
-    "dulaglutide-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter607-DDInter1453"
-    },
-    "phenylephrine-empagliflozin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter636"
-    },
-    "empagliflozin-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter636-DDInter1453"
-    },
-    "glimepiride-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter825-DDInter1453"
-    },
-    "phenylephrine-glimepiride": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter825"
-    },
-    "phenylephrine-insulin degludec": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter930"
-    },
-    "insulin degludec-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter930-DDInter1453"
-    },
-    "phenylephrine-insulin detemir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter931"
-    },
-    "insulin detemir-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter931-DDInter1453"
-    },
-    "insulin glargine-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter932-DDInter1453"
-    },
-    "phenylephrine-insulin glargine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter932"
-    },
-    "phenylephrine-insulin glulisine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter933"
-    },
-    "insulin glulisine-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter933-DDInter1453"
-    },
-    "insulin lispro-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter940-DDInter1453"
-    },
-    "phenylephrine-insulin lispro": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter940"
-    },
-    "phenylephrine-linagliptin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter1070"
-    },
-    "linagliptin-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1070-DDInter1453"
-    },
-    "phenylephrine-liraglutide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter1077"
-    },
-    "liraglutide-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1077-DDInter1453"
-    },
-    "phenylephrine-lixisenatide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter1082"
-    },
-    "lixisenatide-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1082-DDInter1453"
-    },
-    "metformin-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1164-DDInter1453"
-    },
-    "phenylephrine-metformin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter1164"
-    },
-    "phenylephrine-pioglitazone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter1472"
-    },
-    "pioglitazone-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1472-DDInter1453"
-    },
-    "phenylephrine-repaglinide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter1581"
-    },
-    "repaglinide-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1581-DDInter1453"
-    },
-    "phenylephrine-saxagliptin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter1646"
-    },
-    "saxagliptin-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1646-DDInter1453"
-    },
-    "phenylephrine-semaglutide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter1660"
-    },
-    "semaglutide-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1660-DDInter1453"
-    },
-    "phenylephrine-sitagliptin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter1679"
-    },
-    "sitagliptin-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1679-DDInter1453"
-    },
     "acetaminophen-atropine": {
       "nivo": "Srednji",
       "opis": "Rizik: Minor",
@@ -23469,16 +23289,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1381-DDInter136"
-    },
-    "phenylephrine-atropine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter136"
-    },
-    "atropine-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter136-DDInter1453"
     },
     "atropine-pilocarpine": {
       "nivo": "Srednji",
@@ -144580,16 +144390,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter9-DDInter1951"
     },
-    "phenylephrine-selexipag": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter1656"
-    },
-    "selexipag-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1656-DDInter1453"
-    },
     "acetaminophen-warfarin": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -171380,246 +171180,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1946-DDInter1066"
     },
-    "phenylephrine-salbutamol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter1632"
-    },
-    "salbutamol-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1632-DDInter1453"
-    },
-    "amitriptyline-phenylephrine": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter78-DDInter1453"
-    },
-    "phenylephrine-amitriptyline": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1453-DDInter78"
-    },
-    "atenolol-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter130-DDInter1453"
-    },
-    "phenylephrine-atenolol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter130"
-    },
-    "phenylephrine-bisoprolol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter216"
-    },
-    "bisoprolol-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter216-DDInter1453"
-    },
-    "phenylephrine-carvedilol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter305"
-    },
-    "carvedilol-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter305-DDInter1453"
-    },
-    "phenylephrine-clomipramine": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1453-DDInter410"
-    },
-    "clomipramine-phenylephrine": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter410-DDInter1453"
-    },
-    "phenylephrine-colchicine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter1453-DDInter431"
-    },
-    "colchicine-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter431-DDInter1453"
-    },
-    "phenylephrine-digoxin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter554"
-    },
-    "digoxin-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter554-DDInter1453"
-    },
-    "phenylephrine-ergotamine": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1453-DDInter665"
-    },
-    "ergotamine-phenylephrine": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter665-DDInter1453"
-    },
-    "phenylephrine-formoterol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter776"
-    },
-    "formoterol-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter776-DDInter1453"
-    },
-    "phenylephrine-indacaterol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter915"
-    },
-    "indacaterol-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter915-DDInter1453"
-    },
-    "phenylephrine-levodopa": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter1054"
-    },
-    "levodopa-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1054-DDInter1453"
-    },
-    "phenylephrine-levothyroxine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter1064"
-    },
-    "levothyroxine-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1064-DDInter1453"
-    },
-    "phenylephrine-linezolid": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1453-DDInter1073"
-    },
-    "linezolid-phenylephrine": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1073-DDInter1453"
-    },
-    "methylergometrine-phenylephrine": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1187-DDInter1453"
-    },
-    "phenylephrine-methylergometrine": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1453-DDInter1187"
-    },
-    "phenylephrine-methylphenidate": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter1189"
-    },
-    "methylphenidate-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1189-DDInter1453"
-    },
-    "metoprolol-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1200-DDInter1453"
-    },
-    "phenylephrine-metoprolol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter1200"
-    },
-    "phenylephrine-nebivolol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter1271"
-    },
-    "nebivolol-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1271-DDInter1453"
-    },
-    "phenylephrine-olodaterol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter1331"
-    },
-    "olodaterol-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1331-DDInter1453"
-    },
-    "oxytocin-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1375-DDInter1453"
-    },
-    "phenylephrine-oxytocin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter1375"
-    },
-    "phenylephrine-propranolol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter1539"
-    },
-    "propranolol-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1539-DDInter1453"
-    },
-    "phenylephrine-salmeterol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter1635"
-    },
-    "salmeterol-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1635-DDInter1453"
-    },
-    "phenylephrine-sotalol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter1704"
-    },
-    "sotalol-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1704-DDInter1453"
-    },
-    "timolol-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1809-DDInter1453"
-    },
-    "phenylephrine-timolol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter1809"
-    },
     "acetaminophen-fenofibrate": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -188340,16 +187900,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1271-DDInter211"
     },
-    "phenylephrine-biperiden": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter211"
-    },
-    "biperiden-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter211-DDInter1453"
-    },
     "propranolol-biperiden": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -190649,16 +190199,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1971-DDInter223"
-    },
-    "phenylephrine-methyldopa": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter1185"
-    },
-    "methyldopa-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1185-DDInter1453"
     },
     "captopril-brentuximab vedotin": {
       "nivo": "Srednji",
@@ -202010,16 +201550,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter511-DDInter1311"
     },
-    "phenylephrine-desvenlafaxine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter511"
-    },
-    "desvenlafaxine-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter511-DDInter1453"
-    },
     "torasemide-desvenlafaxine": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -203209,26 +202739,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1937-DDInter554"
-    },
-    "phenylephrine-duloxetine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter608"
-    },
-    "duloxetine-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter608-DDInter1453"
-    },
-    "phenylephrine-rasagiline": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter1572"
-    },
-    "rasagiline-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1572-DDInter1453"
     },
     "doxazosin-diphenhydramine": {
       "nivo": "Srednji",
@@ -208950,16 +208460,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter1676-DDInter1539"
     },
-    "phenylephrine-tapentadol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter1746"
-    },
-    "tapentadol-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1746-DDInter1453"
-    },
     "ropinirole-propafenone": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -208969,16 +208469,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1534-DDInter1619"
-    },
-    "venlafaxine-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1927-DDInter1453"
-    },
-    "phenylephrine-venlafaxine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter1927"
     },
     "eplerenone-risperidone": {
       "nivo": "Srednji",
@@ -209999,16 +209489,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1934-DDInter1311"
-    },
-    "phenylephrine-vilanterol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1453-DDInter1934"
-    },
-    "vilanterol-phenylephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1934-DDInter1453"
     },
     "propafenone-vilanterol": {
       "nivo": "Srednji",
@@ -511595,7 +511075,6 @@
     "pasireotide": "DDInter1398",
     "pegaspargase": "DDInter1404",
     "pegvisomant": "DDInter1412",
-    "phenylephrine": "DDInter1453",
     "progesterone": "DDInter1529",
     "pseudoephedrine": "DDInter1545",
     "quetiapine": "DDInter1553",
