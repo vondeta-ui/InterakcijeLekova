@@ -2390,16 +2390,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter233-DDInter1559"
     },
-    "bumetanide-rabeprazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1559"
-    },
-    "rabeprazole-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1559-DDInter248"
-    },
     "carboplatin-rabeprazole": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -3399,16 +3389,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter213-DDInter598"
-    },
-    "doxycycline-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter598-DDInter248"
-    },
-    "bumetanide-doxycycline": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter248-DDInter598"
     },
     "doxycycline-calcium carbonate": {
       "nivo": "Srednji",
@@ -5799,16 +5779,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter885-DDInter223"
-    },
-    "hydrocortisone-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter885-DDInter248"
-    },
-    "bumetanide-hydrocortisone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter885"
     },
     "hydrocortisone-bupropion": {
       "nivo": "Visok",
@@ -8580,16 +8550,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter233-DDInter1164"
     },
-    "metformin-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1164-DDInter248"
-    },
-    "bumetanide-metformin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1164"
-    },
     "metformin-captopril": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -11189,16 +11149,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter85-DDInter195"
-    },
-    "amphotericin b-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter85-DDInter248"
-    },
-    "bumetanide-amphotericin b": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter85"
     },
     "chlorpromazine-amphotericin b": {
       "nivo": "Srednji",
@@ -14729,16 +14679,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter228-DDInter252"
-    },
-    "bumetanide-bupropion": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter252"
-    },
-    "bupropion-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter252-DDInter248"
     },
     "buprenorphine-bupropion": {
       "nivo": "Visok",
@@ -18390,16 +18330,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1855-DDInter223"
     },
-    "triamcinolone-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1855-DDInter248"
-    },
-    "bumetanide-triamcinolone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1855"
-    },
     "triamcinolone-calcium carbonate": {
       "nivo": "Srednji",
       "opis": "Rizik: Minor",
@@ -19750,16 +19680,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter243-DDInter1244"
     },
-    "morphine-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1244-DDInter248"
-    },
-    "bumetanide-morphine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1244"
-    },
     "morphine-buprenorphine": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -21090,16 +21010,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter246-DDInter20"
     },
-    "bumetanide-acetylsalicylic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter248-DDInter20"
-    },
-    "acetylsalicylic acid-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter20-DDInter248"
-    },
     "acetylsalicylic acid-calcium carbonate": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -21909,16 +21819,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter178-DDInter1340"
-    },
-    "omeprazole-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1340-DDInter248"
-    },
-    "bumetanide-omeprazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1340"
     },
     "acetylsalicylic acid-cabozantinib": {
       "nivo": "Visok",
@@ -24050,16 +23950,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter233-DDInter513"
     },
-    "bumetanide-dexamethasone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter513"
-    },
-    "dexamethasone-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter513-DDInter248"
-    },
     "buprenorphine-dexamethasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -26040,16 +25930,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter223-DDInter195"
     },
-    "betamethasone-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter195-DDInter248"
-    },
-    "bumetanide-betamethasone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter195"
-    },
     "betamethasone-calcium carbonate": {
       "nivo": "Srednji",
       "opis": "Rizik: Minor",
@@ -27509,16 +27389,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter211-DDInter1886"
-    },
-    "bumetanide-bisacodyl": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter212"
-    },
-    "bisacodyl-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter212-DDInter248"
     },
     "buprenorphine-bisacodyl": {
       "nivo": "Srednji",
@@ -30789,256 +30659,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter246-DDInter1951"
-    },
-    "bumetanide-dapagliflozin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter474"
-    },
-    "dapagliflozin-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter474-DDInter248"
-    },
-    "bumetanide-dexlansoprazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter519"
-    },
-    "dexlansoprazole-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter519-DDInter248"
-    },
-    "bumetanide-dulaglutide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter607"
-    },
-    "dulaglutide-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter607-DDInter248"
-    },
-    "bumetanide-empagliflozin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter636"
-    },
-    "empagliflozin-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter636-DDInter248"
-    },
-    "esomeprazole-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter676-DDInter248"
-    },
-    "bumetanide-esomeprazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter676"
-    },
-    "glimepiride-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter825-DDInter248"
-    },
-    "bumetanide-glimepiride": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter825"
-    },
-    "bumetanide-insulin degludec": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter930"
-    },
-    "insulin degludec-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter930-DDInter248"
-    },
-    "bumetanide-insulin detemir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter931"
-    },
-    "insulin detemir-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter931-DDInter248"
-    },
-    "insulin glargine-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter932-DDInter248"
-    },
-    "bumetanide-insulin glargine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter932"
-    },
-    "bumetanide-insulin glulisine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter933"
-    },
-    "insulin glulisine-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter933-DDInter248"
-    },
-    "insulin lispro-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter940-DDInter248"
-    },
-    "bumetanide-insulin lispro": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter940"
-    },
-    "lactulose-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1018-DDInter248"
-    },
-    "bumetanide-lactulose": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1018"
-    },
-    "lansoprazole-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1022-DDInter248"
-    },
-    "bumetanide-lansoprazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1022"
-    },
-    "bumetanide-linagliptin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1070"
-    },
-    "linagliptin-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1070-DDInter248"
-    },
-    "bumetanide-liraglutide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1077"
-    },
-    "liraglutide-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1077-DDInter248"
-    },
-    "bumetanide-lixisenatide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1082"
-    },
-    "lixisenatide-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1082-DDInter248"
-    },
-    "bumetanide-neomycin": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter248-DDInter1277"
-    },
-    "neomycin-bumetanide": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1277-DDInter248"
-    },
-    "pantoprazole-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1388-DDInter248"
-    },
-    "bumetanide-pantoprazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1388"
-    },
-    "bumetanide-pioglitazone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1472"
-    },
-    "pioglitazone-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1472-DDInter248"
-    },
-    "prednisolone-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1513-DDInter248"
-    },
-    "bumetanide-prednisolone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1513"
-    },
-    "prednisone-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1515-DDInter248"
-    },
-    "bumetanide-prednisone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1515"
-    },
-    "bumetanide-repaglinide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1581"
-    },
-    "repaglinide-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1581-DDInter248"
-    },
-    "bumetanide-saxagliptin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1646"
-    },
-    "saxagliptin-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1646-DDInter248"
-    },
-    "bumetanide-semaglutide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1660"
-    },
-    "semaglutide-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1660-DDInter248"
-    },
-    "bumetanide-sitagliptin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1679"
-    },
-    "sitagliptin-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1679-DDInter248"
     },
     "buprenorphine-clarithromycin": {
       "nivo": "Srednji",
@@ -99620,16 +99240,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter989-DDInter652"
     },
-    "epinephrine-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter652-DDInter248"
-    },
-    "bumetanide-epinephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter652"
-    },
     "epinephrine-ondansetron": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -105319,16 +104929,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1735-DDInter1123"
-    },
-    "mannitol-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1123-DDInter248"
-    },
-    "bumetanide-mannitol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1123"
     },
     "mannitol-granisetron": {
       "nivo": "Srednji",
@@ -113389,176 +112989,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1906-DDInter989"
-    },
-    "calcitriol-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter268-DDInter248"
-    },
-    "bumetanide-calcitriol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter268"
-    },
-    "mesalazine-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1158-DDInter248"
-    },
-    "bumetanide-mesalazine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1158"
-    },
-    "clotrimazole-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter416-DDInter248"
-    },
-    "bumetanide-clotrimazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter416"
-    },
-    "vancomycin-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1916-DDInter248"
-    },
-    "bumetanide-vancomycin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1916"
-    },
-    "simvastatin-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1675-DDInter248"
-    },
-    "bumetanide-simvastatin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1675"
-    },
-    "nystatin-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1318-DDInter248"
-    },
-    "bumetanide-nystatin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1318"
-    },
-    "potassium chloride-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1497-DDInter248"
-    },
-    "bumetanide-potassium chloride": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1497"
-    },
-    "sulfasalazine-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1725-DDInter248"
-    },
-    "bumetanide-sulfasalazine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1725"
-    },
-    "loperamide-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1088-DDInter248"
-    },
-    "bumetanide-loperamide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1088"
-    },
-    "bumetanide-ondansetron": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1342"
-    },
-    "ondansetron-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1342-DDInter248"
-    },
-    "bumetanide-metronidazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1202"
-    },
-    "metronidazole-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1202-DDInter248"
-    },
-    "bumetanide-famotidine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter712"
-    },
-    "famotidine-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter712-DDInter248"
-    },
-    "bumetanide-rosuvastatin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1622"
-    },
-    "rosuvastatin-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1622-DDInter248"
-    },
-    "bumetanide-calcium chloride": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter272"
-    },
-    "calcium chloride-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter272-DDInter248"
-    },
-    "bumetanide-clarithromycin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter393"
-    },
-    "clarithromycin-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter393-DDInter248"
-    },
-    "bumetanide-metoclopramide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1197"
-    },
-    "metoclopramide-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1197-DDInter248"
-    },
-    "bumetanide-ursodeoxycholic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1906"
-    },
-    "ursodeoxycholic acid-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1906-DDInter248"
     },
     "pravastatin-granisetron": {
       "nivo": "Srednji",
@@ -126860,16 +126290,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter83-DDInter356"
     },
-    "bumetanide-amoxicillin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter83"
-    },
-    "amoxicillin-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter83-DDInter248"
-    },
     "ondansetron-amoxicillin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -138070,16 +137490,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter246-DDInter989"
     },
-    "bumetanide-budesonide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter246"
-    },
-    "budesonide-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter246-DDInter248"
-    },
     "granisetron-budesonide": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -147839,16 +147249,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter379-DDInter776"
-    },
-    "bumetanide-selexipag": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1656"
-    },
-    "selexipag-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1656-DDInter248"
     },
     "buprenorphine-cilostazol": {
       "nivo": "Srednji",
@@ -165290,66 +164690,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1683-DDInter989"
     },
-    "cyanocobalamin-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter451-DDInter248"
-    },
-    "bumetanide-cyanocobalamin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter451"
-    },
-    "folic acid-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter771-DDInter248"
-    },
-    "bumetanide-folic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter771"
-    },
-    "warfarin-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1951-DDInter248"
-    },
-    "bumetanide-warfarin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1951"
-    },
-    "clopidogrel-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter413-DDInter248"
-    },
-    "bumetanide-clopidogrel": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter413"
-    },
-    "bumetanide-sodium bicarbonate": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1683"
-    },
-    "sodium bicarbonate-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1683-DDInter248"
-    },
-    "bumetanide-acenocoumarol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter13"
-    },
-    "acenocoumarol-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter13-DDInter248"
-    },
     "warfarin-zonisamide": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -167489,16 +166829,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter856-DDInter989"
-    },
-    "bumetanide-heparin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter856"
-    },
-    "heparin-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter856-DDInter248"
     },
     "remifentanil-heparin": {
       "nivo": "Srednji",
@@ -170010,16 +169340,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter722-DDInter223"
     },
-    "fentanyl-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter722-DDInter248"
-    },
-    "bumetanide-fentanyl": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter722"
-    },
     "fentanyl-captopril": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -171230,16 +170550,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter776-DDInter216"
     },
-    "bumetanide-formoterol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter776"
-    },
-    "formoterol-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter776-DDInter248"
-    },
     "formoterol-carvedilol": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -171529,16 +170839,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter216-DDInter1010"
-    },
-    "ketorolac-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1010-DDInter248"
-    },
-    "bumetanide-ketorolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1010"
     },
     "ketorolac-captopril": {
       "nivo": "Srednji",
@@ -173750,16 +173050,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter228-DDInter900"
     },
-    "bumetanide-ibuprofen": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter900"
-    },
-    "ibuprofen-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter900-DDInter248"
-    },
     "ibuprofen-cabozantinib": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -174850,16 +174140,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1632-DDInter216"
     },
-    "bumetanide-salbutamol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1632"
-    },
-    "salbutamol-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1632-DDInter248"
-    },
     "salbutamol-carvedilol": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -175150,16 +174430,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter39-DDInter1928"
     },
-    "alendronic acid-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter42-DDInter248"
-    },
-    "bumetanide-alendronic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter42"
-    },
     "celecoxib-alendronic acid": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -175249,16 +174519,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter43-DDInter223"
-    },
-    "alfentanil-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter43-DDInter248"
-    },
-    "bumetanide-alfentanil": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter43"
     },
     "alfentanil-captopril": {
       "nivo": "Srednji",
@@ -175649,16 +174909,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter228-DDInter781"
-    },
-    "fosinopril-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter781-DDInter248"
-    },
-    "bumetanide-fosinopril": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter781"
     },
     "fosinopril-buprenorphine": {
       "nivo": "Srednji",
@@ -176439,16 +175689,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter883-DDInter216"
-    },
-    "bumetanide-hydrochlorothiazide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter883"
-    },
-    "hydrochlorothiazide-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter883-DDInter248"
     },
     "buprenorphine-hydrochlorothiazide": {
       "nivo": "Srednji",
@@ -177520,16 +176760,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter223-DDInter54"
     },
-    "alprazolam-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter54-DDInter248"
-    },
-    "bumetanide-alprazolam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter54"
-    },
     "alprazolam-captopril": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -178219,16 +177449,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Minor",
       "link": "DDInter62-DDInter1946"
-    },
-    "amikacin-bumetanide": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter66-DDInter248"
-    },
-    "bumetanide-amikacin": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter248-DDInter66"
     },
     "amikacin-celecoxib": {
       "nivo": "Srednji",
@@ -179189,16 +178409,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter233-DDInter76"
-    },
-    "bumetanide-amiodarone": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter248-DDInter76"
-    },
-    "amiodarone-bumetanide": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter76-DDInter248"
     },
     "bupivacaine-amiodarone": {
       "nivo": "Srednji",
@@ -181280,16 +180490,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter216-DDInter78"
     },
-    "amitriptyline-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter78-DDInter248"
-    },
-    "bumetanide-amitriptyline": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter78"
-    },
     "amitriptyline-captopril": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -183030,16 +182230,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter228-DDInter336"
     },
-    "celecoxib-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter336-DDInter248"
-    },
-    "bumetanide-celecoxib": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter336"
-    },
     "celecoxib-captopril": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -184550,16 +183740,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter118-DDInter223"
     },
-    "bumetanide-aripiprazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter118"
-    },
-    "aripiprazole-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter118-DDInter248"
-    },
     "captopril-aripiprazole": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -184870,16 +184050,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter118-DDInter1928"
     },
-    "bumetanide-arsenic trioxide": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter248-DDInter120"
-    },
-    "arsenic trioxide-bumetanide": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter120-DDInter248"
-    },
     "arsenic trioxide-flecainide": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -185069,16 +184239,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter243-DDInter130"
-    },
-    "atenolol-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter130-DDInter248"
-    },
-    "bumetanide-atenolol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter130"
     },
     "bupivacaine-atenolol": {
       "nivo": "Srednji",
@@ -187040,16 +186200,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter216-DDInter162"
     },
-    "baclofen-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter162-DDInter248"
-    },
-    "bumetanide-baclofen": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter162"
-    },
     "baclofen-captopril": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -187319,16 +186469,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1928-DDInter162"
-    },
-    "bumetanide-phenobarbital": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1442"
-    },
-    "phenobarbital-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1442-DDInter248"
     },
     "phenobarbital-captopril": {
       "nivo": "Srednji",
@@ -187889,16 +187029,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter243-DDInter216"
-    },
-    "bisoprolol-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter216-DDInter248"
-    },
-    "bumetanide-bisoprolol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter216"
     },
     "bupivacaine-bisoprolol": {
       "nivo": "Srednji",
@@ -190479,946 +189609,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter243-DDInter1809"
-    },
-    "bumetanide-buprenorphine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter251"
-    },
-    "buprenorphine-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter251-DDInter248"
-    },
-    "bumetanide-captopril": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter292"
-    },
-    "captopril-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter292-DDInter248"
-    },
-    "carbamazepine-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter293-DDInter248"
-    },
-    "bumetanide-carbamazepine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter293"
-    },
-    "bumetanide-carboplatin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter298"
-    },
-    "carboplatin-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter298-DDInter248"
-    },
-    "bumetanide-cariprazine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter300"
-    },
-    "cariprazine-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter300-DDInter248"
-    },
-    "bumetanide-carvedilol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter305"
-    },
-    "carvedilol-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter305-DDInter248"
-    },
-    "bumetanide-cefadroxil": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter310"
-    },
-    "cefadroxil-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter310-DDInter248"
-    },
-    "bumetanide-cefazolin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter314"
-    },
-    "cefazolin-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter314-DDInter248"
-    },
-    "bumetanide-cefepime": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter317"
-    },
-    "cefepime-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter317-DDInter248"
-    },
-    "cefixime-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter319-DDInter248"
-    },
-    "bumetanide-cefixime": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter319"
-    },
-    "cefotaxime-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter323-DDInter248"
-    },
-    "bumetanide-cefotaxime": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter323"
-    },
-    "bumetanide-cefpodoxime": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter326"
-    },
-    "cefpodoxime-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter326-DDInter248"
-    },
-    "bumetanide-cefprozil": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter327"
-    },
-    "cefprozil-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter327-DDInter248"
-    },
-    "bumetanide-ceftaroline fosamil": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter329"
-    },
-    "ceftaroline fosamil-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter329-DDInter248"
-    },
-    "ceftazidime-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter330-DDInter248"
-    },
-    "bumetanide-ceftazidime": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter330"
-    },
-    "bumetanide-ceftriaxone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter334"
-    },
-    "ceftriaxone-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter334-DDInter248"
-    },
-    "bumetanide-cefuroxime": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter335"
-    },
-    "cefuroxime-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter335-DDInter248"
-    },
-    "chlorpromazine-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter363-DDInter248"
-    },
-    "bumetanide-chlorpromazine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter363"
-    },
-    "ciprofloxacin-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter384-DDInter248"
-    },
-    "bumetanide-ciprofloxacin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter248-DDInter384"
-    },
-    "cisplatin-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter387-DDInter248"
-    },
-    "bumetanide-cisplatin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter387"
-    },
-    "citalopram-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter388-DDInter248"
-    },
-    "bumetanide-citalopram": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter388"
-    },
-    "bumetanide-clomipramine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter410"
-    },
-    "clomipramine-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter410-DDInter248"
-    },
-    "bumetanide-clonazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter411"
-    },
-    "clonazepam-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter411-DDInter248"
-    },
-    "clozapine-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter419-DDInter248"
-    },
-    "bumetanide-clozapine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter419"
-    },
-    "bumetanide-deflazacort": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter492"
-    },
-    "deflazacort-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter492-DDInter248"
-    },
-    "desmopressin-bumetanide": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter507-DDInter248"
-    },
-    "bumetanide-desmopressin": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter248-DDInter507"
-    },
-    "bumetanide-desvenlafaxine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter511"
-    },
-    "desvenlafaxine-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter511-DDInter248"
-    },
-    "dexmedetomidine-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter520-DDInter248"
-    },
-    "bumetanide-dexmedetomidine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter520"
-    },
-    "diazepam-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter534-DDInter248"
-    },
-    "bumetanide-diazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter534"
-    },
-    "diclofenac-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter537-DDInter248"
-    },
-    "bumetanide-diclofenac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter537"
-    },
-    "digoxin-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter554-DDInter248"
-    },
-    "bumetanide-digoxin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter554"
-    },
-    "bumetanide-dimenhydrinate": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter562"
-    },
-    "dimenhydrinate-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter562-DDInter248"
-    },
-    "bumetanide-diphenhydramine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter569"
-    },
-    "diphenhydramine-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter569-DDInter248"
-    },
-    "duloxetine-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter608-DDInter248"
-    },
-    "bumetanide-duloxetine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter608"
-    },
-    "enalapril-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter638-DDInter248"
-    },
-    "bumetanide-enalapril": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter638"
-    },
-    "bumetanide-escitalopram": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter672"
-    },
-    "escitalopram-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter672-DDInter248"
-    },
-    "bumetanide-etelcalcetide": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter248-DDInter688"
-    },
-    "etelcalcetide-bumetanide": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter688-DDInter248"
-    },
-    "fluoxetine-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter758-DDInter248"
-    },
-    "bumetanide-fluoxetine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter758"
-    },
-    "fluphenazine-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter760-DDInter248"
-    },
-    "bumetanide-fluphenazine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter760"
-    },
-    "flurbiprofen-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter763-DDInter248"
-    },
-    "bumetanide-flurbiprofen": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter763"
-    },
-    "gentamicin-bumetanide": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter815-DDInter248"
-    },
-    "bumetanide-gentamicin": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter248-DDInter815"
-    },
-    "haloperidol-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter853-DDInter248"
-    },
-    "bumetanide-haloperidol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter853"
-    },
-    "bumetanide-indacaterol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter915"
-    },
-    "indacaterol-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter915-DDInter248"
-    },
-    "indapamide-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter916-DDInter248"
-    },
-    "bumetanide-indapamide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter916"
-    },
-    "bumetanide-iodixanol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter958"
-    },
-    "iodixanol-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter958-DDInter248"
-    },
-    "bumetanide-iohexol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter960"
-    },
-    "iohexol-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter960-DDInter248"
-    },
-    "bumetanide-iopromide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter964"
-    },
-    "iopromide-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter964-DDInter248"
-    },
-    "irinotecan-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter973-DDInter248"
-    },
-    "bumetanide-irinotecan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter973"
-    },
-    "bumetanide-ketoprofen": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1009"
-    },
-    "ketoprofen-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1009-DDInter248"
-    },
-    "bumetanide-levodopa": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1054"
-    },
-    "levodopa-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1054-DDInter248"
-    },
-    "linezolid-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1073-DDInter248"
-    },
-    "bumetanide-linezolid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1073"
-    },
-    "lisinopril-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1079-DDInter248"
-    },
-    "bumetanide-lisinopril": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1079"
-    },
-    "lorazepam-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1092-DDInter248"
-    },
-    "bumetanide-lorazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1092"
-    },
-    "bumetanide-lurasidone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1104"
-    },
-    "lurasidone-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1104-DDInter248"
-    },
-    "bumetanide-maprotiline": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1124"
-    },
-    "maprotiline-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1124-DDInter248"
-    },
-    "bumetanide-maraviroc": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1125"
-    },
-    "maraviroc-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1125-DDInter248"
-    },
-    "meloxicam-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1143-DDInter248"
-    },
-    "bumetanide-meloxicam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1143"
-    },
-    "methadone-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1166-DDInter248"
-    },
-    "bumetanide-methadone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1166"
-    },
-    "bumetanide-methylprednisolone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1191"
-    },
-    "methylprednisolone-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1191-DDInter248"
-    },
-    "metoprolol-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1200-DDInter248"
-    },
-    "bumetanide-metoprolol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1200"
-    },
-    "midazolam-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1212-DDInter248"
-    },
-    "bumetanide-midazolam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1212"
-    },
-    "mirtazapine-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1230-DDInter248"
-    },
-    "bumetanide-mirtazapine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1230"
-    },
-    "naproxen-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1266-DDInter248"
-    },
-    "bumetanide-naproxen": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1266"
-    },
-    "bumetanide-nebivolol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1271"
-    },
-    "nebivolol-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1271-DDInter248"
-    },
-    "bumetanide-norfloxacin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter248-DDInter1313"
-    },
-    "norfloxacin-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter1313-DDInter248"
-    },
-    "bumetanide-ofloxacin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter248-DDInter1325"
-    },
-    "ofloxacin-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter1325-DDInter248"
-    },
-    "olanzapine-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1326-DDInter248"
-    },
-    "bumetanide-olanzapine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1326"
-    },
-    "bumetanide-olodaterol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1331"
-    },
-    "olodaterol-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1331-DDInter248"
-    },
-    "oxazepam-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1359-DDInter248"
-    },
-    "bumetanide-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1359"
-    },
-    "oxycodone-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1366-DDInter248"
-    },
-    "bumetanide-oxycodone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1366"
-    },
-    "bumetanide-paliperidone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1381"
-    },
-    "paliperidone-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1381-DDInter248"
-    },
-    "paroxetine-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1397-DDInter248"
-    },
-    "bumetanide-paroxetine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1397"
-    },
-    "pentoxifylline-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1426-DDInter248"
-    },
-    "bumetanide-pentoxifylline": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1426"
-    },
-    "perindopril-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1431-DDInter248"
-    },
-    "bumetanide-perindopril": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1431"
-    },
-    "propranolol-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1539-DDInter248"
-    },
-    "bumetanide-propranolol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1539"
-    },
-    "bumetanide-quetiapine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1553"
-    },
-    "quetiapine-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1553-DDInter248"
-    },
-    "ramipril-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1565-DDInter248"
-    },
-    "bumetanide-ramipril": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1565"
-    },
-    "bumetanide-rasagiline": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1572"
-    },
-    "rasagiline-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1572-DDInter248"
-    },
-    "bumetanide-riociguat": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1600"
-    },
-    "riociguat-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1600-DDInter248"
-    },
-    "risperidone-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1605-DDInter248"
-    },
-    "bumetanide-risperidone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1605"
-    },
-    "bumetanide-salmeterol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1635"
-    },
-    "salmeterol-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1635-DDInter248"
-    },
-    "bumetanide-sertraline": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1662"
-    },
-    "sertraline-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1662-DDInter248"
-    },
-    "sildenafil-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1666-DDInter248"
-    },
-    "bumetanide-sildenafil": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1666"
-    },
-    "bumetanide-sodium oxybate": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1690"
-    },
-    "sodium oxybate-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1690-DDInter248"
-    },
-    "sotalol-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1704-DDInter248"
-    },
-    "bumetanide-sotalol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1704"
-    },
-    "tadalafil-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter1736-DDInter248"
-    },
-    "bumetanide-tadalafil": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter248-DDInter1736"
-    },
-    "bumetanide-tafamidis": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1737"
-    },
-    "tafamidis-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1737-DDInter248"
-    },
-    "timolol-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1809-DDInter248"
-    },
-    "bumetanide-timolol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1809"
-    },
-    "tizanidine-bumetanide": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1821-DDInter248"
-    },
-    "bumetanide-tizanidine": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter248-DDInter1821"
-    },
-    "tobramycin-bumetanide": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1822-DDInter248"
-    },
-    "bumetanide-tobramycin": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter248-DDInter1822"
-    },
-    "trazodone-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1851-DDInter248"
-    },
-    "bumetanide-trazodone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1851"
-    },
-    "venlafaxine-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1927-DDInter248"
-    },
-    "bumetanide-venlafaxine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1927"
-    },
-    "zoledronic acid-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1968-DDInter248"
-    },
-    "bumetanide-zoledronic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1968"
-    },
-    "zolpidem-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1970-DDInter248"
-    },
-    "bumetanide-zolpidem": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1970"
     },
     "bupivacaine-carvedilol": {
       "nivo": "Srednji",
@@ -197459,16 +195649,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter330-DDInter1836"
-    },
-    "bumetanide-ceftolozane": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter333"
-    },
-    "ceftolozane-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter333-DDInter248"
     },
     "furosemide-ceftolozane": {
       "nivo": "Srednji",
@@ -209319,16 +207499,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1934-DDInter216"
-    },
-    "bumetanide-vilanterol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter248-DDInter1934"
-    },
-    "vilanterol-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1934-DDInter248"
     },
     "carvedilol-vilanterol": {
       "nivo": "Visok",
@@ -228480,16 +226650,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter989-DDInter1791"
     },
-    "theophylline-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1791-DDInter248"
-    },
-    "bumetanide-theophylline": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1791"
-    },
     "theophylline-ezetimibe": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -230409,16 +228569,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter989-DDInter14"
-    },
-    "acetaminophen-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter14-DDInter248"
-    },
-    "bumetanide-acetaminophen": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter14"
     },
     "acetaminophen-telmisartan": {
       "nivo": "Srednji",
@@ -235020,16 +233170,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter989-DDInter79"
     },
-    "amlodipine-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter79-DDInter248"
-    },
-    "bumetanide-amlodipine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter79"
-    },
     "amlodipine-bimatoprost": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -238899,16 +237039,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter989-DDInter1064"
-    },
-    "levothyroxine-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1064-DDInter248"
-    },
-    "bumetanide-levothyroxine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1064"
     },
     "levothyroxine-telmisartan": {
       "nivo": "Srednji",
@@ -252950,16 +251080,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter916-DDInter679"
     },
-    "estradiol-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter679-DDInter248"
-    },
-    "bumetanide-estradiol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter679"
-    },
     "estradiol-telmisartan": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -255990,906 +254110,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter766-DDInter989"
     },
-    "pravastatin-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1509-DDInter248"
-    },
-    "bumetanide-pravastatin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1509"
-    },
-    "valsartan-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1915-DDInter248"
-    },
-    "bumetanide-valsartan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1915"
-    },
-    "bortezomib-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter222-DDInter248"
-    },
-    "bumetanide-bortezomib": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter222"
-    },
-    "tramadol-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1841-DDInter248"
-    },
-    "bumetanide-tramadol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1841"
-    },
-    "fluconazole-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter743-DDInter248"
-    },
-    "bumetanide-fluconazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter743"
-    },
-    "erythromycin-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter670-DDInter248"
-    },
-    "bumetanide-erythromycin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter670"
-    },
-    "torasemide-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1836-DDInter248"
-    },
-    "bumetanide-torasemide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1836"
-    },
-    "moxifloxacin-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1247-DDInter248"
-    },
-    "bumetanide-moxifloxacin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1247"
-    },
-    "pregabalin-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1516-DDInter248"
-    },
-    "bumetanide-pregabalin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1516"
-    },
-    "ranolazine-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1570-DDInter248"
-    },
-    "bumetanide-ranolazine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1570"
-    },
-    "ropinirole-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1619-DDInter248"
-    },
-    "bumetanide-ropinirole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1619"
-    },
-    "topiramate-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1834-DDInter248"
-    },
-    "bumetanide-topiramate": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1834"
-    },
-    "lidocaine-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1066-DDInter248"
-    },
-    "bumetanide-lidocaine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1066"
-    },
-    "valproic acid-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1913-DDInter248"
-    },
-    "bumetanide-valproic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1913"
-    },
-    "zolmitriptan-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter248"
-    },
-    "bumetanide-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1969"
-    },
-    "cetirizine-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter343-DDInter248"
-    },
-    "bumetanide-cetirizine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter343"
-    },
-    "diltiazem-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter561-DDInter248"
-    },
-    "bumetanide-diltiazem": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter561"
-    },
-    "minoxidil-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1226-DDInter248"
-    },
-    "bumetanide-minoxidil": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1226"
-    },
-    "sorafenib-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1702-DDInter248"
-    },
-    "bumetanide-sorafenib": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1702"
-    },
-    "pramipexole-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1505-DDInter248"
-    },
-    "bumetanide-pramipexole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1505"
-    },
-    "spironolactone-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1707-DDInter248"
-    },
-    "bumetanide-spironolactone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1707"
-    },
-    "allopurinol-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter48-DDInter248"
-    },
-    "bumetanide-allopurinol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter48"
-    },
-    "trimethoprim-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1874-DDInter248"
-    },
-    "bumetanide-trimethoprim": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1874"
-    },
-    "gemcitabine-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter811-DDInter248"
-    },
-    "bumetanide-gemcitabine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter811"
-    },
-    "loratadine-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1091-DDInter248"
-    },
-    "bumetanide-loratadine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1091"
-    },
-    "montelukast-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1242-DDInter248"
-    },
-    "bumetanide-montelukast": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1242"
-    },
-    "lenalidomide-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1035-DDInter248"
-    },
-    "bumetanide-lenalidomide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1035"
-    },
-    "ritonavir-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1607-DDInter248"
-    },
-    "bumetanide-ritonavir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1607"
-    },
-    "erlotinib-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter667-DDInter248"
-    },
-    "bumetanide-erlotinib": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter667"
-    },
-    "cyclophosphamide-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter456-DDInter248"
-    },
-    "bumetanide-cyclophosphamide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter456"
-    },
-    "vincristine-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1937-DDInter248"
-    },
-    "bumetanide-vincristine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1937"
-    },
-    "fluorouracil-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter757-DDInter248"
-    },
-    "bumetanide-fluorouracil": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter757"
-    },
-    "lamotrigine-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1020-DDInter248"
-    },
-    "bumetanide-lamotrigine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1020"
-    },
-    "bosentan-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter223-DDInter248"
-    },
-    "bumetanide-bosentan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter223"
-    },
-    "methotrexate-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1174-DDInter248"
-    },
-    "bumetanide-methotrexate": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1174"
-    },
-    "doxazosin-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter592-DDInter248"
-    },
-    "bumetanide-doxazosin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter592"
-    },
-    "amiloride-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter68-DDInter248"
-    },
-    "bumetanide-amiloride": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter68"
-    },
-    "testosterone-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1775-DDInter248"
-    },
-    "bumetanide-testosterone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1775"
-    },
-    "latanoprost-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1028-DDInter248"
-    },
-    "bumetanide-latanoprost": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1028"
-    },
-    "sevelamer-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1663-DDInter248"
-    },
-    "bumetanide-sevelamer": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1663"
-    },
-    "verapamil-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1928-DDInter248"
-    },
-    "bumetanide-verapamil": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1928"
-    },
-    "sumatriptan-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1730-DDInter248"
-    },
-    "bumetanide-sumatriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1730"
-    },
-    "tamoxifen-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1744-DDInter248"
-    },
-    "bumetanide-tamoxifen": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1744"
-    },
-    "losartan-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1095-DDInter248"
-    },
-    "bumetanide-losartan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1095"
-    },
-    "furosemide-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter790-DDInter248"
-    },
-    "bumetanide-furosemide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter790"
-    },
-    "nitrofurantoin-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1303-DDInter248"
-    },
-    "bumetanide-nitrofurantoin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1303"
-    },
-    "eplerenone-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter656-DDInter248"
-    },
-    "bumetanide-eplerenone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter656"
-    },
-    "tamsulosin-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1745-DDInter248"
-    },
-    "bumetanide-tamsulosin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1745"
-    },
-    "lamivudine-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1019-DDInter248"
-    },
-    "bumetanide-lamivudine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1019"
-    },
-    "etoposide-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter702-DDInter248"
-    },
-    "bumetanide-etoposide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter702"
-    },
-    "propofol-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1538-DDInter248"
-    },
-    "bumetanide-propofol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1538"
-    },
-    "donepezil-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter583-DDInter248"
-    },
-    "bumetanide-donepezil": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter583"
-    },
-    "terbinafine-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1768-DDInter248"
-    },
-    "bumetanide-terbinafine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1768"
-    },
-    "tacrolimus-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1735-DDInter248"
-    },
-    "bumetanide-tacrolimus": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1735"
-    },
-    "sirolimus-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1678-DDInter248"
-    },
-    "bumetanide-sirolimus": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1678"
-    },
-    "isosorbide dinitrate-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter989-DDInter248"
-    },
-    "bumetanide-isosorbide dinitrate": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter989"
-    },
-    "bumetanide-bimatoprost": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter207"
-    },
-    "bimatoprost-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter207-DDInter248"
-    },
-    "bumetanide-fexofenadine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter732"
-    },
-    "fexofenadine-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter732-DDInter248"
-    },
-    "bumetanide-telmisartan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1759"
-    },
-    "telmisartan-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1759-DDInter248"
-    },
-    "bumetanide-desloratadine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter506"
-    },
-    "desloratadine-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter506-DDInter248"
-    },
-    "bumetanide-methyldopa": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1185"
-    },
-    "methyldopa-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1185-DDInter248"
-    },
-    "bumetanide-ezetimibe": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter707"
-    },
-    "ezetimibe-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter707-DDInter248"
-    },
-    "bumetanide-rivastigmine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1610"
-    },
-    "rivastigmine-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1610-DDInter248"
-    },
-    "bumetanide-gabapentin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter791"
-    },
-    "gabapentin-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter791-DDInter248"
-    },
-    "bumetanide-cinacalcet": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter381"
-    },
-    "cinacalcet-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter381-DDInter248"
-    },
-    "bumetanide-isosorbide mononitrate": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter990"
-    },
-    "isosorbide mononitrate-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter990-DDInter248"
-    },
-    "bumetanide-felodipine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter716"
-    },
-    "felodipine-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter716-DDInter248"
-    },
-    "bumetanide-ketoconazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1008"
-    },
-    "ketoconazole-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1008-DDInter248"
-    },
-    "bumetanide-irbesartan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter972"
-    },
-    "irbesartan-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter972-DDInter248"
-    },
-    "bumetanide-tolterodine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1832"
-    },
-    "tolterodine-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1832-DDInter248"
-    },
-    "bumetanide-fenofibrate": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter718"
-    },
-    "fenofibrate-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter718-DDInter248"
-    },
-    "bumetanide-thalidomide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1789"
-    },
-    "thalidomide-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1789-DDInter248"
-    },
-    "bumetanide-memantine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1146"
-    },
-    "memantine-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1146-DDInter248"
-    },
-    "bumetanide-rifampicin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1590"
-    },
-    "rifampicin-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1590-DDInter248"
-    },
-    "bumetanide-leflunomide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1033"
-    },
-    "leflunomide-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1033-DDInter248"
-    },
-    "bumetanide-nifedipine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1291"
-    },
-    "nifedipine-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1291-DDInter248"
-    },
-    "bumetanide-dutasteride": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter611"
-    },
-    "dutasteride-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter611-DDInter248"
-    },
-    "bumetanide-terazosin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1767"
-    },
-    "terazosin-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1767-DDInter248"
-    },
-    "bumetanide-itraconazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter995"
-    },
-    "itraconazole-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter995-DDInter248"
-    },
-    "bumetanide-flecainide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter740"
-    },
-    "flecainide-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter740-DDInter248"
-    },
-    "bumetanide-zopiclone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1972"
-    },
-    "zopiclone-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1972-DDInter248"
-    },
-    "bumetanide-levetiracetam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1046"
-    },
-    "levetiracetam-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1046-DDInter248"
-    },
-    "bumetanide-finasteride": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter736"
-    },
-    "finasteride-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter736-DDInter248"
-    },
-    "bumetanide-paclitaxel": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1377"
-    },
-    "paclitaxel-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1377-DDInter248"
-    },
-    "bumetanide-docetaxel": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter578"
-    },
-    "docetaxel-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter578-DDInter248"
-    },
-    "bumetanide-nitrazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1301"
-    },
-    "nitrazepam-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1301-DDInter248"
-    },
-    "bumetanide-valganciclovir": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1912"
-    },
-    "valganciclovir-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1912-DDInter248"
-    },
-    "bumetanide-hydroxychloroquine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter893"
-    },
-    "hydroxychloroquine-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter893-DDInter248"
-    },
-    "bumetanide-ambrisentan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter62"
-    },
-    "ambrisentan-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter62-DDInter248"
-    },
-    "bumetanide-fluticasone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter766"
-    },
-    "fluticasone-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter766-DDInter248"
-    },
     "zonisamide-telmisartan": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -259499,16 +256719,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter596-DDInter916"
-    },
-    "bumetanide-doxorubicin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter596"
-    },
-    "doxorubicin-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter596-DDInter248"
     },
     "telmisartan-doxorubicin": {
       "nivo": "Srednji",
@@ -267839,16 +265049,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter133-DDInter989"
-    },
-    "bumetanide-atorvastatin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter133"
-    },
-    "atorvastatin-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter133-DDInter248"
     },
     "bimatoprost-atorvastatin": {
       "nivo": "Srednji",
@@ -276619,16 +273819,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter19-DDInter989"
-    },
-    "bumetanide-acetylcysteine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter19"
-    },
-    "acetylcysteine-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter19-DDInter248"
     },
     "ezetimibe-acetylcysteine": {
       "nivo": "Srednji",
@@ -510689,7 +507879,6 @@
     "bortezomib": "DDInter222",
     "brentuximab vedotin": "DDInter228",
     "brigatinib": "DDInter233",
-    "bumetanide": "DDInter248",
     "cariprazine": "DDInter300",
     "chlorpromazine": "DDInter363",
     "ciprofloxacin": "DDInter384",
