@@ -6080,6 +6080,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter607-DDInter885"
     },
+    "hydrocortisone-durvalumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter885-DDInter610"
+    },
+    "durvalumab-hydrocortisone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter610-DDInter885"
+    },
     "hydrocortisone-empagliflozin": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -18680,6 +18690,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter607-DDInter1855"
     },
+    "triamcinolone-durvalumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1855-DDInter610"
+    },
+    "durvalumab-triamcinolone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter610-DDInter1855"
+    },
     "triamcinolone-empagliflozin": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -24530,6 +24550,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter607-DDInter513"
     },
+    "dexamethasone-durvalumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter513-DDInter610"
+    },
+    "durvalumab-dexamethasone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter610-DDInter513"
+    },
     "dexamethasone-eliglustat": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -26389,6 +26419,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter607-DDInter195"
+    },
+    "betamethasone-durvalumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter195-DDInter610"
+    },
+    "durvalumab-betamethasone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter610-DDInter195"
     },
     "betamethasone-empagliflozin": {
       "nivo": "Srednji",
@@ -30229,6 +30269,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter246-DDInter592"
+    },
+    "budesonide-durvalumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter246-DDInter610"
+    },
+    "durvalumab-budesonide": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter610-DDInter246"
     },
     "enalapril-budesonide": {
       "nivo": "Srednji",
@@ -41969,6 +42019,26 @@
       "nivo": "Srednji",
       "opis": "Rizik: Minor",
       "link": "DDInter608-DDInter1388"
+    },
+    "prednisolone-durvalumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1513-DDInter610"
+    },
+    "durvalumab-prednisolone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter610-DDInter1513"
+    },
+    "prednisone-durvalumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1515-DDInter610"
+    },
+    "durvalumab-prednisone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter610-DDInter1515"
     },
     "clotrimazole-dutasteride": {
       "nivo": "Srednji",
@@ -285870,6 +285940,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1768-DDInter608"
     },
+    "methylprednisolone-durvalumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1191-DDInter610"
+    },
+    "durvalumab-methylprednisolone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter610-DDInter1191"
+    },
     "erythromycin-dutasteride": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -335280,6 +335360,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter492-DDInter564"
     },
+    "durvalumab-deflazacort": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter610-DDInter492"
+    },
+    "deflazacort-durvalumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter492-DDInter610"
+    },
     "enzalutamide-deflazacort": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -383910,6 +384000,16 @@
       "opis": "Rizik: Major",
       "link": "DDInter596-DDInter27"
     },
+    "adalimumab-durvalumab": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter27-DDInter610"
+    },
+    "durvalumab-adalimumab": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter610-DDInter27"
+    },
     "adalimumab-epirubicin": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -386499,6 +386599,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter596-DDInter41"
+    },
+    "alemtuzumab-durvalumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter41-DDInter610"
+    },
+    "durvalumab-alemtuzumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter610-DDInter41"
     },
     "alemtuzumab-epirubicin": {
       "nivo": "Srednji",
@@ -393270,6 +393380,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter596-DDInter150"
     },
+    "azathioprine-durvalumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter150-DDInter610"
+    },
+    "durvalumab-azathioprine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter610-DDInter150"
+    },
     "epirubicin-azathioprine": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -394279,6 +394399,16 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter165-DDInter596"
+    },
+    "durvalumab-baricitinib": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter610-DDInter165"
+    },
+    "baricitinib-durvalumab": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter165-DDInter610"
     },
     "epirubicin-baricitinib": {
       "nivo": "Visok",
@@ -402550,6 +402680,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter281-DDInter596"
     },
+    "canakinumab-durvalumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter281-DDInter610"
+    },
+    "durvalumab-canakinumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter610-DDInter281"
+    },
     "epirubicin-canakinumab": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -407459,6 +407599,16 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter596-DDInter392"
+    },
+    "cladribine-durvalumab": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter392-DDInter610"
+    },
+    "durvalumab-cladribine": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter610-DDInter392"
     },
     "cladribine-entrectinib": {
       "nivo": "Srednji",
@@ -415080,6 +415230,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter500-DDInter596"
     },
+    "denosumab-durvalumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter500-DDInter610"
+    },
+    "durvalumab-denosumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter610-DDInter500"
+    },
     "epirubicin-denosumab": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -416019,6 +416179,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter564-DDInter596"
+    },
+    "dimethyl fumarate-durvalumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter564-DDInter610"
+    },
+    "durvalumab-dimethyl fumarate": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter610-DDInter564"
     },
     "epirubicin-dimethyl fumarate": {
       "nivo": "Srednji",
@@ -419329,6 +419499,176 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1840-DDInter608"
+    },
+    "etanercept-durvalumab": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter687-DDInter610"
+    },
+    "durvalumab-etanercept": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter610-DDInter687"
+    },
+    "fingolimod-durvalumab": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter737-DDInter610"
+    },
+    "durvalumab-fingolimod": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter610-DDInter737"
+    },
+    "golimumab-durvalumab": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter837-DDInter610"
+    },
+    "durvalumab-golimumab": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter610-DDInter837"
+    },
+    "infliximab-durvalumab": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter923-DDInter610"
+    },
+    "durvalumab-infliximab": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter610-DDInter923"
+    },
+    "durvalumab-lactobacillus acidophilus": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter610-DDInter1017"
+    },
+    "lactobacillus acidophilus-durvalumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1017-DDInter610"
+    },
+    "leflunomide-durvalumab": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1033-DDInter610"
+    },
+    "durvalumab-leflunomide": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter610-DDInter1033"
+    },
+    "lenalidomide-durvalumab": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1035-DDInter610"
+    },
+    "durvalumab-lenalidomide": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter610-DDInter1035"
+    },
+    "natalizumab-durvalumab": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1268-DDInter610"
+    },
+    "durvalumab-natalizumab": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter610-DDInter1268"
+    },
+    "durvalumab-ocrelizumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter610-DDInter1321"
+    },
+    "ocrelizumab-durvalumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1321-DDInter610"
+    },
+    "pomalidomide-durvalumab": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1491-DDInter610"
+    },
+    "durvalumab-pomalidomide": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter610-DDInter1491"
+    },
+    "roflumilast-durvalumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1614-DDInter610"
+    },
+    "durvalumab-roflumilast": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter610-DDInter1614"
+    },
+    "durvalumab-siponimod": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter610-DDInter1676"
+    },
+    "siponimod-durvalumab": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1676-DDInter610"
+    },
+    "teriflunomide-durvalumab": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1771-DDInter610"
+    },
+    "durvalumab-teriflunomide": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter610-DDInter1771"
+    },
+    "thalidomide-durvalumab": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1789-DDInter610"
+    },
+    "durvalumab-thalidomide": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter610-DDInter1789"
+    },
+    "tofacitinib-durvalumab": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1825-DDInter610"
+    },
+    "durvalumab-tofacitinib": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter610-DDInter1825"
+    },
+    "durvalumab-upadacitinib": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter610-DDInter1901"
+    },
+    "upadacitinib-durvalumab": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1901-DDInter610"
+    },
+    "ustekinumab-durvalumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1907-DDInter610"
+    },
+    "durvalumab-ustekinumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter610-DDInter1907"
     },
     "methotrexate-levetiracetam": {
       "nivo": "Srednji",
@@ -514419,6 +514759,7 @@
     "diltiazem": "DDInter561",
     "dimethyl fumarate": "DDInter564",
     "doxazosin": "DDInter592",
+    "durvalumab": "DDInter610",
     "enalapril": "DDInter638",
     "eplerenone": "DDInter656",
     "etanercept": "DDInter687",
