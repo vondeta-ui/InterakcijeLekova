@@ -790,6 +790,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter9-DDInter712"
     },
+    "lansoprazole-acalabrutinib": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1022-DDInter9"
+    },
+    "acalabrutinib-lansoprazole": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter9-DDInter1022"
+    },
     "magaldrate-acalabrutinib": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -8480,6 +8490,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter883-DDInter1018"
     },
+    "lansoprazole-hydrochlorothiazide": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter883"
+    },
+    "hydrochlorothiazide-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter883-DDInter1022"
+    },
     "hydrochlorothiazide-linagliptin": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -11640,6 +11660,16 @@
       "opis": "Rizik: Minor",
       "link": "DDInter1008-DDInter85"
     },
+    "lansoprazole-amphotericin b": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter85"
+    },
+    "amphotericin b-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter85-DDInter1022"
+    },
     "amphotericin b-melphalan": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -11989,6 +12019,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter676-DDInter66"
+    },
+    "lansoprazole-amikacin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter66"
+    },
+    "amikacin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter66-DDInter1022"
     },
     "amikacin-mannitol": {
       "nivo": "Visok",
@@ -13049,6 +13089,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter519-DDInter89"
+    },
+    "ampicillin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter89-DDInter1022"
+    },
+    "lansoprazole-ampicillin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter89"
     },
     "testosterone-aprepitant": {
       "nivo": "Srednji",
@@ -14430,6 +14480,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter718-DDInter940"
     },
+    "lansoprazole-fenofibrate": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter718"
+    },
+    "fenofibrate-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter718-DDInter1022"
+    },
     "naltrexone-fenofibrate": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -14589,6 +14649,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter107-DDInter1018"
+    },
+    "lansoprazole-apalutamide": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter107"
+    },
+    "apalutamide-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter107-DDInter1022"
     },
     "levofloxacin-apalutamide": {
       "nivo": "Srednji",
@@ -16959,6 +17029,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1008-DDInter112"
+    },
+    "lansoprazole-aprepitant": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter112"
+    },
+    "aprepitant-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter112-DDInter1022"
     },
     "aprepitant-lapatinib": {
       "nivo": "Srednji",
@@ -21650,6 +21730,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1009-DDInter20"
     },
+    "lansoprazole-acetylsalicylic acid": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Minor",
+      "link": "DDInter1022-DDInter20"
+    },
+    "acetylsalicylic acid-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Minor",
+      "link": "DDInter20-DDInter1022"
+    },
     "acetylsalicylic acid-leflunomide": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -23060,6 +23150,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter133-DDInter676"
     },
+    "lansoprazole-atorvastatin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter133"
+    },
+    "atorvastatin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter133-DDInter1022"
+    },
     "atorvastatin-liraglutide": {
       "nivo": "Srednji",
       "opis": "Rizik: Minor",
@@ -23759,6 +23859,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Minor",
       "link": "DDInter147-DDInter676"
+    },
+    "lansoprazole-axitinib": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Minor",
+      "link": "DDInter1022-DDInter147"
+    },
+    "axitinib-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Minor",
+      "link": "DDInter147-DDInter1022"
     },
     "axitinib-magaldrate": {
       "nivo": "Srednji",
@@ -29910,6 +30020,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter233-DDInter940"
     },
+    "lansoprazole-brigatinib": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter233"
+    },
+    "brigatinib-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter233-DDInter1022"
+    },
     "linagliptin-brigatinib": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -30050,6 +30170,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter393-DDInter243"
     },
+    "lansoprazole-bromocriptine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter243"
+    },
+    "bromocriptine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter243-DDInter1022"
+    },
     "bromocriptine-metoclopramide": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -30079,6 +30209,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Minor",
       "link": "DDInter676-DDInter451"
+    },
+    "cyanocobalamin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Minor",
+      "link": "DDInter451-DDInter1022"
+    },
+    "lansoprazole-cyanocobalamin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Minor",
+      "link": "DDInter1022-DDInter451"
     },
     "cyanocobalamin-omeprazole": {
       "nivo": "Srednji",
@@ -31139,6 +31279,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter248-DDInter1018"
+    },
+    "lansoprazole-bumetanide": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter248"
+    },
+    "bumetanide-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter248-DDInter1022"
     },
     "bumetanide-linagliptin": {
       "nivo": "Srednji",
@@ -32320,6 +32470,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter298-DDInter676"
     },
+    "lansoprazole-carboplatin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter298"
+    },
+    "carboplatin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter298-DDInter1022"
+    },
     "carboplatin-levofloxacin": {
       "nivo": "Srednji",
       "opis": "Rizik: Minor",
@@ -32519,6 +32679,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Minor",
       "link": "DDInter561-DDInter940"
+    },
+    "diltiazem-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter561-DDInter1022"
+    },
+    "lansoprazole-diltiazem": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter561"
     },
     "diltiazem-miconazole": {
       "nivo": "Srednji",
@@ -33180,6 +33350,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter326-DDInter676"
     },
+    "lansoprazole-cefpodoxime": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter326"
+    },
+    "cefpodoxime-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter326-DDInter1022"
+    },
     "cefpodoxime-magaldrate": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -33320,6 +33500,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter335-DDInter676"
     },
+    "lansoprazole-cefuroxime": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter335"
+    },
+    "cefuroxime-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter335-DDInter1022"
+    },
     "cefuroxime-magaldrate": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -33399,6 +33589,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter676-DDInter344"
+    },
+    "cetuximab-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter344-DDInter1022"
+    },
+    "lansoprazole-cetuximab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter344"
     },
     "cetuximab-pantoprazole": {
       "nivo": "Srednji",
@@ -33599,6 +33799,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter379-DDInter1018"
+    },
+    "lansoprazole-cilostazol": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1022-DDInter379"
+    },
+    "cilostazol-lansoprazole": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter379-DDInter1022"
     },
     "levofloxacin-cilostazol": {
       "nivo": "Srednji",
@@ -34040,6 +34250,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter676-DDInter387"
     },
+    "lansoprazole-cisplatin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter387"
+    },
+    "cisplatin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter387-DDInter1022"
+    },
     "cisplatin-levofloxacin": {
       "nivo": "Srednji",
       "opis": "Rizik: Minor",
@@ -34239,6 +34459,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1018-DDInter388"
+    },
+    "citalopram-lansoprazole": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter388-DDInter1022"
+    },
+    "lansoprazole-citalopram": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1022-DDInter388"
     },
     "citalopram-levofloxacin": {
       "nivo": "Visok",
@@ -35119,6 +35349,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter393-DDInter1018"
+    },
+    "lansoprazole-clarithromycin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter393"
+    },
+    "clarithromycin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter393-DDInter1022"
     },
     "clarithromycin-lapatinib": {
       "nivo": "Visok",
@@ -36509,6 +36749,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Minor",
       "link": "DDInter413-DDInter825"
+    },
+    "lansoprazole-clopidogrel": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter413"
+    },
+    "clopidogrel-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter413-DDInter1022"
     },
     "pantoprazole-clopidogrel": {
       "nivo": "Srednji",
@@ -39470,6 +39720,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter484-DDInter1018"
     },
+    "lansoprazole-dasatinib": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1022-DDInter484"
+    },
+    "dasatinib-lansoprazole": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter484-DDInter1022"
+    },
     "levofloxacin-dasatinib": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -39649,6 +39909,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter488-DDInter840"
+    },
+    "lansoprazole-deferasirox": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter488"
+    },
+    "deferasirox-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter488-DDInter1022"
     },
     "deferasirox-linagliptin": {
       "nivo": "Srednji",
@@ -40479,6 +40749,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter676-DDInter554"
+    },
+    "digoxin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter554-DDInter1022"
+    },
+    "lansoprazole-digoxin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter554"
     },
     "digoxin-liraglutide": {
       "nivo": "Srednji",
@@ -41840,6 +42120,16 @@
       "opis": "Rizik: Major",
       "link": "DDInter840-DDInter608"
     },
+    "lansoprazole-duloxetine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Minor",
+      "link": "DDInter1022-DDInter608"
+    },
+    "duloxetine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Minor",
+      "link": "DDInter608-DDInter1022"
+    },
     "duloxetine-magaldrate": {
       "nivo": "Srednji",
       "opis": "Rizik: Minor",
@@ -43049,6 +43339,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter676-DDInter1791"
+    },
+    "theophylline-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Minor",
+      "link": "DDInter1791-DDInter1022"
+    },
+    "lansoprazole-theophylline": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Minor",
+      "link": "DDInter1022-DDInter1791"
     },
     "pantoprazole-theophylline": {
       "nivo": "Srednji",
@@ -44370,6 +44670,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1595-DDInter1018"
     },
+    "lansoprazole-rilpivirine": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1022-DDInter1595"
+    },
+    "rilpivirine-lansoprazole": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1595-DDInter1022"
+    },
     "levofloxacin-rilpivirine": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -44779,6 +45089,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1064-DDInter940"
+    },
+    "lansoprazole-levothyroxine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter1064"
+    },
+    "levothyroxine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1064-DDInter1022"
     },
     "levothyroxine-liraglutide": {
       "nivo": "Srednji",
@@ -45379,6 +45699,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1008-DDInter676"
+    },
+    "lansoprazole-naproxen": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter1266"
+    },
+    "naproxen-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1266-DDInter1022"
     },
     "naproxen-levofloxacin": {
       "nivo": "Srednji",
@@ -46630,6 +46960,16 @@
       "opis": "Rizik: Major",
       "link": "DDInter676-DDInter1174"
     },
+    "lansoprazole-methotrexate": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1022-DDInter1174"
+    },
+    "methotrexate-lansoprazole": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1174-DDInter1022"
+    },
     "methotrexate-levofloxacin": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -46759,6 +47099,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1386-DDInter676"
+    },
+    "lansoprazole-panitumumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter1386"
+    },
+    "panitumumab-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1386-DDInter1022"
     },
     "pantoprazole-panitumumab": {
       "nivo": "Srednji",
@@ -49290,6 +49640,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1924-DDInter712"
     },
+    "lansoprazole-velpatasvir": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1022-DDInter1924"
+    },
+    "velpatasvir-lansoprazole": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1924-DDInter1022"
+    },
     "magaldrate-velpatasvir": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -50549,6 +50909,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Minor",
       "link": "DDInter1940-DDInter676"
+    },
+    "lansoprazole-vismodegib": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Minor",
+      "link": "DDInter1022-DDInter1940"
+    },
+    "vismodegib-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Minor",
+      "link": "DDInter1940-DDInter1022"
     },
     "vismodegib-magaldrate": {
       "nivo": "Srednji",
@@ -53670,6 +54040,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter995-DDInter840"
     },
+    "lansoprazole-itraconazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter995"
+    },
+    "itraconazole-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter995-DDInter1022"
+    },
     "itraconazole-magaldrate": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -53820,6 +54200,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter676-DDInter1951"
     },
+    "lansoprazole-warfarin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter1951"
+    },
+    "warfarin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1951-DDInter1022"
+    },
     "warfarin-levofloxacin": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -53969,6 +54359,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1008-DDInter1018"
+    },
+    "lansoprazole-ketoconazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter1008"
+    },
+    "ketoconazole-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1008-DDInter1022"
     },
     "ketoconazole-levofloxacin": {
       "nivo": "Srednji",
@@ -55149,6 +55549,316 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1021-DDInter1679"
+    },
+    "lansoprazole-aminophylline": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Minor",
+      "link": "DDInter1022-DDInter74"
+    },
+    "aminophylline-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Minor",
+      "link": "DDInter74-DDInter1022"
+    },
+    "lansoprazole-enzalutamide": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter649"
+    },
+    "enzalutamide-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter649-DDInter1022"
+    },
+    "lansoprazole-erlotinib": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1022-DDInter667"
+    },
+    "erlotinib-lansoprazole": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter667-DDInter1022"
+    },
+    "lansoprazole-escitalopram": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter672"
+    },
+    "escitalopram-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter672-DDInter1022"
+    },
+    "lansoprazole-ferrous fumarate": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter725"
+    },
+    "ferrous fumarate-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter725-DDInter1022"
+    },
+    "fluconazole-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter743-DDInter1022"
+    },
+    "lansoprazole-fluconazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter743"
+    },
+    "lansoprazole-furosemide": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter790"
+    },
+    "furosemide-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter790-DDInter1022"
+    },
+    "gefitinib-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter810-DDInter1022"
+    },
+    "lansoprazole-gefitinib": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter810"
+    },
+    "lansoprazole-gentamicin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter815"
+    },
+    "gentamicin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter815-DDInter1022"
+    },
+    "lansoprazole-imatinib": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter909"
+    },
+    "imatinib-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter909-DDInter1022"
+    },
+    "lansoprazole-indapamide": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter916"
+    },
+    "indapamide-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter916-DDInter1022"
+    },
+    "lansoprazole-lapatinib": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter1024"
+    },
+    "lapatinib-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1024-DDInter1022"
+    },
+    "lansoprazole-letermovir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter1039"
+    },
+    "letermovir-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1039-DDInter1022"
+    },
+    "lansoprazole-neomycin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter1277"
+    },
+    "neomycin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1277-DDInter1022"
+    },
+    "lansoprazole-nilotinib": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter1293"
+    },
+    "nilotinib-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1293-DDInter1022"
+    },
+    "lansoprazole-oxcarbazepine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter1360"
+    },
+    "oxcarbazepine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1360-DDInter1022"
+    },
+    "lansoprazole-pazopanib": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1022-DDInter1400"
+    },
+    "pazopanib-lansoprazole": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1400-DDInter1022"
+    },
+    "lansoprazole-phenobarbital": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Minor",
+      "link": "DDInter1022-DDInter1442"
+    },
+    "phenobarbital-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Minor",
+      "link": "DDInter1442-DDInter1022"
+    },
+    "lansoprazole-pirfenidone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter1477"
+    },
+    "pirfenidone-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1477-DDInter1022"
+    },
+    "lansoprazole-posaconazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter1494"
+    },
+    "posaconazole-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1494-DDInter1022"
+    },
+    "lansoprazole-prasugrel": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Minor",
+      "link": "DDInter1022-DDInter1508"
+    },
+    "prasugrel-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Minor",
+      "link": "DDInter1508-DDInter1022"
+    },
+    "lansoprazole-raltegravir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Minor",
+      "link": "DDInter1022-DDInter1563"
+    },
+    "raltegravir-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Minor",
+      "link": "DDInter1563-DDInter1022"
+    },
+    "lansoprazole-rifampicin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter1590"
+    },
+    "rifampicin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1590-DDInter1022"
+    },
+    "lansoprazole-riociguat": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter1600"
+    },
+    "riociguat-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1600-DDInter1022"
+    },
+    "lansoprazole-simvastatin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter1675"
+    },
+    "simvastatin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1675-DDInter1022"
+    },
+    "lansoprazole-sirolimus": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter1678"
+    },
+    "sirolimus-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1678-DDInter1022"
+    },
+    "lansoprazole-tacrolimus": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1022-DDInter1735"
+    },
+    "tacrolimus-lansoprazole": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1735-DDInter1022"
+    },
+    "lansoprazole-tobramycin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter1822"
+    },
+    "tobramycin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1822-DDInter1022"
+    },
+    "lansoprazole-tofacitinib": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter1825"
+    },
+    "tofacitinib-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1825-DDInter1022"
+    },
+    "torasemide-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1836-DDInter1022"
+    },
+    "lansoprazole-torasemide": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter1836"
+    },
+    "lansoprazole-voriconazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1022-DDInter1946"
+    },
+    "voriconazole-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1946-DDInter1022"
     },
     "clotrimazole-lapatinib": {
       "nivo": "Srednji",
@@ -67370,6 +68080,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter811-DDInter268"
     },
+    "calcitriol-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter268-DDInter1022"
+    },
+    "lansoprazole-calcitriol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter268"
+    },
     "calcitriol-loratadine": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -68770,6 +69490,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1382-DDInter771"
     },
+    "folic acid-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter771-DDInter1022"
+    },
+    "lansoprazole-folic acid": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter771"
+    },
     "folic acid-vancomycin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -69350,6 +70080,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1340-DDInter162"
     },
+    "baclofen-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter162-DDInter1022"
+    },
+    "lansoprazole-baclofen": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter162"
+    },
     "baclofen-vancomycin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -69609,6 +70349,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1340-DDInter1290"
+    },
+    "nicotine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1290-DDInter1022"
+    },
+    "lansoprazole-nicotine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1290"
     },
     "nicotine-vancomycin": {
       "nivo": "Srednji",
@@ -70520,6 +71270,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1340-DDInter670"
     },
+    "erythromycin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter670-DDInter1022"
+    },
+    "lansoprazole-erythromycin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter670"
+    },
     "erythromycin-vancomycin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -70809,6 +71569,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1340-DDInter157"
+    },
+    "azithromycin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter157-DDInter1022"
+    },
+    "lansoprazole-azithromycin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter157"
     },
     "azithromycin-vancomycin": {
       "nivo": "Srednji",
@@ -72780,6 +73550,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter48-DDInter825"
     },
+    "glimepiride-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter825-DDInter1022"
+    },
+    "lansoprazole-glimepiride": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter825"
+    },
     "glimepiride-loratadine": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -74500,6 +75280,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter811-DDInter598"
     },
+    "doxycycline-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter598-DDInter1022"
+    },
+    "lansoprazole-doxycycline": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter598"
+    },
     "doxycycline-loratadine": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -75960,6 +76750,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1874-DDInter416"
     },
+    "clotrimazole-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter416-DDInter1022"
+    },
+    "lansoprazole-clotrimazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter416"
+    },
     "clotrimazole-loratadine": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -77000,6 +77800,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1340-DDInter302"
     },
+    "carmustine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter302-DDInter1022"
+    },
+    "lansoprazole-carmustine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter302"
+    },
     "carmustine-vancomycin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -77659,6 +78469,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1164-DDInter1066"
+    },
+    "lidocaine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1066-DDInter1022"
+    },
+    "lansoprazole-lidocaine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1066"
     },
     "lidocaine-vancomycin": {
       "nivo": "Srednji",
@@ -78950,6 +79770,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1340-DDInter249"
     },
+    "bupivacaine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter249-DDInter1022"
+    },
+    "lansoprazole-bupivacaine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter249"
+    },
     "bupivacaine-vancomycin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -79149,6 +79979,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1340-DDInter1913"
+    },
+    "valproic acid-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1913-DDInter1022"
+    },
+    "lansoprazole-valproic acid": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1913"
     },
     "valproic acid-vancomycin": {
       "nivo": "Srednji",
@@ -79499,6 +80339,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1382-DDInter14"
+    },
+    "acetaminophen-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter14-DDInter1022"
+    },
+    "lansoprazole-acetaminophen": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter14"
     },
     "acetaminophen-vancomycin": {
       "nivo": "Srednji",
@@ -79959,6 +80809,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1340-DDInter78"
+    },
+    "amitriptyline-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter78-DDInter1022"
+    },
+    "lansoprazole-amitriptyline": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter78"
     },
     "amitriptyline-lactulose": {
       "nivo": "Srednji",
@@ -81499,6 +82359,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1382-DDInter130"
+    },
+    "atenolol-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter130-DDInter1022"
+    },
+    "lansoprazole-atenolol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter130"
     },
     "atenolol-vancomycin": {
       "nivo": "Srednji",
@@ -83130,6 +84000,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1382-DDInter343"
     },
+    "cetirizine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter343-DDInter1022"
+    },
+    "lansoprazole-cetirizine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter343"
+    },
     "cetirizine-vancomycin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -83770,6 +84650,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter419-DDInter598"
     },
+    "clozapine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter419-DDInter1022"
+    },
+    "lansoprazole-clozapine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter419"
+    },
     "clozapine-vancomycin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -84339,6 +85229,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter79-DDInter1382"
+    },
+    "amlodipine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter79-DDInter1022"
+    },
+    "lansoprazole-amlodipine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter79"
     },
     "amlodipine-vancomycin": {
       "nivo": "Srednji",
@@ -84979,6 +85879,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter54-DDInter1382"
+    },
+    "alprazolam-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter54-DDInter1022"
+    },
+    "lansoprazole-alprazolam": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter54"
     },
     "alprazolam-vancomycin": {
       "nivo": "Srednji",
@@ -86030,6 +86940,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter330-DDInter1340"
     },
+    "ceftazidime-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter330-DDInter1022"
+    },
+    "lansoprazole-ceftazidime": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter330"
+    },
     "ceftazidime-vancomycin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -86360,6 +87280,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter811-DDInter1382"
     },
+    "gemcitabine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter811-DDInter1022"
+    },
+    "lansoprazole-gemcitabine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter811"
+    },
     "gemcitabine-vancomycin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -86560,6 +87490,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter351-DDInter1340"
     },
+    "chloramphenicol-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter351-DDInter1022"
+    },
+    "lansoprazole-chloramphenicol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter351"
+    },
     "chloramphenicol-vancomycin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -86699,6 +87639,1676 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter513-DDInter351"
+    },
+    "goserelin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter839-DDInter1022"
+    },
+    "lansoprazole-goserelin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter839"
+    },
+    "desmopressin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter507-DDInter1022"
+    },
+    "lansoprazole-desmopressin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter507"
+    },
+    "octreotide-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1323-DDInter1022"
+    },
+    "lansoprazole-octreotide": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1323"
+    },
+    "pravastatin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1509-DDInter1022"
+    },
+    "lansoprazole-pravastatin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1509"
+    },
+    "valsartan-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1915-DDInter1022"
+    },
+    "lansoprazole-valsartan": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1915"
+    },
+    "ramipril-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1565-DDInter1022"
+    },
+    "lansoprazole-ramipril": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1565"
+    },
+    "lorazepam-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1092-DDInter1022"
+    },
+    "lansoprazole-lorazepam": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1092"
+    },
+    "bortezomib-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter222-DDInter1022"
+    },
+    "lansoprazole-bortezomib": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter222"
+    },
+    "tramadol-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1841-DDInter1022"
+    },
+    "lansoprazole-tramadol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1841"
+    },
+    "oseltamivir-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1350-DDInter1022"
+    },
+    "lansoprazole-oseltamivir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1350"
+    },
+    "hydroxocobalamin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter891-DDInter1022"
+    },
+    "lansoprazole-hydroxocobalamin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter891"
+    },
+    "sildenafil-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1666-DDInter1022"
+    },
+    "lansoprazole-sildenafil": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1666"
+    },
+    "pantoprazole-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1388-DDInter1022"
+    },
+    "lansoprazole-pantoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1388"
+    },
+    "moxifloxacin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1247-DDInter1022"
+    },
+    "lansoprazole-moxifloxacin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1247"
+    },
+    "pregabalin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1516-DDInter1022"
+    },
+    "lansoprazole-pregabalin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1516"
+    },
+    "ranolazine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1570-DDInter1022"
+    },
+    "lansoprazole-ranolazine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1570"
+    },
+    "mesalazine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1158-DDInter1022"
+    },
+    "lansoprazole-mesalazine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1158"
+    },
+    "metoprolol-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1200-DDInter1022"
+    },
+    "lansoprazole-metoprolol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1200"
+    },
+    "ropinirole-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1619-DDInter1022"
+    },
+    "lansoprazole-ropinirole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1619"
+    },
+    "topiramate-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1834-DDInter1022"
+    },
+    "lansoprazole-topiramate": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1834"
+    },
+    "venlafaxine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1927-DDInter1022"
+    },
+    "lansoprazole-venlafaxine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1927"
+    },
+    "travoprost-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1849-DDInter1022"
+    },
+    "lansoprazole-travoprost": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1849"
+    },
+    "bleomycin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter219-DDInter1022"
+    },
+    "lansoprazole-bleomycin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter219"
+    },
+    "morphine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1244-DDInter1022"
+    },
+    "lansoprazole-morphine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1244"
+    },
+    "zolmitriptan-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1969-DDInter1022"
+    },
+    "lansoprazole-zolmitriptan": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1969"
+    },
+    "piperacillin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1474-DDInter1022"
+    },
+    "lansoprazole-piperacillin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1474"
+    },
+    "metformin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1164-DDInter1022"
+    },
+    "lansoprazole-metformin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1164"
+    },
+    "methadone-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1166-DDInter1022"
+    },
+    "lansoprazole-methadone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1166"
+    },
+    "olanzapine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1326-DDInter1022"
+    },
+    "lansoprazole-olanzapine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1326"
+    },
+    "pimecrolimus-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1468-DDInter1022"
+    },
+    "lansoprazole-pimecrolimus": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1468"
+    },
+    "omeprazole-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1340-DDInter1022"
+    },
+    "lansoprazole-omeprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1340"
+    },
+    "minoxidil-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1226-DDInter1022"
+    },
+    "lansoprazole-minoxidil": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1226"
+    },
+    "vinorelbine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1939-DDInter1022"
+    },
+    "lansoprazole-vinorelbine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1939"
+    },
+    "levonorgestrel-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1061-DDInter1022"
+    },
+    "lansoprazole-levonorgestrel": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1061"
+    },
+    "mirtazapine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1230-DDInter1022"
+    },
+    "lansoprazole-mirtazapine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1230"
+    },
+    "timolol-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1809-DDInter1022"
+    },
+    "lansoprazole-timolol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1809"
+    },
+    "palonosetron-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1382-DDInter1022"
+    },
+    "lansoprazole-palonosetron": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1382"
+    },
+    "nimodipine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1295-DDInter1022"
+    },
+    "lansoprazole-nimodipine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1295"
+    },
+    "progesterone-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1529-DDInter1022"
+    },
+    "lansoprazole-progesterone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1529"
+    },
+    "sorafenib-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1702-DDInter1022"
+    },
+    "lansoprazole-sorafenib": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1702"
+    },
+    "zoledronic acid-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1968-DDInter1022"
+    },
+    "lansoprazole-zoledronic acid": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1968"
+    },
+    "pramipexole-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1505-DDInter1022"
+    },
+    "lansoprazole-pramipexole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1505"
+    },
+    "phenoxymethylpenicillin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1445-DDInter1022"
+    },
+    "lansoprazole-phenoxymethylpenicillin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1445"
+    },
+    "spironolactone-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1707-DDInter1022"
+    },
+    "lansoprazole-spironolactone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1707"
+    },
+    "methylphenidate-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1189-DDInter1022"
+    },
+    "lansoprazole-methylphenidate": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1189"
+    },
+    "zolpidem-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1970-DDInter1022"
+    },
+    "lansoprazole-zolpidem": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1970"
+    },
+    "allopurinol-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter48-DDInter1022"
+    },
+    "lansoprazole-allopurinol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter48"
+    },
+    "trimethoprim-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1874-DDInter1022"
+    },
+    "lansoprazole-trimethoprim": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1874"
+    },
+    "lansoprazole-loratadine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1091"
+    },
+    "loratadine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1091-DDInter1022"
+    },
+    "lansoprazole-montelukast": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1242"
+    },
+    "montelukast-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1242-DDInter1022"
+    },
+    "lansoprazole-lenalidomide": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1035"
+    },
+    "lenalidomide-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1035-DDInter1022"
+    },
+    "lansoprazole-sotalol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1704"
+    },
+    "sotalol-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1704-DDInter1022"
+    },
+    "lansoprazole-entacapone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter646"
+    },
+    "entacapone-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter646-DDInter1022"
+    },
+    "lansoprazole-darifenacin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter480"
+    },
+    "darifenacin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter480-DDInter1022"
+    },
+    "lansoprazole-oxycodone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1366"
+    },
+    "oxycodone-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1366-DDInter1022"
+    },
+    "lansoprazole-ritonavir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1607"
+    },
+    "ritonavir-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1607-DDInter1022"
+    },
+    "lansoprazole-vancomycin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1916"
+    },
+    "vancomycin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1916-DDInter1022"
+    },
+    "lansoprazole-caspofungin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter306"
+    },
+    "caspofungin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter306-DDInter1022"
+    },
+    "lansoprazole-oxaliplatin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1355"
+    },
+    "oxaliplatin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1355-DDInter1022"
+    },
+    "lansoprazole-vincristine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1937"
+    },
+    "vincristine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1937-DDInter1022"
+    },
+    "lansoprazole-bosentan": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter223"
+    },
+    "bosentan-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter223-DDInter1022"
+    },
+    "lansoprazole-tigecycline": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1805"
+    },
+    "tigecycline-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1805-DDInter1022"
+    },
+    "lansoprazole-propranolol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1539"
+    },
+    "propranolol-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1539-DDInter1022"
+    },
+    "lansoprazole-lactulose": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1018"
+    },
+    "lactulose-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1018-DDInter1022"
+    },
+    "lansoprazole-amiloride": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter68"
+    },
+    "amiloride-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter68-DDInter1022"
+    },
+    "lansoprazole-linezolid": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1073"
+    },
+    "linezolid-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1073-DDInter1022"
+    },
+    "lansoprazole-triamcinolone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1855"
+    },
+    "triamcinolone-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1855-DDInter1022"
+    },
+    "lansoprazole-testosterone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1775"
+    },
+    "testosterone-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1775-DDInter1022"
+    },
+    "lansoprazole-dexmedetomidine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter520"
+    },
+    "dexmedetomidine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter520-DDInter1022"
+    },
+    "lansoprazole-prednisone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1515"
+    },
+    "prednisone-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1515-DDInter1022"
+    },
+    "lansoprazole-pemetrexed": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1414"
+    },
+    "pemetrexed-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1414-DDInter1022"
+    },
+    "lansoprazole-nystatin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1318"
+    },
+    "nystatin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1318-DDInter1022"
+    },
+    "lansoprazole-latanoprost": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1028"
+    },
+    "latanoprost-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1028-DDInter1022"
+    },
+    "lansoprazole-trazodone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1851"
+    },
+    "trazodone-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1851-DDInter1022"
+    },
+    "lansoprazole-sevelamer": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1663"
+    },
+    "sevelamer-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1663-DDInter1022"
+    },
+    "lansoprazole-acamprosate": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter10"
+    },
+    "acamprosate-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter10-DDInter1022"
+    },
+    "lansoprazole-sumatriptan": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1730"
+    },
+    "sumatriptan-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1730-DDInter1022"
+    },
+    "lansoprazole-tamoxifen": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1744"
+    },
+    "tamoxifen-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1744-DDInter1022"
+    },
+    "lansoprazole-losartan": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1095"
+    },
+    "losartan-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1095-DDInter1022"
+    },
+    "lansoprazole-midazolam": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1212"
+    },
+    "midazolam-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1212-DDInter1022"
+    },
+    "lansoprazole-tizanidine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1821"
+    },
+    "tizanidine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1821-DDInter1022"
+    },
+    "lansoprazole-nitrofurantoin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1303"
+    },
+    "nitrofurantoin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1303-DDInter1022"
+    },
+    "lansoprazole-eplerenone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter656"
+    },
+    "eplerenone-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter656-DDInter1022"
+    },
+    "lansoprazole-naltrexone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1263"
+    },
+    "naltrexone-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1263-DDInter1022"
+    },
+    "lansoprazole-tamsulosin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1745"
+    },
+    "tamsulosin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1745-DDInter1022"
+    },
+    "lansoprazole-paroxetine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1397"
+    },
+    "paroxetine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1397-DDInter1022"
+    },
+    "lansoprazole-norethisterone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1312"
+    },
+    "norethisterone-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1312-DDInter1022"
+    },
+    "lansoprazole-lisinopril": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1079"
+    },
+    "lisinopril-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1079-DDInter1022"
+    },
+    "lansoprazole-imiquimod": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter913"
+    },
+    "imiquimod-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter913-DDInter1022"
+    },
+    "lansoprazole-risperidone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1605"
+    },
+    "risperidone-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1605-DDInter1022"
+    },
+    "lansoprazole-modafinil": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1236"
+    },
+    "modafinil-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1236-DDInter1022"
+    },
+    "lansoprazole-tretinoin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1853"
+    },
+    "tretinoin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1853-DDInter1022"
+    },
+    "lansoprazole-potassium chloride": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1497"
+    },
+    "potassium chloride-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1497-DDInter1022"
+    },
+    "lansoprazole-olopatadine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1332"
+    },
+    "olopatadine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1332-DDInter1022"
+    },
+    "lansoprazole-perindopril": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1431"
+    },
+    "perindopril-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1431-DDInter1022"
+    },
+    "lansoprazole-sulfasalazine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1725"
+    },
+    "sulfasalazine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1725-DDInter1022"
+    },
+    "lansoprazole-alfentanil": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter43"
+    },
+    "alfentanil-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter43-DDInter1022"
+    },
+    "lansoprazole-pentoxifylline": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1426"
+    },
+    "pentoxifylline-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1426-DDInter1022"
+    },
+    "lansoprazole-meloxicam": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1143"
+    },
+    "meloxicam-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1143-DDInter1022"
+    },
+    "lansoprazole-propofol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1538"
+    },
+    "propofol-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1538-DDInter1022"
+    },
+    "lansoprazole-tadalafil": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1736"
+    },
+    "tadalafil-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1736-DDInter1022"
+    },
+    "lansoprazole-loperamide": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1088"
+    },
+    "loperamide-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1088-DDInter1022"
+    },
+    "lansoprazole-dobutamine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter577"
+    },
+    "dobutamine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter577-DDInter1022"
+    },
+    "lansoprazole-oxazepam": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1359"
+    },
+    "oxazepam-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1359-DDInter1022"
+    },
+    "lansoprazole-dacarbazine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter463"
+    },
+    "dacarbazine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter463-DDInter1022"
+    },
+    "lansoprazole-temozolomide": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1762"
+    },
+    "temozolomide-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1762-DDInter1022"
+    },
+    "lansoprazole-terbinafine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1768"
+    },
+    "terbinafine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1768-DDInter1022"
+    },
+    "lansoprazole-prednisolone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1513"
+    },
+    "prednisolone-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1513-DDInter1022"
+    },
+    "lansoprazole-ondansetron": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1342"
+    },
+    "ondansetron-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1342-DDInter1022"
+    },
+    "lansoprazole-bimatoprost": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter207"
+    },
+    "bimatoprost-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter207-DDInter1022"
+    },
+    "lansoprazole-zonisamide": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1971"
+    },
+    "zonisamide-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1971-DDInter1022"
+    },
+    "lansoprazole-paricalcitol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1394"
+    },
+    "paricalcitol-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1394-DDInter1022"
+    },
+    "lansoprazole-repaglinide": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1581"
+    },
+    "repaglinide-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1581-DDInter1022"
+    },
+    "lansoprazole-metronidazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1202"
+    },
+    "metronidazole-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1202-DDInter1022"
+    },
+    "lansoprazole-salmeterol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1635"
+    },
+    "salmeterol-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1635-DDInter1022"
+    },
+    "lansoprazole-fulvestrant": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter789"
+    },
+    "fulvestrant-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter789-DDInter1022"
+    },
+    "lansoprazole-methylprednisolone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1191"
+    },
+    "methylprednisolone-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1191-DDInter1022"
+    },
+    "lansoprazole-telmisartan": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1759"
+    },
+    "telmisartan-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1759-DDInter1022"
+    },
+    "lansoprazole-desloratadine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter506"
+    },
+    "desloratadine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter506-DDInter1022"
+    },
+    "lansoprazole-methyldopa": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1185"
+    },
+    "methyldopa-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1185-DDInter1022"
+    },
+    "lansoprazole-ezetimibe": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter707"
+    },
+    "ezetimibe-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter707-DDInter1022"
+    },
+    "lansoprazole-rivastigmine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1610"
+    },
+    "rivastigmine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1610-DDInter1022"
+    },
+    "lansoprazole-exemestane": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter705"
+    },
+    "exemestane-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter705-DDInter1022"
+    },
+    "lansoprazole-letrozole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1040"
+    },
+    "letrozole-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1040-DDInter1022"
+    },
+    "lansoprazole-cinacalcet": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter381"
+    },
+    "cinacalcet-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter381-DDInter1022"
+    },
+    "lansoprazole-isosorbide mononitrate": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter990"
+    },
+    "isosorbide mononitrate-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter990-DDInter1022"
+    },
+    "lansoprazole-mycophenolic acid": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1252"
+    },
+    "mycophenolic acid-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1252-DDInter1022"
+    },
+    "lansoprazole-tolterodine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1832"
+    },
+    "tolterodine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1832-DDInter1022"
+    },
+    "lansoprazole-thalidomide": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1789"
+    },
+    "thalidomide-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1789-DDInter1022"
+    },
+    "lansoprazole-melphalan": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1144"
+    },
+    "melphalan-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1144-DDInter1022"
+    },
+    "lansoprazole-memantine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1146"
+    },
+    "memantine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1146-DDInter1022"
+    },
+    "lansoprazole-pilocarpine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1465"
+    },
+    "pilocarpine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1465-DDInter1022"
+    },
+    "lansoprazole-leflunomide": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1033"
+    },
+    "leflunomide-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1033-DDInter1022"
+    },
+    "lansoprazole-rosuvastatin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1622"
+    },
+    "rosuvastatin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1622-DDInter1022"
+    },
+    "lansoprazole-capecitabine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter285"
+    },
+    "capecitabine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter285-DDInter1022"
+    },
+    "lansoprazole-sertraline": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1662"
+    },
+    "sertraline-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1662-DDInter1022"
+    },
+    "lansoprazole-miconazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1209"
+    },
+    "miconazole-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1209-DDInter1022"
+    },
+    "lansoprazole-nifedipine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1291"
+    },
+    "nifedipine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1291-DDInter1022"
+    },
+    "lansoprazole-dutasteride": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter611"
+    },
+    "dutasteride-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter611-DDInter1022"
+    },
+    "lansoprazole-rabeprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1559"
+    },
+    "rabeprazole-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1559-DDInter1022"
+    },
+    "lansoprazole-pioglitazone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1472"
+    },
+    "pioglitazone-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1472-DDInter1022"
+    },
+    "lansoprazole-terazosin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1767"
+    },
+    "terazosin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1767-DDInter1022"
+    },
+    "lansoprazole-calcium chloride": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter272"
+    },
+    "calcium chloride-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter272-DDInter1022"
+    },
+    "lansoprazole-ofloxacin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1325"
+    },
+    "ofloxacin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1325-DDInter1022"
+    },
+    "lansoprazole-arsenic trioxide": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter120"
+    },
+    "arsenic trioxide-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter120-DDInter1022"
+    },
+    "lansoprazole-propafenone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1534"
+    },
+    "propafenone-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1534-DDInter1022"
+    },
+    "lansoprazole-naloxone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1262"
+    },
+    "naloxone-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1262-DDInter1022"
+    },
+    "lansoprazole-brinzolamide": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter237"
+    },
+    "brinzolamide-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter237-DDInter1022"
+    },
+    "lansoprazole-zopiclone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1972"
+    },
+    "zopiclone-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1972-DDInter1022"
+    },
+    "lansoprazole-levetiracetam": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1046"
+    },
+    "levetiracetam-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1046-DDInter1022"
+    },
+    "lansoprazole-rifaximin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1593"
+    },
+    "rifaximin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1593-DDInter1022"
+    },
+    "lansoprazole-quetiapine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1553"
+    },
+    "quetiapine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1553-DDInter1022"
+    },
+    "lansoprazole-paclitaxel": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1377"
+    },
+    "paclitaxel-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1377-DDInter1022"
+    },
+    "lansoprazole-metoclopramide": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1197"
+    },
+    "metoclopramide-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1197-DDInter1022"
+    },
+    "lansoprazole-sevoflurane": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1664"
+    },
+    "sevoflurane-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1664-DDInter1022"
+    },
+    "lansoprazole-aripiprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter118"
+    },
+    "aripiprazole-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter118-DDInter1022"
+    },
+    "lansoprazole-paliperidone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1381"
+    },
+    "paliperidone-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1381-DDInter1022"
+    },
+    "lansoprazole-sodium bicarbonate": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1683"
+    },
+    "sodium bicarbonate-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1683-DDInter1022"
+    },
+    "lansoprazole-ciclesonide": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter375"
+    },
+    "ciclesonide-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter375-DDInter1022"
+    },
+    "lansoprazole-acenocoumarol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter13"
+    },
+    "acenocoumarol-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter13-DDInter1022"
+    },
+    "lansoprazole-ursodeoxycholic acid": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1906"
+    },
+    "ursodeoxycholic acid-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1906-DDInter1022"
+    },
+    "lansoprazole-nitrazepam": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1301"
+    },
+    "nitrazepam-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1301-DDInter1022"
+    },
+    "lansoprazole-valganciclovir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1912"
+    },
+    "valganciclovir-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1912-DDInter1022"
+    },
+    "lansoprazole-ambrisentan": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter62"
+    },
+    "ambrisentan-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter62-DDInter1022"
+    },
+    "lansoprazole-desvenlafaxine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter511"
+    },
+    "desvenlafaxine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter511-DDInter1022"
+    },
+    "lansoprazole-clobetasol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter402"
+    },
+    "clobetasol-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter402-DDInter1022"
+    },
+    "lansoprazole-fluticasone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter766"
+    },
+    "fluticasone-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter766-DDInter1022"
     },
     "calcitriol-levothyroxine": {
       "nivo": "Srednji",
@@ -87350,6 +89960,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1010-DDInter1340"
     },
+    "lansoprazole-ketorolac": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1010"
+    },
+    "ketorolac-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1010-DDInter1022"
+    },
     "ketorolac-lactulose": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -87519,6 +90139,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter758-DDInter1340"
+    },
+    "lansoprazole-fluoxetine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter758"
+    },
+    "fluoxetine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter758-DDInter1022"
     },
     "fluoxetine-vancomycin": {
       "nivo": "Srednji",
@@ -87709,6 +90339,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter363-DDInter1340"
+    },
+    "lansoprazole-chlorpromazine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter363"
+    },
+    "chlorpromazine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter363-DDInter1022"
     },
     "chlorpromazine-vancomycin": {
       "nivo": "Srednji",
@@ -87940,6 +90580,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter336-DDInter1382"
     },
+    "lansoprazole-celecoxib": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter336"
+    },
+    "celecoxib-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter336-DDInter1022"
+    },
     "celecoxib-atropine": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -88159,6 +90809,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter234-DDInter1382"
+    },
+    "lansoprazole-brimonidine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter234"
+    },
+    "brimonidine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter234-DDInter1022"
     },
     "brimonidine-vancomycin": {
       "nivo": "Srednji",
@@ -88420,6 +91080,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter781-DDInter1340"
     },
+    "lansoprazole-fosinopril": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter781"
+    },
+    "fosinopril-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter781-DDInter1022"
+    },
     "fosinopril-simvastatin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -88549,6 +91219,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter323-DDInter1340"
+    },
+    "lansoprazole-cefotaxime": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter323"
+    },
+    "cefotaxime-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter323-DDInter1022"
     },
     "cefotaxime-vancomycin": {
       "nivo": "Srednji",
@@ -88919,6 +91599,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter853-DDInter1340"
+    },
+    "lansoprazole-haloperidol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter853"
+    },
+    "haloperidol-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter853-DDInter1022"
     },
     "haloperidol-vancomycin": {
       "nivo": "Srednji",
@@ -89860,6 +92550,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter456-DDInter1382"
     },
+    "lansoprazole-cyclophosphamide": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter456"
+    },
+    "cyclophosphamide-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter456-DDInter1022"
+    },
     "vancomycin-cyclophosphamide": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -90140,6 +92840,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter384-DDInter1244"
     },
+    "lansoprazole-ciprofloxacin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter384"
+    },
+    "ciprofloxacin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter384-DDInter1022"
+    },
     "vancomycin-ciprofloxacin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -90369,6 +93079,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter757-DDInter1382"
+    },
+    "lansoprazole-fluorouracil": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter757"
+    },
+    "fluorouracil-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter757-DDInter1022"
     },
     "vancomycin-fluorouracil": {
       "nivo": "Srednji",
@@ -90609,6 +93329,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1020-DDInter1340"
+    },
+    "lansoprazole-lamotrigine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1020"
+    },
+    "lamotrigine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1020-DDInter1022"
     },
     "vancomycin-lamotrigine": {
       "nivo": "Srednji",
@@ -91039,6 +93769,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter293-DDInter1382"
+    },
+    "lansoprazole-carbamazepine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter293"
+    },
+    "carbamazepine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter293-DDInter1022"
     },
     "vancomycin-carbamazepine": {
       "nivo": "Srednji",
@@ -91509,6 +94249,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter136-DDInter48"
+    },
+    "lansoprazole-atropine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter136"
+    },
+    "atropine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter136-DDInter1022"
     },
     "ketorolac-atropine": {
       "nivo": "Srednji",
@@ -92340,6 +95090,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter638-DDInter1340"
     },
+    "lansoprazole-enalapril": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter638"
+    },
+    "enalapril-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter638-DDInter1022"
+    },
     "vancomycin-enalapril": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -92590,6 +95350,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter537-DDInter1340"
     },
+    "lansoprazole-diclofenac": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter537"
+    },
+    "diclofenac-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter537-DDInter1022"
+    },
     "atropine-diclofenac": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -92789,6 +95559,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter592-DDInter1340"
+    },
+    "lansoprazole-doxazosin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter592"
+    },
+    "doxazosin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter592-DDInter1022"
     },
     "vancomycin-doxazosin": {
       "nivo": "Srednji",
@@ -93229,6 +96009,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter216-DDInter1340"
+    },
+    "lansoprazole-bisoprolol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter216"
+    },
+    "bisoprolol-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter216-DDInter1022"
     },
     "vancomycin-bisoprolol": {
       "nivo": "Srednji",
@@ -93850,6 +96640,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter760-DDInter1340"
     },
+    "lansoprazole-fluphenazine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter760"
+    },
+    "fluphenazine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter760-DDInter1022"
+    },
     "fluphenazine-simvastatin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -94059,6 +96859,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter42-DDInter1382"
+    },
+    "lansoprazole-alendronic acid": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter42"
+    },
+    "alendronic acid-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter42-DDInter1022"
     },
     "vancomycin-alendronic acid": {
       "nivo": "Srednji",
@@ -96310,6 +99120,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1928-DDInter1382"
     },
+    "lansoprazole-verapamil": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1928"
+    },
+    "verapamil-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1928-DDInter1022"
+    },
     "vancomycin-verapamil": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -96839,6 +99659,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter652-DDInter330"
+    },
+    "lansoprazole-epinephrine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter652"
+    },
+    "epinephrine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter652-DDInter1022"
     },
     "loratadine-epinephrine": {
       "nivo": "Srednji",
@@ -100470,6 +103300,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1019-DDInter1340"
     },
+    "lansoprazole-lamivudine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1019"
+    },
+    "lamivudine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1019-DDInter1022"
+    },
     "vancomycin-lamivudine": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -100679,6 +103519,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1906-DDInter1019"
+    },
+    "lansoprazole-flurbiprofen": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter763"
+    },
+    "flurbiprofen-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter763-DDInter1022"
     },
     "simvastatin-flurbiprofen": {
       "nivo": "Srednji",
@@ -101589,6 +104439,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter885-DDInter1874"
+    },
+    "lansoprazole-hydrocortisone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter885"
+    },
+    "hydrocortisone-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter885-DDInter1022"
     },
     "loratadine-hydrocortisone": {
       "nivo": "Srednji",
@@ -102670,6 +105530,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1123-DDInter811"
     },
+    "lansoprazole-mannitol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1123"
+    },
+    "mannitol-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1123-DDInter1022"
+    },
     "levothyroxine-mannitol": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -103589,6 +106459,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter699-DDInter1340"
+    },
+    "lansoprazole-etodolac": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter699"
+    },
+    "etodolac-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter699-DDInter1022"
     },
     "lactulose-etodolac": {
       "nivo": "Srednji",
@@ -105310,6 +108190,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter973-DDInter1382"
     },
+    "lansoprazole-irinotecan": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter973"
+    },
+    "irinotecan-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter973-DDInter1022"
+    },
     "vancomycin-irinotecan": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -105539,6 +108429,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter702-DDInter1382"
+    },
+    "lansoprazole-etoposide": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter702"
+    },
+    "etoposide-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter702-DDInter1022"
     },
     "vancomycin-etoposide": {
       "nivo": "Srednji",
@@ -105839,6 +108739,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter679-DDInter1382"
+    },
+    "lansoprazole-estradiol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter679"
+    },
+    "estradiol-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter679-DDInter1022"
     },
     "lactulose-estradiol": {
       "nivo": "Srednji",
@@ -106730,6 +109640,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter722-DDInter1340"
     },
+    "lansoprazole-fentanyl": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter722"
+    },
+    "fentanyl-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter722-DDInter1022"
+    },
     "vancomycin-fentanyl": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -107249,6 +110169,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter534-DDInter1382"
+    },
+    "lansoprazole-diazepam": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter534"
+    },
+    "diazepam-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter534-DDInter1022"
     },
     "vancomycin-diazepam": {
       "nivo": "Srednji",
@@ -108830,6 +111760,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter583-DDInter1340"
     },
+    "lansoprazole-donepezil": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter583"
+    },
+    "donepezil-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter583-DDInter1022"
+    },
     "vancomycin-donepezil": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -110340,6 +113280,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter356-DDInter811"
     },
+    "lansoprazole-chlorhexidine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter356"
+    },
+    "chlorhexidine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter356-DDInter1022"
+    },
     "loratadine-chlorhexidine": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -111030,6 +113980,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter989-DDInter1164"
     },
+    "lansoprazole-isosorbide dinitrate": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter989"
+    },
+    "isosorbide dinitrate-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter989-DDInter1022"
+    },
     "vancomycin-isosorbide dinitrate": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -111559,6 +114519,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter840-DDInter48"
+    },
+    "lansoprazole-granisetron": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter840"
+    },
+    "granisetron-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter840-DDInter1022"
     },
     "montelukast-granisetron": {
       "nivo": "Srednji",
@@ -113420,6 +116390,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter60-DDInter1340"
     },
+    "lansoprazole-amantadine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter60"
+    },
+    "amantadine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter60-DDInter1022"
+    },
     "lactulose-amantadine": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -114600,6 +117580,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1012-DDInter1340"
     },
+    "lansoprazole-ketotifen": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1012"
+    },
+    "ketotifen-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1012-DDInter1022"
+    },
     "vancomycin-ketotifen": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -114679,6 +117669,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter251-DDInter1340"
+    },
+    "lansoprazole-buprenorphine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter251"
+    },
+    "buprenorphine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter251-DDInter1022"
     },
     "vancomycin-buprenorphine": {
       "nivo": "Srednji",
@@ -115169,6 +118169,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter712-DDInter811"
+    },
+    "lansoprazole-famotidine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter712"
+    },
+    "famotidine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter712-DDInter1022"
     },
     "loratadine-famotidine": {
       "nivo": "Srednji",
@@ -118530,6 +121540,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter732-DDInter1382"
     },
+    "lansoprazole-fexofenadine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter732"
+    },
+    "fexofenadine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter732-DDInter1022"
+    },
     "vancomycin-fexofenadine": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -119270,6 +122290,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter153-DDInter1340"
     },
+    "lansoprazole-azelastine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter153"
+    },
+    "azelastine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter153-DDInter1022"
+    },
     "triamcinolone-azelastine": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -119420,6 +122450,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter776-DDInter1340"
     },
+    "lansoprazole-formoterol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter776"
+    },
+    "formoterol-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter776-DDInter1022"
+    },
     "simvastatin-formoterol": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -119539,6 +122579,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter460-DDInter1340"
+    },
+    "lansoprazole-cytarabine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter460"
+    },
+    "cytarabine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter460-DDInter1022"
     },
     "vancomycin-cytarabine": {
       "nivo": "Srednji",
@@ -119960,6 +123010,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter150-DDInter1340"
     },
+    "lansoprazole-azathioprine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter150"
+    },
+    "azathioprine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter150-DDInter1022"
+    },
     "vancomycin-azathioprine": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -120239,6 +123299,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter791-DDInter1382"
+    },
+    "lansoprazole-gabapentin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter791"
+    },
+    "gabapentin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter791-DDInter1022"
     },
     "vancomycin-gabapentin": {
       "nivo": "Srednji",
@@ -120549,6 +123619,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter596-DDInter1340"
+    },
+    "lansoprazole-doxorubicin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter596"
+    },
+    "doxorubicin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter596-DDInter1022"
     },
     "vancomycin-doxorubicin": {
       "nivo": "Srednji",
@@ -121010,6 +124090,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1632-DDInter1340"
     },
+    "lansoprazole-salbutamol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1632"
+    },
+    "salbutamol-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1632-DDInter1022"
+    },
     "vancomycin-salbutamol": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -121440,6 +124530,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter255-DDInter1340"
     },
+    "lansoprazole-busulfan": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter255"
+    },
+    "busulfan-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter255-DDInter1022"
+    },
     "vancomycin-busulfan": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -121569,6 +124669,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1009-DDInter1340"
+    },
+    "lansoprazole-ketoprofen": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1009"
+    },
+    "ketoprofen-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1009-DDInter1022"
     },
     "lactulose-ketoprofen": {
       "nivo": "Srednji",
@@ -121829,6 +124939,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter716-DDInter1340"
+    },
+    "lansoprazole-felodipine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter716"
+    },
+    "felodipine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter716-DDInter1022"
     },
     "vancomycin-felodipine": {
       "nivo": "Srednji",
@@ -122099,6 +125219,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter972-DDInter1340"
+    },
+    "lansoprazole-irbesartan": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter972"
+    },
+    "irbesartan-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter972-DDInter1022"
     },
     "vancomycin-irbesartan": {
       "nivo": "Srednji",
@@ -122950,6 +126080,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1-DDInter1340"
     },
+    "lansoprazole-abacavir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter1"
+    },
+    "abacavir-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1-DDInter1022"
+    },
     "vancomycin-abacavir": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -123219,6 +126359,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter900-DDInter1382"
+    },
+    "lansoprazole-ibuprofen": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter900"
+    },
+    "ibuprofen-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter900-DDInter1022"
     },
     "lactulose-ibuprofen": {
       "nivo": "Srednji",
@@ -123869,6 +127019,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter83-DDInter811"
+    },
+    "lansoprazole-amoxicillin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter83"
+    },
+    "amoxicillin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter83-DDInter1022"
     },
     "loratadine-amoxicillin": {
       "nivo": "Srednji",
@@ -125130,6 +128290,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter411-DDInter1382"
     },
+    "lansoprazole-clonazepam": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter411"
+    },
+    "clonazepam-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter411-DDInter1022"
+    },
     "vancomycin-clonazepam": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -125429,6 +128599,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter745-DDInter1382"
+    },
+    "lansoprazole-fludarabine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter745"
+    },
+    "fludarabine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter745-DDInter1022"
     },
     "vancomycin-fludarabine": {
       "nivo": "Srednji",
@@ -126479,6 +129659,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter856-DDInter1382"
+    },
+    "lansoprazole-heparin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter856"
+    },
+    "heparin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter856-DDInter1022"
     },
     "vancomycin-heparin": {
       "nivo": "Srednji",
@@ -127580,6 +130770,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter76-DDInter1340"
     },
+    "lansoprazole-amiodarone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter76"
+    },
+    "amiodarone-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter76-DDInter1022"
+    },
     "vancomycin-amiodarone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -127779,6 +130979,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter204-DDInter1340"
+    },
+    "lansoprazole-bicalutamide": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter204"
+    },
+    "bicalutamide-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter204-DDInter1022"
     },
     "prednisone-bicalutamide": {
       "nivo": "Srednji",
@@ -129580,6 +132790,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter305-DDInter1382"
     },
+    "lansoprazole-carvedilol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter305"
+    },
+    "carvedilol-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter305-DDInter1022"
+    },
     "vancomycin-carvedilol": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -129830,6 +133050,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter310-DDInter1340"
     },
+    "lansoprazole-cefadroxil": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter310"
+    },
+    "cefadroxil-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter310-DDInter1022"
+    },
     "lactulose-cefadroxil": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -129969,6 +133199,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter327-DDInter1340"
+    },
+    "lansoprazole-cefprozil": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter327"
+    },
+    "cefprozil-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter327-DDInter1022"
     },
     "triamcinolone-cefprozil": {
       "nivo": "Srednji",
@@ -130429,6 +133669,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter252-DDInter811"
+    },
+    "lansoprazole-bupropion": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter252"
+    },
+    "bupropion-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter252-DDInter1022"
     },
     "levothyroxine-bupropion": {
       "nivo": "Srednji",
@@ -132240,6 +135490,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter906-DDInter1340"
     },
+    "lansoprazole-ifosfamide": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter906"
+    },
+    "ifosfamide-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter906-DDInter1022"
+    },
     "vancomycin-ifosfamide": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -132570,6 +135830,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter398-DDInter1340"
     },
+    "lansoprazole-clindamycin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter398"
+    },
+    "clindamycin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter398-DDInter1022"
+    },
     "vancomycin-clindamycin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -132850,6 +136120,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter740-DDInter1340"
     },
+    "lansoprazole-flecainide": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter740"
+    },
+    "flecainide-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter740-DDInter1022"
+    },
     "prednisone-flecainide": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -132999,6 +136279,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter292-DDInter1382"
+    },
+    "lansoprazole-captopril": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter292"
+    },
+    "captopril-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter292-DDInter1022"
     },
     "vancomycin-captopril": {
       "nivo": "Srednji",
@@ -133680,6 +136970,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter334-DDInter1382"
     },
+    "lansoprazole-ceftriaxone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter334"
+    },
+    "ceftriaxone-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter334-DDInter1022"
+    },
     "vancomycin-ceftriaxone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -134010,6 +137310,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter736-DDInter1382"
     },
+    "lansoprazole-finasteride": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter736"
+    },
+    "finasteride-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter736-DDInter1022"
+    },
     "vancomycin-finasteride": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -134259,6 +137569,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter95-DDInter1340"
+    },
+    "lansoprazole-anastrozole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter95"
+    },
+    "anastrozole-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter95-DDInter1022"
     },
     "lactulose-anastrozole": {
       "nivo": "Srednji",
@@ -134899,6 +138219,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter246-DDInter811"
+    },
+    "lansoprazole-budesonide": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter246"
+    },
+    "budesonide-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter246-DDInter1022"
     },
     "loratadine-budesonide": {
       "nivo": "Srednji",
@@ -137860,6 +141190,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter513-DDInter811"
     },
+    "lansoprazole-dexamethasone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter513"
+    },
+    "dexamethasone-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter513-DDInter1022"
+    },
     "loratadine-dexamethasone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -138930,6 +142270,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter410-DDInter1340"
     },
+    "lansoprazole-clomipramine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter410"
+    },
+    "clomipramine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter410-DDInter1022"
+    },
     "vancomycin-clomipramine": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -139089,6 +142439,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter578-DDInter1382"
+    },
+    "lansoprazole-docetaxel": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter578"
+    },
+    "docetaxel-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter578-DDInter1022"
     },
     "vancomycin-docetaxel": {
       "nivo": "Srednji",
@@ -139349,6 +142709,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter314-DDInter1340"
+    },
+    "lansoprazole-cefazolin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter314"
+    },
+    "cefazolin-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter314-DDInter1022"
     },
     "vancomycin-cefazolin": {
       "nivo": "Srednji",
@@ -139719,6 +143089,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter317-DDInter1382"
+    },
+    "lansoprazole-cefepime": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter317"
+    },
+    "cefepime-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter317-DDInter1022"
     },
     "vancomycin-cefepime": {
       "nivo": "Srednji",
@@ -140670,6 +144050,16 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter893-DDInter1340"
     },
+    "lansoprazole-hydroxychloroquine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter893"
+    },
+    "hydroxychloroquine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter893-DDInter1022"
+    },
     "vancomycin-hydroxychloroquine": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -140879,6 +144269,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter19-DDInter1340"
+    },
+    "lansoprazole-acetylcysteine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter19"
+    },
+    "acetylcysteine-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter19-DDInter1022"
     },
     "vancomycin-acetylcysteine": {
       "nivo": "Srednji",
@@ -141249,6 +144649,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter964-DDInter1340"
+    },
+    "lansoprazole-iopromide": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter1022-DDInter964"
+    },
+    "iopromide-lansoprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Unknown",
+      "link": "DDInter964-DDInter1022"
     },
     "lactulose-iopromide": {
       "nivo": "Srednji",
@@ -511592,6 +515002,7 @@
     "eliglustat": "DDInter629",
     "esomeprazole": "DDInter676",
     "granisetron": "DDInter840",
+    "lansoprazole": "DDInter1022",
     "linagliptin": "DDInter1070",
     "omeprazole": "DDInter1340",
     "ondansetron": "DDInter1342",
