@@ -21200,16 +21200,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1948-DDInter1244"
     },
-    "morphine-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1244-DDInter1969"
-    },
-    "zolmitriptan-morphine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1969-DDInter1244"
-    },
     "morphine-zolpidem": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -46470,16 +46460,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter1948-DDInter1382"
     },
-    "zolmitriptan-palonosetron": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1969-DDInter1382"
-    },
-    "palonosetron-zolmitriptan": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1382-DDInter1969"
-    },
     "prednisolone-nivolumab": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -61880,16 +61860,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter1948-DDInter1342"
     },
-    "zolmitriptan-ondansetron": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1969-DDInter1342"
-    },
-    "ondansetron-zolmitriptan": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1342-DDInter1969"
-    },
     "esomeprazole-osilodrostat": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -65899,16 +65869,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1959-DDInter416"
-    },
-    "zolmitriptan-granisetron": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1969-DDInter840"
-    },
-    "granisetron-zolmitriptan": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter840-DDInter1969"
     },
     "clotrimazole-zolpidem": {
       "nivo": "Srednji",
@@ -71830,16 +71790,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter668-DDInter1388"
     },
-    "pantoprazole-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1388-DDInter1969"
-    },
-    "zolmitriptan-pantoprazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1388"
-    },
     "pantoprazole-piperacillin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -75029,16 +74979,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter668-DDInter598"
-    },
-    "doxycycline-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter598-DDInter1969"
-    },
-    "zolmitriptan-doxycycline": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter598"
     },
     "doxycycline-metformin": {
       "nivo": "Srednji",
@@ -80140,36 +80080,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1906-DDInter1913"
     },
-    "zolmitriptan-lactulose": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1018"
-    },
-    "lactulose-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1018-DDInter1969"
-    },
-    "zolmitriptan-simvastatin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1675"
-    },
-    "simvastatin-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1675-DDInter1969"
-    },
-    "zolmitriptan-rosuvastatin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1622"
-    },
-    "rosuvastatin-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1622-DDInter1969"
-    },
     "calcitriol-acetaminophen": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -82709,16 +82619,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1340-DDInter668"
-    },
-    "zolmitriptan-omeprazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1340"
-    },
-    "omeprazole-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1340-DDInter1969"
     },
     "piperacillin-omeprazole": {
       "nivo": "Srednji",
@@ -87809,16 +87709,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1022-DDInter1244"
-    },
-    "zolmitriptan-lansoprazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1022"
-    },
-    "lansoprazole-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1022-DDInter1969"
     },
     "piperacillin-lansoprazole": {
       "nivo": "Srednji",
@@ -97220,16 +97110,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1515-DDInter668"
     },
-    "zolmitriptan-prednisone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1515"
-    },
-    "prednisone-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1515-DDInter1969"
-    },
     "gefitinib-prednisone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -99429,16 +99309,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter652-DDInter1913"
-    },
-    "zolmitriptan-epinephrine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter652"
-    },
-    "epinephrine-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter652-DDInter1969"
     },
     "acetaminophen-epinephrine": {
       "nivo": "Srednji",
@@ -104180,16 +104050,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter885-DDInter1244"
     },
-    "zolmitriptan-hydrocortisone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter885"
-    },
-    "hydrocortisone-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter885-DDInter1969"
-    },
     "gefitinib-hydrocortisone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -107009,16 +106869,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1497-DDInter219"
-    },
-    "zolmitriptan-potassium chloride": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1497"
-    },
-    "potassium chloride-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1497-DDInter1969"
     },
     "gefitinib-potassium chloride": {
       "nivo": "Srednji",
@@ -110500,16 +110350,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1088-DDInter1834"
     },
-    "zolmitriptan-loperamide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1088"
-    },
-    "loperamide-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1088-DDInter1969"
-    },
     "gefitinib-loperamide": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -112149,16 +111989,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1513-DDInter219"
-    },
-    "zolmitriptan-prednisolone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1513"
-    },
-    "prednisolone-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1513-DDInter1969"
     },
     "gefitinib-prednisolone": {
       "nivo": "Srednji",
@@ -117930,16 +117760,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter712-DDInter668"
     },
-    "zolmitriptan-famotidine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter712"
-    },
-    "famotidine-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter712-DDInter1969"
-    },
     "piperacillin-famotidine": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -119669,16 +119489,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter20-DDInter668"
-    },
-    "zolmitriptan-acetylsalicylic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter20"
-    },
-    "acetylsalicylic acid-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter20-DDInter1969"
     },
     "gefitinib-acetylsalicylic acid": {
       "nivo": "Srednji",
@@ -131120,16 +130930,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1559-DDInter1849"
     },
-    "zolmitriptan-rabeprazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1559"
-    },
-    "rabeprazole-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1559-DDInter1969"
-    },
     "pimecrolimus-rabeprazole": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -133469,16 +133269,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter252-DDInter249"
-    },
-    "zolmitriptan-bupropion": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter252"
-    },
-    "bupropion-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter252-DDInter1969"
     },
     "acetaminophen-bupropion": {
       "nivo": "Srednji",
@@ -137930,16 +137720,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter246-DDInter1913"
     },
-    "zolmitriptan-budesonide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter246"
-    },
-    "budesonide-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter246-DDInter1969"
-    },
     "gefitinib-budesonide": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -139779,16 +139559,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1197-DDInter668"
-    },
-    "zolmitriptan-metoclopramide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1197"
-    },
-    "metoclopramide-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1197-DDInter1969"
     },
     "gefitinib-metoclopramide": {
       "nivo": "Srednji",
@@ -160410,16 +160180,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter668-DDInter771"
     },
-    "folic acid-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter771-DDInter1969"
-    },
-    "zolmitriptan-folic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter771"
-    },
     "folic acid-gefitinib": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -162069,16 +161829,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1683-DDInter249"
-    },
-    "zolmitriptan-warfarin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1951"
-    },
-    "warfarin-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1951-DDInter1969"
     },
     "cyanocobalamin-acetaminophen": {
       "nivo": "Srednji",
@@ -164539,16 +164289,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter413-DDInter1913"
-    },
-    "zolmitriptan-clopidogrel": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter413"
-    },
-    "clopidogrel-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter413-DDInter1969"
     },
     "gefitinib-clopidogrel": {
       "nivo": "Srednji",
@@ -167489,16 +167229,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter856-DDInter1913"
-    },
-    "zolmitriptan-heparin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter856"
-    },
-    "heparin-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter856-DDInter1969"
     },
     "acetaminophen-heparin": {
       "nivo": "Srednji",
@@ -187300,16 +187030,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter1928-DDInter130"
     },
-    "zolmitriptan-atenolol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter1969-DDInter130"
-    },
-    "atenolol-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter130-DDInter1969"
-    },
     "atenolol-zolpidem": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -190159,16 +189879,6 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter1928-DDInter216"
-    },
-    "zolmitriptan-bisoprolol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter1969-DDInter216"
-    },
-    "bisoprolol-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter216-DDInter1969"
     },
     "zolpidem-bisoprolol": {
       "nivo": "Srednji",
@@ -198739,16 +198449,6 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter305-DDInter1928"
-    },
-    "zolmitriptan-carvedilol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter1969-DDInter305"
-    },
-    "carvedilol-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter305-DDInter1969"
     },
     "zolpidem-carvedilol": {
       "nivo": "Srednji",
@@ -215430,16 +215130,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1925-DDInter1200"
     },
-    "metoprolol-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter1200-DDInter1969"
-    },
-    "zolmitriptan-metoprolol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter1969-DDInter1200"
-    },
     "metoprolol-zolpidem": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -219330,16 +219020,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1534-DDInter1946"
     },
-    "zolmitriptan-propafenone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1969-DDInter1534"
-    },
-    "propafenone-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1534-DDInter1969"
-    },
     "propranolol-berotralstat": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -219689,16 +219369,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1946-DDInter1539"
-    },
-    "zolmitriptan-propranolol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter1969-DDInter1539"
-    },
-    "propranolol-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter1539-DDInter1969"
     },
     "zolpidem-propranolol": {
       "nivo": "Srednji",
@@ -221910,16 +221580,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter1946-DDInter1704"
     },
-    "zolmitriptan-sotalol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter1969-DDInter1704"
-    },
-    "sotalol-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter1704-DDInter1969"
-    },
     "zolpidem-sotalol": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -222729,16 +222389,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1925-DDInter1809"
-    },
-    "zolmitriptan-timolol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter1969-DDInter1809"
-    },
-    "timolol-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter1809-DDInter1969"
     },
     "timolol-zolpidem": {
       "nivo": "Srednji",
@@ -224820,16 +224470,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1849-DDInter1509"
     },
-    "pravastatin-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1509-DDInter1969"
-    },
-    "zolmitriptan-pravastatin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1509"
-    },
     "pravastatin-gefitinib": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -225619,16 +225259,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1849-DDInter1915"
-    },
-    "valsartan-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1915-DDInter1969"
-    },
-    "zolmitriptan-valsartan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1915"
     },
     "valsartan-gefitinib": {
       "nivo": "Srednji",
@@ -231790,16 +231420,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter740-DDInter1913"
     },
-    "zolmitriptan-ezetimibe": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter707"
-    },
-    "ezetimibe-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter707-DDInter1969"
-    },
     "pravastatin-acetaminophen": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -234429,16 +234049,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter561-DDInter1913"
-    },
-    "zolmitriptan-diltiazem": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter561"
-    },
-    "diltiazem-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter561-DDInter1969"
     },
     "piperacillin-diltiazem": {
       "nivo": "Srednji",
@@ -241449,16 +241059,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter336-DDInter1849"
-    },
-    "zolmitriptan-celecoxib": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter336"
-    },
-    "celecoxib-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter336-DDInter1969"
     },
     "gefitinib-celecoxib": {
       "nivo": "Srednji",
@@ -249210,16 +248810,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1928-DDInter1913"
     },
-    "zolmitriptan-verapamil": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1928"
-    },
-    "verapamil-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1928-DDInter1969"
-    },
     "cetirizine-verapamil": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -252999,16 +252589,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1079-DDInter668"
-    },
-    "zolmitriptan-lisinopril": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1079"
-    },
-    "lisinopril-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1079-DDInter1969"
     },
     "gefitinib-lisinopril": {
       "nivo": "Srednji",
@@ -257930,16 +257510,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter248-DDInter1913"
     },
-    "zolmitriptan-bumetanide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter248"
-    },
-    "bumetanide-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter248-DDInter1969"
-    },
     "cetirizine-bumetanide": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -261579,16 +261149,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter883-DDInter668"
-    },
-    "zolmitriptan-hydrochlorothiazide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter883"
-    },
-    "hydrochlorothiazide-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter883-DDInter1969"
     },
     "gefitinib-hydrochlorothiazide": {
       "nivo": "Srednji",
@@ -265540,16 +265100,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter718-DDInter1927"
     },
-    "zolmitriptan-fenofibrate": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter718"
-    },
-    "fenofibrate-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter718-DDInter1969"
-    },
     "methadone-fenofibrate": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -267280,16 +266830,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter900-DDInter1849"
     },
-    "zolmitriptan-ibuprofen": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter900"
-    },
-    "ibuprofen-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter900-DDInter1969"
-    },
     "gefitinib-ibuprofen": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -268859,16 +268399,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter133-DDInter1913"
-    },
-    "zolmitriptan-atorvastatin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter133"
-    },
-    "atorvastatin-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter133-DDInter1969"
     },
     "gefitinib-atorvastatin": {
       "nivo": "Srednji",
@@ -293280,16 +292810,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter668-DDInter743"
     },
-    "fluconazole-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter743-DDInter1969"
-    },
-    "zolmitriptan-fluconazole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter743"
-    },
     "fluconazole-piperacillin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -295009,36 +294529,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter766-DDInter1913"
-    },
-    "adapalene-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter28-DDInter1969"
-    },
-    "zolmitriptan-adapalene": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter28"
-    },
-    "zolmitriptan-pimecrolimus": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1468"
-    },
-    "pimecrolimus-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1468-DDInter1969"
-    },
-    "zolmitriptan-fluticasone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter766"
-    },
-    "fluticasone-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter766-DDInter1969"
     },
     "fluconazole-acetaminophen": {
       "nivo": "Srednji",
@@ -297940,16 +297430,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter537-DDInter1913"
     },
-    "zolmitriptan-diclofenac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter537"
-    },
-    "diclofenac-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter537-DDInter1969"
-    },
     "gefitinib-diclofenac": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -299630,16 +299110,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1853-DDInter1927"
     },
-    "zolmitriptan-tretinoin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1853"
-    },
-    "tretinoin-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1853-DDInter1969"
-    },
     "pimecrolimus-tretinoin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -300839,16 +300309,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1735-DDInter1834"
-    },
-    "zolmitriptan-tacrolimus": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1735"
-    },
-    "tacrolimus-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1735-DDInter1969"
     },
     "allopurinol-tacrolimus": {
       "nivo": "Srednji",
@@ -303589,16 +303049,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter398-DDInter1913"
-    },
-    "zolmitriptan-clindamycin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter398"
-    },
-    "clindamycin-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter398-DDInter1969"
     },
     "gefitinib-clindamycin": {
       "nivo": "Srednji",
@@ -307860,16 +307310,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter692-DDInter1946"
     },
-    "zolmitriptan-ethinylestradiol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter1969-DDInter692"
-    },
-    "ethinylestradiol-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter692-DDInter1969"
-    },
     "loratadine-darunavir": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -309029,16 +308469,6 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter1948-DDInter1730"
-    },
-    "zolmitriptan-sumatriptan": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1969-DDInter1730"
-    },
-    "sumatriptan-zolmitriptan": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1730-DDInter1969"
     },
     "norethisterone-aminophylline": {
       "nivo": "Srednji",
@@ -310750,16 +310180,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1907-DDInter1312"
     },
-    "zolmitriptan-norethisterone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter1969-DDInter1312"
-    },
-    "norethisterone-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter1312-DDInter1969"
-    },
     "azithromycin-methylergometrine": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -312139,16 +311559,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter243-DDInter1946"
-    },
-    "zolmitriptan-bromocriptine": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1969-DDInter243"
-    },
-    "bromocriptine-zolmitriptan": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter243-DDInter1969"
     },
     "darifenacin-buprenorphine": {
       "nivo": "Srednji",
@@ -313689,16 +313099,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1315-DDInter1946"
-    },
-    "zolmitriptan-norgestrel": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter1969-DDInter1315"
-    },
-    "norgestrel-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter1315-DDInter1969"
     },
     "daptomycin-naproxen": {
       "nivo": "Srednji",
@@ -319560,16 +318960,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1946-DDInter1061"
     },
-    "zolmitriptan-levonorgestrel": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter1969-DDInter1061"
-    },
-    "levonorgestrel-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter1061-DDInter1969"
-    },
     "lamotrigine-norgestrel": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -320319,16 +319709,6 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter1946-DDInter1187"
-    },
-    "zolmitriptan-methylergometrine": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1969-DDInter1187"
-    },
-    "methylergometrine-zolmitriptan": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1187-DDInter1969"
     },
     "midazolam-silodosin": {
       "nivo": "Srednji",
@@ -323270,16 +322650,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1959-DDInter1925"
     },
-    "zolmitriptan-vemurafenib": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1969-DDInter1925"
-    },
-    "vemurafenib-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1925-DDInter1969"
-    },
     "zolpidem-vemurafenib": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -323800,16 +323170,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter546-DDInter1907"
     },
-    "zolmitriptan-dienogest": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter1969-DDInter546"
-    },
-    "dienogest-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Minor",
-      "link": "DDInter546-DDInter1969"
-    },
     "etanercept-norgestrel": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -324299,16 +323659,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1849-DDInter1666"
-    },
-    "sildenafil-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1666-DDInter1969"
-    },
-    "zolmitriptan-sildenafil": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1666"
     },
     "sildenafil-sorafenib": {
       "nivo": "Srednji",
@@ -325069,16 +324419,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1767-DDInter1913"
-    },
-    "zolmitriptan-zonisamide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1971"
-    },
-    "zonisamide-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1971-DDInter1969"
     },
     "sildenafil-acetaminophen": {
       "nivo": "Srednji",
@@ -328900,16 +328240,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter679-DDInter1849"
     },
-    "zolmitriptan-estradiol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter679"
-    },
-    "estradiol-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter679-DDInter1969"
-    },
     "acetaminophen-estradiol": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -329889,16 +329219,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1266-DDInter1913"
-    },
-    "zolmitriptan-naproxen": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1266"
-    },
-    "naproxen-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1266-DDInter1969"
     },
     "acetaminophen-naproxen": {
       "nivo": "Srednji",
@@ -332309,16 +331629,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1832-DDInter1927"
-    },
-    "zolmitriptan-tolterodine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1832"
-    },
-    "tolterodine-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1832-DDInter1969"
     },
     "vinorelbine-tolterodine": {
       "nivo": "Srednji",
@@ -337970,16 +337280,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter1351-DDInter1946"
     },
-    "zolmitriptan-osilodrostat": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1969-DDInter1351"
-    },
-    "osilodrostat-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1351-DDInter1969"
-    },
     "zolpidem-osilodrostat": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -339319,16 +338619,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1064-DDInter1913"
-    },
-    "zolmitriptan-levothyroxine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1064"
-    },
-    "levothyroxine-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1064-DDInter1969"
     },
     "acetaminophen-levothyroxine": {
       "nivo": "Srednji",
@@ -349630,16 +348920,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter1959-DDInter384"
     },
-    "zolmitriptan-ciprofloxacin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1969-DDInter384"
-    },
-    "ciprofloxacin-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter384-DDInter1969"
-    },
     "zolpidem-ciprofloxacin": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -358730,16 +358010,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter1948-DDInter1073"
     },
-    "zolmitriptan-linezolid": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1969-DDInter1073"
-    },
-    "linezolid-zolmitriptan": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1073-DDInter1969"
-    },
     "caspofungin-lorlatinib": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -360199,16 +359469,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1313-DDInter1946"
-    },
-    "zolmitriptan-norfloxacin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1969-DDInter1313"
-    },
-    "norfloxacin-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1313-DDInter1969"
     },
     "valganciclovir-obinutuzumab": {
       "nivo": "Srednji",
@@ -375449,16 +374709,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1325-DDInter668"
-    },
-    "zolmitriptan-ofloxacin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1325"
-    },
-    "ofloxacin-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1325-DDInter1969"
     },
     "gefitinib-ofloxacin": {
       "nivo": "Srednji",
@@ -435950,16 +435200,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1327-DDInter33"
     },
-    "zolmitriptan-olaparib": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1969-DDInter1327"
-    },
-    "olaparib-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1327-DDInter1969"
-    },
     "iohexol-enzalutamide": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -444579,16 +443819,6 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter33-DDInter1771"
-    },
-    "zolmitriptan-teriflunomide": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1969-DDInter1771"
-    },
-    "teriflunomide-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1771-DDInter1969"
     },
     "chlorpromazine-thalidomide": {
       "nivo": "Srednji",
@@ -456359,16 +455589,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1174-DDInter1849"
-    },
-    "zolmitriptan-methotrexate": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1174"
-    },
-    "methotrexate-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1174-DDInter1969"
     },
     "olanzapine-methotrexate": {
       "nivo": "Srednji",
@@ -469190,16 +468410,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1821-DDInter1927"
     },
-    "zolmitriptan-tizanidine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1969-DDInter1821"
-    },
-    "tizanidine-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1821-DDInter1969"
-    },
     "zolpidem-tizanidine": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -471030,16 +470240,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter42-DDInter1913"
     },
-    "zolmitriptan-alendronic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter42"
-    },
-    "alendronic acid-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter42-DDInter1969"
-    },
     "amitriptyline-alendronic acid": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -471920,16 +471120,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter699-DDInter1834"
     },
-    "zolmitriptan-etodolac": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter699"
-    },
-    "etodolac-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter699-DDInter1969"
-    },
     "olanzapine-etodolac": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -472369,16 +471559,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1143-DDInter1849"
-    },
-    "zolmitriptan-meloxicam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1143"
-    },
-    "meloxicam-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1143-DDInter1969"
     },
     "methadone-meloxicam": {
       "nivo": "Srednji",
@@ -473209,16 +472389,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1009-DDInter1834"
-    },
-    "zolmitriptan-ketoprofen": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1009"
-    },
-    "ketoprofen-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1009-DDInter1969"
     },
     "olanzapine-ketoprofen": {
       "nivo": "Srednji",
@@ -474580,16 +473750,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter1948-DDInter722"
     },
-    "zolmitriptan-fentanyl": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1969-DDInter722"
-    },
-    "fentanyl-zolmitriptan": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter722-DDInter1969"
-    },
     "zolpidem-fentanyl": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -475499,16 +474659,6 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter1948-DDInter1841"
-    },
-    "tramadol-zolmitriptan": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1841-DDInter1969"
-    },
-    "zolmitriptan-tramadol": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1969-DDInter1841"
     },
     "tramadol-zolpidem": {
       "nivo": "Visok",
@@ -482420,16 +481570,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1948-DDInter251"
     },
-    "zolmitriptan-buprenorphine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1969-DDInter251"
-    },
-    "buprenorphine-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter251-DDInter1969"
-    },
     "zolpidem-buprenorphine": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -484940,16 +484080,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1959-DDInter388"
     },
-    "citalopram-zolmitriptan": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter388-DDInter1969"
-    },
-    "zolmitriptan-citalopram": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1969-DDInter388"
-    },
     "citalopram-zolpidem": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -487080,16 +486210,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1948-DDInter488"
     },
-    "zolmitriptan-deferasirox": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1969-DDInter488"
-    },
-    "deferasirox-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter488-DDInter1969"
-    },
     "zolpidem-deferasirox": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -487629,16 +486749,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1959-DDInter511"
-    },
-    "zolmitriptan-desvenlafaxine": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1969-DDInter511"
-    },
-    "desvenlafaxine-zolmitriptan": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter511-DDInter1969"
     },
     "zolpidem-desvenlafaxine": {
       "nivo": "Srednji",
@@ -489520,16 +488630,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1948-DDInter1166"
     },
-    "zolmitriptan-methadone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1969-DDInter1166"
-    },
-    "methadone-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1166-DDInter1969"
-    },
     "methadone-zolpidem": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -490830,16 +489930,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1959-DDInter608"
     },
-    "zolmitriptan-duloxetine": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1969-DDInter608"
-    },
-    "duloxetine-zolmitriptan": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter608-DDInter1969"
-    },
     "zolpidem-duloxetine": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -491800,16 +490890,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1948-DDInter1366"
     },
-    "zolmitriptan-oxycodone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1969-DDInter1366"
-    },
-    "oxycodone-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1366-DDInter1969"
-    },
     "zolpidem-oxycodone": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -492720,16 +491800,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter1948-DDInter758"
     },
-    "zolmitriptan-fluoxetine": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1969-DDInter758"
-    },
-    "fluoxetine-zolmitriptan": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter758-DDInter1969"
-    },
     "zolpidem-fluoxetine": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -493179,16 +492249,6 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter1948-DDInter1851"
-    },
-    "zolmitriptan-trazodone": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1969-DDInter1851"
-    },
-    "trazodone-zolmitriptan": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1851-DDInter1969"
     },
     "zolpidem-trazodone": {
       "nivo": "Srednji",
@@ -497970,16 +497030,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter1948-DDInter1230"
     },
-    "zolmitriptan-mirtazapine": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1969-DDInter1230"
-    },
-    "mirtazapine-zolmitriptan": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1230-DDInter1969"
-    },
     "mirtazapine-zolpidem": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -498959,16 +498009,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1959-DDInter1397"
-    },
-    "zolmitriptan-paroxetine": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1969-DDInter1397"
-    },
-    "paroxetine-zolmitriptan": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1397-DDInter1969"
     },
     "zolpidem-paroxetine": {
       "nivo": "Srednji",
@@ -500250,16 +499290,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1959-DDInter1662"
     },
-    "zolmitriptan-sertraline": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1969-DDInter1662"
-    },
-    "sertraline-zolmitriptan": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1662-DDInter1969"
-    },
     "zolpidem-sertraline": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -500560,16 +499590,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter1948-DDInter1746"
     },
-    "zolmitriptan-tapentadol": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1969-DDInter1746"
-    },
-    "tapentadol-zolmitriptan": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1746-DDInter1969"
-    },
     "zolpidem-tapentadol": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -500810,16 +499830,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1959-DDInter1927"
     },
-    "venlafaxine-zolmitriptan": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1927-DDInter1969"
-    },
-    "zolmitriptan-venlafaxine": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1969-DDInter1927"
-    },
     "venlafaxine-zolpidem": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -500920,16 +499930,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1959-DDInter1948"
     },
-    "zolmitriptan-vortioxetine": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1969-DDInter1948"
-    },
-    "vortioxetine-zolmitriptan": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1948-DDInter1969"
-    },
     "escitalopram-zanubrutinib": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -500949,26 +499949,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1959-DDInter758"
-    },
-    "zolmitriptan-ergotamine": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1969-DDInter665"
-    },
-    "ergotamine-zolmitriptan": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter665-DDInter1969"
-    },
-    "zolmitriptan-escitalopram": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1969-DDInter672"
-    },
-    "escitalopram-zolmitriptan": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter672-DDInter1969"
     },
     "zolpidem-berotralstat": {
       "nivo": "Srednji",
@@ -502430,16 +501410,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1849-DDInter1092"
     },
-    "lorazepam-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1092-DDInter1969"
-    },
-    "zolmitriptan-lorazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1092"
-    },
     "lorazepam-methylphenidate": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -503030,16 +502000,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1972-DDInter1619"
     },
-    "topiramate-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1834-DDInter1969"
-    },
-    "zolmitriptan-topiramate": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1834"
-    },
     "topiramate-montelukast": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -503520,16 +502480,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1664-DDInter249"
     },
-    "valproic acid-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1913-DDInter1969"
-    },
-    "zolmitriptan-valproic acid": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1913"
-    },
     "valproic acid-methylphenidate": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -503730,56 +502680,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1301-DDInter1913"
     },
-    "pregabalin-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1516-DDInter1969"
-    },
-    "zolmitriptan-pregabalin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1516"
-    },
-    "zolmitriptan-zolpidem": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1970"
-    },
-    "zolpidem-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1970-DDInter1969"
-    },
-    "zolmitriptan-montelukast": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1242"
-    },
-    "montelukast-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1242-DDInter1969"
-    },
-    "zolmitriptan-desloratadine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter506"
-    },
-    "desloratadine-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter506-DDInter1969"
-    },
-    "zolmitriptan-zopiclone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1972"
-    },
-    "zopiclone-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1972-DDInter1969"
-    },
     "lorazepam-acetaminophen": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -503899,16 +502799,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter14-DDInter1913"
-    },
-    "zolmitriptan-acetaminophen": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter14"
-    },
-    "acetaminophen-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter14-DDInter1969"
     },
     "acetaminophen-amitriptyline": {
       "nivo": "Srednji",
@@ -504690,16 +503580,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1972-DDInter1166"
     },
-    "zolmitriptan-olanzapine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1326"
-    },
-    "olanzapine-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1326-DDInter1969"
-    },
     "olanzapine-montelukast": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -504749,16 +503629,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1972-DDInter1326"
-    },
-    "zolmitriptan-cetirizine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter343"
-    },
-    "cetirizine-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter343-DDInter1969"
     },
     "cetirizine-methylphenidate": {
       "nivo": "Srednji",
@@ -505040,16 +503910,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter54-DDInter1849"
     },
-    "zolmitriptan-alprazolam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter54"
-    },
-    "alprazolam-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter54-DDInter1969"
-    },
     "alprazolam-methylphenidate": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -505310,16 +504170,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1505-DDInter1849"
     },
-    "zolmitriptan-pramipexole": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1505"
-    },
-    "pramipexole-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1505-DDInter1969"
-    },
     "pramipexole-montelukast": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -505449,16 +504299,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1189-DDInter1927"
-    },
-    "zolmitriptan-methylphenidate": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1189"
-    },
-    "methylphenidate-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1189-DDInter1969"
     },
     "olanzapine-methylphenidate": {
       "nivo": "Srednji",
@@ -505809,16 +504649,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1091-DDInter1927"
-    },
-    "zolmitriptan-loratadine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1091"
-    },
-    "loratadine-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1091-DDInter1969"
     },
     "olanzapine-loratadine": {
       "nivo": "Srednji",
@@ -506440,16 +505270,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1020-DDInter1834"
     },
-    "zolmitriptan-lamotrigine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1020"
-    },
-    "lamotrigine-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1020-DDInter1969"
-    },
     "mirtazapine-lamotrigine": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -506639,16 +505459,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1301-DDInter1020"
-    },
-    "zolmitriptan-carbamazepine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter293"
-    },
-    "carbamazepine-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter293-DDInter1969"
     },
     "methylphenidate-carbamazepine": {
       "nivo": "Srednji",
@@ -507350,16 +506160,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1664-DDInter1397"
     },
-    "zolmitriptan-risperidone": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1605"
-    },
-    "risperidone-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1605-DDInter1969"
-    },
     "montelukast-risperidone": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -507489,16 +506289,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1236-DDInter1927"
-    },
-    "zolmitriptan-modafinil": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1236"
-    },
-    "modafinil-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1236-DDInter1969"
     },
     "olanzapine-modafinil": {
       "nivo": "Srednji",
@@ -507950,16 +506740,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter1538-DDInter1834"
     },
-    "zolmitriptan-propofol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1538"
-    },
-    "propofol-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1538-DDInter1969"
-    },
     "nitric oxide-propofol": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -508139,16 +506919,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter534-DDInter1834"
-    },
-    "zolmitriptan-diazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter534"
-    },
-    "diazepam-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter534-DDInter1969"
     },
     "methylphenidate-diazepam": {
       "nivo": "Srednji",
@@ -508419,16 +507189,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter964-DDInter534"
-    },
-    "zolmitriptan-oxazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1359"
-    },
-    "oxazepam-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1359-DDInter1969"
     },
     "montelukast-oxazepam": {
       "nivo": "Srednji",
@@ -509180,16 +507940,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter732-DDInter1927"
     },
-    "zolmitriptan-fexofenadine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter732"
-    },
-    "fexofenadine-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter732-DDInter1969"
-    },
     "methadone-fexofenadine": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -509850,16 +508600,6 @@
       "opis": "Rizik: Unknown",
       "link": "DDInter791-DDInter1849"
     },
-    "zolmitriptan-gabapentin": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter791"
-    },
-    "gabapentin-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter791-DDInter1969"
-    },
     "methylphenidate-gabapentin": {
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
@@ -510089,16 +508829,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1632-DDInter1913"
-    },
-    "zolmitriptan-salbutamol": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1632"
-    },
-    "salbutamol-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1632-DDInter1969"
     },
     "alprazolam-salbutamol": {
       "nivo": "Srednji",
@@ -510589,16 +509319,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter411-DDInter1849"
-    },
-    "zolmitriptan-clonazepam": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter411"
-    },
-    "clonazepam-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter411-DDInter1969"
     },
     "methylphenidate-clonazepam": {
       "nivo": "Srednji",
@@ -511249,16 +509969,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Unknown",
       "link": "DDInter1664-DDInter748"
-    },
-    "zolmitriptan-quetiapine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1969-DDInter1553"
-    },
-    "quetiapine-zolmitriptan": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Unknown",
-      "link": "DDInter1553-DDInter1969"
     },
     "montelukast-quetiapine": {
       "nivo": "Srednji",
@@ -514803,7 +513513,6 @@
     "ropinirole": "DDInter1619",
     "terbinafine": "DDInter1768",
     "tryptophan": "DDInter1888",
-    "zolmitriptan": "DDInter1969",
     "dalteparin": "DDInter470",
     "heparin": "DDInter856",
     "tenecteplase": "DDInter1764",
