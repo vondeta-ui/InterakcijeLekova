@@ -1670,6 +1670,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter712-DDInter655"
     },
+    "famotidine-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter712-DDInter666"
+    },
+    "eribulin-famotidine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter712"
+    },
     "erlotinib-famotidine": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -13669,6 +13679,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1088-DDInter655"
+    },
+    "loperamide-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1088-DDInter666"
+    },
+    "eribulin-loperamide": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1088"
     },
     "erythromycin-loperamide": {
       "nivo": "Visok",
@@ -28020,6 +28040,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter212-DDInter649"
     },
+    "eribulin-bisacodyl": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter212"
+    },
+    "bisacodyl-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter212-DDInter666"
+    },
     "erythromycin-bisacodyl": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -34979,6 +35009,16 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter393-DDInter665"
+    },
+    "clarithromycin-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter393-DDInter666"
+    },
+    "eribulin-clarithromycin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter393"
     },
     "erlotinib-clarithromycin": {
       "nivo": "Srednji",
@@ -45830,6 +45870,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter655-DDInter1382"
     },
+    "palonosetron-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1382-DDInter666"
+    },
+    "eribulin-palonosetron": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1382"
+    },
     "palonosetron-escitalopram": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -56210,6 +56260,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1055-DDInter655"
     },
+    "levofloxacin-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1055-DDInter666"
+    },
+    "eribulin-levofloxacin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1055"
+    },
     "levofloxacin-escitalopram": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -58780,6 +58840,16 @@
       "opis": "Rizik: Minor",
       "link": "DDInter1202-DDInter655"
     },
+    "metronidazole-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1202-DDInter666"
+    },
+    "eribulin-metronidazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1202"
+    },
     "metronidazole-escitalopram": {
       "nivo": "Srednji",
       "opis": "Rizik: Minor",
@@ -60049,6 +60119,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter649-DDInter1018"
+    },
+    "lactulose-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1018-DDInter666"
+    },
+    "eribulin-lactulose": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1018"
     },
     "lactulose-escitalopram": {
       "nivo": "Srednji",
@@ -61389,6 +61469,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1342-DDInter655"
+    },
+    "ondansetron-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1342-DDInter666"
+    },
+    "eribulin-ondansetron": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1342"
     },
     "ondansetron-escitalopram": {
       "nivo": "Visok",
@@ -64350,6 +64440,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1622-DDInter655"
     },
+    "rosuvastatin-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1622-DDInter666"
+    },
+    "eribulin-rosuvastatin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1622"
+    },
     "etanercept-rosuvastatin": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -64779,6 +64879,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1675-DDInter655"
+    },
+    "simvastatin-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1675-DDInter666"
+    },
+    "eribulin-simvastatin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1675"
     },
     "simvastatin-esomeprazole": {
       "nivo": "Srednji",
@@ -66099,6 +66209,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter665-DDInter416"
+    },
+    "granisetron-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter840-DDInter666"
+    },
+    "eribulin-granisetron": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter840"
     },
     "erlotinib-calcium carbonate": {
       "nivo": "Srednji",
@@ -149960,6 +150080,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter379-DDInter655"
     },
+    "cilostazol-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter379-DDInter666"
+    },
+    "eribulin-cilostazol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter379"
+    },
     "erythromycin-cilostazol": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -181190,6 +181320,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter76-DDInter665"
     },
+    "amiodarone-eribulin": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter76-DDInter666"
+    },
+    "eribulin-amiodarone": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter666-DDInter76"
+    },
     "erlotinib-amiodarone": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -187769,6 +187909,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter133-DDInter655"
+    },
+    "atorvastatin-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter133-DDInter666"
+    },
+    "eribulin-atorvastatin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter133"
     },
     "etanercept-atorvastatin": {
       "nivo": "Srednji",
@@ -201029,6 +201179,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter665-DDInter1928"
+    },
+    "verapamil-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Minor",
+      "link": "DDInter1928-DDInter666"
+    },
+    "eribulin-verapamil": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Minor",
+      "link": "DDInter666-DDInter1928"
     },
     "erlotinib-verapamil": {
       "nivo": "Srednji",
@@ -218580,6 +218740,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter648-DDInter1479"
     },
+    "pitavastatin-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1479-DDInter666"
+    },
+    "eribulin-pitavastatin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1479"
+    },
     "etanercept-pitavastatin": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -218840,6 +219010,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter655-DDInter1509"
     },
+    "pravastatin-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1509-DDInter666"
+    },
+    "eribulin-pravastatin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1509"
+    },
     "etanercept-pravastatin": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -219069,6 +219249,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1534-DDInter655"
+    },
+    "propafenone-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1534-DDInter666"
+    },
+    "eribulin-propafenone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1534"
     },
     "escitalopram-propafenone": {
       "nivo": "Visok",
@@ -220430,6 +220620,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter665-DDInter1570"
     },
+    "ranolazine-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1570-DDInter666"
+    },
+    "eribulin-ranolazine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1570"
+    },
     "ranolazine-escitalopram": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -221779,6 +221979,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter665-DDInter1704"
+    },
+    "sotalol-eribulin": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1704-DDInter666"
+    },
+    "eribulin-sotalol": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter666-DDInter1704"
     },
     "sotalol-escitalopram": {
       "nivo": "Visok",
@@ -223879,6 +224089,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1600-DDInter656"
+    },
+    "flecainide-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter740-DDInter666"
+    },
+    "eribulin-flecainide": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter740"
     },
     "erlotinib-riociguat": {
       "nivo": "Srednji",
@@ -283600,6 +283820,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter665-DDInter351"
     },
+    "chloramphenicol-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter351-DDInter666"
+    },
+    "eribulin-chloramphenicol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter351"
+    },
     "chloramphenicol-escitalopram": {
       "nivo": "Srednji",
       "opis": "Rizik: Minor",
@@ -286740,6 +286970,16 @@
       "opis": "Rizik: Major",
       "link": "DDInter665-DDInter670"
     },
+    "erythromycin-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter670-DDInter666"
+    },
+    "eribulin-erythromycin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter670"
+    },
     "erythromycin-erlotinib": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -289029,6 +289269,16 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter1008-DDInter665"
+    },
+    "ketoconazole-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1008-DDInter666"
+    },
+    "eribulin-ketoconazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1008"
     },
     "erlotinib-ketoconazole": {
       "nivo": "Srednji",
@@ -291710,6 +291960,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1735-DDInter665"
     },
+    "tacrolimus-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1735-DDInter666"
+    },
+    "eribulin-tacrolimus": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1735"
+    },
     "tacrolimus-escitalopram": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -292829,6 +293089,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter665-DDInter743"
+    },
+    "fluconazole-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter743-DDInter666"
+    },
+    "eribulin-fluconazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter743"
     },
     "fluconazole-escitalopram": {
       "nivo": "Visok",
@@ -318520,6 +318790,16 @@
       "opis": "Rizik: Minor",
       "link": "DDInter1724-DDInter655"
     },
+    "sulfamethoxazole-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Minor",
+      "link": "DDInter1724-DDInter666"
+    },
+    "eribulin-sulfamethoxazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Minor",
+      "link": "DDInter666-DDInter1724"
+    },
     "sulfamethoxazole-escitalopram": {
       "nivo": "Srednji",
       "opis": "Rizik: Minor",
@@ -321200,6 +321480,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter655-DDInter1375"
     },
+    "oxytocin-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1375-DDInter666"
+    },
+    "eribulin-oxytocin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1375"
+    },
     "oxytocin-escitalopram": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -322610,6 +322900,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1696-DDInter655"
     },
+    "solifenacin-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1696-DDInter666"
+    },
+    "eribulin-solifenacin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1696"
+    },
     "escitalopram-solifenacin": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -323299,6 +323599,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1925-DDInter665"
+    },
+    "eribulin-vemurafenib": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter666-DDInter1925"
+    },
+    "vemurafenib-eribulin": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1925-DDInter666"
     },
     "erlotinib-vemurafenib": {
       "nivo": "Srednji",
@@ -337820,6 +338130,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1351-DDInter665"
     },
+    "eribulin-osilodrostat": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1351"
+    },
+    "osilodrostat-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1351-DDInter666"
+    },
     "escitalopram-osilodrostat": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -338389,6 +338709,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1398-DDInter665"
+    },
+    "pasireotide-eribulin": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1398-DDInter666"
+    },
+    "eribulin-pasireotide": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter666-DDInter1398"
     },
     "escitalopram-pasireotide": {
       "nivo": "Visok",
@@ -345360,6 +345690,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter665-DDInter157"
     },
+    "azithromycin-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter157-DDInter666"
+    },
+    "eribulin-azithromycin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter157"
+    },
     "azithromycin-escitalopram": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -346329,6 +346669,16 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter205-DDInter649"
+    },
+    "emtricitabine-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Minor",
+      "link": "DDInter637-DDInter666"
+    },
+    "eribulin-emtricitabine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Minor",
+      "link": "DDInter666-DDInter637"
     },
     "gefitinib-bictegravir": {
       "nivo": "Srednji",
@@ -348949,6 +349299,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter665-DDInter384"
+    },
+    "ciprofloxacin-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter384-DDInter666"
+    },
+    "eribulin-ciprofloxacin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter384"
     },
     "erlotinib-ciprofloxacin": {
       "nivo": "Srednji",
@@ -352889,6 +353249,16 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter649-DDInter1595"
+    },
+    "rilpivirine-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1595-DDInter666"
+    },
+    "eribulin-rilpivirine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1595"
     },
     "escitalopram-rilpivirine": {
       "nivo": "Visok",
@@ -357060,6 +357430,16 @@
       "opis": "Rizik: Major",
       "link": "DDInter655-DDInter1247"
     },
+    "moxifloxacin-eribulin": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1247-DDInter666"
+    },
+    "eribulin-moxifloxacin": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter666-DDInter1247"
+    },
     "moxifloxacin-escitalopram": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -358430,6 +358810,16 @@
       "opis": "Rizik: Major",
       "link": "DDInter665-DDInter1073"
     },
+    "linezolid-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1073-DDInter666"
+    },
+    "eribulin-linezolid": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1073"
+    },
     "linezolid-escitalopram": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -359680,6 +360070,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1303-DDInter655"
     },
+    "nitrofurantoin-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1303-DDInter666"
+    },
+    "eribulin-nitrofurantoin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1303"
+    },
     "etanercept-nitrofurantoin": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -359939,6 +360339,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1313-DDInter655"
+    },
+    "norfloxacin-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1313-DDInter666"
+    },
+    "eribulin-norfloxacin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1313"
     },
     "norfloxacin-escitalopram": {
       "nivo": "Visok",
@@ -360449,6 +360859,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1325-DDInter655"
+    },
+    "ofloxacin-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1325-DDInter666"
+    },
+    "eribulin-ofloxacin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1325"
     },
     "ofloxacin-escitalopram": {
       "nivo": "Visok",
@@ -361359,6 +361779,16 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter1494-DDInter665"
+    },
+    "posaconazole-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1494-DDInter666"
+    },
+    "eribulin-posaconazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1494"
     },
     "erlotinib-posaconazole": {
       "nivo": "Srednji",
@@ -362870,6 +363300,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1912-DDInter655"
     },
+    "valganciclovir-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1912-DDInter666"
+    },
+    "eribulin-valganciclovir": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1912"
+    },
     "etanercept-valganciclovir": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -363119,6 +363559,16 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter665-DDInter1946"
+    },
+    "voriconazole-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1946-DDInter666"
+    },
+    "eribulin-voriconazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1946"
     },
     "erlotinib-voriconazole": {
       "nivo": "Srednji",
@@ -380300,6 +380750,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter8-DDInter665"
     },
+    "abiraterone-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter8-DDInter666"
+    },
+    "eribulin-abiraterone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter8"
+    },
     "escitalopram-abiraterone": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -381239,6 +381699,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter649-DDInter1377"
+    },
+    "paclitaxel-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1377-DDInter666"
+    },
+    "eribulin-paclitaxel": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1377"
     },
     "etanercept-paclitaxel": {
       "nivo": "Visok",
@@ -383000,6 +383470,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter655-DDInter1841"
     },
+    "tramadol-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1841-DDInter666"
+    },
+    "eribulin-tramadol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1841"
+    },
     "tramadol-fingolimod": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -383339,6 +383819,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter776-DDInter655"
+    },
+    "formoterol-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter776-DDInter666"
+    },
+    "eribulin-formoterol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter776"
     },
     "formoterol-fingolimod": {
       "nivo": "Srednji",
@@ -384160,6 +384650,16 @@
       "opis": "Rizik: Major",
       "link": "DDInter655-DDInter27"
     },
+    "adalimumab-eribulin": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter27-DDInter666"
+    },
+    "eribulin-adalimumab": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter666-DDInter27"
+    },
     "etanercept-adalimumab": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -384880,16 +385380,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter1907-DDInter27"
     },
-    "adalimumab-vedolizumab": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter27-DDInter1923"
-    },
-    "vedolizumab-adalimumab": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1923-DDInter27"
-    },
     "adalimumab-venetoclax": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -385119,6 +385609,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1848-DDInter608"
+    },
+    "trastuzumab emtansine-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1848-DDInter666"
+    },
+    "eribulin-trastuzumab emtansine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1848"
     },
     "escitalopram-trastuzumab emtansine": {
       "nivo": "Srednji",
@@ -386010,6 +386510,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1632-DDInter655"
     },
+    "salbutamol-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1632-DDInter666"
+    },
+    "eribulin-salbutamol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1632"
+    },
     "salbutamol-fingolimod": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -386730,6 +387240,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter655-DDInter41"
     },
+    "alemtuzumab-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter41-DDInter666"
+    },
+    "eribulin-alemtuzumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter41"
+    },
     "etanercept-alemtuzumab": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -387359,16 +387879,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1907-DDInter41"
-    },
-    "alemtuzumab-vedolizumab": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter41-DDInter1923"
-    },
-    "vedolizumab-alemtuzumab": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1923-DDInter41"
     },
     "alemtuzumab-venetoclax": {
       "nivo": "Srednji",
@@ -389160,6 +389670,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter655-DDInter78"
     },
+    "amitriptyline-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter78-DDInter666"
+    },
+    "eribulin-amitriptyline": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter78"
+    },
     "amitriptyline-fingolimod": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -389499,6 +390019,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1538-DDInter655"
+    },
+    "propofol-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1538-DDInter666"
+    },
+    "eribulin-propofol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1538"
     },
     "propofol-fingolimod": {
       "nivo": "Srednji",
@@ -390209,6 +390739,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter107-DDInter665"
+    },
+    "eribulin-apalutamide": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter107"
+    },
+    "apalutamide-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter107-DDInter666"
     },
     "erlotinib-apalutamide": {
       "nivo": "Srednji",
@@ -391160,6 +391700,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter118-DDInter655"
     },
+    "aripiprazole-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter118-DDInter666"
+    },
+    "eribulin-aripiprazole": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter118"
+    },
     "aripiprazole-fingolimod": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -391529,6 +392079,16 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter120-DDInter655"
+    },
+    "arsenic trioxide-eribulin": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter120-DDInter666"
+    },
+    "eribulin-arsenic trioxide": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter666-DDInter120"
     },
     "arsenic trioxide-escitalopram": {
       "nivo": "Visok",
@@ -393450,6 +394010,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter150-DDInter655"
     },
+    "azathioprine-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter150-DDInter666"
+    },
+    "eribulin-azathioprine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter150"
+    },
     "etanercept-azathioprine": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -394080,16 +394650,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1907-DDInter150"
     },
-    "azathioprine-vedolizumab": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter150-DDInter1923"
-    },
-    "vedolizumab-azathioprine": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1923-DDInter150"
-    },
     "azathioprine-venetoclax": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -394459,6 +395019,16 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter165-DDInter655"
+    },
+    "eribulin-baricitinib": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter666-DDInter165"
+    },
+    "baricitinib-eribulin": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter165-DDInter666"
     },
     "etanercept-baricitinib": {
       "nivo": "Visok",
@@ -395159,16 +395729,6 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter165-DDInter1907"
-    },
-    "vedolizumab-baricitinib": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1923-DDInter165"
-    },
-    "baricitinib-vedolizumab": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter165-DDInter1923"
     },
     "venetoclax-baricitinib": {
       "nivo": "Visok",
@@ -396510,6 +397070,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter204-DDInter665"
     },
+    "bicalutamide-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter204-DDInter666"
+    },
+    "eribulin-bicalutamide": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter204"
+    },
     "bicalutamide-escitalopram": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -397790,6 +398360,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter655-DDInter222"
     },
+    "bortezomib-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter222-DDInter666"
+    },
+    "eribulin-bortezomib": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter222"
+    },
     "bortezomib-escitalopram": {
       "nivo": "Srednji",
       "opis": "Rizik: Minor",
@@ -398479,6 +399059,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter228-DDInter655"
+    },
+    "brentuximab vedotin-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter228-DDInter666"
+    },
+    "eribulin-brentuximab vedotin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter228"
     },
     "erlotinib-brentuximab vedotin": {
       "nivo": "Srednji",
@@ -400110,6 +400700,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter251-DDInter655"
     },
+    "buprenorphine-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter251-DDInter666"
+    },
+    "eribulin-buprenorphine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter251"
+    },
     "etanercept-buprenorphine": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -401160,6 +401760,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter649-DDInter259"
     },
+    "cabazitaxel-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter259-DDInter666"
+    },
+    "eribulin-cabazitaxel": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter259"
+    },
     "etanercept-cabazitaxel": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -401809,6 +402419,16 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter262-DDInter655"
+    },
+    "eribulin-cabozantinib": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter666-DDInter262"
+    },
+    "cabozantinib-eribulin": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter262-DDInter666"
     },
     "erlotinib-cabozantinib": {
       "nivo": "Srednji",
@@ -402680,6 +403300,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter281-DDInter655"
     },
+    "canakinumab-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter281-DDInter666"
+    },
+    "eribulin-canakinumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter281"
+    },
     "etanercept-canakinumab": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -403339,16 +403969,6 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter281-DDInter1907"
-    },
-    "canakinumab-vedolizumab": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter281-DDInter1923"
-    },
-    "vedolizumab-canakinumab": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1923-DDInter281"
     },
     "canakinumab-venetoclax": {
       "nivo": "Srednji",
@@ -404480,6 +405100,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter578-DDInter1054"
     },
+    "levodopa-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1054-DDInter666"
+    },
+    "eribulin-levodopa": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1054"
+    },
     "etanercept-levodopa": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -404839,6 +405469,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter298-DDInter655"
+    },
+    "carboplatin-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter298-DDInter666"
+    },
+    "eribulin-carboplatin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter298"
     },
     "etanercept-carboplatin": {
       "nivo": "Visok",
@@ -405349,6 +405989,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter299-DDInter578"
+    },
+    "eribulin-carfilzomib": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter299"
+    },
+    "carfilzomib-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter299-DDInter666"
     },
     "etanercept-carfilzomib": {
       "nivo": "Visok",
@@ -406520,6 +407170,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter387-DDInter655"
     },
+    "cisplatin-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter387-DDInter666"
+    },
+    "eribulin-cisplatin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter387"
+    },
     "etanercept-cisplatin": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -407110,6 +407770,16 @@
       "opis": "Rizik: Major",
       "link": "DDInter655-DDInter388"
     },
+    "citalopram-eribulin": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter388-DDInter666"
+    },
+    "eribulin-citalopram": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter666-DDInter388"
+    },
     "citalopram-fingolimod": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -407559,6 +408229,16 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter655-DDInter392"
+    },
+    "cladribine-eribulin": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter392-DDInter666"
+    },
+    "eribulin-cladribine": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter666-DDInter392"
     },
     "etanercept-cladribine": {
       "nivo": "Visok",
@@ -408210,16 +408890,6 @@
       "opis": "Rizik: Major",
       "link": "DDInter1907-DDInter392"
     },
-    "cladribine-vedolizumab": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter392-DDInter1923"
-    },
-    "vedolizumab-cladribine": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1923-DDInter392"
-    },
     "cladribine-venetoclax": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -408349,6 +409019,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter410-DDInter655"
+    },
+    "clomipramine-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter410-DDInter666"
+    },
+    "eribulin-clomipramine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter410"
     },
     "clomipramine-fingolimod": {
       "nivo": "Visok",
@@ -408879,6 +409559,16 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter655-DDInter419"
+    },
+    "clozapine-eribulin": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter419-DDInter666"
+    },
+    "eribulin-clozapine": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter666-DDInter419"
     },
     "etanercept-clozapine": {
       "nivo": "Visok",
@@ -409900,6 +410590,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter649-DDInter431"
     },
+    "colchicine-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter431-DDInter666"
+    },
+    "eribulin-colchicine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter431"
+    },
     "etanercept-colchicine": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -410399,6 +411099,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter448-DDInter665"
+    },
+    "crizotinib-eribulin": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter448-DDInter666"
+    },
+    "eribulin-crizotinib": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter666-DDInter448"
     },
     "escitalopram-crizotinib": {
       "nivo": "Visok",
@@ -412930,6 +413640,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter484-DDInter665"
     },
+    "dasatinib-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter484-DDInter666"
+    },
+    "eribulin-dasatinib": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter484"
+    },
     "erlotinib-dasatinib": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -413939,6 +414659,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter485-DDInter655"
+    },
+    "daunorubicin-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter485-DDInter666"
+    },
+    "eribulin-daunorubicin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter485"
     },
     "daunorubicin-escitalopram": {
       "nivo": "Visok",
@@ -415100,6 +415830,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter500-DDInter655"
     },
+    "denosumab-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter500-DDInter666"
+    },
+    "eribulin-denosumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter500"
+    },
     "etanercept-denosumab": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -415650,16 +416390,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter500-DDInter1907"
     },
-    "denosumab-vedolizumab": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter500-DDInter1923"
-    },
-    "vedolizumab-denosumab": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1923-DDInter500"
-    },
     "denosumab-venetoclax": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -416039,6 +416769,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter564-DDInter655"
+    },
+    "eribulin-dimethyl fumarate": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter564"
+    },
+    "dimethyl fumarate-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter564-DDInter666"
     },
     "etanercept-dimethyl fumarate": {
       "nivo": "Visok",
@@ -416670,16 +417410,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter564-DDInter1907"
     },
-    "dimethyl fumarate-vedolizumab": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter564-DDInter1923"
-    },
-    "vedolizumab-dimethyl fumarate": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1923-DDInter564"
-    },
     "dimethyl fumarate-venetoclax": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -416769,6 +417499,16 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter655-DDInter1166"
+    },
+    "methadone-eribulin": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1166-DDInter666"
+    },
+    "eribulin-methadone": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter666-DDInter1166"
     },
     "etanercept-methadone": {
       "nivo": "Srednji",
@@ -417109,6 +417849,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter576-DDInter655"
+    },
+    "disulfiram-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter576-DDInter666"
+    },
+    "eribulin-disulfiram": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter576"
     },
     "etanercept-disulfiram": {
       "nivo": "Srednji",
@@ -417499,6 +418249,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter578-DDInter655"
+    },
+    "docetaxel-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter578-DDInter666"
+    },
+    "eribulin-docetaxel": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter578"
     },
     "etanercept-docetaxel": {
       "nivo": "Visok",
@@ -418080,6 +418840,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter583-DDInter655"
     },
+    "donepezil-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter583-DDInter666"
+    },
+    "eribulin-donepezil": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter583"
+    },
     "donepezil-everolimus": {
       "nivo": "Srednji",
       "opis": "Rizik: Minor",
@@ -418369,6 +419139,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter596-DDInter655"
+    },
+    "doxorubicin-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter596-DDInter666"
+    },
+    "eribulin-doxorubicin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter596"
     },
     "doxorubicin-escitalopram": {
       "nivo": "Visok",
@@ -420490,6 +421270,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1851-DDInter655"
     },
+    "trazodone-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1851-DDInter666"
+    },
+    "eribulin-trazodone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1851"
+    },
     "trazodone-fingolimod": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -422190,6 +422980,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1605-DDInter655"
     },
+    "risperidone-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1605-DDInter666"
+    },
+    "eribulin-risperidone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1605"
+    },
     "risperidone-fingolimod": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -422619,6 +423419,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1744-DDInter655"
+    },
+    "tamoxifen-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1744-DDInter666"
+    },
+    "eribulin-tamoxifen": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1744"
     },
     "tamoxifen-escitalopram": {
       "nivo": "Visok",
@@ -423380,6 +424190,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1331-DDInter655"
     },
+    "eribulin-olodaterol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1331"
+    },
+    "olodaterol-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1331-DDInter666"
+    },
     "fingolimod-olodaterol": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -423820,6 +424640,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1880-DDInter655"
     },
+    "triptorelin-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1880-DDInter666"
+    },
+    "eribulin-triptorelin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1880"
+    },
     "escitalopram-triptorelin": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -424250,6 +425080,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1934-DDInter655"
     },
+    "eribulin-vilanterol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1934"
+    },
+    "vilanterol-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1934-DDInter666"
+    },
     "fingolimod-vilanterol": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -424410,146 +425250,6 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1934-DDInter1880"
     },
-    "etanercept-vedolizumab": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter687-DDInter1923"
-    },
-    "vedolizumab-etanercept": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1923-DDInter687"
-    },
-    "fingolimod-vedolizumab": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter737-DDInter1923"
-    },
-    "vedolizumab-fingolimod": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1923-DDInter737"
-    },
-    "golimumab-vedolizumab": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter837-DDInter1923"
-    },
-    "vedolizumab-golimumab": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1923-DDInter837"
-    },
-    "infliximab-vedolizumab": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter923-DDInter1923"
-    },
-    "vedolizumab-infliximab": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1923-DDInter923"
-    },
-    "vedolizumab-lactobacillus acidophilus": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1923-DDInter1017"
-    },
-    "lactobacillus acidophilus-vedolizumab": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1017-DDInter1923"
-    },
-    "leflunomide-vedolizumab": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1033-DDInter1923"
-    },
-    "vedolizumab-leflunomide": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1923-DDInter1033"
-    },
-    "natalizumab-vedolizumab": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1268-DDInter1923"
-    },
-    "vedolizumab-natalizumab": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1923-DDInter1268"
-    },
-    "vedolizumab-ocrelizumab": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1923-DDInter1321"
-    },
-    "ocrelizumab-vedolizumab": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1321-DDInter1923"
-    },
-    "roflumilast-vedolizumab": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1614-DDInter1923"
-    },
-    "vedolizumab-roflumilast": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1923-DDInter1614"
-    },
-    "vedolizumab-siponimod": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1923-DDInter1676"
-    },
-    "siponimod-vedolizumab": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1676-DDInter1923"
-    },
-    "teriflunomide-vedolizumab": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1771-DDInter1923"
-    },
-    "vedolizumab-teriflunomide": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1923-DDInter1771"
-    },
-    "tofacitinib-vedolizumab": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1825-DDInter1923"
-    },
-    "vedolizumab-tofacitinib": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1923-DDInter1825"
-    },
-    "vedolizumab-upadacitinib": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1923-DDInter1901"
-    },
-    "upadacitinib-vedolizumab": {
-      "nivo": "Visok",
-      "opis": "Rizik: Major",
-      "link": "DDInter1901-DDInter1923"
-    },
-    "ustekinumab-vedolizumab": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1907-DDInter1923"
-    },
-    "vedolizumab-ustekinumab": {
-      "nivo": "Srednji",
-      "opis": "Rizik: Moderate",
-      "link": "DDInter1923-DDInter1907"
-    },
     "lapatinib-vismodegib": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -424619,6 +425319,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter927-DDInter655"
+    },
+    "inotuzumab ozogamicin-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter927-DDInter666"
+    },
+    "eribulin-inotuzumab ozogamicin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter927"
     },
     "escitalopram-inotuzumab ozogamicin": {
       "nivo": "Visok",
@@ -426030,6 +426740,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1381-DDInter655"
     },
+    "paliperidone-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1381-DDInter666"
+    },
+    "eribulin-paliperidone": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1381"
+    },
     "paliperidone-fingolimod": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -426219,6 +426939,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter969-DDInter655"
+    },
+    "ipilimumab-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter969-DDInter666"
+    },
+    "eribulin-ipilimumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter969"
     },
     "etanercept-ipilimumab": {
       "nivo": "Srednji",
@@ -426799,6 +427529,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1002-DDInter655"
+    },
+    "eribulin-ixazomib": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1002"
+    },
+    "ixazomib-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1002-DDInter666"
     },
     "etanercept-ixazomib": {
       "nivo": "Visok",
@@ -428470,6 +429210,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1024-DDInter665"
     },
+    "lapatinib-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1024-DDInter666"
+    },
+    "eribulin-lapatinib": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1024"
+    },
     "erlotinib-lapatinib": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -429119,6 +429869,16 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter1033-DDInter655"
+    },
+    "leflunomide-eribulin": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1033-DDInter666"
+    },
+    "eribulin-leflunomide": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter666-DDInter1033"
     },
     "erlotinib-leflunomide": {
       "nivo": "Visok",
@@ -430900,6 +431660,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1124-DDInter655"
     },
+    "maprotiline-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1124-DDInter666"
+    },
+    "eribulin-maprotiline": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1124"
+    },
     "maprotiline-fingolimod": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -431079,6 +431849,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1937-DDInter655"
+    },
+    "vincristine-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1937-DDInter666"
+    },
+    "eribulin-vincristine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1937"
     },
     "etanercept-vincristine": {
       "nivo": "Visok",
@@ -432190,6 +432970,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1214-DDInter655"
     },
+    "midostaurin-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1214-DDInter666"
+    },
+    "eribulin-midostaurin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1214"
+    },
     "erlotinib-midostaurin": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -432750,6 +433540,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter655-DDInter1230"
     },
+    "mirtazapine-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1230-DDInter666"
+    },
+    "eribulin-mirtazapine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1230"
+    },
     "goserelin-mirtazapine": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -432939,6 +433739,16 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter655-DDInter1268"
+    },
+    "natalizumab-eribulin": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1268-DDInter666"
+    },
+    "eribulin-natalizumab": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter666-DDInter1268"
     },
     "etanercept-natalizumab": {
       "nivo": "Visok",
@@ -433529,6 +434339,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1293-DDInter665"
+    },
+    "nilotinib-eribulin": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1293-DDInter666"
+    },
+    "eribulin-nilotinib": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter666-DDInter1293"
     },
     "erlotinib-nilotinib": {
       "nivo": "Srednji",
@@ -434390,6 +435210,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1321-DDInter655"
     },
+    "eribulin-ocrelizumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1321"
+    },
+    "ocrelizumab-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1321-DDInter666"
+    },
     "etanercept-ocrelizumab": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -434880,6 +435710,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter655-DDInter1326"
     },
+    "olanzapine-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1326-DDInter666"
+    },
+    "eribulin-olanzapine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1326"
+    },
     "olanzapine-fingolimod": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -435099,6 +435939,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1327-DDInter665"
+    },
+    "eribulin-olaparib": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1327"
+    },
+    "olaparib-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1327-DDInter666"
     },
     "etanercept-olaparib": {
       "nivo": "Visok",
@@ -435740,6 +436590,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1352-DDInter665"
     },
+    "eribulin-osimertinib": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter666-DDInter1352"
+    },
+    "osimertinib-eribulin": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1352-DDInter666"
+    },
     "escitalopram-osimertinib": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -436249,6 +437109,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1355-DDInter655"
+    },
+    "oxaliplatin-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1355-DDInter666"
+    },
+    "eribulin-oxaliplatin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1355"
     },
     "oxaliplatin-escitalopram": {
       "nivo": "Visok",
@@ -437500,6 +438370,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1400-DDInter665"
     },
+    "pazopanib-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1400-DDInter666"
+    },
+    "eribulin-pazopanib": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1400"
+    },
     "escitalopram-pazopanib": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -438320,6 +439200,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter655-DDInter1405"
     },
+    "pegfilgrastim-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1405-DDInter666"
+    },
+    "eribulin-pegfilgrastim": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1405"
+    },
     "pegfilgrastim-etoposide": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -438569,6 +439459,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter655-DDInter1407"
+    },
+    "peginterferon alfa-2a-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1407-DDInter666"
+    },
+    "eribulin-peginterferon alfa-2a": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1407"
     },
     "etanercept-peginterferon alfa-2a": {
       "nivo": "Srednji",
@@ -439180,6 +440080,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1491-DDInter649"
     },
+    "eribulin-pomalidomide": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1491"
+    },
+    "pomalidomide-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1491-DDInter666"
+    },
     "etanercept-pomalidomide": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -439419,6 +440329,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1553-DDInter655"
+    },
+    "quetiapine-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1553-DDInter666"
+    },
+    "eribulin-quetiapine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1553"
     },
     "quetiapine-fingolimod": {
       "nivo": "Visok",
@@ -440190,6 +441110,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1588-DDInter665"
     },
+    "eribulin-ribociclib": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1588"
+    },
+    "ribociclib-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1588-DDInter666"
+    },
     "erlotinib-ribociclib": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -440760,6 +441690,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1610-DDInter655"
     },
+    "rivastigmine-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1610-DDInter666"
+    },
+    "eribulin-rivastigmine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1610"
+    },
     "rivastigmine-fingolimod": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -440879,6 +441819,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1614-DDInter655"
+    },
+    "roflumilast-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1614-DDInter666"
+    },
+    "eribulin-roflumilast": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1614"
     },
     "etanercept-roflumilast": {
       "nivo": "Srednji",
@@ -441590,6 +442540,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1635-DDInter655"
     },
+    "salmeterol-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1635-DDInter666"
+    },
+    "eribulin-salmeterol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1635"
+    },
     "salmeterol-fingolimod": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -442000,6 +442960,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1662-DDInter655"
     },
+    "sertraline-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1662-DDInter666"
+    },
+    "eribulin-sertraline": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1662"
+    },
     "sertraline-fingolimod": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -442129,6 +443099,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1664-DDInter655"
+    },
+    "sevoflurane-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1664-DDInter666"
+    },
+    "eribulin-sevoflurane": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1664"
     },
     "sevoflurane-fingolimod": {
       "nivo": "Visok",
@@ -442269,6 +443249,16 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter1676-DDInter655"
+    },
+    "eribulin-siponimod": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter666-DDInter1676"
+    },
+    "siponimod-eribulin": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1676-DDInter666"
     },
     "escitalopram-siponimod": {
       "nivo": "Visok",
@@ -442740,6 +443730,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter655-DDInter1702"
     },
+    "sorafenib-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1702-DDInter666"
+    },
+    "eribulin-sorafenib": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1702"
+    },
     "sorafenib-erlotinib": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -443039,6 +444039,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1731-DDInter655"
+    },
+    "sunitinib-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1731-DDInter666"
+    },
+    "eribulin-sunitinib": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1731"
     },
     "escitalopram-sunitinib": {
       "nivo": "Visok",
@@ -443700,6 +444710,16 @@
       "opis": "Rizik: Major",
       "link": "DDInter1771-DDInter655"
     },
+    "eribulin-teriflunomide": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter666-DDInter1771"
+    },
+    "teriflunomide-eribulin": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1771-DDInter666"
+    },
     "erlotinib-teriflunomide": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -444149,6 +445169,16 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter1789-DDInter655"
+    },
+    "thalidomide-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1789-DDInter666"
+    },
+    "eribulin-thalidomide": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1789"
     },
     "thalidomide-escitalopram": {
       "nivo": "Srednji",
@@ -444790,6 +445820,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1821-DDInter655"
     },
+    "tizanidine-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1821-DDInter666"
+    },
+    "eribulin-tizanidine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1821"
+    },
     "tizanidine-fingolimod": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -444859,6 +445899,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1824-DDInter655"
+    },
+    "tocilizumab-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1824-DDInter666"
+    },
+    "eribulin-tocilizumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1824"
     },
     "etanercept-tocilizumab": {
       "nivo": "Visok",
@@ -445089,6 +446139,16 @@
       "nivo": "Visok",
       "opis": "Rizik: Major",
       "link": "DDInter1825-DDInter655"
+    },
+    "eribulin-tofacitinib": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter666-DDInter1825"
+    },
+    "tofacitinib-eribulin": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1825-DDInter666"
     },
     "etanercept-tofacitinib": {
       "nivo": "Visok",
@@ -445420,6 +446480,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter1840-DDInter655"
     },
+    "trabectedin-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1840-DDInter666"
+    },
+    "eribulin-trabectedin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1840"
+    },
     "erlotinib-trabectedin": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -445680,6 +446750,16 @@
       "opis": "Rizik: Major",
       "link": "DDInter1901-DDInter655"
     },
+    "eribulin-upadacitinib": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter666-DDInter1901"
+    },
+    "upadacitinib-eribulin": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter1901-DDInter666"
+    },
     "etanercept-upadacitinib": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -445939,6 +447019,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter1907-DDInter655"
+    },
+    "ustekinumab-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1907-DDInter666"
+    },
+    "eribulin-ustekinumab": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1907"
     },
     "etanercept-ustekinumab": {
       "nivo": "Visok",
@@ -446360,6 +447450,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter655-DDInter1927"
     },
+    "venlafaxine-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1927-DDInter666"
+    },
+    "eribulin-venlafaxine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1927"
+    },
     "venlafaxine-fingolimod": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -446479,6 +447579,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter655-DDInter1939"
+    },
+    "vinorelbine-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1939-DDInter666"
+    },
+    "eribulin-vinorelbine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1939"
     },
     "etanercept-vinorelbine": {
       "nivo": "Visok",
@@ -446910,6 +448020,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter648-DDInter665"
     },
+    "eribulin-entrectinib": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter648"
+    },
+    "entrectinib-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter648-DDInter666"
+    },
     "escitalopram-entrectinib": {
       "nivo": "Visok",
       "opis": "Rizik: Major",
@@ -447089,6 +448209,16 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter649-DDInter665"
+    },
+    "eribulin-enzalutamide": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter649"
+    },
+    "enzalutamide-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter649-DDInter666"
     },
     "erlotinib-enzalutamide": {
       "nivo": "Srednji",
@@ -447350,6 +448480,16 @@
       "opis": "Rizik: Moderate",
       "link": "DDInter463-DDInter655"
     },
+    "epirubicin-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter655-DDInter666"
+    },
+    "eribulin-epirubicin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter655"
+    },
     "epirubicin-erlotinib": {
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
@@ -447609,6 +448749,196 @@
       "nivo": "Srednji",
       "opis": "Rizik: Moderate",
       "link": "DDInter665-DDInter909"
+    },
+    "chlorpromazine-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter363-DDInter666"
+    },
+    "eribulin-chlorpromazine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter363"
+    },
+    "escitalopram-eribulin": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter672-DDInter666"
+    },
+    "eribulin-escitalopram": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter666-DDInter672"
+    },
+    "etanercept-eribulin": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter687-DDInter666"
+    },
+    "eribulin-etanercept": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter666-DDInter687"
+    },
+    "etoposide-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter702-DDInter666"
+    },
+    "eribulin-etoposide": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter702"
+    },
+    "filgrastim-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter735-DDInter666"
+    },
+    "eribulin-filgrastim": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter735"
+    },
+    "fingolimod-eribulin": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter737-DDInter666"
+    },
+    "eribulin-fingolimod": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter666-DDInter737"
+    },
+    "fludarabine-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter745-DDInter666"
+    },
+    "eribulin-fludarabine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter745"
+    },
+    "fluoxetine-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter758-DDInter666"
+    },
+    "eribulin-fluoxetine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter758"
+    },
+    "fluphenazine-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter760-DDInter666"
+    },
+    "eribulin-fluphenazine": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter760"
+    },
+    "golimumab-eribulin": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter837-DDInter666"
+    },
+    "eribulin-golimumab": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter666-DDInter837"
+    },
+    "goserelin-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter839-DDInter666"
+    },
+    "eribulin-goserelin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter839"
+    },
+    "haloperidol-eribulin": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter853-DDInter666"
+    },
+    "eribulin-haloperidol": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter666-DDInter853"
+    },
+    "hydroxychloroquine-eribulin": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter893-DDInter666"
+    },
+    "eribulin-hydroxychloroquine": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter666-DDInter893"
+    },
+    "idarubicin-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter904-DDInter666"
+    },
+    "eribulin-idarubicin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter904"
+    },
+    "indacaterol-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter915-DDInter666"
+    },
+    "eribulin-indacaterol": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter915"
+    },
+    "infliximab-eribulin": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter923-DDInter666"
+    },
+    "eribulin-infliximab": {
+      "nivo": "Visok",
+      "opis": "Rizik: Major",
+      "link": "DDInter666-DDInter923"
+    },
+    "eribulin-lactobacillus acidophilus": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1017"
+    },
+    "lactobacillus acidophilus-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1017-DDInter666"
+    },
+    "eribulin-polatuzumab vedotin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1485"
+    },
+    "polatuzumab vedotin-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1485-DDInter666"
+    },
+    "eribulin-relugolix": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter666-DDInter1577"
+    },
+    "relugolix-eribulin": {
+      "nivo": "Srednji",
+      "opis": "Rizik: Moderate",
+      "link": "DDInter1577-DDInter666"
     },
     "erlotinib-ibrutinib": {
       "nivo": "Srednji",
@@ -514462,6 +515792,7 @@
     "entecavir": "DDInter647",
     "entrectinib": "DDInter648",
     "enzalutamide": "DDInter649",
+    "eribulin": "DDInter666",
     "erlotinib": "DDInter667",
     "erythromycin": "DDInter670",
     "escitalopram": "DDInter672",
@@ -514813,7 +516144,6 @@
     "satralizumab": "DDInter1644",
     "secukinumab": "DDInter1652",
     "tocilizumab": "DDInter1824",
-    "vedolizumab": "DDInter1923",
     "propylthiouracil": "DDInter1541",
     "riluzole": "DDInter1596",
     "pegfilgrastim": "DDInter1405",
