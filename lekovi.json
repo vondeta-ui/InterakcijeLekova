@@ -93,16 +93,16 @@
       "atc": "R02AA20",
       "inn": "2,4-dihlorbenzilalkohol, amilmetakrezol, levomentol",
       "inn_eng": [
-        "furazidin",
-        "comb drug",
-        "tilia",
-        "chlorophyllipt",
-        "iodine",
-        "eucalyptus vitaminalis",
-        "calendula officinalis",
-        "hexetidine",
         "decamethoxine",
-        "flores helianthi"
+        "hexetidine",
+        "iodine",
+        "comb drug",
+        "flores helianthi",
+        "calendula officinalis",
+        "chlorophyllipt",
+        "furazidin",
+        "eucalyptus vitaminalis",
+        "tilia"
       ],
       "sifraProizvoda": "458643",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=458643",
@@ -132,16 +132,16 @@
       "atc": "R02AA20",
       "inn": "2,4-dihlorbenzilalkohol, amilmetakrezol, levomentol",
       "inn_eng": [
-        "furazidin",
-        "comb drug",
-        "tilia",
-        "chlorophyllipt",
-        "iodine",
-        "eucalyptus vitaminalis",
-        "calendula officinalis",
-        "hexetidine",
         "decamethoxine",
-        "flores helianthi"
+        "hexetidine",
+        "iodine",
+        "comb drug",
+        "flores helianthi",
+        "calendula officinalis",
+        "chlorophyllipt",
+        "furazidin",
+        "eucalyptus vitaminalis",
+        "tilia"
       ],
       "sifraProizvoda": "496524",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=496524",
@@ -155,16 +155,16 @@
       "atc": "R02AA20",
       "inn": "2,4-dihlorbenzilalkohol, amilmetakrezol, levomentol",
       "inn_eng": [
-        "furazidin",
-        "comb drug",
-        "tilia",
-        "chlorophyllipt",
-        "iodine",
-        "eucalyptus vitaminalis",
-        "calendula officinalis",
-        "hexetidine",
         "decamethoxine",
-        "flores helianthi"
+        "hexetidine",
+        "iodine",
+        "comb drug",
+        "flores helianthi",
+        "calendula officinalis",
+        "chlorophyllipt",
+        "furazidin",
+        "eucalyptus vitaminalis",
+        "tilia"
       ],
       "sifraProizvoda": "496523",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=496523",
@@ -178,16 +178,16 @@
       "atc": "R02AA20",
       "inn": "2,4-dihlorbenzilalkohol, amilmetakrezol, levomentol",
       "inn_eng": [
-        "furazidin",
-        "comb drug",
-        "tilia",
-        "chlorophyllipt",
-        "iodine",
-        "eucalyptus vitaminalis",
-        "calendula officinalis",
-        "hexetidine",
         "decamethoxine",
-        "flores helianthi"
+        "hexetidine",
+        "iodine",
+        "comb drug",
+        "flores helianthi",
+        "calendula officinalis",
+        "chlorophyllipt",
+        "furazidin",
+        "eucalyptus vitaminalis",
+        "tilia"
       ],
       "sifraProizvoda": "496522",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=496522",
@@ -261,9 +261,9 @@
       "inn": "živa vakcina protiv gastroenteritisa izazvanog rotavirusom",
       "inn_eng": [
         "reassorted",
-        "rota virus",
         "pentavalent",
-        "live"
+        "live",
+        "rota virus"
       ],
       "sifraProizvoda": "464377",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=464377",
@@ -1981,20 +1981,6 @@
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=488091",
       "ean": "8606103714275",
       "oblik": "film tableta",
-      "jacina": "100mg",
-      "rezim": "SZR"
-    },
-    {
-      "puno_ime": "CALQUENCE®",
-      "atc": "L01EL02",
-      "inn": "akalabrutinib",
-      "inn_eng": [
-        "acalabrutinib"
-      ],
-      "sifraProizvoda": "478040",
-      "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=478040",
-      "ean": "8606103714947",
-      "oblik": "kapsula, tvrda",
       "jacina": "100mg",
       "rezim": "SZR"
     },
@@ -4017,8 +4003,8 @@
       "atc": "J01CR02",
       "inn": "amoksicilin, klavulanska kiselina",
       "inn_eng": [
-        "beta-lactamase inhibitor",
-        "amoxicillin"
+        "amoxicillin",
+        "beta-lactamase inhibitor"
       ],
       "sifraProizvoda": "496327",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=496327",
@@ -4034,8 +4020,8 @@
       "atc": "J01CR02",
       "inn": "amoksicilin, klavulanska kiselina",
       "inn_eng": [
-        "beta-lactamase inhibitor",
-        "amoxicillin"
+        "amoxicillin",
+        "beta-lactamase inhibitor"
       ],
       "sifraProizvoda": "447038",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=447038",
@@ -4049,8 +4035,8 @@
       "atc": "J01CR02",
       "inn": "amoksicilin, klavulanska kiselina",
       "inn_eng": [
-        "beta-lactamase inhibitor",
-        "amoxicillin"
+        "amoxicillin",
+        "beta-lactamase inhibitor"
       ],
       "sifraProizvoda": "441710",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=441710",
@@ -4064,8 +4050,8 @@
       "atc": "J01CR02",
       "inn": "amoksicilin, klavulanska kiselina",
       "inn_eng": [
-        "beta-lactamase inhibitor",
-        "amoxicillin"
+        "amoxicillin",
+        "beta-lactamase inhibitor"
       ],
       "sifraProizvoda": "447042",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=447042",
@@ -4079,8 +4065,8 @@
       "atc": "J01CR02",
       "inn": "amoksicilin, klavulanska kiselina",
       "inn_eng": [
-        "beta-lactamase inhibitor",
-        "amoxicillin"
+        "amoxicillin",
+        "beta-lactamase inhibitor"
       ],
       "sifraProizvoda": "496012",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=496012",
@@ -4094,8 +4080,8 @@
       "atc": "J01CR02",
       "inn": "amoksicilin, klavulanska kiselina",
       "inn_eng": [
-        "beta-lactamase inhibitor",
-        "amoxicillin"
+        "amoxicillin",
+        "beta-lactamase inhibitor"
       ],
       "sifraProizvoda": "492748",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=492748",
@@ -4111,8 +4097,8 @@
       "atc": "J01CR02",
       "inn": "amoksicilin, klavulanska kiselina",
       "inn_eng": [
-        "beta-lactamase inhibitor",
-        "amoxicillin"
+        "amoxicillin",
+        "beta-lactamase inhibitor"
       ],
       "sifraProizvoda": "433278",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=433278",
@@ -4126,8 +4112,8 @@
       "atc": "J01CR02",
       "inn": "amoksicilin, klavulanska kiselina",
       "inn_eng": [
-        "beta-lactamase inhibitor",
-        "amoxicillin"
+        "amoxicillin",
+        "beta-lactamase inhibitor"
       ],
       "sifraProizvoda": "433286",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=433286",
@@ -4141,8 +4127,8 @@
       "atc": "J01CR02",
       "inn": "amoksicilin, klavulanska kiselina",
       "inn_eng": [
-        "beta-lactamase inhibitor",
-        "amoxicillin"
+        "amoxicillin",
+        "beta-lactamase inhibitor"
       ],
       "sifraProizvoda": "433284",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=433284",
@@ -4158,8 +4144,8 @@
       "atc": "J01CR02",
       "inn": "amoksicilin, klavulanska kiselina",
       "inn_eng": [
-        "beta-lactamase inhibitor",
-        "amoxicillin"
+        "amoxicillin",
+        "beta-lactamase inhibitor"
       ],
       "sifraProizvoda": "491114",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=491114",
@@ -4173,8 +4159,8 @@
       "atc": "J01CR02",
       "inn": "amoksicilin, klavulanska kiselina",
       "inn_eng": [
-        "beta-lactamase inhibitor",
-        "amoxicillin"
+        "amoxicillin",
+        "beta-lactamase inhibitor"
       ],
       "sifraProizvoda": "491133",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=491133",
@@ -4190,8 +4176,8 @@
       "atc": "J01CR02",
       "inn": "amoksicilin, klavulanska kiselina",
       "inn_eng": [
-        "beta-lactamase inhibitor",
-        "amoxicillin"
+        "amoxicillin",
+        "beta-lactamase inhibitor"
       ],
       "sifraProizvoda": "432421",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=432421",
@@ -4205,8 +4191,8 @@
       "atc": "J01CR02",
       "inn": "amoksicilin, klavulanska kiselina",
       "inn_eng": [
-        "beta-lactamase inhibitor",
-        "amoxicillin"
+        "amoxicillin",
+        "beta-lactamase inhibitor"
       ],
       "sifraProizvoda": "432424",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=432424",
@@ -4220,8 +4206,8 @@
       "atc": "J01CR02",
       "inn": "amoksicilin, klavulanska kiselina",
       "inn_eng": [
-        "beta-lactamase inhibitor",
-        "amoxicillin"
+        "amoxicillin",
+        "beta-lactamase inhibitor"
       ],
       "sifraProizvoda": "434776",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=434776",
@@ -4237,8 +4223,8 @@
       "atc": "J01CR02",
       "inn": "amoksicilin, klavulanska kiselina",
       "inn_eng": [
-        "beta-lactamase inhibitor",
-        "amoxicillin"
+        "amoxicillin",
+        "beta-lactamase inhibitor"
       ],
       "sifraProizvoda": "443124",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=443124",
@@ -4254,8 +4240,8 @@
       "atc": "J01CR02",
       "inn": "amoksicilin, klavulanska kiselina",
       "inn_eng": [
-        "beta-lactamase inhibitor",
-        "amoxicillin"
+        "amoxicillin",
+        "beta-lactamase inhibitor"
       ],
       "sifraProizvoda": "437693",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=437693",
@@ -4269,8 +4255,8 @@
       "atc": "J01CR02",
       "inn": "amoksicilin, klavulanska kiselina",
       "inn_eng": [
-        "beta-lactamase inhibitor",
-        "amoxicillin"
+        "amoxicillin",
+        "beta-lactamase inhibitor"
       ],
       "sifraProizvoda": "437664",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=437664",
@@ -4284,8 +4270,8 @@
       "atc": "J01CR02",
       "inn": "amoksicilin, klavulanska kiselina",
       "inn_eng": [
-        "beta-lactamase inhibitor",
-        "amoxicillin"
+        "amoxicillin",
+        "beta-lactamase inhibitor"
       ],
       "sifraProizvoda": "437714",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=437714",
@@ -4299,8 +4285,8 @@
       "atc": "J01CR02",
       "inn": "amoksicilin, klavulanska kiselina",
       "inn_eng": [
-        "beta-lactamase inhibitor",
-        "amoxicillin"
+        "amoxicillin",
+        "beta-lactamase inhibitor"
       ],
       "sifraProizvoda": "437712",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=437712",
@@ -4314,8 +4300,8 @@
       "atc": "J01CR02",
       "inn": "amoksicilin, klavulanska kiselina",
       "inn_eng": [
-        "beta-lactamase inhibitor",
-        "amoxicillin"
+        "amoxicillin",
+        "beta-lactamase inhibitor"
       ],
       "sifraProizvoda": "485809",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=485809",
@@ -4329,8 +4315,8 @@
       "atc": "J01CR02",
       "inn": "amoksicilin, klavulanska kiselina",
       "inn_eng": [
-        "beta-lactamase inhibitor",
-        "amoxicillin"
+        "amoxicillin",
+        "beta-lactamase inhibitor"
       ],
       "sifraProizvoda": "488576",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=488576",
@@ -4454,8 +4440,8 @@
       "atc": "J01CR01",
       "inn": "ampicilin, sulbaktam",
       "inn_eng": [
-        "beta-lactamase inhibitor",
-        "ampicillin"
+        "ampicillin",
+        "beta-lactamase inhibitor"
       ],
       "sifraProizvoda": "488859",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=488859",
@@ -4469,8 +4455,8 @@
       "atc": "J01CR01",
       "inn": "ampicilin, sulbaktam",
       "inn_eng": [
-        "beta-lactamase inhibitor",
-        "ampicillin"
+        "ampicillin",
+        "beta-lactamase inhibitor"
       ],
       "sifraProizvoda": "488850",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=488850",
@@ -5428,8 +5414,8 @@
       "atc": "N01BB58",
       "inn": "artikain, epinefrin",
       "inn_eng": [
-        "articaine",
-        "combinations"
+        "combinations",
+        "articaine"
       ],
       "sifraProizvoda": "446708",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=446708",
@@ -5445,8 +5431,8 @@
       "atc": "N01BB58",
       "inn": "artikain, epinefrin",
       "inn_eng": [
-        "articaine",
-        "combinations"
+        "combinations",
+        "articaine"
       ],
       "sifraProizvoda": "446794",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=446794",
@@ -5462,8 +5448,8 @@
       "atc": "N01BB58",
       "inn": "artikain, epinefrin",
       "inn_eng": [
-        "articaine",
-        "combinations"
+        "combinations",
+        "articaine"
       ],
       "sifraProizvoda": "465457",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=465457",
@@ -5573,8 +5559,8 @@
       "atc": "A11GA01",
       "inn": "askorbinska kiselina",
       "inn_eng": [
-        "ascorbic acid (vit c)",
-        "comb drug"
+        "comb drug",
+        "ascorbic acid (vit c)"
       ],
       "sifraProizvoda": "442128",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=442128",
@@ -5588,8 +5574,8 @@
       "atc": "A11GA01",
       "inn": "askorbinska kiselina",
       "inn_eng": [
-        "ascorbic acid (vit c)",
-        "comb drug"
+        "comb drug",
+        "ascorbic acid (vit c)"
       ],
       "sifraProizvoda": "492756",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=492756",
@@ -5603,8 +5589,8 @@
       "atc": "A11GA01",
       "inn": "askorbinska kiselina",
       "inn_eng": [
-        "ascorbic acid (vit c)",
-        "comb drug"
+        "comb drug",
+        "ascorbic acid (vit c)"
       ],
       "sifraProizvoda": "490112",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=490112",
@@ -6214,9 +6200,9 @@
       "atc": "C10BX06",
       "inn": "atorvastatin, acetilsalicilna kiselina, ramipril",
       "inn_eng": [
+        "atorvastatin",
         "acetylsalicylic acid",
-        "ramipril",
-        "atorvastatin"
+        "ramipril"
       ],
       "sifraProizvoda": "445753",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=445753",
@@ -6230,9 +6216,9 @@
       "atc": "C10BX06",
       "inn": "atorvastatin, acetilsalicilna kiselina, ramipril",
       "inn_eng": [
+        "atorvastatin",
         "acetylsalicylic acid",
-        "ramipril",
-        "atorvastatin"
+        "ramipril"
       ],
       "sifraProizvoda": "445737",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=445737",
@@ -6246,9 +6232,9 @@
       "atc": "C10BX06",
       "inn": "atorvastatin, acetilsalicilna kiselina, ramipril",
       "inn_eng": [
+        "atorvastatin",
         "acetylsalicylic acid",
-        "ramipril",
-        "atorvastatin"
+        "ramipril"
       ],
       "sifraProizvoda": "445751",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=445751",
@@ -6264,8 +6250,8 @@
       "atc": "C10BX03",
       "inn": "atorvastatin, amlodipin",
       "inn_eng": [
-        "amlodipine",
-        "atorvastatin"
+        "atorvastatin",
+        "amlodipine"
       ],
       "sifraProizvoda": "417845",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=417845",
@@ -6279,8 +6265,8 @@
       "atc": "C10BX03",
       "inn": "atorvastatin, amlodipin",
       "inn_eng": [
-        "amlodipine",
-        "atorvastatin"
+        "atorvastatin",
+        "amlodipine"
       ],
       "sifraProizvoda": "417844",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=417844",
@@ -6296,8 +6282,8 @@
       "atc": "C10BX03",
       "inn": "atorvastatin, amlodipin",
       "inn_eng": [
-        "amlodipine",
-        "atorvastatin"
+        "atorvastatin",
+        "amlodipine"
       ],
       "sifraProizvoda": "494963",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=494963",
@@ -6311,8 +6297,8 @@
       "atc": "C10BX03",
       "inn": "atorvastatin, amlodipin",
       "inn_eng": [
-        "amlodipine",
-        "atorvastatin"
+        "atorvastatin",
+        "amlodipine"
       ],
       "sifraProizvoda": "494961",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=494961",
@@ -6326,8 +6312,8 @@
       "atc": "C10BX03",
       "inn": "atorvastatin, amlodipin",
       "inn_eng": [
-        "amlodipine",
-        "atorvastatin"
+        "atorvastatin",
+        "amlodipine"
       ],
       "sifraProizvoda": "494967",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=494967",
@@ -6341,8 +6327,8 @@
       "atc": "C10BX03",
       "inn": "atorvastatin, amlodipin",
       "inn_eng": [
-        "amlodipine",
-        "atorvastatin"
+        "atorvastatin",
+        "amlodipine"
       ],
       "sifraProizvoda": "494965",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=494965",
@@ -6358,9 +6344,9 @@
       "atc": "C10BX11",
       "inn": "atorvastatin, amlodipin, perindopril",
       "inn_eng": [
+        "atorvastatin",
         "amlodipine",
-        "perindopril",
-        "atorvastatin"
+        "perindopril"
       ],
       "sifraProizvoda": "467976",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=467976",
@@ -6374,9 +6360,9 @@
       "atc": "C10BX11",
       "inn": "atorvastatin, amlodipin, perindopril",
       "inn_eng": [
+        "atorvastatin",
         "amlodipine",
-        "perindopril",
-        "atorvastatin"
+        "perindopril"
       ],
       "sifraProizvoda": "467975",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=467975",
@@ -6390,9 +6376,9 @@
       "atc": "C10BX11",
       "inn": "atorvastatin, amlodipin, perindopril",
       "inn_eng": [
+        "atorvastatin",
         "amlodipine",
-        "perindopril",
-        "atorvastatin"
+        "perindopril"
       ],
       "sifraProizvoda": "467979",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=467979",
@@ -6406,9 +6392,9 @@
       "atc": "C10BX11",
       "inn": "atorvastatin, amlodipin, perindopril",
       "inn_eng": [
+        "atorvastatin",
         "amlodipine",
-        "perindopril",
-        "atorvastatin"
+        "perindopril"
       ],
       "sifraProizvoda": "467977",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=467977",
@@ -6422,9 +6408,9 @@
       "atc": "C10BX11",
       "inn": "atorvastatin, amlodipin, perindopril",
       "inn_eng": [
+        "atorvastatin",
         "amlodipine",
-        "perindopril",
-        "atorvastatin"
+        "perindopril"
       ],
       "sifraProizvoda": "467960",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=467960",
@@ -6438,9 +6424,9 @@
       "atc": "C10BX11",
       "inn": "atorvastatin, amlodipin, perindopril",
       "inn_eng": [
+        "atorvastatin",
         "amlodipine",
-        "perindopril",
-        "atorvastatin"
+        "perindopril"
       ],
       "sifraProizvoda": "467959",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=467959",
@@ -6454,9 +6440,9 @@
       "atc": "C10BX11",
       "inn": "atorvastatin, amlodipin, perindopril",
       "inn_eng": [
+        "atorvastatin",
         "amlodipine",
-        "perindopril",
-        "atorvastatin"
+        "perindopril"
       ],
       "sifraProizvoda": "467963",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=467963",
@@ -6470,9 +6456,9 @@
       "atc": "C10BX11",
       "inn": "atorvastatin, amlodipin, perindopril",
       "inn_eng": [
+        "atorvastatin",
         "amlodipine",
-        "perindopril",
-        "atorvastatin"
+        "perindopril"
       ],
       "sifraProizvoda": "467961",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=467961",
@@ -6486,9 +6472,9 @@
       "atc": "C10BX11",
       "inn": "atorvastatin, amlodipin, perindopril",
       "inn_eng": [
+        "atorvastatin",
         "amlodipine",
-        "perindopril",
-        "atorvastatin"
+        "perindopril"
       ],
       "sifraProizvoda": "467966",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=467966",
@@ -6502,9 +6488,9 @@
       "atc": "C10BX11",
       "inn": "atorvastatin, amlodipin, perindopril",
       "inn_eng": [
+        "atorvastatin",
         "amlodipine",
-        "perindopril",
-        "atorvastatin"
+        "perindopril"
       ],
       "sifraProizvoda": "467965",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=467965",
@@ -6518,9 +6504,9 @@
       "atc": "C10BX11",
       "inn": "atorvastatin, amlodipin, perindopril",
       "inn_eng": [
+        "atorvastatin",
         "amlodipine",
-        "perindopril",
-        "atorvastatin"
+        "perindopril"
       ],
       "sifraProizvoda": "467969",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=467969",
@@ -6534,9 +6520,9 @@
       "atc": "C10BX11",
       "inn": "atorvastatin, amlodipin, perindopril",
       "inn_eng": [
+        "atorvastatin",
         "amlodipine",
-        "perindopril",
-        "atorvastatin"
+        "perindopril"
       ],
       "sifraProizvoda": "467967",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=467967",
@@ -6550,9 +6536,9 @@
       "atc": "C10BX11",
       "inn": "atorvastatin, amlodipin, perindopril",
       "inn_eng": [
+        "atorvastatin",
         "amlodipine",
-        "perindopril",
-        "atorvastatin"
+        "perindopril"
       ],
       "sifraProizvoda": "467971",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=467971",
@@ -6566,9 +6552,9 @@
       "atc": "C10BX11",
       "inn": "atorvastatin, amlodipin, perindopril",
       "inn_eng": [
+        "atorvastatin",
         "amlodipine",
-        "perindopril",
-        "atorvastatin"
+        "perindopril"
       ],
       "sifraProizvoda": "467970",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=467970",
@@ -6582,9 +6568,9 @@
       "atc": "C10BX11",
       "inn": "atorvastatin, amlodipin, perindopril",
       "inn_eng": [
+        "atorvastatin",
         "amlodipine",
-        "perindopril",
-        "atorvastatin"
+        "perindopril"
       ],
       "sifraProizvoda": "467974",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=467974",
@@ -6598,9 +6584,9 @@
       "atc": "C10BX11",
       "inn": "atorvastatin, amlodipin, perindopril",
       "inn_eng": [
+        "atorvastatin",
         "amlodipine",
-        "perindopril",
-        "atorvastatin"
+        "perindopril"
       ],
       "sifraProizvoda": "467972",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=467972",
@@ -6614,9 +6600,9 @@
       "atc": "C10BX11",
       "inn": "atorvastatin, amlodipin, perindopril",
       "inn_eng": [
+        "atorvastatin",
         "amlodipine",
-        "perindopril",
-        "atorvastatin"
+        "perindopril"
       ],
       "sifraProizvoda": "467927",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=467927",
@@ -6630,9 +6616,9 @@
       "atc": "C10BX11",
       "inn": "atorvastatin, amlodipin, perindopril",
       "inn_eng": [
+        "atorvastatin",
         "amlodipine",
-        "perindopril",
-        "atorvastatin"
+        "perindopril"
       ],
       "sifraProizvoda": "467926",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=467926",
@@ -6646,9 +6632,9 @@
       "atc": "C10BX11",
       "inn": "atorvastatin, amlodipin, perindopril",
       "inn_eng": [
+        "atorvastatin",
         "amlodipine",
-        "perindopril",
-        "atorvastatin"
+        "perindopril"
       ],
       "sifraProizvoda": "467930",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=467930",
@@ -6662,9 +6648,9 @@
       "atc": "C10BX11",
       "inn": "atorvastatin, amlodipin, perindopril",
       "inn_eng": [
+        "atorvastatin",
         "amlodipine",
-        "perindopril",
-        "atorvastatin"
+        "perindopril"
       ],
       "sifraProizvoda": "467928",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=467928",
@@ -8382,8 +8368,8 @@
       "atc": "R03AL09",
       "inn": "beklometazon, formoterol, glikopironijum-bromid",
       "inn_eng": [
-        "formoterol",
         "glycopyrronium bromide",
+        "formoterol",
         "beclometasone"
       ],
       "sifraProizvoda": "490034",
@@ -9192,8 +9178,8 @@
       "atc": "D07CC01",
       "inn": "betametazon, gentamicin",
       "inn_eng": [
-        "antibiotics",
-        "betamethasone"
+        "betamethasone",
+        "antibiotics"
       ],
       "sifraProizvoda": "463847",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=463847",
@@ -9207,8 +9193,8 @@
       "atc": "D07CC01",
       "inn": "betametazon, gentamicin",
       "inn_eng": [
-        "antibiotics",
-        "betamethasone"
+        "betamethasone",
+        "antibiotics"
       ],
       "sifraProizvoda": "463856",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=463856",
@@ -9224,8 +9210,8 @@
       "atc": "D07CC01",
       "inn": "betametazon, gentamicin",
       "inn_eng": [
-        "antibiotics",
-        "betamethasone"
+        "betamethasone",
+        "antibiotics"
       ],
       "sifraProizvoda": "490847",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=490847",
@@ -9239,8 +9225,8 @@
       "atc": "D07CC01",
       "inn": "betametazon, gentamicin",
       "inn_eng": [
-        "antibiotics",
-        "betamethasone"
+        "betamethasone",
+        "antibiotics"
       ],
       "sifraProizvoda": "490844",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=490844",
@@ -9256,8 +9242,8 @@
       "atc": "D07CC01",
       "inn": "betametazon, gentamicin, klotrimazol",
       "inn_eng": [
-        "antibiotics",
-        "betamethasone"
+        "betamethasone",
+        "antibiotics"
       ],
       "sifraProizvoda": "452836",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=452836",
@@ -9271,8 +9257,8 @@
       "atc": "D07CC01",
       "inn": "betametazon, gentamicin, klotrimazol",
       "inn_eng": [
-        "antibiotics",
-        "betamethasone"
+        "betamethasone",
+        "antibiotics"
       ],
       "sifraProizvoda": "452843",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=452843",
@@ -10342,8 +10328,8 @@
       "atc": "C07FB07",
       "inn": "bisoprolol, amlodipin",
       "inn_eng": [
-        "bisoprolol",
-        "amlodipine"
+        "amlodipine",
+        "bisoprolol"
       ],
       "sifraProizvoda": "486730",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=486730",
@@ -10357,8 +10343,8 @@
       "atc": "C07FB07",
       "inn": "bisoprolol, amlodipin",
       "inn_eng": [
-        "bisoprolol",
-        "amlodipine"
+        "amlodipine",
+        "bisoprolol"
       ],
       "sifraProizvoda": "486726",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=486726",
@@ -11665,8 +11651,8 @@
       "atc": "R03AK07",
       "inn": "budesonid, formoterol",
       "inn_eng": [
-        "formoterol",
-        "budesonide"
+        "budesonide",
+        "formoterol"
       ],
       "sifraProizvoda": "488693",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=488693",
@@ -11682,8 +11668,8 @@
       "atc": "R03AK07",
       "inn": "budesonid, formoterol",
       "inn_eng": [
-        "formoterol",
-        "budesonide"
+        "budesonide",
+        "formoterol"
       ],
       "sifraProizvoda": "494412",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=494412",
@@ -11697,8 +11683,8 @@
       "atc": "R03AK07",
       "inn": "budesonid, formoterol",
       "inn_eng": [
-        "formoterol",
-        "budesonide"
+        "budesonide",
+        "formoterol"
       ],
       "sifraProizvoda": "494414",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=494414",
@@ -11712,8 +11698,8 @@
       "atc": "R03AK07",
       "inn": "budesonid, formoterol",
       "inn_eng": [
-        "formoterol",
-        "budesonide"
+        "budesonide",
+        "formoterol"
       ],
       "sifraProizvoda": "494410",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=494410",
@@ -11729,8 +11715,8 @@
       "atc": "R03AK07",
       "inn": "budesonid, formoterol",
       "inn_eng": [
-        "formoterol",
-        "budesonide"
+        "budesonide",
+        "formoterol"
       ],
       "sifraProizvoda": "489674",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=489674",
@@ -11744,8 +11730,8 @@
       "atc": "R03AK07",
       "inn": "formoterol, budesonid",
       "inn_eng": [
-        "formoterol",
-        "budesonide"
+        "budesonide",
+        "formoterol"
       ],
       "sifraProizvoda": "482199",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=482199",
@@ -11759,8 +11745,8 @@
       "atc": "R03AK07",
       "inn": "formoterol, budesonid",
       "inn_eng": [
-        "formoterol",
-        "budesonide"
+        "budesonide",
+        "formoterol"
       ],
       "sifraProizvoda": "482194",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=482194",
@@ -11774,8 +11760,8 @@
       "atc": "R03AK07",
       "inn": "formoterol, budesonid",
       "inn_eng": [
-        "formoterol",
-        "budesonide"
+        "budesonide",
+        "formoterol"
       ],
       "sifraProizvoda": "482188",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=482188",
@@ -11789,8 +11775,8 @@
       "atc": "R03AK07",
       "inn": "formoterol, budesonid",
       "inn_eng": [
-        "formoterol",
-        "budesonide"
+        "budesonide",
+        "formoterol"
       ],
       "sifraProizvoda": "426547",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=426547",
@@ -11902,36 +11888,6 @@
       "oblik": "rastvor za injekciju",
       "jacina": "5mg/mL",
       "rezim": "SZ"
-    }
-  ],
-  "buprefex": [
-    {
-      "puno_ime": "Buprefex®",
-      "atc": "N07BC01",
-      "inn": "buprenorfin",
-      "inn_eng": [
-        "buprenorphine"
-      ],
-      "sifraProizvoda": "433901",
-      "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=433901",
-      "ean": "8606108533086",
-      "oblik": "sublingvalna tableta",
-      "jacina": "2mg",
-      "rezim": "NR"
-    },
-    {
-      "puno_ime": "Buprefex®",
-      "atc": "N07BC01",
-      "inn": "buprenorfin",
-      "inn_eng": [
-        "buprenorphine"
-      ],
-      "sifraProizvoda": "433904",
-      "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=433904",
-      "ean": "8606108533093",
-      "oblik": "sublingvalna tableta",
-      "jacina": "8mg",
-      "rezim": "NR"
     }
   ],
   "buprenorfin": [
@@ -12626,8 +12582,8 @@
       "atc": "J01DE01",
       "inn": "cefepim",
       "inn_eng": [
-        "cefepime",
-        "amikacin"
+        "amikacin",
+        "cefepime"
       ],
       "sifraProizvoda": "465131",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=465131",
@@ -12643,8 +12599,8 @@
       "atc": "J01DE01",
       "inn": "cefepim",
       "inn_eng": [
-        "cefepime",
-        "amikacin"
+        "amikacin",
+        "cefepime"
       ],
       "sifraProizvoda": "488247",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=488247",
@@ -12658,8 +12614,8 @@
       "atc": "J01DE01",
       "inn": "cefepim",
       "inn_eng": [
-        "cefepime",
-        "amikacin"
+        "amikacin",
+        "cefepime"
       ],
       "sifraProizvoda": "490618",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=490618",
@@ -12673,8 +12629,8 @@
       "atc": "J01DE01",
       "inn": "cefepim",
       "inn_eng": [
-        "cefepime",
-        "amikacin"
+        "amikacin",
+        "cefepime"
       ],
       "sifraProizvoda": "488330",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=488330",
@@ -12688,8 +12644,8 @@
       "atc": "J01DE01",
       "inn": "cefepim",
       "inn_eng": [
-        "cefepime",
-        "amikacin"
+        "amikacin",
+        "cefepime"
       ],
       "sifraProizvoda": "488331",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=488331",
@@ -12705,8 +12661,8 @@
       "atc": "J01DE01",
       "inn": "cefepim",
       "inn_eng": [
-        "cefepime",
-        "amikacin"
+        "amikacin",
+        "cefepime"
       ],
       "sifraProizvoda": "462606",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=462606",
@@ -12722,8 +12678,8 @@
       "atc": "J01DE01",
       "inn": "cefepim",
       "inn_eng": [
-        "cefepime",
-        "amikacin"
+        "amikacin",
+        "cefepime"
       ],
       "sifraProizvoda": "492613",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=492613",
@@ -12737,8 +12693,8 @@
       "atc": "J01DE01",
       "inn": "cefepim",
       "inn_eng": [
-        "cefepime",
-        "amikacin"
+        "amikacin",
+        "cefepime"
       ],
       "sifraProizvoda": "492611",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=492611",
@@ -12754,8 +12710,8 @@
       "atc": "J01DE01",
       "inn": "cefepim",
       "inn_eng": [
-        "cefepime",
-        "amikacin"
+        "amikacin",
+        "cefepime"
       ],
       "sifraProizvoda": "451112",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=451112",
@@ -13161,8 +13117,8 @@
       "atc": "J01DD52",
       "inn": "ceftazidim, avibaktam",
       "inn_eng": [
-        "beta-lactamase inhibitor",
-        "ceftazidime"
+        "ceftazidime",
+        "beta-lactamase inhibitor"
       ],
       "sifraProizvoda": "490693",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=490693",
@@ -13550,16 +13506,16 @@
       "atc": "R02AA20",
       "inn": "cetilpiridinijum-hlorid, benzidamin",
       "inn_eng": [
-        "furazidin",
-        "comb drug",
-        "tilia",
-        "chlorophyllipt",
-        "iodine",
-        "eucalyptus vitaminalis",
-        "calendula officinalis",
-        "hexetidine",
         "decamethoxine",
-        "flores helianthi"
+        "hexetidine",
+        "iodine",
+        "comb drug",
+        "flores helianthi",
+        "calendula officinalis",
+        "chlorophyllipt",
+        "furazidin",
+        "eucalyptus vitaminalis",
+        "tilia"
       ],
       "sifraProizvoda": "489236",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=489236",
@@ -14163,6 +14119,23 @@
       "rezim": "R"
     }
   ],
+  "duovert": [
+    {
+      "puno_ime": "Duovert®",
+      "atc": "N07CA52",
+      "inn": "cinarizin, dimenhidrinat",
+      "inn_eng": [
+        "combinations",
+        "cinnarizine"
+      ],
+      "sifraProizvoda": "497274",
+      "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=497274",
+      "ean": "8605000800692",
+      "oblik": "tableta",
+      "jacina": "20mg+40mg",
+      "rezim": "VR"
+    }
+  ],
   "sinolpan": [
     {
       "puno_ime": "Sinolpan®",
@@ -14279,8 +14252,8 @@
       "atc": "S02CA05",
       "inn": "fluocinolonacetonid, ciprofloksacin",
       "inn_eng": [
-        "fluocinolone acetonide",
-        "antiinfectives"
+        "antiinfectives",
+        "fluocinolone acetonide"
       ],
       "sifraProizvoda": "470821",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=470821",
@@ -14574,8 +14547,8 @@
       "atc": "G03HB01",
       "inn": "ciproteron, etinilestradiol",
       "inn_eng": [
-        "cyproterone",
-        "estrogen"
+        "estrogen",
+        "cyproterone"
       ],
       "sifraProizvoda": "449781",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=449781",
@@ -16561,8 +16534,8 @@
       "atc": "D03AX03",
       "inn": "dekspantenol",
       "inn_eng": [
-        "dexpanthenol",
-        "comb drug"
+        "comb drug",
+        "dexpanthenol"
       ],
       "sifraProizvoda": "489485",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=489485",
@@ -16578,8 +16551,8 @@
       "atc": "D08AC52",
       "inn": "dekspantenol, hlorheksidin",
       "inn_eng": [
-        "combinations",
-        "chlorhexidine"
+        "chlorhexidine",
+        "combinations"
       ],
       "sifraProizvoda": "489205",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=489205",
@@ -17776,8 +17749,8 @@
       "atc": "R06AA02",
       "inn": "dimenhidrinat",
       "inn_eng": [
-        "diphenhydramine",
-        "dimenhydrinate"
+        "dimenhydrinate",
+        "diphenhydramine"
       ],
       "sifraProizvoda": "439430",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=439430",
@@ -17793,8 +17766,8 @@
       "atc": "R06AA02",
       "inn": "dimenhidrinat",
       "inn_eng": [
-        "diphenhydramine",
-        "dimenhydrinate"
+        "dimenhydrinate",
+        "diphenhydramine"
       ],
       "sifraProizvoda": "460250",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=460250",
@@ -17810,8 +17783,8 @@
       "atc": "R06AA02",
       "inn": "dimenhidrinat",
       "inn_eng": [
-        "diphenhydramine",
-        "dimenhydrinate"
+        "dimenhydrinate",
+        "diphenhydramine"
       ],
       "sifraProizvoda": "462301",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=462301",
@@ -17825,8 +17798,8 @@
       "atc": "R06AA02",
       "inn": "dimenhidrinat",
       "inn_eng": [
-        "diphenhydramine",
-        "dimenhydrinate"
+        "dimenhydrinate",
+        "diphenhydramine"
       ],
       "sifraProizvoda": "462303",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=462303",
@@ -17840,8 +17813,8 @@
       "atc": "R06AA02",
       "inn": "dimenhidrinat",
       "inn_eng": [
-        "diphenhydramine",
-        "dimenhydrinate"
+        "dimenhydrinate",
+        "diphenhydramine"
       ],
       "sifraProizvoda": "462295",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=462295",
@@ -17855,8 +17828,8 @@
       "atc": "R06AA02",
       "inn": "dimenhidrinat",
       "inn_eng": [
-        "diphenhydramine",
-        "dimenhydrinate"
+        "dimenhydrinate",
+        "diphenhydramine"
       ],
       "sifraProizvoda": "462297",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=462297",
@@ -17872,8 +17845,8 @@
       "atc": "R06AA02",
       "inn": "dimenhidrinat",
       "inn_eng": [
-        "diphenhydramine",
-        "dimenhydrinate"
+        "dimenhydrinate",
+        "diphenhydramine"
       ],
       "sifraProizvoda": "476333",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=476333",
@@ -18401,8 +18374,8 @@
       "atc": "C05CA53",
       "inn": "diosmin, hesperidin",
       "inn_eng": [
-        "diosmin",
-        "combinations"
+        "combinations",
+        "diosmin"
       ],
       "sifraProizvoda": "490924",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=490924",
@@ -18418,8 +18391,8 @@
       "atc": "C05CA53",
       "inn": "diosmin, hesperidin",
       "inn_eng": [
-        "diosmin",
-        "combinations"
+        "combinations",
+        "diosmin"
       ],
       "sifraProizvoda": "495169",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=495169",
@@ -18433,8 +18406,8 @@
       "atc": "C05CA53",
       "inn": "diosmin, hesperidin",
       "inn_eng": [
-        "diosmin",
-        "combinations"
+        "combinations",
+        "diosmin"
       ],
       "sifraProizvoda": "483535",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=483535",
@@ -18448,8 +18421,8 @@
       "atc": "C05CA53",
       "inn": "diosmin, hesperidin",
       "inn_eng": [
-        "diosmin",
-        "combinations"
+        "combinations",
+        "diosmin"
       ],
       "sifraProizvoda": "483554",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=483554",
@@ -18463,8 +18436,8 @@
       "atc": "C05CA53",
       "inn": "diosmin, hesperidin",
       "inn_eng": [
-        "diosmin",
-        "combinations"
+        "combinations",
+        "diosmin"
       ],
       "sifraProizvoda": "492991",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=492991",
@@ -18480,8 +18453,8 @@
       "atc": "C05CA53",
       "inn": "diosmin, hesperidin",
       "inn_eng": [
-        "diosmin",
-        "combinations"
+        "combinations",
+        "diosmin"
       ],
       "sifraProizvoda": "485779",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=485779",
@@ -18943,9 +18916,9 @@
       "atc": "J05AX12",
       "inn": "dolutegravir",
       "inn_eng": [
+        "tenofovir disoproxil",
         "dolutegravir",
-        "lamivudine",
-        "tenofovir disoproxil"
+        "lamivudine"
       ],
       "sifraProizvoda": "422066",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=422066",
@@ -19311,8 +19284,8 @@
       "atc": "G03AA18",
       "inn": "drospirenon, estetrol",
       "inn_eng": [
-        "estetrol",
-        "drospirenone"
+        "drospirenone",
+        "estetrol"
       ],
       "sifraProizvoda": "477749",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=477749",
@@ -19345,8 +19318,8 @@
       "atc": "G03AA12",
       "inn": "drospirenon, etinilestradiol",
       "inn_eng": [
-        "ethinylestradiol",
-        "drospirenone"
+        "drospirenone",
+        "ethinylestradiol"
       ],
       "sifraProizvoda": "495961",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=495961",
@@ -19362,8 +19335,8 @@
       "atc": "G03AA12",
       "inn": "drospirenon, etinilestradiol",
       "inn_eng": [
-        "ethinylestradiol",
-        "drospirenone"
+        "drospirenone",
+        "ethinylestradiol"
       ],
       "sifraProizvoda": "495959",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=495959",
@@ -19379,8 +19352,8 @@
       "atc": "G03AA12",
       "inn": "drospirenon, etinilestradiol",
       "inn_eng": [
-        "ethinylestradiol",
-        "drospirenone"
+        "drospirenone",
+        "ethinylestradiol"
       ],
       "sifraProizvoda": "495075",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=495075",
@@ -19396,8 +19369,8 @@
       "atc": "G03AA12",
       "inn": "drospirenon, etinilestradiol",
       "inn_eng": [
-        "ethinylestradiol",
-        "drospirenone"
+        "drospirenone",
+        "ethinylestradiol"
       ],
       "sifraProizvoda": "439404",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=439404",
@@ -19413,8 +19386,8 @@
       "atc": "G03AA12",
       "inn": "drospirenon, etinilestradiol",
       "inn_eng": [
-        "ethinylestradiol",
-        "drospirenone"
+        "drospirenone",
+        "ethinylestradiol"
       ],
       "sifraProizvoda": "488498",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=488498",
@@ -19430,8 +19403,8 @@
       "atc": "G03AA12",
       "inn": "drospirenon, etinilestradiol",
       "inn_eng": [
-        "ethinylestradiol",
-        "drospirenone"
+        "drospirenone",
+        "ethinylestradiol"
       ],
       "sifraProizvoda": "488066",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=488066",
@@ -21452,36 +21425,6 @@
       "rezim": "SZ"
     }
   ],
-  "tepkinly": [
-    {
-      "puno_ime": "TEPKINLY®",
-      "atc": "L01FX27",
-      "inn": "epkoritamab",
-      "inn_eng": [
-        "epcoritamab"
-      ],
-      "sifraProizvoda": "491285",
-      "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=491285",
-      "ean": "8054083027364",
-      "oblik": "koncentrat za rastvor za injekciju",
-      "jacina": "4mg/0.8mL",
-      "rezim": "SZ"
-    },
-    {
-      "puno_ime": "TEPKINLY®",
-      "atc": "L01FX27",
-      "inn": "epkoritamab",
-      "inn_eng": [
-        "epcoritamab"
-      ],
-      "sifraProizvoda": "491647",
-      "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=491647",
-      "ean": "8054083027371",
-      "oblik": "rastvor za injekciju",
-      "jacina": "48mg",
-      "rezim": "SZ"
-    }
-  ],
   "diupot": [
     {
       "puno_ime": "Diupot®",
@@ -21788,8 +21731,8 @@
       "atc": "N02CA52",
       "inn": "ergotamin, mekloksamin, kamilofin, kofein, propifenazon",
       "inn_eng": [
-        "ergotamine",
-        "combinations excl. psycholeptics"
+        "combinations excl. psycholeptics",
+        "ergotamine"
       ],
       "sifraProizvoda": "491564",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=491564",
@@ -23877,8 +23820,8 @@
       "atc": "R03AL01",
       "inn": "fenoterol, ipratropijum-bromid",
       "inn_eng": [
-        "ipratropium bromide",
-        "fenoterol"
+        "fenoterol",
+        "ipratropium bromide"
       ],
       "sifraProizvoda": "444852",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=444852",
@@ -23892,8 +23835,8 @@
       "atc": "R03AL01",
       "inn": "fenoterol, ipratropijum-bromid",
       "inn_eng": [
-        "ipratropium bromide",
-        "fenoterol"
+        "fenoterol",
+        "ipratropium bromide"
       ],
       "sifraProizvoda": "485697",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=485697",
@@ -24155,6 +24098,36 @@
       "rezim": "SZ"
     }
   ],
+  "accofil": [
+    {
+      "puno_ime": "Accofil®",
+      "atc": "L03AA02",
+      "inn": "filgrastim",
+      "inn_eng": [
+        "filgrastim"
+      ],
+      "sifraProizvoda": "497040",
+      "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=497040",
+      "ean": "8606011507464",
+      "oblik": "rastvor za injekciju/infuziju u napunjenom injekcionom špricu",
+      "jacina": "30MU/0.5ml",
+      "rezim": "OR"
+    },
+    {
+      "puno_ime": "Accofil®",
+      "atc": "L03AA02",
+      "inn": "filgrastim",
+      "inn_eng": [
+        "filgrastim"
+      ],
+      "sifraProizvoda": "497048",
+      "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=497048",
+      "ean": "8606011507471",
+      "oblik": "rastvor za injekciju/infuziju u napunjenom injekcionom špricu",
+      "jacina": "48MU/0.5ml",
+      "rezim": "OR"
+    }
+  ],
   "nivestim": [
     {
       "puno_ime": "Nivestim®",
@@ -24326,7 +24299,7 @@
   "estrela": [
     {
       "puno_ime": "Estrela®",
-      "atc": "L04AA27",
+      "atc": "L04AE01",
       "inn": "fingolimod",
       "inn_eng": [
         "fingolimod"
@@ -24342,7 +24315,7 @@
   "filival": [
     {
       "puno_ime": "Filival®",
-      "atc": "L04AA27",
+      "atc": "L04AE01",
       "inn": "fingolimod",
       "inn_eng": [
         "fingolimod"
@@ -24356,7 +24329,7 @@
     },
     {
       "puno_ime": "Filival®",
-      "atc": "L04AA27",
+      "atc": "L04AE01",
       "inn": "fingolimod",
       "inn_eng": [
         "fingolimod"
@@ -24428,7 +24401,7 @@
     },
     {
       "puno_ime": "Fingolimod Teva",
-      "atc": "L04AA27",
+      "atc": "L04AE01",
       "inn": "fingolimod",
       "inn_eng": [
         "fingolimod"
@@ -25381,9 +25354,9 @@
       "atc": "R03AL08",
       "inn": "flutikazonfuroat, umeklidinijum-bromid, vilanterol",
       "inn_eng": [
-        "umeclidinium bromide",
+        "vilanterol",
         "fluticasone furoate",
-        "vilanterol"
+        "umeclidinium bromide"
       ],
       "sifraProizvoda": "489466",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=489466",
@@ -25846,8 +25819,8 @@
       "atc": "R03AK07",
       "inn": "formoterol, budesonid",
       "inn_eng": [
-        "formoterol",
-        "budesonide"
+        "budesonide",
+        "formoterol"
       ],
       "sifraProizvoda": "436088",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=436088",
@@ -25861,8 +25834,8 @@
       "atc": "R03AK07",
       "inn": "formoterol, budesonid",
       "inn_eng": [
-        "formoterol",
-        "budesonide"
+        "budesonide",
+        "formoterol"
       ],
       "sifraProizvoda": "436094",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=436094",
@@ -25878,9 +25851,9 @@
       "atc": "R03AL11",
       "inn": "formoterol, glikopironijum-bromid, budesonid",
       "inn_eng": [
-        "formoterol",
+        "glycopyrronium bromide",
         "budesonide",
-        "glycopyrronium bromide"
+        "formoterol"
       ],
       "sifraProizvoda": "460725",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=460725",
@@ -27255,22 +27228,6 @@
       "ean": "8054083016849",
       "oblik": "film tableta",
       "jacina": "100mg+40mg",
-      "rezim": "R"
-    }
-  ],
-  "maninil": [
-    {
-      "puno_ime": "Maninil® 3,5",
-      "atc": "A10BB01",
-      "inn": "glibenklamid",
-      "inn_eng": [
-        "glibenclamide"
-      ],
-      "sifraProizvoda": "444989",
-      "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=444989",
-      "ean": "4013054002742",
-      "oblik": "tableta",
-      "jacina": "3.5mg",
       "rezim": "R"
     }
   ],
@@ -28955,8 +28912,8 @@
       "atc": "C03EA01",
       "inn": "hidrohlortiazid, amilorid",
       "inn_eng": [
-        "hydrochlorothiazide",
-        "potassium-sparing agents"
+        "potassium-sparing agents",
+        "hydrochlorothiazide"
       ],
       "sifraProizvoda": "489459",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=489459",
@@ -29048,8 +29005,8 @@
       "atc": "D07CA01",
       "inn": "hidrokortizon, oksitetraciklin",
       "inn_eng": [
-        "antibiotics",
-        "hydrocortisone"
+        "hydrocortisone",
+        "antibiotics"
       ],
       "sifraProizvoda": "443317",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=443317",
@@ -29872,8 +29829,8 @@
       "inn": "humani normalni imunoglobulin",
       "inn_eng": [
         "normal human",
-        "immunoglobulins",
-        "for extravascular adm."
+        "for extravascular adm.",
+        "immunoglobulins"
       ],
       "sifraProizvoda": "491066",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=491066",
@@ -29888,8 +29845,8 @@
       "inn": "humani normalni imunoglobulin",
       "inn_eng": [
         "normal human",
-        "immunoglobulins",
-        "for extravascular adm."
+        "for extravascular adm.",
+        "immunoglobulins"
       ],
       "sifraProizvoda": "491067",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=491067",
@@ -29904,8 +29861,8 @@
       "inn": "humani normalni imunoglobulin",
       "inn_eng": [
         "normal human",
-        "immunoglobulins",
-        "for extravascular adm."
+        "for extravascular adm.",
+        "immunoglobulins"
       ],
       "sifraProizvoda": "491065",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=491065",
@@ -29922,8 +29879,8 @@
       "inn": "humani normalni imunoglobulin",
       "inn_eng": [
         "normal human",
-        "immunoglobulins",
-        "for extravascular adm."
+        "for extravascular adm.",
+        "immunoglobulins"
       ],
       "sifraProizvoda": "486399",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=486399",
@@ -29938,8 +29895,8 @@
       "inn": "humani normalni imunoglobulin",
       "inn_eng": [
         "normal human",
-        "immunoglobulins",
-        "for extravascular adm."
+        "for extravascular adm.",
+        "immunoglobulins"
       ],
       "sifraProizvoda": "486401",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=486401",
@@ -29954,8 +29911,8 @@
       "inn": "humani normalni imunoglobulin",
       "inn_eng": [
         "normal human",
-        "immunoglobulins",
-        "for extravascular adm."
+        "for extravascular adm.",
+        "immunoglobulins"
       ],
       "sifraProizvoda": "486389",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=486389",
@@ -29970,8 +29927,8 @@
       "inn": "humani normalni imunoglobulin",
       "inn_eng": [
         "normal human",
-        "immunoglobulins",
-        "for extravascular adm."
+        "for extravascular adm.",
+        "immunoglobulins"
       ],
       "sifraProizvoda": "486403",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=486403",
@@ -29986,8 +29943,8 @@
       "inn": "humani normalni imunoglobulin",
       "inn_eng": [
         "normal human",
-        "immunoglobulins",
-        "for extravascular adm."
+        "for extravascular adm.",
+        "immunoglobulins"
       ],
       "sifraProizvoda": "486394",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=486394",
@@ -30004,8 +29961,8 @@
       "inn": "humani normalni imunoglobulin",
       "inn_eng": [
         "normal human",
-        "immunoglobulins",
-        "for extravascular adm."
+        "for extravascular adm.",
+        "immunoglobulins"
       ],
       "sifraProizvoda": "477241",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=477241",
@@ -30020,8 +29977,8 @@
       "inn": "humani normalni imunoglobulin",
       "inn_eng": [
         "normal human",
-        "immunoglobulins",
-        "for extravascular adm."
+        "for extravascular adm.",
+        "immunoglobulins"
       ],
       "sifraProizvoda": "477246",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=477246",
@@ -30036,8 +29993,8 @@
       "inn": "humani normalni imunoglobulin",
       "inn_eng": [
         "normal human",
-        "immunoglobulins",
-        "for extravascular adm."
+        "for extravascular adm.",
+        "immunoglobulins"
       ],
       "sifraProizvoda": "477250",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=477250",
@@ -30052,8 +30009,8 @@
       "inn": "humani normalni imunoglobulin",
       "inn_eng": [
         "normal human",
-        "immunoglobulins",
-        "for extravascular adm."
+        "for extravascular adm.",
+        "immunoglobulins"
       ],
       "sifraProizvoda": "477238",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=477238",
@@ -30069,9 +30026,9 @@
       "atc": "J06BA02",
       "inn": "humani normalni imunoglobulin za intravensku upotrebu",
       "inn_eng": [
+        "for intravascular adm.",
         "normal human",
-        "immunoglobulins",
-        "for intravascular adm."
+        "immunoglobulins"
       ],
       "sifraProizvoda": "462491",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=462491",
@@ -30085,9 +30042,9 @@
       "atc": "J06BA02",
       "inn": "humani normalni imunoglobulin za intravensku upotrebu",
       "inn_eng": [
+        "for intravascular adm.",
         "normal human",
-        "immunoglobulins",
-        "for intravascular adm."
+        "immunoglobulins"
       ],
       "sifraProizvoda": "462489",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=462489",
@@ -30101,9 +30058,9 @@
       "atc": "J06BA02",
       "inn": "humani normalni imunoglobulin za intravensku upotrebu",
       "inn_eng": [
+        "for intravascular adm.",
         "normal human",
-        "immunoglobulins",
-        "for intravascular adm."
+        "immunoglobulins"
       ],
       "sifraProizvoda": "462487",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=462487",
@@ -30117,9 +30074,9 @@
       "atc": "J06BA02",
       "inn": "humani normalni imunoglobulin za intravensku upotrebu",
       "inn_eng": [
+        "for intravascular adm.",
         "normal human",
-        "immunoglobulins",
-        "for intravascular adm."
+        "immunoglobulins"
       ],
       "sifraProizvoda": "462480",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=462480",
@@ -30133,9 +30090,9 @@
       "atc": "J06BA02",
       "inn": "humani normalni imunoglobulin za intravensku upotrebu",
       "inn_eng": [
+        "for intravascular adm.",
         "normal human",
-        "immunoglobulins",
-        "for intravascular adm."
+        "immunoglobulins"
       ],
       "sifraProizvoda": "462483",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=462483",
@@ -30149,9 +30106,9 @@
       "atc": "J06BA02",
       "inn": "humani normalni imunoglobulin za intravensku upotrebu",
       "inn_eng": [
+        "for intravascular adm.",
         "normal human",
-        "immunoglobulins",
-        "for intravascular adm."
+        "immunoglobulins"
       ],
       "sifraProizvoda": "462478",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=462478",
@@ -30165,9 +30122,9 @@
       "atc": "J06BA02",
       "inn": "humani normalni imunoglobulin za intravensku upotrebu",
       "inn_eng": [
+        "for intravascular adm.",
         "normal human",
-        "immunoglobulins",
-        "for intravascular adm."
+        "immunoglobulins"
       ],
       "sifraProizvoda": "462474",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=462474",
@@ -30181,9 +30138,9 @@
       "atc": "J06BA02",
       "inn": "humani normalni imunoglobulin za intravensku upotrebu",
       "inn_eng": [
+        "for intravascular adm.",
         "normal human",
-        "immunoglobulins",
-        "for intravascular adm."
+        "immunoglobulins"
       ],
       "sifraProizvoda": "462476",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=462476",
@@ -30199,9 +30156,9 @@
       "atc": "J06BA02",
       "inn": "humani normalni imunoglobulin za intravensku upotrebu",
       "inn_eng": [
+        "for intravascular adm.",
         "normal human",
-        "immunoglobulins",
-        "for intravascular adm."
+        "immunoglobulins"
       ],
       "sifraProizvoda": "461104",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=461104",
@@ -30215,9 +30172,9 @@
       "atc": "J06BA02",
       "inn": "humani normalni imunoglobulin za intravensku upotrebu",
       "inn_eng": [
+        "for intravascular adm.",
         "normal human",
-        "immunoglobulins",
-        "for intravascular adm."
+        "immunoglobulins"
       ],
       "sifraProizvoda": "461105",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=461105",
@@ -30231,9 +30188,9 @@
       "atc": "J06BA02",
       "inn": "humani normalni imunoglobulin za intravensku upotrebu",
       "inn_eng": [
+        "for intravascular adm.",
         "normal human",
-        "immunoglobulins",
-        "for intravascular adm."
+        "immunoglobulins"
       ],
       "sifraProizvoda": "461099",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=461099",
@@ -30247,9 +30204,9 @@
       "atc": "J06BA02",
       "inn": "humani normalni imunoglobulin za intravensku upotrebu",
       "inn_eng": [
+        "for intravascular adm.",
         "normal human",
-        "immunoglobulins",
-        "for intravascular adm."
+        "immunoglobulins"
       ],
       "sifraProizvoda": "461103",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=461103",
@@ -30265,9 +30222,9 @@
       "atc": "J06BA02",
       "inn": "humani normalni imunoglobulin za intravensku upotrebu",
       "inn_eng": [
+        "for intravascular adm.",
         "normal human",
-        "immunoglobulins",
-        "for intravascular adm."
+        "immunoglobulins"
       ],
       "sifraProizvoda": "465565",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=465565",
@@ -30281,9 +30238,9 @@
       "atc": "J06BA02",
       "inn": "humani normalni imunoglobulin za intravensku upotrebu",
       "inn_eng": [
+        "for intravascular adm.",
         "normal human",
-        "immunoglobulins",
-        "for intravascular adm."
+        "immunoglobulins"
       ],
       "sifraProizvoda": "465566",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=465566",
@@ -30297,9 +30254,9 @@
       "atc": "J06BA02",
       "inn": "humani normalni imunoglobulin za intravensku upotrebu",
       "inn_eng": [
+        "for intravascular adm.",
         "normal human",
-        "immunoglobulins",
-        "for intravascular adm."
+        "immunoglobulins"
       ],
       "sifraProizvoda": "465555",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=465555",
@@ -30313,9 +30270,9 @@
       "atc": "J06BA02",
       "inn": "humani normalni imunoglobulin za intravensku upotrebu",
       "inn_eng": [
+        "for intravascular adm.",
         "normal human",
-        "immunoglobulins",
-        "for intravascular adm."
+        "immunoglobulins"
       ],
       "sifraProizvoda": "493386",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=493386",
@@ -30329,9 +30286,9 @@
       "atc": "J06BA02",
       "inn": "humani normalni imunoglobulin za intravensku upotrebu",
       "inn_eng": [
+        "for intravascular adm.",
         "normal human",
-        "immunoglobulins",
-        "for intravascular adm."
+        "immunoglobulins"
       ],
       "sifraProizvoda": "493387",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=493387",
@@ -30345,9 +30302,9 @@
       "atc": "J06BA02",
       "inn": "humani normalni imunoglobulin za intravensku upotrebu",
       "inn_eng": [
+        "for intravascular adm.",
         "normal human",
-        "immunoglobulins",
-        "for intravascular adm."
+        "immunoglobulins"
       ],
       "sifraProizvoda": "493384",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=493384",
@@ -30361,9 +30318,9 @@
       "atc": "J06BA02",
       "inn": "humani normalni imunoglobulin za intravensku upotrebu",
       "inn_eng": [
+        "for intravascular adm.",
         "normal human",
-        "immunoglobulins",
-        "for intravascular adm."
+        "immunoglobulins"
       ],
       "sifraProizvoda": "493385",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=493385",
@@ -30379,9 +30336,9 @@
       "atc": "J06BA02",
       "inn": "humani normalni imunoglobulin za intravensku upotrebu",
       "inn_eng": [
+        "for intravascular adm.",
         "normal human",
-        "immunoglobulins",
-        "for intravascular adm."
+        "immunoglobulins"
       ],
       "sifraProizvoda": "413284",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=413284",
@@ -30395,9 +30352,9 @@
       "atc": "J06BA02",
       "inn": "humani normalni imunoglobulin za intravensku upotrebu",
       "inn_eng": [
+        "for intravascular adm.",
         "normal human",
-        "immunoglobulins",
-        "for intravascular adm."
+        "immunoglobulins"
       ],
       "sifraProizvoda": "413282",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=413282",
@@ -30411,9 +30368,9 @@
       "atc": "J06BA02",
       "inn": "humani normalni imunoglobulin za intravensku upotrebu",
       "inn_eng": [
+        "for intravascular adm.",
         "normal human",
-        "immunoglobulins",
-        "for intravascular adm."
+        "immunoglobulins"
       ],
       "sifraProizvoda": "413283",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=413283",
@@ -30429,9 +30386,9 @@
       "atc": "J06BA02",
       "inn": "humani normalni imunoglobulin za intravensku upotrebu",
       "inn_eng": [
+        "for intravascular adm.",
         "normal human",
-        "immunoglobulins",
-        "for intravascular adm."
+        "immunoglobulins"
       ],
       "sifraProizvoda": "469941",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=469941",
@@ -30445,9 +30402,9 @@
       "atc": "J06BA02",
       "inn": "humani normalni imunoglobulin za intravensku upotrebu",
       "inn_eng": [
+        "for intravascular adm.",
         "normal human",
-        "immunoglobulins",
-        "for intravascular adm."
+        "immunoglobulins"
       ],
       "sifraProizvoda": "469939",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=469939",
@@ -30461,9 +30418,9 @@
       "atc": "J06BA02",
       "inn": "humani normalni imunoglobulin za intravensku upotrebu",
       "inn_eng": [
+        "for intravascular adm.",
         "normal human",
-        "immunoglobulins",
-        "for intravascular adm."
+        "immunoglobulins"
       ],
       "sifraProizvoda": "495467",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=495467",
@@ -30479,9 +30436,9 @@
       "atc": "J06BA02",
       "inn": "humani normalni imunoglobulin za intravensku upotrebu",
       "inn_eng": [
+        "for intravascular adm.",
         "normal human",
-        "immunoglobulins",
-        "for intravascular adm."
+        "immunoglobulins"
       ],
       "sifraProizvoda": "492282",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=492282",
@@ -30495,9 +30452,9 @@
       "atc": "J06BA02",
       "inn": "humani normalni imunoglobulin za intravensku upotrebu",
       "inn_eng": [
+        "for intravascular adm.",
         "normal human",
-        "immunoglobulins",
-        "for intravascular adm."
+        "immunoglobulins"
       ],
       "sifraProizvoda": "492280",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=492280",
@@ -30511,9 +30468,9 @@
       "atc": "J06BA02",
       "inn": "humani normalni imunoglobulin za intravensku upotrebu",
       "inn_eng": [
+        "for intravascular adm.",
         "normal human",
-        "immunoglobulins",
-        "for intravascular adm."
+        "immunoglobulins"
       ],
       "sifraProizvoda": "492281",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=492281",
@@ -30529,9 +30486,9 @@
       "atc": "J06BA02",
       "inn": "humani normalni imunoglobulin za intravensku upotrebu",
       "inn_eng": [
+        "for intravascular adm.",
         "normal human",
-        "immunoglobulins",
-        "for intravascular adm."
+        "immunoglobulins"
       ],
       "sifraProizvoda": "446035",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=446035",
@@ -30545,9 +30502,9 @@
       "atc": "J06BA02",
       "inn": "humani normalni imunoglobulin za intravensku upotrebu",
       "inn_eng": [
+        "for intravascular adm.",
         "normal human",
-        "immunoglobulins",
-        "for intravascular adm."
+        "immunoglobulins"
       ],
       "sifraProizvoda": "446034",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=446034",
@@ -30561,9 +30518,9 @@
       "atc": "J06BA02",
       "inn": "humani normalni imunoglobulin za intravensku upotrebu",
       "inn_eng": [
+        "for intravascular adm.",
         "normal human",
-        "immunoglobulins",
-        "for intravascular adm."
+        "immunoglobulins"
       ],
       "sifraProizvoda": "446036",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=446036",
@@ -32391,8 +32348,8 @@
       "atc": "J01DH51",
       "inn": "imipenem, cilastatin",
       "inn_eng": [
-        "cilastatin",
-        "imipenem"
+        "imipenem",
+        "cilastatin"
       ],
       "sifraProizvoda": "456597",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=456597",
@@ -32408,8 +32365,8 @@
       "atc": "J01DH51",
       "inn": "imipenem, cilastatin",
       "inn_eng": [
-        "cilastatin",
-        "imipenem"
+        "imipenem",
+        "cilastatin"
       ],
       "sifraProizvoda": "439334",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=439334",
@@ -32423,8 +32380,8 @@
       "atc": "J01DH51",
       "inn": "imipenem, cilastatin",
       "inn_eng": [
-        "cilastatin",
-        "imipenem"
+        "imipenem",
+        "cilastatin"
       ],
       "sifraProizvoda": "487553",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=487553",
@@ -32440,8 +32397,8 @@
       "atc": "J01DH51",
       "inn": "imipenem, cilastatin",
       "inn_eng": [
-        "cilastatin",
-        "imipenem"
+        "imipenem",
+        "cilastatin"
       ],
       "sifraProizvoda": "495463",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=495463",
@@ -32457,8 +32414,8 @@
       "atc": "J01DH51",
       "inn": "imipenem, cilastatin",
       "inn_eng": [
-        "cilastatin",
-        "imipenem"
+        "imipenem",
+        "cilastatin"
       ],
       "sifraProizvoda": "494064",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=494064",
@@ -32470,7 +32427,7 @@
   ],
   "recarbrio": [
     {
-      "puno_ime": "RECARBRIO®",
+      "puno_ime": "Recarbrio®",
       "atc": "J01DH56",
       "inn": "imipenem, cilastatin, relebaktam",
       "inn_eng": [],
@@ -36760,8 +36717,8 @@
       "atc": "D10AF51",
       "inn": "klindamicin, benzoil-peroksid",
       "inn_eng": [
-        "combinations",
-        "clindamycin"
+        "clindamycin",
+        "combinations"
       ],
       "sifraProizvoda": "479460",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=479460",
@@ -36775,8 +36732,8 @@
       "atc": "D10AF51",
       "inn": "klindamicin, benzoil-peroksid",
       "inn_eng": [
-        "combinations",
-        "clindamycin"
+        "clindamycin",
+        "combinations"
       ],
       "sifraProizvoda": "479461",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=479461",
@@ -36790,8 +36747,8 @@
       "atc": "D10AF51",
       "inn": "klindamicin, benzoil-peroksid",
       "inn_eng": [
-        "combinations",
-        "clindamycin"
+        "clindamycin",
+        "combinations"
       ],
       "sifraProizvoda": "479462",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=479462",
@@ -36805,8 +36762,8 @@
       "atc": "D10AF51",
       "inn": "klindamicin, benzoil-peroksid",
       "inn_eng": [
-        "combinations",
-        "clindamycin"
+        "clindamycin",
+        "combinations"
       ],
       "sifraProizvoda": "479463",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=479463",
@@ -36822,8 +36779,8 @@
       "atc": "D10AF51",
       "inn": "klindamicin, benzoil-peroksid",
       "inn_eng": [
-        "combinations",
-        "clindamycin"
+        "clindamycin",
+        "combinations"
       ],
       "sifraProizvoda": "490004",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=490004",
@@ -37342,8 +37299,8 @@
       "atc": "N06BC01",
       "inn": "kofein",
       "inn_eng": [
-        "sodium benzoate",
-        "caffeine"
+        "caffeine",
+        "sodium benzoate"
       ],
       "sifraProizvoda": "491752",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=491752",
@@ -38547,8 +38504,8 @@
       "atc": "J05AF05",
       "inn": "lamivudin",
       "inn_eng": [
-        "lamivudine",
-        "abacavir"
+        "abacavir",
+        "lamivudine"
       ],
       "sifraProizvoda": "481253",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=481253",
@@ -38564,8 +38521,8 @@
       "atc": "J05AF05",
       "inn": "lamivudin",
       "inn_eng": [
-        "lamivudine",
-        "abacavir"
+        "abacavir",
+        "lamivudine"
       ],
       "sifraProizvoda": "451689",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=451689",
@@ -38581,8 +38538,8 @@
       "atc": "J05AR02",
       "inn": "lamivudin, abakavir",
       "inn_eng": [
-        "lamivudine",
-        "abacavir"
+        "abacavir",
+        "lamivudine"
       ],
       "sifraProizvoda": "468255",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=468255",
@@ -38598,9 +38555,9 @@
       "atc": "J05AR13",
       "inn": "lamivudin, abakavir, dolutegravir",
       "inn_eng": [
+        "abacavir",
         "dolutegravir",
-        "lamivudine",
-        "abacavir"
+        "lamivudine"
       ],
       "sifraProizvoda": "449123",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=449123",
@@ -38616,9 +38573,9 @@
       "atc": "J05AR24",
       "inn": "lamivudin, tenofovir, doravirin",
       "inn_eng": [
-        "lamivudine",
         "tenofovir disoproxil",
-        "doravirine"
+        "doravirine",
+        "lamivudine"
       ],
       "sifraProizvoda": "453921",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=453921",
@@ -39231,7 +39188,7 @@
   "arava": [
     {
       "puno_ime": "Arava®",
-      "atc": "L04AA13",
+      "atc": "L04AK01",
       "inn": "leflunomid",
       "inn_eng": [
         "leflunomide"
@@ -40504,8 +40461,8 @@
       "atc": "N04BA02",
       "inn": "levodopa, benzerazid",
       "inn_eng": [
-        "levodopa",
-        "decarboxylase inhibitor"
+        "decarboxylase inhibitor",
+        "levodopa"
       ],
       "sifraProizvoda": "435918",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=435918",
@@ -40519,8 +40476,8 @@
       "atc": "N04BA02",
       "inn": "levodopa, benzerazid",
       "inn_eng": [
-        "levodopa",
-        "decarboxylase inhibitor"
+        "decarboxylase inhibitor",
+        "levodopa"
       ],
       "sifraProizvoda": "465472",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=465472",
@@ -40536,9 +40493,9 @@
       "atc": "N04BA03",
       "inn": "levodopa, karbidopa, entakapon",
       "inn_eng": [
-        "levodopa",
+        "comt inhibitor",
         "decarboxylase inhibitor",
-        "comt inhibitor"
+        "levodopa"
       ],
       "sifraProizvoda": "423672",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=423672",
@@ -40552,9 +40509,9 @@
       "atc": "N04BA03",
       "inn": "levodopa, karbidopa, entakapon",
       "inn_eng": [
-        "levodopa",
+        "comt inhibitor",
         "decarboxylase inhibitor",
-        "comt inhibitor"
+        "levodopa"
       ],
       "sifraProizvoda": "423674",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=423674",
@@ -40568,9 +40525,9 @@
       "atc": "N04BA03",
       "inn": "levodopa, karbidopa, entakapon",
       "inn_eng": [
-        "levodopa",
+        "comt inhibitor",
         "decarboxylase inhibitor",
-        "comt inhibitor"
+        "levodopa"
       ],
       "sifraProizvoda": "423677",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=423677",
@@ -40586,9 +40543,9 @@
       "atc": "N04BA03",
       "inn": "levodopa, karbidopa, entakapon",
       "inn_eng": [
-        "levodopa",
+        "comt inhibitor",
         "decarboxylase inhibitor",
-        "comt inhibitor"
+        "levodopa"
       ],
       "sifraProizvoda": "463605",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=463605",
@@ -40602,9 +40559,9 @@
       "atc": "N04BA03",
       "inn": "levodopa, karbidopa, entakapon",
       "inn_eng": [
-        "levodopa",
+        "comt inhibitor",
         "decarboxylase inhibitor",
-        "comt inhibitor"
+        "levodopa"
       ],
       "sifraProizvoda": "463611",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=463611",
@@ -41104,22 +41061,6 @@
       "oblik": "oralni rastvor",
       "jacina": "5mg/mL",
       "rezim": "SZN"
-    }
-  ],
-  "bell": [
-    {
-      "puno_ime": "Bell®",
-      "atc": "G03AD01",
-      "inn": "levonorgestrel",
-      "inn_eng": [
-        "levonorgestrel"
-      ],
-      "sifraProizvoda": "434584",
-      "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=434584",
-      "ean": "8600097409056",
-      "oblik": "tableta",
-      "jacina": "1.5mg",
-      "rezim": "BR"
     }
   ],
   "contratab": [
@@ -41690,12 +41631,12 @@
       "atc": "A01AD11",
       "inn": "lidokain, cetilpiridinijum-hlorid",
       "inn_eng": [
-        "hypericum perforatum",
         "comb drug",
-        "quercus",
-        "eucalyptus vitaminalis",
+        "salvia officinalis",
+        "hypericum perforatum",
         "capsicum annuum",
-        "salvia officinalis"
+        "eucalyptus vitaminalis",
+        "quercus"
       ],
       "sifraProizvoda": "493675",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=493675",
@@ -42449,16 +42390,16 @@
       "atc": "R02AA20",
       "inn": "lizozim-hidrohlorid, cetilpiridinijum-hlorid",
       "inn_eng": [
-        "furazidin",
-        "comb drug",
-        "tilia",
-        "chlorophyllipt",
-        "iodine",
-        "eucalyptus vitaminalis",
-        "calendula officinalis",
-        "hexetidine",
         "decamethoxine",
-        "flores helianthi"
+        "hexetidine",
+        "iodine",
+        "comb drug",
+        "flores helianthi",
+        "calendula officinalis",
+        "chlorophyllipt",
+        "furazidin",
+        "eucalyptus vitaminalis",
+        "tilia"
       ],
       "sifraProizvoda": "452633",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=452633",
@@ -42472,16 +42413,16 @@
       "atc": "R02AA20",
       "inn": "lizozim-hidrohlorid, piridoksin",
       "inn_eng": [
-        "furazidin",
-        "comb drug",
-        "tilia",
-        "chlorophyllipt",
-        "iodine",
-        "eucalyptus vitaminalis",
-        "calendula officinalis",
-        "hexetidine",
         "decamethoxine",
-        "flores helianthi"
+        "hexetidine",
+        "iodine",
+        "comb drug",
+        "flores helianthi",
+        "calendula officinalis",
+        "chlorophyllipt",
+        "furazidin",
+        "eucalyptus vitaminalis",
+        "tilia"
       ],
       "sifraProizvoda": "474442",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=474442",
@@ -45089,8 +45030,8 @@
       "atc": "A10BD15",
       "inn": "metformin, dapagliflozin",
       "inn_eng": [
-        "metformin",
-        "dapagliflozin"
+        "dapagliflozin",
+        "metformin"
       ],
       "sifraProizvoda": "462127",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=462127",
@@ -45104,8 +45045,8 @@
       "atc": "A10BD15",
       "inn": "metformin, dapagliflozin",
       "inn_eng": [
-        "metformin",
-        "dapagliflozin"
+        "dapagliflozin",
+        "metformin"
       ],
       "sifraProizvoda": "462126",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=462126",
@@ -45119,8 +45060,8 @@
       "atc": "A10BD15",
       "inn": "metformin, dapagliflozin",
       "inn_eng": [
-        "metformin",
-        "dapagliflozin"
+        "dapagliflozin",
+        "metformin"
       ],
       "sifraProizvoda": "462129",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=462129",
@@ -45134,8 +45075,8 @@
       "atc": "A10BD15",
       "inn": "metformin, dapagliflozin",
       "inn_eng": [
-        "metformin",
-        "dapagliflozin"
+        "dapagliflozin",
+        "metformin"
       ],
       "sifraProizvoda": "462128",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=462128",
@@ -45213,8 +45154,8 @@
       "atc": "A10BD07",
       "inn": "metformin, sitagliptin",
       "inn_eng": [
-        "metformin",
-        "sitagliptin"
+        "sitagliptin",
+        "metformin"
       ],
       "sifraProizvoda": "488778",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=488778",
@@ -45228,8 +45169,8 @@
       "atc": "A10BD07",
       "inn": "metformin, sitagliptin",
       "inn_eng": [
-        "metformin",
-        "sitagliptin"
+        "sitagliptin",
+        "metformin"
       ],
       "sifraProizvoda": "488779",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=488779",
@@ -45287,8 +45228,8 @@
       "atc": "A10BD07",
       "inn": "metformin, sitagliptin",
       "inn_eng": [
-        "metformin",
-        "sitagliptin"
+        "sitagliptin",
+        "metformin"
       ],
       "sifraProizvoda": "470668",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=470668",
@@ -45302,8 +45243,8 @@
       "atc": "A10BD07",
       "inn": "metformin, sitagliptin",
       "inn_eng": [
-        "metformin",
-        "sitagliptin"
+        "sitagliptin",
+        "metformin"
       ],
       "sifraProizvoda": "470670",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=470670",
@@ -45319,8 +45260,8 @@
       "atc": "A10BD07",
       "inn": "metformin, sitagliptin",
       "inn_eng": [
-        "metformin",
-        "sitagliptin"
+        "sitagliptin",
+        "metformin"
       ],
       "sifraProizvoda": "418429",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=418429",
@@ -45334,8 +45275,8 @@
       "atc": "A10BD07",
       "inn": "metformin, sitagliptin",
       "inn_eng": [
-        "metformin",
-        "sitagliptin"
+        "sitagliptin",
+        "metformin"
       ],
       "sifraProizvoda": "418432",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=418432",
@@ -45351,8 +45292,8 @@
       "atc": "A10BD07",
       "inn": "metformin, sitagliptin",
       "inn_eng": [
-        "metformin",
-        "sitagliptin"
+        "sitagliptin",
+        "metformin"
       ],
       "sifraProizvoda": "461411",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=461411",
@@ -45366,8 +45307,8 @@
       "atc": "A10BD07",
       "inn": "metformin, sitagliptin",
       "inn_eng": [
-        "metformin",
-        "sitagliptin"
+        "sitagliptin",
+        "metformin"
       ],
       "sifraProizvoda": "461413",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=461413",
@@ -45383,8 +45324,8 @@
       "atc": "A10BD07",
       "inn": "metformin, sitagliptin",
       "inn_eng": [
-        "metformin",
-        "sitagliptin"
+        "sitagliptin",
+        "metformin"
       ],
       "sifraProizvoda": "471543",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=471543",
@@ -45588,12 +45529,12 @@
       "atc": "M02AX10",
       "inn": "metilsalicilat, mentol",
       "inn_eng": [
-        "chole medicata",
         "comb drug",
         "mono",
-        "formic acid",
         "thiocolchicoside",
-        "camphora"
+        "camphora",
+        "formic acid",
+        "chole medicata"
       ],
       "sifraProizvoda": "466226",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=466226",
@@ -46855,8 +46796,8 @@
       "atc": "G01AX14",
       "inn": "mlečnokiselinske bakterije",
       "inn_eng": [
-        "lactobacillus",
-        "comb drug"
+        "comb drug",
+        "lactobacillus"
       ],
       "sifraProizvoda": "490764",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=490764",
@@ -47979,8 +47920,8 @@
       "atc": "B05BB01",
       "inn": "natrijum-acetat, natrijum-hlorid, kalijum-hlorid, magnezijum-hlorid",
       "inn_eng": [
-        "electrolytes",
-        "calcium gluconate"
+        "calcium gluconate",
+        "electrolytes"
       ],
       "sifraProizvoda": "480165",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=480165",
@@ -47994,8 +47935,8 @@
       "atc": "B05BB01",
       "inn": "natrijum-acetat, natrijum-hlorid, kalijum-hlorid, magnezijum-hlorid",
       "inn_eng": [
-        "electrolytes",
-        "calcium gluconate"
+        "calcium gluconate",
+        "electrolytes"
       ],
       "sifraProizvoda": "480167",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=480167",
@@ -48171,8 +48112,8 @@
       "atc": "B05BB01",
       "inn": "natrijum-hlorid, kalijum-hlorid, kalcijum-hlorid",
       "inn_eng": [
-        "electrolytes",
-        "calcium gluconate"
+        "calcium gluconate",
+        "electrolytes"
       ],
       "sifraProizvoda": "458696",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=458696",
@@ -48402,8 +48343,8 @@
       "atc": "B05BB01",
       "inn": "natrijum-hlorid, kalijum-hlorid, kalcijum-hlorid",
       "inn_eng": [
-        "electrolytes",
-        "calcium gluconate"
+        "calcium gluconate",
+        "electrolytes"
       ],
       "sifraProizvoda": "463265",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=463265",
@@ -48417,8 +48358,8 @@
       "atc": "B05BB01",
       "inn": "natrijum-hlorid, kalijum-hlorid, kalcijum-hlorid",
       "inn_eng": [
-        "electrolytes",
-        "calcium gluconate"
+        "calcium gluconate",
+        "electrolytes"
       ],
       "sifraProizvoda": "463264",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=463264",
@@ -48432,8 +48373,8 @@
       "atc": "B05BB01",
       "inn": "natrijum-hlorid, kalijum-hlorid, kalcijum-hlorid",
       "inn_eng": [
-        "electrolytes",
-        "calcium gluconate"
+        "calcium gluconate",
+        "electrolytes"
       ],
       "sifraProizvoda": "455189",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=455189",
@@ -48449,8 +48390,8 @@
       "atc": "B05BB01",
       "inn": "natrijum-hlorid, kalijum-hlorid, kalcijum-hlorid",
       "inn_eng": [
-        "electrolytes",
-        "calcium gluconate"
+        "calcium gluconate",
+        "electrolytes"
       ],
       "sifraProizvoda": "439503",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=439503",
@@ -48466,8 +48407,8 @@
       "atc": "B05BB01",
       "inn": "natrijum-hlorid, kalijum-hlorid, kalcijum-hlorid, natrijum(S)-laktat",
       "inn_eng": [
-        "electrolytes",
-        "calcium gluconate"
+        "calcium gluconate",
+        "electrolytes"
       ],
       "sifraProizvoda": "459713",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=459713",
@@ -48477,27 +48418,12 @@
       "rezim": "Z"
     },
     {
-      "puno_ime": "HARTMANOV RASTVOR/VIOSER",
-      "atc": "B05BB01",
-      "inn": "natrijum-hlorid, kalijum-hlorid, kalcijum-hlorid, natrijum-laktat",
-      "inn_eng": [
-        "electrolytes",
-        "calcium gluconate"
-      ],
-      "sifraProizvoda": "465852",
-      "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=465852",
-      "ean": "2801911001012",
-      "oblik": "rastvor za infuziju",
-      "jacina": "6g/L+0.3g/L+0.2g/L+3.1g/L",
-      "rezim": "Z"
-    },
-    {
       "puno_ime": "Hartmanov rastvor B.Braun",
       "atc": "B05BB01",
       "inn": "natrijum-hlorid, kalijum-hlorid, kalcijum-hlorid, natrijum-laktat",
       "inn_eng": [
-        "electrolytes",
-        "calcium gluconate"
+        "calcium gluconate",
+        "electrolytes"
       ],
       "sifraProizvoda": "456512",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=456512",
@@ -48511,8 +48437,8 @@
       "atc": "B05BB01",
       "inn": "natrijum-hlorid, kalijum-hlorid, kalcijum-hlorid, natrijum-laktat",
       "inn_eng": [
-        "electrolytes",
-        "calcium gluconate"
+        "calcium gluconate",
+        "electrolytes"
       ],
       "sifraProizvoda": "456519",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=456519",
@@ -48526,8 +48452,8 @@
       "atc": "B05BB01",
       "inn": "natrijum-hlorid, kalijum-hlorid, kalcijum-hlorid, natrijum-laktat",
       "inn_eng": [
-        "electrolytes",
-        "calcium gluconate"
+        "calcium gluconate",
+        "electrolytes"
       ],
       "sifraProizvoda": "467536",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=467536",
@@ -48543,8 +48469,8 @@
       "atc": "B05BB01",
       "inn": "natrijum-hlorid, kalijum-hlorid, kalcijum-hlorid, natrijum-laktat",
       "inn_eng": [
-        "electrolytes",
-        "calcium gluconate"
+        "calcium gluconate",
+        "electrolytes"
       ],
       "sifraProizvoda": "441778",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=441778",
@@ -48560,8 +48486,8 @@
       "atc": "B05BB01",
       "inn": "natrijum-hlorid, kalijum-hlorid, magnezijum-hlorid, kalcijum-hlorid, natrijum-acetat, jabučna kiselina",
       "inn_eng": [
-        "electrolytes",
-        "calcium gluconate"
+        "calcium gluconate",
+        "electrolytes"
       ],
       "sifraProizvoda": "453730",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=453730",
@@ -48655,8 +48581,8 @@
       "atc": "A06AB58",
       "inn": "natrijum-pikosulfat, magnezijum-oksid, laki, limunska kiselina",
       "inn_eng": [
-        "combinations",
-        "sodium picosulfate"
+        "sodium picosulfate",
+        "combinations"
       ],
       "sifraProizvoda": "477336",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=477336",
@@ -48672,8 +48598,8 @@
       "atc": "A06AB58",
       "inn": "natrijum-pikosulfat, magnezijum-oksid, laki, limunska kiselina",
       "inn_eng": [
-        "combinations",
-        "sodium picosulfate"
+        "sodium picosulfate",
+        "combinations"
       ],
       "sifraProizvoda": "488166",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=488166",
@@ -48733,8 +48659,8 @@
       "atc": "C07BB12",
       "inn": "nebivolol, hidrohlortiazid",
       "inn_eng": [
-        "nebivolol",
-        "thiazides"
+        "thiazides",
+        "nebivolol"
       ],
       "sifraProizvoda": "473153",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=473153",
@@ -48748,8 +48674,8 @@
       "atc": "C07BB12",
       "inn": "nebivolol, hidrohlortiazid",
       "inn_eng": [
-        "nebivolol",
-        "thiazides"
+        "thiazides",
+        "nebivolol"
       ],
       "sifraProizvoda": "473151",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=473151",
@@ -48779,8 +48705,8 @@
       "atc": "C07BB12",
       "inn": "nebivolol, hidrohlortiazid",
       "inn_eng": [
-        "nebivolol",
-        "thiazides"
+        "thiazides",
+        "nebivolol"
       ],
       "sifraProizvoda": "470697",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=470697",
@@ -48856,8 +48782,8 @@
       "atc": "C07BB12",
       "inn": "nebivolol, hidrohlortiazid",
       "inn_eng": [
-        "nebivolol",
-        "thiazides"
+        "thiazides",
+        "nebivolol"
       ],
       "sifraProizvoda": "476824",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=476824",
@@ -48871,8 +48797,8 @@
       "atc": "C07BB12",
       "inn": "nebivolol, hidrohlortiazid",
       "inn_eng": [
-        "nebivolol",
-        "thiazides"
+        "thiazides",
+        "nebivolol"
       ],
       "sifraProizvoda": "476826",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=476826",
@@ -50807,6 +50733,56 @@
       "rezim": "R"
     }
   ],
+  "oktenidin": [
+    {
+      "puno_ime": "Oktenidin Klosterfrau",
+      "atc": "R02AA21",
+      "inn": "oktenidin",
+      "inn_eng": [],
+      "sifraProizvoda": "497532",
+      "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=497532",
+      "ean": "8606011508331",
+      "oblik": "lozenga",
+      "jacina": "2.6mg",
+      "rezim": "BR"
+    },
+    {
+      "puno_ime": "Oktenidin Klosterfrau",
+      "atc": "R02AA21",
+      "inn": "oktenidin",
+      "inn_eng": [],
+      "sifraProizvoda": "497534",
+      "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=497534",
+      "ean": "8606011508348",
+      "oblik": "lozenga",
+      "jacina": "2.6mg",
+      "rezim": "BR"
+    },
+    {
+      "puno_ime": "Oktenidin Klosterfrau",
+      "atc": "R02AA21",
+      "inn": "oktenidin",
+      "inn_eng": [],
+      "sifraProizvoda": "497535",
+      "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=497535",
+      "ean": "8606011508324",
+      "oblik": "lozenga",
+      "jacina": "2.6mg",
+      "rezim": "BR"
+    },
+    {
+      "puno_ime": "Oktenidin Klosterfrau",
+      "atc": "R02AA21",
+      "inn": "oktenidin",
+      "inn_eng": [],
+      "sifraProizvoda": "497533",
+      "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=497533",
+      "ean": "8606011508355",
+      "oblik": "lozenga",
+      "jacina": "2.6mg",
+      "rezim": "BR"
+    }
+  ],
   "octecare": [
     {
       "puno_ime": "Octecare®",
@@ -51302,8 +51278,8 @@
       "atc": "C09DB02",
       "inn": "olmesartanmedoksomil, amlodipin",
       "inn_eng": [
-        "olmesartan medoxomil",
-        "amlodipine"
+        "amlodipine",
+        "olmesartan medoxomil"
       ],
       "sifraProizvoda": "488648",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=488648",
@@ -51317,8 +51293,8 @@
       "atc": "C09DB02",
       "inn": "olmesartanmedoksomil, amlodipin",
       "inn_eng": [
-        "olmesartan medoxomil",
-        "amlodipine"
+        "amlodipine",
+        "olmesartan medoxomil"
       ],
       "sifraProizvoda": "488653",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=488653",
@@ -51332,8 +51308,8 @@
       "atc": "C09DB02",
       "inn": "olmesartanmedoksomil, amlodipin",
       "inn_eng": [
-        "olmesartan medoxomil",
-        "amlodipine"
+        "amlodipine",
+        "olmesartan medoxomil"
       ],
       "sifraProizvoda": "488651",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=488651",
@@ -51349,8 +51325,8 @@
       "atc": "C09DB02",
       "inn": "olmesartanmedoksomil, amlodipin",
       "inn_eng": [
-        "olmesartan medoxomil",
-        "amlodipine"
+        "amlodipine",
+        "olmesartan medoxomil"
       ],
       "sifraProizvoda": "490369",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=490369",
@@ -51364,8 +51340,8 @@
       "atc": "C09DB02",
       "inn": "olmesartanmedoksomil, amlodipin",
       "inn_eng": [
-        "olmesartan medoxomil",
-        "amlodipine"
+        "amlodipine",
+        "olmesartan medoxomil"
       ],
       "sifraProizvoda": "490375",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=490375",
@@ -51379,8 +51355,8 @@
       "atc": "C09DB02",
       "inn": "olmesartanmedoksomil, amlodipin",
       "inn_eng": [
-        "olmesartan medoxomil",
-        "amlodipine"
+        "amlodipine",
+        "olmesartan medoxomil"
       ],
       "sifraProizvoda": "490371",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=490371",
@@ -51394,8 +51370,8 @@
       "atc": "C09DX03",
       "inn": "olmesartanmedoksomil, amlodipin, hidrohlortiazid",
       "inn_eng": [
-        "olmesartan medoxomil",
         "amlodipine",
+        "olmesartan medoxomil",
         "hydrochlorothiazide"
       ],
       "sifraProizvoda": "494066",
@@ -51410,8 +51386,8 @@
       "atc": "C09DX03",
       "inn": "olmesartanmedoksomil, amlodipin, hidrohlortiazid",
       "inn_eng": [
-        "olmesartan medoxomil",
         "amlodipine",
+        "olmesartan medoxomil",
         "hydrochlorothiazide"
       ],
       "sifraProizvoda": "494081",
@@ -51426,8 +51402,8 @@
       "atc": "C09DX03",
       "inn": "olmesartanmedoksomil, amlodipin, hidrohlortiazid",
       "inn_eng": [
-        "olmesartan medoxomil",
         "amlodipine",
+        "olmesartan medoxomil",
         "hydrochlorothiazide"
       ],
       "sifraProizvoda": "494073",
@@ -51444,8 +51420,8 @@
       "atc": "R03AL06",
       "inn": "olodaterol, tiotropijum-bromid",
       "inn_eng": [
-        "tiotropium bromide",
-        "olodaterol"
+        "olodaterol",
+        "tiotropium bromide"
       ],
       "sifraProizvoda": "446802",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=446802",
@@ -52503,9 +52479,9 @@
       "atc": "A09AA02",
       "inn": "pankreatin",
       "inn_eng": [
-        "multienzymes (lipase",
         "comb drug",
-        "protease etc.)"
+        "protease etc.)",
+        "multienzymes (lipase"
       ],
       "sifraProizvoda": "444227",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=444227",
@@ -52519,9 +52495,9 @@
       "atc": "A09AA02",
       "inn": "pankreatin",
       "inn_eng": [
-        "multienzymes (lipase",
         "comb drug",
-        "protease etc.)"
+        "protease etc.)",
+        "multienzymes (lipase"
       ],
       "sifraProizvoda": "444220",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=444220",
@@ -52535,9 +52511,9 @@
       "atc": "A09AA02",
       "inn": "pankreatin",
       "inn_eng": [
-        "multienzymes (lipase",
         "comb drug",
-        "protease etc.)"
+        "protease etc.)",
+        "multienzymes (lipase"
       ],
       "sifraProizvoda": "444420",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=444420",
@@ -52551,9 +52527,9 @@
       "atc": "A09AA02",
       "inn": "pankreatin",
       "inn_eng": [
-        "multienzymes (lipase",
         "comb drug",
-        "protease etc.)"
+        "protease etc.)",
+        "multienzymes (lipase"
       ],
       "sifraProizvoda": "449675",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=449675",
@@ -52567,9 +52543,9 @@
       "atc": "A09AA02",
       "inn": "pankreatin",
       "inn_eng": [
-        "multienzymes (lipase",
         "comb drug",
-        "protease etc.)"
+        "protease etc.)",
+        "multienzymes (lipase"
       ],
       "sifraProizvoda": "444223",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=444223",
@@ -52583,9 +52559,9 @@
       "atc": "A09AA02",
       "inn": "pankreatin",
       "inn_eng": [
-        "multienzymes (lipase",
         "comb drug",
-        "protease etc.)"
+        "protease etc.)",
+        "multienzymes (lipase"
       ],
       "sifraProizvoda": "444225",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=444225",
@@ -52599,9 +52575,9 @@
       "atc": "A09AA02",
       "inn": "pankreatin",
       "inn_eng": [
-        "multienzymes (lipase",
         "comb drug",
-        "protease etc.)"
+        "protease etc.)",
+        "multienzymes (lipase"
       ],
       "sifraProizvoda": "444224",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=444224",
@@ -52617,9 +52593,9 @@
       "atc": "A09AA02",
       "inn": "pankreatin",
       "inn_eng": [
-        "multienzymes (lipase",
         "comb drug",
-        "protease etc.)"
+        "protease etc.)",
+        "multienzymes (lipase"
       ],
       "sifraProizvoda": "476396",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=476396",
@@ -53841,6 +53817,23 @@
       "ean": "8608808010652",
       "oblik": "prašak za oralni rastvor u kesici",
       "jacina": "500mg+25mg+200mg",
+      "rezim": "BR"
+    }
+  ],
+  "lupocettrio": [
+    {
+      "puno_ime": "LUPOCET®TRIO",
+      "atc": "N02BE51",
+      "inn": "paracetamol, gvaifenezin, fenilefrin",
+      "inn_eng": [
+        "combinations excl. psycholeptics",
+        "acetaminophen"
+      ],
+      "sifraProizvoda": "497458",
+      "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=497458",
+      "ean": "3850343045254",
+      "oblik": "prašak za oralni rastvor",
+      "jacina": "1000mg+200mg+12.2mg",
       "rezim": "BR"
     }
   ],
@@ -55607,9 +55600,9 @@
       "atc": "C09BX01",
       "inn": "perindopril, amlodipin, indapamid",
       "inn_eng": [
-        "indapamide",
         "amlodipine",
-        "perindopril"
+        "perindopril",
+        "indapamide"
       ],
       "sifraProizvoda": "414591",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=414591",
@@ -55623,9 +55616,9 @@
       "atc": "C09BX01",
       "inn": "perindopril, amlodipin, indapamid",
       "inn_eng": [
-        "indapamide",
         "amlodipine",
-        "perindopril"
+        "perindopril",
+        "indapamide"
       ],
       "sifraProizvoda": "414601",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=414601",
@@ -55639,9 +55632,9 @@
       "atc": "C09BX01",
       "inn": "perindopril, amlodipin, indapamid",
       "inn_eng": [
-        "indapamide",
         "amlodipine",
-        "perindopril"
+        "perindopril",
+        "indapamide"
       ],
       "sifraProizvoda": "414594",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=414594",
@@ -55655,9 +55648,9 @@
       "atc": "C09BX01",
       "inn": "perindopril, amlodipin, indapamid",
       "inn_eng": [
-        "indapamide",
         "amlodipine",
-        "perindopril"
+        "perindopril",
+        "indapamide"
       ],
       "sifraProizvoda": "414597",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=414597",
@@ -55671,9 +55664,9 @@
       "atc": "C09BX01",
       "inn": "perindopril, amlodipin, indapamid",
       "inn_eng": [
-        "indapamide",
         "amlodipine",
-        "perindopril"
+        "perindopril",
+        "indapamide"
       ],
       "sifraProizvoda": "414610",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=414610",
@@ -55687,9 +55680,9 @@
       "atc": "C09BX01",
       "inn": "perindopril, amlodipin, indapamid",
       "inn_eng": [
-        "indapamide",
         "amlodipine",
-        "perindopril"
+        "perindopril",
+        "indapamide"
       ],
       "sifraProizvoda": "414613",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=414613",
@@ -55703,9 +55696,9 @@
       "atc": "C09BX01",
       "inn": "perindopril, amlodipin, indapamid",
       "inn_eng": [
-        "indapamide",
         "amlodipine",
-        "perindopril"
+        "perindopril",
+        "indapamide"
       ],
       "sifraProizvoda": "414604",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=414604",
@@ -55719,9 +55712,9 @@
       "atc": "C09BX01",
       "inn": "perindopril, amlodipin, indapamid",
       "inn_eng": [
-        "indapamide",
         "amlodipine",
-        "perindopril"
+        "perindopril",
+        "indapamide"
       ],
       "sifraProizvoda": "414607",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=414607",
@@ -55737,9 +55730,9 @@
       "atc": "C09BX01",
       "inn": "perindopril, amlodipin, indapamid",
       "inn_eng": [
-        "indapamide",
         "amlodipine",
-        "perindopril"
+        "perindopril",
+        "indapamide"
       ],
       "sifraProizvoda": "472989",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=472989",
@@ -55753,9 +55746,9 @@
       "atc": "C09BX01",
       "inn": "perindopril, amlodipin, indapamid",
       "inn_eng": [
-        "indapamide",
         "amlodipine",
-        "perindopril"
+        "perindopril",
+        "indapamide"
       ],
       "sifraProizvoda": "472978",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=472978",
@@ -55769,9 +55762,9 @@
       "atc": "C09BX01",
       "inn": "perindopril, amlodipin, indapamid",
       "inn_eng": [
-        "indapamide",
         "amlodipine",
-        "perindopril"
+        "perindopril",
+        "indapamide"
       ],
       "sifraProizvoda": "473001",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=473001",
@@ -55785,9 +55778,9 @@
       "atc": "C09BX01",
       "inn": "perindopril, amlodipin, indapamid",
       "inn_eng": [
-        "indapamide",
         "amlodipine",
-        "perindopril"
+        "perindopril",
+        "indapamide"
       ],
       "sifraProizvoda": "472998",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=472998",
@@ -55959,9 +55952,9 @@
       "atc": "C09BX01",
       "inn": "perindopril, indapamid, amlodipin",
       "inn_eng": [
-        "indapamide",
         "amlodipine",
-        "perindopril"
+        "perindopril",
+        "indapamide"
       ],
       "sifraProizvoda": "495120",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=495120",
@@ -55975,9 +55968,9 @@
       "atc": "C09BX01",
       "inn": "perindopril, indapamid, amlodipin",
       "inn_eng": [
-        "indapamide",
         "amlodipine",
-        "perindopril"
+        "perindopril",
+        "indapamide"
       ],
       "sifraProizvoda": "495122",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=495122",
@@ -55991,9 +55984,9 @@
       "atc": "C09BX01",
       "inn": "perindopril, indapamid, amlodipin",
       "inn_eng": [
-        "indapamide",
         "amlodipine",
-        "perindopril"
+        "perindopril",
+        "indapamide"
       ],
       "sifraProizvoda": "495124",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=495124",
@@ -56007,9 +56000,9 @@
       "atc": "C09BX01",
       "inn": "perindopril, indapamid, amlodipin",
       "inn_eng": [
-        "indapamide",
         "amlodipine",
-        "perindopril"
+        "perindopril",
+        "indapamide"
       ],
       "sifraProizvoda": "495126",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=495126",
@@ -56025,9 +56018,9 @@
       "atc": "C09BX01",
       "inn": "perindopril, indapamid, amlodipin",
       "inn_eng": [
-        "indapamide",
         "amlodipine",
-        "perindopril"
+        "perindopril",
+        "indapamide"
       ],
       "sifraProizvoda": "490123",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=490123",
@@ -56041,9 +56034,9 @@
       "atc": "C09BX01",
       "inn": "perindopril, indapamid, amlodipin",
       "inn_eng": [
-        "indapamide",
         "amlodipine",
-        "perindopril"
+        "perindopril",
+        "indapamide"
       ],
       "sifraProizvoda": "490121",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=490121",
@@ -56057,9 +56050,9 @@
       "atc": "C09BX01",
       "inn": "perindopril, indapamid, amlodipin",
       "inn_eng": [
-        "indapamide",
         "amlodipine",
-        "perindopril"
+        "perindopril",
+        "indapamide"
       ],
       "sifraProizvoda": "490115",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=490115",
@@ -56075,9 +56068,9 @@
       "atc": "C09BX01",
       "inn": "perindopril, indapamid, amlodipin",
       "inn_eng": [
-        "indapamide",
         "amlodipine",
-        "perindopril"
+        "perindopril",
+        "indapamide"
       ],
       "sifraProizvoda": "495369",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=495369",
@@ -56091,9 +56084,9 @@
       "atc": "C09BX01",
       "inn": "perindopril, indapamid, amlodipin",
       "inn_eng": [
-        "indapamide",
         "amlodipine",
-        "perindopril"
+        "perindopril",
+        "indapamide"
       ],
       "sifraProizvoda": "495366",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=495366",
@@ -56107,9 +56100,9 @@
       "atc": "C09BX01",
       "inn": "perindopril, indapamid, amlodipin",
       "inn_eng": [
-        "indapamide",
         "amlodipine",
-        "perindopril"
+        "perindopril",
+        "indapamide"
       ],
       "sifraProizvoda": "495363",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=495363",
@@ -56123,9 +56116,9 @@
       "atc": "C09BX01",
       "inn": "perindopril, indapamid, amlodipin",
       "inn_eng": [
-        "indapamide",
         "amlodipine",
-        "perindopril"
+        "perindopril",
+        "indapamide"
       ],
       "sifraProizvoda": "495360",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=495360",
@@ -56141,9 +56134,9 @@
       "atc": "C09BX01",
       "inn": "perindopril, indapamid, amlodipin",
       "inn_eng": [
-        "indapamide",
         "amlodipine",
-        "perindopril"
+        "perindopril",
+        "indapamide"
       ],
       "sifraProizvoda": "491401",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=491401",
@@ -56157,9 +56150,9 @@
       "atc": "C09BX01",
       "inn": "perindopril, indapamid, amlodipin",
       "inn_eng": [
-        "indapamide",
         "amlodipine",
-        "perindopril"
+        "perindopril",
+        "indapamide"
       ],
       "sifraProizvoda": "491402",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=491402",
@@ -56173,9 +56166,9 @@
       "atc": "C09BX01",
       "inn": "perindopril, indapamid, amlodipin",
       "inn_eng": [
-        "indapamide",
         "amlodipine",
-        "perindopril"
+        "perindopril",
+        "indapamide"
       ],
       "sifraProizvoda": "491400",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=491400",
@@ -56189,9 +56182,9 @@
       "atc": "C09BX01",
       "inn": "perindopril, indapamid, amlodipin",
       "inn_eng": [
-        "indapamide",
         "amlodipine",
-        "perindopril"
+        "perindopril",
+        "indapamide"
       ],
       "sifraProizvoda": "491399",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=491399",
@@ -56205,9 +56198,9 @@
       "atc": "C09BX01",
       "inn": "perindopril, indapamid, amlodipin",
       "inn_eng": [
-        "indapamide",
         "amlodipine",
-        "perindopril"
+        "perindopril",
+        "indapamide"
       ],
       "sifraProizvoda": "491396",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=491396",
@@ -56221,9 +56214,9 @@
       "atc": "C09BX01",
       "inn": "perindopril, indapamid, amlodipin",
       "inn_eng": [
-        "indapamide",
         "amlodipine",
-        "perindopril"
+        "perindopril",
+        "indapamide"
       ],
       "sifraProizvoda": "491397",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=491397",
@@ -56237,9 +56230,9 @@
       "atc": "C09BX01",
       "inn": "perindopril, indapamid, amlodipin",
       "inn_eng": [
-        "indapamide",
         "amlodipine",
-        "perindopril"
+        "perindopril",
+        "indapamide"
       ],
       "sifraProizvoda": "491395",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=491395",
@@ -56253,9 +56246,9 @@
       "atc": "C09BX01",
       "inn": "perindopril, indapamid, amlodipin",
       "inn_eng": [
-        "indapamide",
         "amlodipine",
-        "perindopril"
+        "perindopril",
+        "indapamide"
       ],
       "sifraProizvoda": "491394",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=491394",
@@ -56269,9 +56262,9 @@
       "atc": "C09BX01",
       "inn": "perindopril, indapamid, amlodipin",
       "inn_eng": [
-        "indapamide",
         "amlodipine",
-        "perindopril"
+        "perindopril",
+        "indapamide"
       ],
       "sifraProizvoda": "491391",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=491391",
@@ -56285,9 +56278,9 @@
       "atc": "C09BX01",
       "inn": "perindopril, indapamid, amlodipin",
       "inn_eng": [
-        "indapamide",
         "amlodipine",
-        "perindopril"
+        "perindopril",
+        "indapamide"
       ],
       "sifraProizvoda": "491392",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=491392",
@@ -56301,9 +56294,9 @@
       "atc": "C09BX01",
       "inn": "perindopril, indapamid, amlodipin",
       "inn_eng": [
-        "indapamide",
         "amlodipine",
-        "perindopril"
+        "perindopril",
+        "indapamide"
       ],
       "sifraProizvoda": "491390",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=491390",
@@ -56317,9 +56310,9 @@
       "atc": "C09BX01",
       "inn": "perindopril, indapamid, amlodipin",
       "inn_eng": [
-        "indapamide",
         "amlodipine",
-        "perindopril"
+        "perindopril",
+        "indapamide"
       ],
       "sifraProizvoda": "491389",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=491389",
@@ -56333,9 +56326,9 @@
       "atc": "C09BX01",
       "inn": "perindopril, indapamid, amlodipin",
       "inn_eng": [
-        "indapamide",
         "amlodipine",
-        "perindopril"
+        "perindopril",
+        "indapamide"
       ],
       "sifraProizvoda": "491385",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=491385",
@@ -56349,9 +56342,9 @@
       "atc": "C09BX01",
       "inn": "perindopril, indapamid, amlodipin",
       "inn_eng": [
-        "indapamide",
         "amlodipine",
-        "perindopril"
+        "perindopril",
+        "indapamide"
       ],
       "sifraProizvoda": "491386",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=491386",
@@ -56365,9 +56358,9 @@
       "atc": "C09BX01",
       "inn": "perindopril, indapamid, amlodipin",
       "inn_eng": [
-        "indapamide",
         "amlodipine",
-        "perindopril"
+        "perindopril",
+        "indapamide"
       ],
       "sifraProizvoda": "491384",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=491384",
@@ -56381,9 +56374,9 @@
       "atc": "C09BX01",
       "inn": "perindopril, indapamid, amlodipin",
       "inn_eng": [
-        "indapamide",
         "amlodipine",
-        "perindopril"
+        "perindopril",
+        "indapamide"
       ],
       "sifraProizvoda": "491383",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=491383",
@@ -56431,8 +56424,8 @@
       "atc": "L01FY01",
       "inn": "pertuzumab, trastuzumab",
       "inn_eng": [
-        "pertuzumab",
-        "trastuzumab"
+        "trastuzumab",
+        "pertuzumab"
       ],
       "sifraProizvoda": "441967",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=441967",
@@ -56446,8 +56439,8 @@
       "atc": "L01FY01",
       "inn": "pertuzumab, trastuzumab",
       "inn_eng": [
-        "pertuzumab",
-        "trastuzumab"
+        "trastuzumab",
+        "pertuzumab"
       ],
       "sifraProizvoda": "441963",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=441963",
@@ -57031,8 +57024,8 @@
       "atc": "J07AL52",
       "inn": "pneumokokna polisaharidna konjugovana vakcina, adsorbovana",
       "inn_eng": [
-        "haemophilus influenzae",
         "conjugated",
+        "haemophilus influenzae",
         "pneumococcus purified polysaccharides antigen"
       ],
       "sifraProizvoda": "431764",
@@ -58223,50 +58216,6 @@
       "rezim": "R"
     }
   ],
-  "pregalix": [
-    {
-      "puno_ime": "Pregalix®",
-      "atc": "N03AX16",
-      "inn": "pregabalin",
-      "inn_eng": [
-        "pregabalin"
-      ],
-      "sifraProizvoda": "435726",
-      "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=435726",
-      "ean": "8606107770659",
-      "oblik": "kapsula, tvrda",
-      "jacina": "150mg",
-      "rezim": "R"
-    },
-    {
-      "puno_ime": "Pregalix®",
-      "atc": "N03AX16",
-      "inn": "pregabalin",
-      "inn_eng": [
-        "pregabalin"
-      ],
-      "sifraProizvoda": "435718",
-      "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=435718",
-      "ean": "8606107770635",
-      "oblik": "kapsula, tvrda",
-      "jacina": "50mg",
-      "rezim": "R"
-    },
-    {
-      "puno_ime": "Pregalix®",
-      "atc": "N03AX16",
-      "inn": "pregabalin",
-      "inn_eng": [
-        "pregabalin"
-      ],
-      "sifraProizvoda": "435722",
-      "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=435722",
-      "ean": "8606107770642",
-      "oblik": "kapsula, tvrda",
-      "jacina": "75mg",
-      "rezim": "R"
-    }
-  ],
   "ppd-t": [
     {
       "puno_ime": "PPD-T® tuberkulin",
@@ -58698,8 +58647,8 @@
       "inn": "protrombinski kompleks, humani",
       "inn_eng": [
         "x in combination",
-        "coagulation factor ix",
-        "vii"
+        "vii",
+        "coagulation factor ix"
       ],
       "sifraProizvoda": "485575",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=485575",
@@ -58714,8 +58663,8 @@
       "inn": "protrombinski kompleks, humani",
       "inn_eng": [
         "x in combination",
-        "coagulation factor ix",
-        "vii"
+        "vii",
+        "coagulation factor ix"
       ],
       "sifraProizvoda": "485580",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=485580",
@@ -58732,8 +58681,8 @@
       "inn": "protrombinski kompleks, humani",
       "inn_eng": [
         "x in combination",
-        "coagulation factor ix",
-        "vii"
+        "vii",
+        "coagulation factor ix"
       ],
       "sifraProizvoda": "432325",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=432325",
@@ -61500,12 +61449,40 @@
       "inn_eng": [
         "rivaroxaban"
       ],
-      "sifraProizvoda": "440377",
-      "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=440377",
+      "sifraProizvoda": "497089",
+      "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=497089",
       "ean": "8608808104344",
       "oblik": "film tableta",
       "jacina": "10mg",
-      "rezim": "R"
+      "rezim": "VR"
+    },
+    {
+      "puno_ime": "RIVAROX®",
+      "atc": "B01AF01",
+      "inn": "rivaroksaban",
+      "inn_eng": [
+        "rivaroxaban"
+      ],
+      "sifraProizvoda": "497091",
+      "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=497091",
+      "ean": "8608808104368",
+      "oblik": "film tableta",
+      "jacina": "15mg",
+      "rezim": "VR"
+    },
+    {
+      "puno_ime": "RIVAROX®",
+      "atc": "B01AF01",
+      "inn": "rivaroksaban",
+      "inn_eng": [
+        "rivaroxaban"
+      ],
+      "sifraProizvoda": "497093",
+      "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=497093",
+      "ean": "8608808104382",
+      "oblik": "film tableta",
+      "jacina": "20mg",
+      "rezim": "VR"
     },
     {
       "puno_ime": "RIVAROX®",
@@ -61519,34 +61496,6 @@
       "ean": "8608808104092",
       "oblik": "film tableta",
       "jacina": "10mg",
-      "rezim": "R"
-    },
-    {
-      "puno_ime": "RIVAROX®",
-      "atc": "B01AF01",
-      "inn": "rivaroksaban",
-      "inn_eng": [
-        "rivaroxaban"
-      ],
-      "sifraProizvoda": "440386",
-      "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=440386",
-      "ean": "8608808104368",
-      "oblik": "film tableta",
-      "jacina": "15mg",
-      "rezim": "R"
-    },
-    {
-      "puno_ime": "RIVAROX®",
-      "atc": "B01AF01",
-      "inn": "rivaroksaban",
-      "inn_eng": [
-        "rivaroxaban"
-      ],
-      "sifraProizvoda": "440390",
-      "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=440390",
-      "ean": "8608808104382",
-      "oblik": "film tableta",
-      "jacina": "20mg",
       "rezim": "R"
     }
   ],
@@ -61912,6 +61861,50 @@
       "oblik": "film tableta",
       "jacina": "20mg",
       "rezim": "R"
+    }
+  ],
+  "runaplax": [
+    {
+      "puno_ime": "Runaplax",
+      "atc": "B01AF01",
+      "inn": "rivaroksaban",
+      "inn_eng": [
+        "rivaroxaban"
+      ],
+      "sifraProizvoda": "496929",
+      "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=496929",
+      "ean": "8606010895326",
+      "oblik": "film tableta",
+      "jacina": "10mg",
+      "rezim": "VR"
+    },
+    {
+      "puno_ime": "Runaplax",
+      "atc": "B01AF01",
+      "inn": "rivaroksaban",
+      "inn_eng": [
+        "rivaroxaban"
+      ],
+      "sifraProizvoda": "496931",
+      "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=496931",
+      "ean": "8606010895333",
+      "oblik": "film tableta",
+      "jacina": "15mg",
+      "rezim": "VR"
+    },
+    {
+      "puno_ime": "Runaplax",
+      "atc": "B01AF01",
+      "inn": "rivaroksaban",
+      "inn_eng": [
+        "rivaroxaban"
+      ],
+      "sifraProizvoda": "496933",
+      "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=496933",
+      "ean": "8606010895340",
+      "oblik": "film tableta",
+      "jacina": "20mg",
+      "rezim": "VR"
     }
   ],
   "trombocen": [
@@ -63471,8 +63464,8 @@
       "atc": "C10BX05",
       "inn": "rosuvastatin, acetilsalicilna kiselina",
       "inn_eng": [
-        "rosuvastatin",
-        "acetylsalicylic acid"
+        "acetylsalicylic acid",
+        "rosuvastatin"
       ],
       "sifraProizvoda": "477741",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=477741",
@@ -63486,8 +63479,8 @@
       "atc": "C10BX05",
       "inn": "rosuvastatin, acetilsalicilna kiselina",
       "inn_eng": [
-        "rosuvastatin",
-        "acetylsalicylic acid"
+        "acetylsalicylic acid",
+        "rosuvastatin"
       ],
       "sifraProizvoda": "477739",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=477739",
@@ -63503,8 +63496,8 @@
       "atc": "C10BX05",
       "inn": "rosuvastatin, acetilsalicilna kiselina",
       "inn_eng": [
-        "rosuvastatin",
-        "acetylsalicylic acid"
+        "acetylsalicylic acid",
+        "rosuvastatin"
       ],
       "sifraProizvoda": "459170",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=459170",
@@ -63518,8 +63511,8 @@
       "atc": "C10BX05",
       "inn": "rosuvastatin, acetilsalicilna kiselina",
       "inn_eng": [
-        "rosuvastatin",
-        "acetylsalicylic acid"
+        "acetylsalicylic acid",
+        "rosuvastatin"
       ],
       "sifraProizvoda": "459177",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=459177",
@@ -63533,8 +63526,8 @@
       "atc": "C10BX05",
       "inn": "rosuvastatin, acetilsalicilna kiselina",
       "inn_eng": [
-        "rosuvastatin",
-        "acetylsalicylic acid"
+        "acetylsalicylic acid",
+        "rosuvastatin"
       ],
       "sifraProizvoda": "459166",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=459166",
@@ -63550,9 +63543,9 @@
       "atc": "C10BX14",
       "inn": "rosuvastatin, amlodipin, perindopril",
       "inn_eng": [
-        "rosuvastatin",
         "amlodipine",
-        "perindopril"
+        "perindopril",
+        "rosuvastatin"
       ],
       "sifraProizvoda": "447846",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=447846",
@@ -63566,9 +63559,9 @@
       "atc": "C10BX14",
       "inn": "rosuvastatin, amlodipin, perindopril",
       "inn_eng": [
-        "rosuvastatin",
         "amlodipine",
-        "perindopril"
+        "perindopril",
+        "rosuvastatin"
       ],
       "sifraProizvoda": "447854",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=447854",
@@ -63582,9 +63575,9 @@
       "atc": "C10BX14",
       "inn": "rosuvastatin, amlodipin, perindopril",
       "inn_eng": [
-        "rosuvastatin",
         "amlodipine",
-        "perindopril"
+        "perindopril",
+        "rosuvastatin"
       ],
       "sifraProizvoda": "447871",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=447871",
@@ -63598,9 +63591,9 @@
       "atc": "C10BX14",
       "inn": "rosuvastatin, amlodipin, perindopril",
       "inn_eng": [
-        "rosuvastatin",
         "amlodipine",
-        "perindopril"
+        "perindopril",
+        "rosuvastatin"
       ],
       "sifraProizvoda": "447866",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=447866",
@@ -63712,9 +63705,9 @@
       "atc": "C10BX13",
       "inn": "rosuvastatin, perindopril, indapamid",
       "inn_eng": [
+        "perindopril",
         "indapamide",
-        "rosuvastatin",
-        "perindopril"
+        "rosuvastatin"
       ],
       "sifraProizvoda": "489873",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=489873",
@@ -63728,9 +63721,9 @@
       "atc": "C10BX13",
       "inn": "rosuvastatin, perindopril, indapamid",
       "inn_eng": [
+        "perindopril",
         "indapamide",
-        "rosuvastatin",
-        "perindopril"
+        "rosuvastatin"
       ],
       "sifraProizvoda": "489871",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=489871",
@@ -63744,9 +63737,9 @@
       "atc": "C10BX13",
       "inn": "rosuvastatin, perindopril, indapamid",
       "inn_eng": [
+        "perindopril",
         "indapamide",
-        "rosuvastatin",
-        "perindopril"
+        "rosuvastatin"
       ],
       "sifraProizvoda": "489875",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=489875",
@@ -63760,9 +63753,9 @@
       "atc": "C10BX13",
       "inn": "rosuvastatin, perindopril, indapamid",
       "inn_eng": [
+        "perindopril",
         "indapamide",
-        "rosuvastatin",
-        "perindopril"
+        "rosuvastatin"
       ],
       "sifraProizvoda": "489877",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=489877",
@@ -66059,8 +66052,8 @@
       "atc": "G04CA53",
       "inn": "solifenacin, tamsulosin",
       "inn_eng": [
-        "solifenacin",
-        "tamsulosin"
+        "tamsulosin",
+        "solifenacin"
       ],
       "sifraProizvoda": "492361",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=492361",
@@ -66196,8 +66189,8 @@
       "atc": "G04CA53",
       "inn": "solifenacin, tamsulosin",
       "inn_eng": [
-        "solifenacin",
-        "tamsulosin"
+        "tamsulosin",
+        "solifenacin"
       ],
       "sifraProizvoda": "490429",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=490429",
@@ -66213,8 +66206,8 @@
       "atc": "G04CA53",
       "inn": "solifenacin, tamsulosin",
       "inn_eng": [
-        "solifenacin",
-        "tamsulosin"
+        "tamsulosin",
+        "solifenacin"
       ],
       "sifraProizvoda": "491940",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=491940",
@@ -66706,8 +66699,8 @@
       "atc": "V01AA05",
       "inn": "standardizovani ekstrakt alergena iz polena bele breze (Betula verrucosa)",
       "inn_eng": [
-        "tree pollen",
-        "allergen extracts: grass pollen"
+        "allergen extracts: grass pollen",
+        "tree pollen"
       ],
       "sifraProizvoda": "496455",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=496455",
@@ -66721,8 +66714,8 @@
       "atc": "V01AA05",
       "inn": "standardizovani ekstrakt alergena iz polena bele breze (Betula verrucosa)",
       "inn_eng": [
-        "tree pollen",
-        "allergen extracts: grass pollen"
+        "allergen extracts: grass pollen",
+        "tree pollen"
       ],
       "sifraProizvoda": "496454",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=496454",
@@ -68710,31 +68703,14 @@
       "rezim": "R"
     }
   ],
-  "twinpros": [
-    {
-      "puno_ime": "Twinpros®",
-      "atc": "G04CA52",
-      "inn": "tamsulosin, dutasterid",
-      "inn_eng": [
-        "dutasteride",
-        "tamsulosin"
-      ],
-      "sifraProizvoda": "434794",
-      "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=434794",
-      "ean": "3838989707156",
-      "oblik": "kapsula, tvrda",
-      "jacina": "0.4mg+0.5mg",
-      "rezim": "R"
-    }
-  ],
   "tamsunorm": [
     {
       "puno_ime": "Tamsunorm Combi®",
       "atc": "G04CA53",
       "inn": "tamsulosin, solifenacin",
       "inn_eng": [
-        "solifenacin",
-        "tamsulosin"
+        "tamsulosin",
+        "solifenacin"
       ],
       "sifraProizvoda": "478651",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=478651",
@@ -68750,8 +68726,8 @@
       "atc": "G04CA53",
       "inn": "tamsulosin, solifenacin",
       "inn_eng": [
-        "solifenacin",
-        "tamsulosin"
+        "tamsulosin",
+        "solifenacin"
       ],
       "sifraProizvoda": "476548",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=476548",
@@ -69627,8 +69603,8 @@
       "atc": "J05AR03",
       "inn": "tenofovir, emtricitabin",
       "inn_eng": [
-        "emtricitabine",
-        "tenofovir disoproxil"
+        "tenofovir disoproxil",
+        "emtricitabine"
       ],
       "sifraProizvoda": "450686",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=450686",
@@ -69642,8 +69618,8 @@
       "atc": "J05AR03",
       "inn": "tenofovir, emtricitabin",
       "inn_eng": [
-        "emtricitabine",
-        "tenofovir disoproxil"
+        "tenofovir disoproxil",
+        "emtricitabine"
       ],
       "sifraProizvoda": "476279",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=476279",
@@ -69701,8 +69677,8 @@
       "atc": "J05AR03",
       "inn": "tenofovir, emtricitabin",
       "inn_eng": [
-        "emtricitabine",
-        "tenofovir disoproxil"
+        "tenofovir disoproxil",
+        "emtricitabine"
       ],
       "sifraProizvoda": "482385",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=482385",
@@ -69734,8 +69710,8 @@
       "atc": "J05AR03",
       "inn": "tenofovir, emtricitabin",
       "inn_eng": [
-        "emtricitabine",
-        "tenofovir disoproxil"
+        "tenofovir disoproxil",
+        "emtricitabine"
       ],
       "sifraProizvoda": "468564",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=468564",
@@ -69751,8 +69727,8 @@
       "atc": "J05AR03",
       "inn": "tenofovir, emtricitabin",
       "inn_eng": [
-        "emtricitabine",
-        "tenofovir disoproxil"
+        "tenofovir disoproxil",
+        "emtricitabine"
       ],
       "sifraProizvoda": "432073",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=432073",
@@ -72731,8 +72707,8 @@
       "atc": "L01BC59",
       "inn": "trifluridin, tipiracil",
       "inn_eng": [
-        "combinations",
-        "trifluridine"
+        "trifluridine",
+        "combinations"
       ],
       "sifraProizvoda": "468082",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=468082",
@@ -72746,8 +72722,8 @@
       "atc": "L01BC59",
       "inn": "trifluridin, tipiracil",
       "inn_eng": [
-        "combinations",
-        "trifluridine"
+        "trifluridine",
+        "combinations"
       ],
       "sifraProizvoda": "468084",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=468084",
@@ -72761,8 +72737,8 @@
       "atc": "L01BC59",
       "inn": "trifluridin, tipiracil",
       "inn_eng": [
-        "combinations",
-        "trifluridine"
+        "trifluridine",
+        "combinations"
       ],
       "sifraProizvoda": "468090",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=468090",
@@ -72776,8 +72752,8 @@
       "atc": "L01BC59",
       "inn": "trifluridin, tipiracil",
       "inn_eng": [
-        "combinations",
-        "trifluridine"
+        "trifluridine",
+        "combinations"
       ],
       "sifraProizvoda": "468091",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=468091",
@@ -72791,8 +72767,8 @@
       "atc": "L01BC59",
       "inn": "trifluridin, tipiracil",
       "inn_eng": [
-        "combinations",
-        "trifluridine"
+        "trifluridine",
+        "combinations"
       ],
       "sifraProizvoda": "472687",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=472687",
@@ -72806,8 +72782,8 @@
       "atc": "L01BC59",
       "inn": "trifluridin, tipiracil",
       "inn_eng": [
-        "combinations",
-        "trifluridine"
+        "trifluridine",
+        "combinations"
       ],
       "sifraProizvoda": "472686",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=472686",
@@ -72821,8 +72797,8 @@
       "atc": "L01BC59",
       "inn": "trifluridin, tipiracil",
       "inn_eng": [
-        "combinations",
-        "trifluridine"
+        "trifluridine",
+        "combinations"
       ],
       "sifraProizvoda": "472685",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=472685",
@@ -72836,8 +72812,8 @@
       "atc": "L01BC59",
       "inn": "trifluridin, tipiracil",
       "inn_eng": [
-        "combinations",
-        "trifluridine"
+        "trifluridine",
+        "combinations"
       ],
       "sifraProizvoda": "472684",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=472684",
@@ -73493,6 +73469,18 @@
       "oblik": "rastvor za injekciju u napunjenom injekcionom špricu",
       "jacina": "90mg",
       "rezim": "SZR"
+    },
+    {
+      "puno_ime": "Uzpruvo®",
+      "atc": "L04AC05",
+      "inn": "ustekinumab",
+      "inn_eng": [],
+      "sifraProizvoda": "497544",
+      "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=497544",
+      "ean": "8600097014625",
+      "oblik": "rastvor za injekciju u napunjenom injekcionom špricu",
+      "jacina": "90mg",
+      "rezim": "SZR"
     }
   ],
   "pentaxim": [
@@ -73563,9 +73551,9 @@
       "atc": "J07AJ52",
       "inn": "vakcina protiv difterije, tetanusa i pertusisa (acelularna, komponentna), adsorbovana, smanjenog(ih) sadržaja antigena",
       "inn_eng": [
-        "combinations with toxoids",
         "pertussis",
-        "purified antigen"
+        "purified antigen",
+        "combinations with toxoids"
       ],
       "sifraProizvoda": "488807",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=488807",
@@ -73581,9 +73569,9 @@
       "atc": "J07AJ52",
       "inn": "vakcina protiv difterije, tetanusa i pertusisa (acelularna, komponentna), sa smanjenim sadržajem antigena, adsorbovana",
       "inn_eng": [
-        "combinations with toxoids",
         "pertussis",
-        "purified antigen"
+        "purified antigen",
+        "combinations with toxoids"
       ],
       "sifraProizvoda": "489353",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=489353",
@@ -73630,8 +73618,8 @@
       "inn": "vakcina protiv gripa (fragmentisani virus, inaktivisana)",
       "inn_eng": [
         "influenza",
-        "inactivated",
-        "split virus or surface antigen"
+        "split virus or surface antigen",
+        "inactivated"
       ],
       "sifraProizvoda": "494308",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=494308",
@@ -73648,8 +73636,8 @@
       "inn": "vakcina protiv gripa (površinski antigen, inaktivisani)",
       "inn_eng": [
         "influenza",
-        "inactivated",
-        "split virus or surface antigen"
+        "split virus or surface antigen",
+        "inactivated"
       ],
       "sifraProizvoda": "497368",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=497368",
@@ -73664,8 +73652,8 @@
       "inn": "vakcina protiv gripa (površinski antigen, inaktivisani)",
       "inn_eng": [
         "influenza",
-        "inactivated",
-        "split virus or surface antigen"
+        "split virus or surface antigen",
+        "inactivated"
       ],
       "sifraProizvoda": "497369",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=497369",
@@ -73680,8 +73668,8 @@
       "inn": "vakcina protiv gripa (površinski antigen, inaktivisani)",
       "inn_eng": [
         "influenza",
-        "inactivated",
-        "split virus or surface antigen"
+        "split virus or surface antigen",
+        "inactivated"
       ],
       "sifraProizvoda": "497371",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=497371",
@@ -73696,8 +73684,8 @@
       "inn": "vakcina protiv gripa (površinski antigen, inaktivisani)",
       "inn_eng": [
         "influenza",
-        "inactivated",
-        "split virus or surface antigen"
+        "split virus or surface antigen",
+        "inactivated"
       ],
       "sifraProizvoda": "497372",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=497372",
@@ -73713,8 +73701,8 @@
       "atc": "J07BC20",
       "inn": "vakcina protiv hepatitisa A (inaktivisana) i hepatitisa B (rekombinantna, adsorbovana)",
       "inn_eng": [
-        "combinations",
-        "hepatitis vaccines"
+        "hepatitis vaccines",
+        "combinations"
       ],
       "sifraProizvoda": "488942",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=488942",
@@ -73731,8 +73719,8 @@
       "inn": "vakcina protiv hepatitisa A (inaktivisana, adsorbovana)",
       "inn_eng": [
         "hepatitis a",
-        "whole virus",
-        "inactivated"
+        "inactivated",
+        "whole virus"
       ],
       "sifraProizvoda": "421961",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=421961",
@@ -73812,10 +73800,10 @@
       "atc": "J07BD52",
       "inn": "vakcina protiv malih boginja, zauški i crvenke  (živi atenuisani virusi morbila, parotitisa i rubele)",
       "inn_eng": [
-        "live attenuated",
-        "combinations with mumps",
         "measles",
-        "rubella"
+        "live attenuated",
+        "rubella",
+        "combinations with mumps"
       ],
       "sifraProizvoda": "467184",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=467184",
@@ -73831,10 +73819,10 @@
       "atc": "J07BD52",
       "inn": "vakcina protiv malih boginja, zauški i crvenke (živi atenuisani virusi morbila, parotitisa i rubele)",
       "inn_eng": [
-        "live attenuated",
-        "combinations with mumps",
         "measles",
-        "rubella"
+        "live attenuated",
+        "rubella",
+        "combinations with mumps"
       ],
       "sifraProizvoda": "490220",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=490220",
@@ -73848,10 +73836,10 @@
       "atc": "J07BD52",
       "inn": "vakcina protiv malih boginja, zauški i crvenke (živi atenuisani virusi morbila, parotitisa i rubele)",
       "inn_eng": [
-        "live attenuated",
-        "combinations with mumps",
         "measles",
-        "rubella"
+        "live attenuated",
+        "rubella",
+        "combinations with mumps"
       ],
       "sifraProizvoda": "490219",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=490219",
@@ -73867,10 +73855,10 @@
       "atc": "J07AJ51",
       "inn": "vakcina protiv pertusisa, difterije i tetanusa, adsorbovana",
       "inn_eng": [
-        "combinations with toxoids",
         "pertussis",
+        "whole cell",
         "inactivated",
-        "whole cell"
+        "combinations with toxoids"
       ],
       "sifraProizvoda": "435245",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=435245",
@@ -73886,10 +73874,10 @@
       "atc": "J07BF03",
       "inn": "vakcina protiv poliomijelitisa, inaktivisana",
       "inn_eng": [
+        "inactivated",
         "trivalent",
-        "poliomyelitis",
         "whole virus",
-        "inactivated"
+        "poliomyelitis"
       ],
       "sifraProizvoda": "422122",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=422122",
@@ -73922,8 +73910,8 @@
       "atc": "J07BK01",
       "inn": "vakcina protiv varičele (živa)",
       "inn_eng": [
-        "live attenuated",
-        "varicella"
+        "varicella",
+        "live attenuated"
       ],
       "sifraProizvoda": "496262",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=496262",
@@ -73939,8 +73927,8 @@
       "atc": "J07BK01",
       "inn": "vakcina protiv varičele, živa",
       "inn_eng": [
-        "live attenuated",
-        "varicella"
+        "varicella",
+        "live attenuated"
       ],
       "sifraProizvoda": "492950",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=492950",
@@ -74984,8 +74972,8 @@
       "atc": "R03AK10",
       "inn": "vilanterol, flutikazonfuroat",
       "inn_eng": [
-        "fluticasone furoate",
-        "vilanterol"
+        "vilanterol",
+        "fluticasone furoate"
       ],
       "sifraProizvoda": "415497",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=415497",
@@ -74999,8 +74987,8 @@
       "atc": "R03AK10",
       "inn": "vilanterol, flutikazonfuroat",
       "inn_eng": [
-        "fluticasone furoate",
-        "vilanterol"
+        "vilanterol",
+        "fluticasone furoate"
       ],
       "sifraProizvoda": "415495",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=415495",
@@ -75016,8 +75004,8 @@
       "atc": "R03AL03",
       "inn": "vilanterol, umeklidinijum-bromid",
       "inn_eng": [
-        "umeclidinium bromide",
-        "vilanterol"
+        "vilanterol",
+        "umeclidinium bromide"
       ],
       "sifraProizvoda": "424976",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=424976",
@@ -75822,8 +75810,8 @@
       "inn": "četvorovalentna vakcina protiv gripa (fragmentisani virus, inaktivisana)",
       "inn_eng": [
         "influenza",
-        "inactivated",
-        "split virus or surface antigen"
+        "split virus or surface antigen",
+        "inactivated"
       ],
       "sifraProizvoda": "493475",
       "smpc": "https://www.alims.gov.rs/humani-lekovi/pretrazivanje-humanih-lekova/?id=493475",
